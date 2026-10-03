@@ -41,7 +41,7 @@ export function Garage({ go }: { go: (r: Route) => void }) {
                     <button type="button" onClick={() => setOpen(v)} className="card group block w-full overflow-hidden text-left transition-colors hover:border-accent/60">
                       <img src={photo.imageSmall} alt="" loading="lazy" className="aspect-[3/2] w-full object-cover" />
                       <div className="p-3">
-                        <div className="truncate font-semibold">
+                        <div className="font-semibold leading-snug">
                           {v.make} {v.model}
                         </div>
                         <div className="flex items-center justify-between text-xs text-muted">

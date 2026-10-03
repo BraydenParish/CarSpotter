@@ -281,34 +281,34 @@ export function Play({
 
       {/* Photo */}
       {q && (
-        <figure className="relative mt-1 overflow-hidden rounded-3xl border border-line bg-black">
-          <div className="grid max-h-[46dvh] min-h-[200px] place-items-center sm:max-h-[56dvh]" style={{ aspectRatio: `${q.photo.width} / ${q.photo.height}` }}>
-            <img
-              key={q.photo.id}
-              ref={(el) => {
-                if (el && el.complete && el.naturalWidth > 0) queueMicrotask(onImageLoad);
-              }}
-              src={q.photo.image}
-              alt={revealed && last ? `${formatYearRange(q.photo.modelYear.from, q.photo.modelYear.to)} ${q.vehicle.make} ${q.vehicle.model}` : q.photo.kind === 'detail' ? 'Close-up detail of a car to identify' : 'A car to identify'}
-              onLoad={onImageLoad}
-              onError={onImageError}
-              decoding="async"
-              className={`h-full w-full object-contain transition-opacity duration-200 ${s.phase === 'loading' ? 'opacity-0' : 'opacity-100'}`}
-            />
-            {s.phase === 'loading' && (
-              <div className="absolute inset-0 grid place-items-center bg-surface" role="status">
-                <div className="flex flex-col items-center gap-3 text-muted">
-                  <div className="h-9 w-9 animate-spin rounded-full border-4 border-line border-t-accent motion-reduce:animate-none" />
-                  <span>Loading photo…</span>
-                  {slow && (
-                    <button type="button" className="btn btn-ghost" onClick={onImageError}>
-                      Taking long — try another photo
-                    </button>
-                  )}
-                </div>
+        <figure className="relative mt-1 flex min-h-[200px] items-center justify-center overflow-hidden rounded-3xl border border-line bg-black">
+          <img
+            key={q.photo.id}
+            ref={(el) => {
+              if (el && el.complete && el.naturalWidth > 0) queueMicrotask(onImageLoad);
+            }}
+            src={q.photo.image}
+            width={q.photo.width}
+            height={q.photo.height}
+            alt={revealed && last ? `${formatYearRange(q.photo.modelYear.from, q.photo.modelYear.to)} ${q.vehicle.make} ${q.vehicle.model}` : q.photo.kind === 'detail' ? 'Close-up detail of a car to identify' : 'A car to identify'}
+            onLoad={onImageLoad}
+            onError={onImageError}
+            decoding="async"
+            className={`block h-auto max-h-[44dvh] w-auto max-w-full object-contain transition-opacity duration-200 sm:max-h-[50dvh] ${s.phase === 'loading' ? 'opacity-0' : 'opacity-100'}`}
+          />
+          {s.phase === 'loading' && (
+            <div className="absolute inset-0 grid place-items-center bg-surface" role="status">
+              <div className="flex flex-col items-center gap-3 text-muted">
+                <div className="h-9 w-9 animate-spin rounded-full border-4 border-line border-t-accent motion-reduce:animate-none" />
+                <span>Loading photo…</span>
+                {slow && (
+                  <button type="button" className="btn btn-ghost" onClick={onImageError}>
+                    Taking long — try another photo
+                  </button>
+                )}
               </div>
-            )}
-          </div>
+            </div>
+          )}
           <button
             type="button"
             onClick={() => setExpanded(true)}
@@ -419,14 +419,16 @@ function Choices({
   disabled,
   onPick,
   result,
+  compact,
 }: {
   choices: Choice[];
   disabled: boolean;
   onPick: (key: string) => void;
   result?: { picked: string | null };
+  compact?: boolean;
 }) {
   return (
-    <div className="grid gap-2.5 sm:grid-cols-2" role="group" aria-label="Answer choices">
+    <div className={`grid gap-2.5 ${compact ? '' : 'sm:grid-cols-2'}`} role="group" aria-label={compact ? 'Your answer and the correct answer' : 'Answer choices'}>
       {choices.map((c, i) => {
         const showCorrect = !!result && c.correct;
         const showWrong = !!result && result.picked === c.key && !c.correct;
@@ -436,8 +438,8 @@ function Choices({
             type="button"
             disabled={disabled}
             onClick={() => onPick(c.key)}
-            aria-label={`${i + 1}. ${c.label}${showCorrect ? ' (correct answer)' : showWrong ? ' (your answer, incorrect)' : ''}`}
-            className={`btn !min-h-16 !justify-start gap-3 !rounded-2xl border px-4 text-left text-base disabled:!opacity-100 ${
+            aria-label={`${compact ? '' : `${i + 1}. `}${c.label}${showCorrect ? ' (correct answer)' : showWrong ? ' (your answer, incorrect)' : ''}`}
+            className={`btn ${compact ? '!min-h-12' : '!min-h-16'} !justify-start gap-3 !rounded-2xl border px-4 text-left text-base disabled:!opacity-100 ${
               showCorrect
                 ? 'anim-glow border-good bg-good/15 text-text'
                 : showWrong
@@ -544,7 +546,15 @@ function Reveal({ s, last, autoMs, onNext, onChoice }: { s: RunState; last: Roun
 
   return (
     <section className="anim-rise mt-3 flex flex-1 flex-col gap-3" aria-label="Answer reveal" aria-live="polite">
-      {onChoice && <Choices choices={onChoice} disabled onPick={() => {}} result={{ picked }} />}
+      {onChoice && (
+        <Choices
+          choices={onChoice.filter((c) => c.correct || c.key === picked)}
+          disabled
+          onPick={() => {}}
+          result={{ picked }}
+          compact
+        />
+      )}
 
       <div className="card p-4 sm:p-5">
         <div className="flex flex-wrap items-baseline justify-between gap-2">
@@ -577,6 +587,7 @@ function Reveal({ s, last, autoMs, onNext, onChoice }: { s: RunState; last: Roun
                 <div className="truncate text-muted">{f.input.trim() ? `You: ${f.input}` : 'You: —'}</div>
                 {!f.correct && <div className="truncate text-soft">Answer: {f.expected}</div>}
                 {f.correct && f.kind === 'alias' && <div className="text-xs text-muted">Accepted as “{f.expected}”</div>}
+                {f.correct && name === 'year' && f.expected.includes('–') && <div className="text-xs text-muted">Any year in {f.expected} counts: the photo can’t tell them apart</div>}
                 {f.note && <div className="text-xs text-muted">{f.note}</div>}
               </li>
             ))}

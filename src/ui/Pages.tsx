@@ -302,7 +302,7 @@ export function IntroModal({ open, onDone }: { open: boolean; onDone: () => void
           <button type="button" className="btn btn-ghost" onClick={onDone}>
             Skip intro
           </button>
-          <button type="button" className="btn btn-primary" onClick={() => (i < INTRO.length - 1 ? setI(i + 1) : onDone())} autoFocus>
+          <button type="button" className="btn btn-primary" onClick={() => (i < INTRO.length - 1 ? setI(i + 1) : onDone())} data-autofocus>
             {i < INTRO.length - 1 ? 'Next' : 'Let’s play'}
           </button>
         </div>

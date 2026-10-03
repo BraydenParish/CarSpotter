@@ -125,7 +125,7 @@
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    min-height: 40px;
+    min-height: 44px;
     padding: 0 0.9rem;
     border-radius: 999px;
     border: 1px solid var(--color-line);
