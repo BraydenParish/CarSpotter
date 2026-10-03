@@ -63,15 +63,12 @@ export interface Vehicle {
   referenceUrl: string;
 }
 
-export type Setting = 'street' | 'studio' | 'other';
-export type Angle =
-  | 'front'
-  | 'front-quarter'
-  | 'side'
-  | 'rear-quarter'
-  | 'rear'
-  | 'detail';
-export type DetailPart = 'headlight' | 'taillight' | 'interior' | 'wheel' | 'grille' | 'bodywork';
+export const SETTINGS = ['street', 'studio', 'other'] as const;
+export type Setting = (typeof SETTINGS)[number];
+export const ANGLES = ['front', 'front-quarter', 'side', 'rear-quarter', 'rear', 'detail'] as const;
+export type Angle = (typeof ANGLES)[number];
+export const DETAIL_PARTS = ['headlight', 'taillight', 'interior', 'wheel', 'grille', 'bodywork'] as const;
+export type DetailPart = (typeof DETAIL_PARTS)[number];
 export type ReviewStatus = 'approved' | 'pending' | 'rejected';
 
 export interface YearEvidence {

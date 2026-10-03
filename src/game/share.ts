@@ -29,3 +29,20 @@ export function shareText(run: RunState, url?: string): string {
   if (url) lines.push(url);
   return lines.join('\n');
 }
+
+/** Spoiler-free text for a stored daily result (used from the home screen). */
+export function shareMarks(
+  dateKey: string,
+  difficulty: 'normal' | 'hard' | 'expert',
+  rec: { score: number; correct: number; rounds: number; marks: string },
+  url?: string,
+): string {
+  const map: Record<string, string> = { C: '🟩', P: '🟨', W: '🟥', S: '⬛' };
+  const lines = [
+    `CarSpotter Daily ${dateKey} · ${DIFF[difficulty]}`,
+    [...rec.marks].map((m) => map[m] ?? '⬛').join(''),
+    `${rec.correct}/${rec.rounds} · ${rec.score.toLocaleString('en-US')} pts`,
+  ];
+  if (url) lines.push(url);
+  return lines.join('\n');
+}

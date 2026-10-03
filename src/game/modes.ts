@@ -120,7 +120,8 @@ export const MODES: Record<ModeId, ModeInfo> = {
     rules: [
       'Five cars, the same for every player on the same day.',
       'Resets at 00:00 UTC.',
-      'One scored attempt per day; share your result without spoilers.',
+      'One scored attempt per difficulty per day. Leaving early still counts as your attempt.',
+      'Share your result without spoilers.',
     ],
     rounds: DAILY_ROUNDS,
     timed: false,
