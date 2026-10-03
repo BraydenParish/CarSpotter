@@ -1,0 +1,305 @@
+import { describe, expect, it } from 'vitest';
+import { createContext, VEHICLES } from '../data/dataset';
+import { fixturePhotos } from '../dev/fixtures';
+import { checkAchievements } from './achievements';
+import {
+  createRun,
+  next,
+  photoFailed,
+  photoLoaded,
+  remainingMs,
+  skip,
+  submitChoice,
+  submitTyped,
+  summarize,
+  tick,
+  useHint,
+  type RunState,
+} from './engine';
+import { DEFAULT_FILTERS, type RunConfig } from './modes';
+import { applyRound, applyRunEnd, newProfile, practiceList } from './progress';
+import { mulberry32 } from './rng';
+import { shareText } from './share';
+
+const ctx = createContext(VEHICLES, fixturePhotos(VEHICLES));
+const rng = mulberry32(42);
+const cfg = (over: Partial<RunConfig> = {}): RunConfig => ({
+  mode: 'session',
+  difficulty: 'normal',
+  filters: DEFAULT_FILTERS,
+  hintsEnabled: true,
+  ...over,
+});
+
+function start(over: Partial<RunConfig> = {}, practiceVehicles?: string[]): RunState {
+  const r = createRun(ctx, cfg(over), { now: 0, rng, practiceVehicles });
+  if (!r.ok) throw new Error(r.reason);
+  return r.state;
+}
+
+const correctKey = (s: RunState) => s.question!.choices!.find((c) => c.correct)!.key;
+const wrongKey = (s: RunState) => s.question!.choices!.find((c) => !c.correct)!.key;
+const answerTyped = (s: RunState) => ({ make: s.question!.vehicle.make, model: s.question!.vehicle.model });
+
+describe('run engine', () => {
+  it('plays a 10-round session with no repeated cars', () => {
+    let s = start();
+    expect(s.totalRounds).toBe(10);
+    const vehicles: string[] = [];
+    let t = 0;
+    while (s.phase !== 'finished') {
+      s = photoLoaded(s, (t += 100));
+      vehicles.push(s.question!.vehicle.id);
+      s = submitChoice(s, correctKey(s), (t += 1000));
+      expect(s.phase).toBe('reveal');
+      s = next(ctx, s, rng);
+    }
+    expect(vehicles).toHaveLength(10);
+    expect(new Set(vehicles).size).toBe(10);
+    expect(s.endReason).toBe('complete');
+    const sum = summarize(s);
+    expect(sum.correct).toBe(10);
+    expect(sum.perfect).toBe(true);
+    expect(sum.bestStreak).toBe(10);
+  });
+
+  it('pre-draws a different car for preloading', () => {
+    const s = start();
+    expect(s.upcoming).not.toBeNull();
+    expect(s.upcoming!.vehicle.id).not.toBe(s.question!.vehicle.id);
+  });
+
+  it('ignores double submissions and answers before the photo loads', () => {
+    let s = start();
+    expect(submitChoice(s, correctKey(s), 10)).toBe(s); // still loading
+    s = photoLoaded(s, 0);
+    const key = correctKey(s);
+    s = submitChoice(s, key, 500);
+    const again = submitChoice(s, key, 600);
+    expect(again).toBe(s);
+    expect(skip(s, 700)).toBe(s);
+    expect(s.results).toHaveLength(1);
+  });
+
+  it('skipping reveals the answer, scores zero and ends the streak', () => {
+    let s = photoLoaded(start(), 0);
+    s = submitChoice(s, correctKey(s), 100);
+    s = photoLoaded(next(ctx, s, rng), 200);
+    s = skip(s, 300);
+    expect(s.results[1]).toMatchObject({ outcome: 'skipped', points: 0, streakAfter: 0 });
+    expect(s.streak).toBe(0);
+    expect(s.bestStreak).toBe(1);
+  });
+
+  it('replaces a failed photo without scoring it', () => {
+    let s = start();
+    const failed = s.question!.photo.id;
+    s = photoFailed(ctx, s, rng, 0);
+    expect(s.results).toHaveLength(0);
+    expect(s.question!.n).toBe(1);
+    expect(s.question!.photo.id).not.toBe(failed);
+    expect(s.failedPhotos).toContain(failed);
+    expect(s.phase).toBe('loading');
+  });
+
+  it('ends gracefully when every photo fails', () => {
+    let s = start({ filters: { setting: 'studio', categories: [] } });
+    for (let i = 0; i < 20 && s.phase !== 'finished'; i++) s = photoFailed(ctx, s, rng, 0);
+    expect(s.phase).toBe('finished');
+    expect(s.endReason).toBe('exhausted');
+    expect(s.results).toHaveLength(0);
+  });
+
+  it('shortens sessions for small filtered pools', () => {
+    const s = start({ filters: { setting: 'studio', categories: [] } });
+    const studioCars = new Set(ctx.ds.photos.filter((p) => p.setting === 'studio').map((p) => p.vehicleId)).size;
+    expect(s.totalRounds).toBe(studioCars);
+    expect(studioCars).toBeLessThan(10);
+  });
+
+  it('reports an empty pool instead of starting', () => {
+    const tiny = createContext(VEHICLES, fixturePhotos(VEHICLES).filter((p) => p.vehicleId === 'vw-beetle'));
+    const r = createRun(tiny, cfg({ difficulty: 'expert' }), { now: 0, rng });
+    expect(r).toEqual({ ok: false, reason: 'empty-pool' });
+    expect(createRun(ctx, cfg({ mode: 'practice' }), { now: 0, rng, practiceVehicles: [] })).toEqual({ ok: false, reason: 'no-practice' });
+  });
+
+  it('hints lower the score and mark the run as assisted', () => {
+    let s = photoLoaded(start(), 0);
+    s = useHint(useHint(s));
+    expect(s.hintsUsed).toBe(2);
+    s = submitChoice(s, correctKey(s), 100);
+    expect(s.results[0].points).toBe(50);
+    expect(s.assisted).toBe(true);
+    let off = photoLoaded(start({ hintsEnabled: false }), 0);
+    off = useHint(off);
+    expect(off.hintsUsed).toBe(0);
+  });
+
+  it('checks typed answers on Hard with partial credit', () => {
+    let s = photoLoaded(start({ difficulty: 'hard' }), 0);
+    s = submitTyped(ctx, s, { make: s.question!.vehicle.make, model: 'Definitely Not' }, 100);
+    expect(s.results[0].outcome).toBe('partial');
+    expect(s.results[0].points).toBe(80);
+    expect(s.streak).toBe(0);
+    s = photoLoaded(next(ctx, s, rng), 200);
+    s = submitTyped(ctx, s, answerTyped(s), 300);
+    expect(s.results[1].outcome).toBe('correct');
+  });
+
+  it('Expert runs only use eligible photos and ask a specific field', () => {
+    let s = start({ difficulty: 'expert', mode: 'classic' });
+    for (let i = 0; i < 15; i++) {
+      expect(s.question!.expertField).not.toBeNull();
+      s = photoLoaded(s, 0);
+      s = skip(s, 1);
+      s = next(ctx, s, rng);
+    }
+  });
+
+  it('Survival ends when lives run out and restores a life every 5 in a row', () => {
+    let s = start({ mode: 'survival', difficulty: 'normal' });
+    expect(s.lives).toBe(3);
+    s = photoLoaded(s, 0);
+    s = submitChoice(s, wrongKey(s), 1);
+    expect(s.lives).toBe(2);
+    for (let i = 0; i < 5; i++) {
+      s = photoLoaded(next(ctx, s, rng), 0);
+      s = submitChoice(s, correctKey(s), 1);
+    }
+    expect(s.lives).toBe(3);
+    expect(s.results.at(-1)!.lifeDelta).toBe(1);
+    for (let i = 0; i < 3; i++) {
+      s = photoLoaded(next(ctx, s, rng), 0);
+      s = skip(s, 1);
+    }
+    expect(s.lives).toBe(0);
+    s = next(ctx, s, rng);
+    expect(s.phase).toBe('finished');
+    expect(s.endReason).toBe('lives');
+  });
+
+  it('Time Attack runs a clock that pauses while loading and during the reveal', () => {
+    let s = start({ mode: 'timeattack' });
+    expect(remainingMs(s, 5000)).toBe(60_000); // loading: paused
+    s = photoLoaded(s, 1000);
+    expect(remainingMs(s, 3000)).toBe(58_000);
+    s = submitChoice(s, correctKey(s), 3000);
+    expect(remainingMs(s, 99_999)).toBe(61_000); // +3 s, paused in reveal
+    expect(s.results[0].breakdown!.speedBonus).toBe(0.5);
+    s = photoLoaded(next(ctx, s, rng), 10_000);
+    s = tick(s, 10_000 + 61_000);
+    expect(s.phase).toBe('finished');
+    expect(s.endReason).toBe('time');
+  });
+
+  it('Daily challenge plays the same five cars for a date', () => {
+    const play = () => {
+      let s = start({ mode: 'daily', dailyKey: '2026-10-03' });
+      const ids: string[] = [];
+      while (s.phase !== 'finished') {
+        s = photoLoaded(s, 0);
+        ids.push(s.question!.photo.id);
+        s = next(ctx, skip(s, 1), mulberry32(Math.random() * 1e9));
+      }
+      return ids;
+    };
+    const a = play();
+    expect(a).toHaveLength(5);
+    expect(play()).toEqual(a);
+  });
+
+  it('Practice uses only the listed cars', () => {
+    const list = ['mazda-mx5-na', 'ferrari-f40'];
+    const s = start({ mode: 'practice' }, list);
+    expect(s.totalRounds).toBe(2);
+    expect(s.pool.every((p) => list.includes(p.vehicleId))).toBe(true);
+  });
+});
+
+describe('progress, garage and practice list', () => {
+  it('adds correct answers to the garage and misses to the practice list', () => {
+    let p = newProfile();
+    let s = photoLoaded(start(), 0);
+    s = submitChoice(s, correctKey(s), 100);
+    p = applyRound(p, ctx, s, s.results[0]);
+    const first = s.results[0].vehicleId;
+    expect(p.garage[first].count).toBe(1);
+    expect(p.xp).toBe(100);
+    s = photoLoaded(next(ctx, s, rng), 0);
+    s = submitChoice(s, wrongKey(s), 100);
+    p = applyRound(p, ctx, s, s.results[1]);
+    expect(practiceList(p, ctx)).toEqual([s.results[1].vehicleId]);
+    expect(p.stats.byDifficulty.normal).toMatchObject({ answered: 2, correct: 1 });
+  });
+
+  it('clears a car from practice after two correct practice answers, without touching main stats', () => {
+    let p = newProfile();
+    p.mistakes = { 'mazda-mx5-na': { misses: 1, lastAt: '2026-01-01', practiceCorrect: 0 } };
+    for (let i = 0; i < 2; i++) {
+      let s = photoLoaded(start({ mode: 'practice' }, ['mazda-mx5-na']), 0);
+      s = submitChoice(s, correctKey(s), 10);
+      p = applyRound(p, ctx, s, s.results[0]);
+    }
+    expect(p.mistakes['mazda-mx5-na']).toBeUndefined();
+    expect(p.stats.practiceCleared).toBe(1);
+    expect(p.stats.byDifficulty.normal.answered).toBe(0);
+    expect(p.xp).toBe(0);
+  });
+
+  it('records personal bests separately and flags new bests', () => {
+    let p = newProfile();
+    let s = photoLoaded(start(), 0);
+    s = submitChoice(s, correctKey(s), 10);
+    s = { ...s, phase: 'finished', endReason: 'complete' };
+    const out = applyRunEnd(p, s);
+    expect(out.newBest).toBe(true);
+    p = out.profile;
+    expect(Object.keys(p.bests)).toEqual(['session|normal|clean']);
+    const again = applyRunEnd(p, s);
+    expect(again.newBest).toBe(false);
+    const quitRun = applyRunEnd(newProfile(), { ...s, endReason: 'quit' });
+    expect(quitRun.key).toBeNull();
+  });
+
+  it('records one scored daily attempt and a daily streak', () => {
+    let p = newProfile();
+    const finish = (key: string) => {
+      let s = photoLoaded(start({ mode: 'daily', dailyKey: key }), 0);
+      s = submitChoice(s, correctKey(s), 10);
+      return { ...s, phase: 'finished' as const, endReason: 'complete' as const };
+    };
+    p = applyRunEnd(p, finish('2026-10-01')).profile;
+    p = applyRunEnd(p, finish('2026-10-02')).profile;
+    const before = p.daily['2026-10-02|normal'];
+    p = applyRunEnd(p, finish('2026-10-02')).profile;
+    expect(p.daily['2026-10-02|normal']).toBe(before);
+    expect(p.dailyStreak).toMatchObject({ current: 2, best: 2, lastDate: '2026-10-02' });
+  });
+
+  it('unlocks achievements once', () => {
+    let p = newProfile();
+    let s = photoLoaded(start(), 0);
+    s = submitChoice(s, correctKey(s), 10);
+    p = applyRound(p, ctx, s, s.results[0]);
+    const a = checkAchievements(p, ctx, s);
+    expect(a.unlocked.map((x) => x.id)).toContain('first-spot');
+    expect(checkAchievements(a.profile, ctx, s).unlocked).toEqual([]);
+  });
+});
+
+describe('sharing', () => {
+  it('produces spoiler-free text', () => {
+    let s = start({ mode: 'daily', dailyKey: '2026-10-03' });
+    const names: string[] = [];
+    while (s.phase !== 'finished') {
+      s = photoLoaded(s, 0);
+      names.push(s.question!.vehicle.make, s.question!.vehicle.model);
+      s = next(ctx, submitChoice(s, correctKey(s), 1), rng);
+    }
+    const text = shareText(s, 'https://example.test/');
+    expect(text).toContain('CarSpotter Daily 2026-10-03');
+    expect(text).toContain('🟩🟩🟩🟩🟩');
+    for (const n of names) expect(text.toLowerCase()).not.toContain(` ${n.toLowerCase()} `);
+  });
+});

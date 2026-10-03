@@ -1,0 +1,4 @@
+{
+  "$comment": "Reviewed photo candidates. Add entries only after visually confirming the car (see README > Adding verified photos). `npm run import-photos` fetches licensing via the MediaWiki imageinfo API, downloads and optimizes the image, and writes src/data/photos.json.",
+  "candidates": []
+}
