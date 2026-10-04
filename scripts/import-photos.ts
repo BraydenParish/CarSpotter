@@ -75,7 +75,7 @@ if (!todo.length) {
   process.exit(0);
 }
 
-const infos = await imageInfo(todo.map((c) => c.file), 2000);
+const infos = await imageInfo(todo.map((c) => c.file), 1920);
 const infoByTitle = new Map(infos.map((i) => [i.title.replace(/_/g, ' '), i]));
 let imported = 0;
 let rejected = 0;
@@ -117,8 +117,8 @@ for (const c of todo) {
   if (allowed) {
     if (force || !existsSync(join(root, 'public', image))) {
       try {
-        // A 2000 px rendition is plenty for the 1600 px output and far lighter than multi-megabyte originals.
-        original = await download(info.thumbUrl && info.width > 2000 ? info.thumbUrl : info.url);
+        // A 1920 px rendition (a standard CDN-cached size) is plenty for the 1600 px output and far lighter than multi-megabyte originals.
+        original = await download(info.thumbUrl && info.width > 1920 ? info.thumbUrl : info.url);
       } catch (e) {
         console.error(`${tag} download failed (${(e as Error).message.slice(0, 60)}) — skipped, re-run to retry`);
         failed++;

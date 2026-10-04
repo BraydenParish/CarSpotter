@@ -1,5 +1,95 @@
 [
   {
+    "id": "citroen-2cv-01",
+    "vehicleId": "citroen-2cv",
+    "kind": "full",
+    "image": "photos/citroen-2cv-01.webp",
+    "imageSmall": "photos/citroen-2cv-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1948,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1948–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroën_2CV6_Spécial_S6_1990.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_2CV_6_Spécial",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+    ],
+    "source": {
+      "title": "File:Citroën 2CV6 Spécial S6 1990.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2CV6_Sp%C3%A9cial_S6_1990.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Citro%C3%ABn_2CV6_Sp%C3%A9cial_S6_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Oliver Wagemann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Citroën 2CV6 Spécial S6 1990.jpg” by Oliver Wagemann, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red 2CV on grass."
+    }
+  },
+  {
+    "id": "citroen-2cv-02",
+    "vehicleId": "citroen-2cv",
+    "kind": "full",
+    "image": "photos/citroen-2cv-02.webp",
+    "imageSmall": "photos/citroen-2cv-02-sm.webp",
+    "width": 1600,
+    "height": 1066,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1948,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1948–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroën_2_CV_6_Club,_Front_(2007-05-20).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_2CV_6_Club_(1979_-_1987)",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+    ],
+    "source": {
+      "title": "File:Citroën 2 CV 6 Club, Front (2007-05-20).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2_CV_6_Club,_Front_(2007-05-20).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Citro%C3%ABn_2_CV_6_Club%2C_Front_%282007-05-20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Lothar Spurzem",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "credit": "“Citroën 2 CV 6 Club, Front (2007-05-20).jpg” by Lothar Spurzem, CC BY-SA 2.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red 2CV 6 Club."
+    }
+  },
+  {
     "id": "citroen-2cv-03",
     "vehicleId": "citroen-2cv",
     "kind": "full",
@@ -90,6 +180,96 @@
     }
   },
   {
+    "id": "citroen-ds-02",
+    "vehicleId": "citroen-ds",
+    "kind": "full",
+    "image": "photos/citroen-ds-02.webp",
+    "imageSmall": "photos/citroen-ds-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1975,
+      "basis": "Faired-in swivelling headlamps behind a glass cover, fitted from the 1968 model year; earlier DS cars have four exposed round headlamps."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1974_Citroen_DS_(16276427647).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1974_Citroën_automobiles",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    ],
+    "source": {
+      "title": "File:1974 Citroen DS (16276427647).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1974_Citroen_DS_(16276427647).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1974_Citroen_DS_%2816276427647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Riley from Christchurch, New Zealand",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1974 Citroen DS (16276427647).jpg” by Riley from Christchurch, New Zealand, CC BY 2.0, via Wikimedia Commons (1974 Citroen DS)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: parked on a street in Dunedin."
+    }
+  },
+  {
+    "id": "citroen-ds-03",
+    "vehicleId": "citroen-ds",
+    "kind": "full",
+    "image": "photos/citroen-ds-03.webp",
+    "imageSmall": "photos/citroen-ds-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1975,
+      "basis": "Faired-in swivelling headlamps behind a glass cover, fitted from the 1968 model year; earlier DS cars have four exposed round headlamps."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1974_Citroen_DS_(7764241268).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1974_Citroën_automobiles",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    ],
+    "source": {
+      "title": "File:1974 Citroen DS (7764241268).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1974_Citroen_DS_(7764241268).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/1974_Citroen_DS_%287764241268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Riley from Christchurch, New Zealand",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1974 Citroen DS (7764241268).jpg” by Riley from Christchurch, New Zealand, CC BY 2.0, via Wikimedia Commons (1974 Citroen DS)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: parked on a street in Christchurch."
+    }
+  },
+  {
     "id": "datsun-240z-01",
     "vehicleId": "datsun-240z",
     "kind": "full",
@@ -132,6 +312,96 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: S30 Z coupe at a car show; category Datsun 240Z."
+    }
+  },
+  {
+    "id": "dodge-challenger-1g-01",
+    "vehicleId": "dodge-challenger-1g",
+    "kind": "full",
+    "image": "photos/dodge-challenger-1g-01.webp",
+    "imageSmall": "photos/dodge-challenger-1g-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_(3017918370).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:1970 Dodge Challenger (3017918370).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_(3017918370).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/1970_Dodge_Challenger_%283017918370%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Dodge Challenger (3017918370).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1970 Dodge Challenger)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: weathered Challenger parked on a city street; no model script legible at this size."
+    }
+  },
+  {
+    "id": "dodge-challenger-1g-02",
+    "vehicleId": "dodge-challenger-1g",
+    "kind": "full",
+    "image": "photos/dodge-challenger-1g-02.webp",
+    "imageSmall": "photos/dodge-challenger-1g-02-sm.webp",
+    "width": 1600,
+    "height": 1221,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Dodge_Challenger_R-T_(Les_chauds_vendredis_'12).JPG",
+      "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:'70 Dodge Challenger R-T (Les chauds vendredis '12).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Dodge_Challenger_R-T_(Les_chauds_vendredis_%2712).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%2770_Dodge_Challenger_R-T_%28Les_chauds_vendredis_%2712%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Dodge Challenger R-T (Les chauds vendredis '12).JPG” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: Challenger with hood raised at a cruise night."
     }
   },
   {
@@ -180,6 +450,96 @@
     }
   },
   {
+    "id": "ferrari-f40-02",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-02.webp",
+    "imageSmall": "photos/ferrari-f40-02-sm.webp",
+    "width": 1600,
+    "height": 1052,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1992,
+      "basis": "No feature visible in the photo separates years within the 1987–1992 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_HCC23.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1989 Ferrari F40 HCC23.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_HCC23.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1989_Ferrari_F40_HCC23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Ferrari F40 HCC23.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue repaint, F40 body; plate not visible."
+    }
+  },
+  {
+    "id": "ford-f150-13g-01",
+    "vehicleId": "ford-f150-13g",
+    "kind": "full",
+    "image": "photos/ford-f150-13g-01.webp",
+    "imageSmall": "photos/ford-f150-13g-01-sm.webp",
+    "width": 1600,
+    "height": 1201,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2017,
+      "basis": "Pre-2018 front end of the thirteenth-generation F-150 (original-style headlamps and grille); the 2018 refresh changed both."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'17_Ford_F-150_Crew_Cab.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
+      "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+    ],
+    "source": {
+      "title": "File:'17 Ford F-150 Crew Cab.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2717_Ford_F-150_Crew_Cab.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%2717_Ford_F-150_Crew_Cab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'17 Ford F-150 Crew Cab.jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black F-150 SuperCrew in a lot."
+    }
+  },
+  {
     "id": "ford-mustang-1g-01",
     "vehicleId": "ford-mustang-1g",
     "kind": "full",
@@ -222,6 +582,186 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: parked on a suburban street."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-02",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-02.webp",
+    "imageSmall": "photos/ford-mustang-1g-02-sm.webp",
+    "width": 1600,
+    "height": 988,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1966,
+      "basis": "Early small-body front end (pre-1967 restyle: flat grille opening with floating pony corral); 1964½–1966 cars cannot be told apart from this angle."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'66_Ford_Mustang_Convertible_(A&W_St._Leonard).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1966_Ford_Mustang_convertible",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:'66 Ford Mustang Convertible (A&W St. Leonard).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2766_Ford_Mustang_Convertible_(A%26W_St._Leonard).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%2766_Ford_Mustang_Convertible_%28A%26W_St._Leonard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'66 Ford Mustang Convertible (A&W St. Leonard).jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: convertible at a diner meet."
+    }
+  },
+  {
+    "id": "honda-nsx-na-01",
+    "vehicleId": "honda-nsx-na",
+    "kind": "full",
+    "image": "photos/honda-nsx-na-01.webp",
+    "imageSmall": "photos/honda-nsx-na-01-sm.webp",
+    "width": 1600,
+    "height": 1118,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1990,
+      "to": 2001,
+      "basis": "Smooth nose with the pop-up headlamps retracted: the NSX kept pop-ups until the 2002 facelift replaced them with fixed headlamps, so this is a 1990–2001 car."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Dieppe,_France_(3496689612).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Honda_NSX_(1st_generation)",
+      "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+    ],
+    "source": {
+      "title": "File:Dieppe, France (3496689612).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dieppe,_France_(3496689612).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dieppe%2C_France_%283496689612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mic from Reading - Berkshire, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Dieppe, France (3496689612).jpg” by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, via Wikimedia Commons (Dieppe, France)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black NSX at a seaside meet; plate carries no model name."
+    }
+  },
+  {
+    "id": "jeep-wrangler-jk-01",
+    "vehicleId": "jeep-wrangler-jk",
+    "kind": "full",
+    "image": "photos/jeep-wrangler-jk-01.webp",
+    "imageSmall": "photos/jeep-wrangler-jk-01-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2007,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK_MY13)_Overland_3-door_hardtop_(2015-08-07).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Wrangler_(JK)",
+      "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+    ],
+    "source": {
+      "title": "File:2013 Jeep Wrangler (JK MY13) Overland 3-door hardtop (2015-08-07).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK_MY13)_Overland_3-door_hardtop_(2015-08-07).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/2013_Jeep_Wrangler_%28JK_MY13%29_Overland_3-door_hardtop_%282015-08-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2013 Jeep Wrangler (JK MY13) Overland 3-door hardtop (2015-08-07).jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: orange JK hardtop parked on a suburban street."
+    }
+  },
+  {
+    "id": "jeep-wrangler-jk-02",
+    "vehicleId": "jeep-wrangler-jk",
+    "kind": "full",
+    "image": "photos/jeep-wrangler-jk-02.webp",
+    "imageSmall": "photos/jeep-wrangler-jk-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2007,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK)_Overland_3-door_hardtop_(17401901935).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Wrangler_(JK)",
+      "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+    ],
+    "source": {
+      "title": "File:2013 Jeep Wrangler (JK) Overland 3-door hardtop (17401901935).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK)_Overland_3-door_hardtop_(17401901935).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/2013_Jeep_Wrangler_%28JK%29_Overland_3-door_hardtop_%2817401901935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2013 Jeep Wrangler (JK) Overland 3-door hardtop (17401901935).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (Jeep Wrangler JK)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: lime-green JK in a car park."
     }
   },
   {
@@ -315,6 +855,141 @@
     }
   },
   {
+    "id": "land-rover-defender-01",
+    "vehicleId": "land-rover-defender",
+    "kind": "full",
+    "image": "photos/land-rover-defender-01.webp",
+    "imageSmall": "photos/land-rover-defender-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1983,
+      "to": 2016,
+      "basis": "No feature visible in the photo separates years within the 1983–2016 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:15-365_Defender_(50838622467).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Defender_90_(L316)",
+      "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+    ],
+    "source": {
+      "title": "File:15-365 Defender (50838622467).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:15-365_Defender_(50838622467).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/15-365_Defender_%2850838622467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "JOHN DICKINSON from Chorley, Lancashire, United Kingdom",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“15-365 Defender (50838622467).jpg” by JOHN DICKINSON from Chorley, Lancashire, United Kingdom, Public domain, via Wikimedia Commons (15-365 Defender)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: grey Defender 90 on a residential road."
+    }
+  },
+  {
+    "id": "land-rover-defender-02",
+    "vehicleId": "land-rover-defender",
+    "kind": "full",
+    "image": "photos/land-rover-defender-02.webp",
+    "imageSmall": "photos/land-rover-defender-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1983,
+      "to": 2016,
+      "basis": "No feature visible in the photo separates years within the 1983–2016 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Armed_Forces_Day,_Birmingham_-_Red_Cross_Ambulance_-_Land_Rover.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Defender_(L316)",
+      "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+    ],
+    "source": {
+      "title": "File:Armed Forces Day, Birmingham - Red Cross Ambulance - Land Rover.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Armed_Forces_Day,_Birmingham_-_Red_Cross_Ambulance_-_Land_Rover.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Armed_Forces_Day%2C_Birmingham_-_Red_Cross_Ambulance_-_Land_Rover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elliott Brown",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Armed Forces Day, Birmingham - Red Cross Ambulance - Land Rover.jpg” by Elliott Brown, CC BY 2.0, via Wikimedia Commons (Flickr: Armed Forces Day, Birmingham - Red Cross Ambulance - Land Rover)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: ambulance conversion of a Defender 130 on a city square; the word AMBULANCE does not name the model."
+    }
+  },
+  {
+    "id": "land-rover-defender-03",
+    "vehicleId": "land-rover-defender",
+    "kind": "full",
+    "image": "photos/land-rover-defender-03.webp",
+    "imageSmall": "photos/land-rover-defender-03-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1983,
+      "to": 2016,
+      "basis": "No feature visible in the photo separates years within the 1983–2016 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:PAKBATT_Patrol_in_Central_Kasai_02.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Defender_(L316)",
+      "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+    ],
+    "source": {
+      "title": "File:PAKBATT Patrol in Central Kasai 02.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:PAKBATT_Patrol_in_Central_Kasai_02.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/PAKBATT_Patrol_in_Central_Kasai_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Fanny Schertzer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“PAKBATT Patrol in Central Kasai 02.jpg” by Fanny Schertzer, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: UN patrol Defender, front."
+    }
+  },
+  {
     "id": "mercedes-300sl-01",
     "vehicleId": "mercedes-300sl",
     "kind": "full",
@@ -402,6 +1077,96 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: gullwing doors raised."
+    }
+  },
+  {
+    "id": "mini-classic-01",
+    "vehicleId": "mini-classic",
+    "kind": "full",
+    "image": "photos/mini-classic-01.webp",
+    "imageSmall": "photos/mini-classic-01-sm.webp",
+    "width": 1600,
+    "height": 1088,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1959,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1959–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1974_Austin_Mini.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Austin_Mini",
+      "https://en.wikipedia.org/wiki/Mini"
+    ],
+    "source": {
+      "title": "File:1974 Austin Mini.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1974_Austin_Mini.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/1974_Austin_Mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1974 Austin Mini.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: classic Mini with arch extensions."
+    }
+  },
+  {
+    "id": "mini-classic-02",
+    "vehicleId": "mini-classic",
+    "kind": "full",
+    "image": "photos/mini-classic-02.webp",
+    "imageSmall": "photos/mini-classic-02-sm.webp",
+    "width": 1600,
+    "height": 1087,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1959,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1959–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Austin_Mini_Mayfair_Auto.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Austin_Mini",
+      "https://en.wikipedia.org/wiki/Mini"
+    ],
+    "source": {
+      "title": "File:1989 Austin Mini Mayfair Auto.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Austin_Mini_Mayfair_Auto.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1989_Austin_Mini_Mayfair_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Austin Mini Mayfair Auto.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-red classic Mini at a show."
     }
   },
   {
@@ -630,6 +1395,276 @@
     }
   },
   {
+    "id": "tesla-model-3-01",
+    "vehicleId": "tesla-model-3",
+    "kind": "full",
+    "image": "photos/tesla-model-3-01.webp",
+    "imageSmall": "photos/tesla-model-3-01-sm.webp",
+    "width": 1600,
+    "height": 944,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2021,
+      "basis": "Chrome window surrounds and original-style wheels: the Model 3 lost its chrome trim from late 2021, so a chrome-trimmed car is a 2017–2021 build."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Long_Range_AWD_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_3_(2017–2023)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_3"
+    ],
+    "source": {
+      "title": "File:2019 Tesla Model 3 Long Range AWD Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Long_Range_AWD_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/2019_Tesla_Model_3_Long_Range_AWD_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Tesla Model 3 Long Range AWD Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue Model 3 parked in a car park."
+    }
+  },
+  {
+    "id": "tesla-model-3-02",
+    "vehicleId": "tesla-model-3",
+    "kind": "full",
+    "image": "photos/tesla-model-3-02.webp",
+    "imageSmall": "photos/tesla-model-3-02-sm.webp",
+    "width": 1600,
+    "height": 732,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2021,
+      "basis": "Chrome window surrounds and original-style wheels: the Model 3 lost its chrome trim from late 2021, so a chrome-trimmed car is a 2017–2021 build."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Performance_AWD_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_3_(2017–2023)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_3"
+    ],
+    "source": {
+      "title": "File:2019 Tesla Model 3 Performance AWD Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Performance_AWD_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Tesla Model 3 Performance AWD Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white Model 3."
+    }
+  },
+  {
+    "id": "tesla-model-3-03",
+    "vehicleId": "tesla-model-3",
+    "kind": "full",
+    "image": "photos/tesla-model-3-03.webp",
+    "imageSmall": "photos/tesla-model-3-03-sm.webp",
+    "width": 1600,
+    "height": 863,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2021,
+      "basis": "Chrome window surrounds and original-style wheels: the Model 3 lost its chrome trim from late 2021, so a chrome-trimmed car is a 2017–2021 build."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Long_Range_Dual_Motor_in_Red_Multi-Coat,_front_left,_2021-05-30.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_3_(2017–2023)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_3"
+    ],
+    "source": {
+      "title": "File:2019 Tesla Model 3 Long Range Dual Motor in Red Multi-Coat, front left, 2021-05-30.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Long_Range_Dual_Motor_in_Red_Multi-Coat,_front_left,_2021-05-30.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/2019_Tesla_Model_3_Long_Range_Dual_Motor_in_Red_Multi-Coat%2C_front_left%2C_2021-05-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Tesla Model 3 Long Range Dual Motor in Red Multi-Coat, front left, 2021-05-30.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red Model 3 on a street."
+    }
+  },
+  {
+    "id": "toyota-prius-xw30-01",
+    "vehicleId": "toyota-prius-xw30",
+    "kind": "full",
+    "image": "photos/toyota-prius-xw30-01.webp",
+    "imageSmall": "photos/toyota-prius-xw30-01-sm.webp",
+    "width": 1600,
+    "height": 943,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010-2011_Toyota_Prius_(ZVW30R)_liftback_(2011-04-22).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Prius_(XW30)",
+      "https://en.wikipedia.org/wiki/Toyota_Prius"
+    ],
+    "source": {
+      "title": "File:2010-2011 Toyota Prius (ZVW30R) liftback (2011-04-22).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010-2011_Toyota_Prius_(ZVW30R)_liftback_(2011-04-22).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/2010-2011_Toyota_Prius_%28ZVW30R%29_liftback_%282011-04-22%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2010-2011 Toyota Prius (ZVW30R) liftback (2011-04-22).jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver third-generation Prius."
+    }
+  },
+  {
+    "id": "toyota-prius-xw30-02",
+    "vehicleId": "toyota-prius-xw30",
+    "kind": "full",
+    "image": "photos/toyota-prius-xw30-02.webp",
+    "imageSmall": "photos/toyota-prius-xw30-02-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010_Toyota_Prius_II_3_--_07-01-2009.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Prius_(XW30)",
+      "https://en.wikipedia.org/wiki/Toyota_Prius"
+    ],
+    "source": {
+      "title": "File:2010 Toyota Prius II 3 -- 07-01-2009.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010_Toyota_Prius_II_3_--_07-01-2009.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/2010_Toyota_Prius_II_3_--_07-01-2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "IFCAR",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2010 Toyota Prius II 3 -- 07-01-2009.jpg” by IFCAR, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white XW30 Prius, front-quarter."
+    }
+  },
+  {
+    "id": "toyota-prius-xw30-03",
+    "vehicleId": "toyota-prius-xw30",
+    "kind": "full",
+    "image": "photos/toyota-prius-xw30-03.webp",
+    "imageSmall": "photos/toyota-prius-xw30-03-sm.webp",
+    "width": 1600,
+    "height": 856,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010-2011_Toyota_Prius_--_12-21-2011.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Prius_(XW30)",
+      "https://en.wikipedia.org/wiki/Toyota_Prius"
+    ],
+    "source": {
+      "title": "File:2010-2011 Toyota Prius -- 12-21-2011.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010-2011_Toyota_Prius_--_12-21-2011.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/2010-2011_Toyota_Prius_--_12-21-2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "IFCAR",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2010-2011 Toyota Prius -- 12-21-2011.jpg” by IFCAR, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver XW30 Prius."
+    }
+  },
+  {
     "id": "trabant-601-01",
     "vehicleId": "trabant-601",
     "kind": "full",
@@ -672,6 +1707,231 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: custom pink/white repaint; unmistakable Trabant."
+    }
+  },
+  {
+    "id": "trabant-601-02",
+    "vehicleId": "trabant-601",
+    "kind": "full",
+    "image": "photos/trabant-601-02.webp",
+    "imageSmall": "photos/trabant-601-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1964–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Trabant_601K_AM-07-35_p1.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Trabant_601",
+      "https://en.wikipedia.org/wiki/Trabant"
+    ],
+    "source": {
+      "title": "File:1970 Trabant 601K AM-07-35 p1.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Trabant_601K_AM-07-35_p1.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1970_Trabant_601K_AM-07-35_p1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "AlfvanBeem",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1970 Trabant 601K AM-07-35 p1.JPG” by AlfvanBeem, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: light blue Trabant at an oldtimer day."
+    }
+  },
+  {
+    "id": "trabant-601-03",
+    "vehicleId": "trabant-601",
+    "kind": "full",
+    "image": "photos/trabant-601-03.webp",
+    "imageSmall": "photos/trabant-601-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1964–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1969_Trabant_P601.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Trabant_601",
+      "https://en.wikipedia.org/wiki/Trabant"
+    ],
+    "source": {
+      "title": "File:1969 Trabant P601.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Trabant_P601.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/1969_Trabant_P601.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "AlfvanBeem",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1969 Trabant P601.JPG” by AlfvanBeem, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: grey Trabant, front-quarter."
+    }
+  },
+  {
+    "id": "vw-beetle-01",
+    "vehicleId": "vw-beetle",
+    "kind": "full",
+    "image": "photos/vw-beetle-01.webp",
+    "imageSmall": "photos/vw-beetle-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1938,
+      "to": 2003,
+      "basis": "No feature visible in the photo separates years within the 1938–2003 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_Beetle_(18495040664).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
+    ],
+    "source": {
+      "title": "File:Volkswagen Beetle (18495040664).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Beetle_(18495040664).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Volkswagen_Beetle_%2818495040664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dennis Elzinga",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Volkswagen Beetle (18495040664).jpg” by Dennis Elzinga, CC BY 2.0, via Wikimedia Commons (Volkswagen Beetle)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white air-cooled Beetle parked on a street."
+    }
+  },
+  {
+    "id": "vw-beetle-02",
+    "vehicleId": "vw-beetle",
+    "kind": "full",
+    "image": "photos/vw-beetle-02.webp",
+    "imageSmall": "photos/vw-beetle-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "side",
+    "modelYear": {
+      "from": 1938,
+      "to": 2003,
+      "basis": "No feature visible in the photo separates years within the 1938–2003 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:A_Volkswagen_Beetle.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
+    ],
+    "source": {
+      "title": "File:A Volkswagen Beetle.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:A_Volkswagen_Beetle.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/A_Volkswagen_Beetle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Robert-brook",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“A Volkswagen Beetle.jpg” by Robert-brook, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: teal Beetle parked in profile."
+    }
+  },
+  {
+    "id": "vw-beetle-03",
+    "vehicleId": "vw-beetle",
+    "kind": "full",
+    "image": "photos/vw-beetle-03.webp",
+    "imageSmall": "photos/vw-beetle-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1938,
+      "to": 2003,
+      "basis": "No feature visible in the photo separates years within the 1938–2003 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2022-05-08_VW-Käfer.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
+    ],
+    "source": {
+      "title": "File:2022-05-08 VW-Käfer.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2022-05-08_VW-K%C3%A4fer.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/2022-05-08_VW-K%C3%A4fer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bärbel Miemietz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2022-05-08 VW-Käfer.jpg” by Bärbel Miemietz, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-blue Beetle in a car park."
     }
   },
   {
