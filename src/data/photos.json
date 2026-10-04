@@ -1,1 +1,722 @@
-[]
+[
+  {
+    "id": "citroen-2cv-03",
+    "vehicleId": "citroen-2cv",
+    "kind": "full",
+    "image": "photos/citroen-2cv-03.webp",
+    "imageSmall": "photos/citroen-2cv-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1948,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1948–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroën_2_CV,_Bj._1956_(2014-06-15_Sp).JPG",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_2CV_AZ_(1954_-_1963)",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+    ],
+    "source": {
+      "title": "File:Citroën 2 CV, Bj. 1956 (2014-06-15 Sp).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2_CV,_Bj._1956_(2014-06-15_Sp).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Citro%C3%ABn_2_CV%2C_Bj._1956_%282014-06-15_Sp%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Lothar Spurzem",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "credit": "“Citroën 2 CV, Bj. 1956 (2014-06-15 Sp).JPG” by Lothar Spurzem, CC BY-SA 2.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: early grey 2CV AZ."
+    }
+  },
+  {
+    "id": "citroen-ds-01",
+    "vehicleId": "citroen-ds",
+    "kind": "full",
+    "image": "photos/citroen-ds-01.webp",
+    "imageSmall": "photos/citroen-ds-01-sm.webp",
+    "width": 1600,
+    "height": 1201,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1975,
+      "basis": "Faired-in swivelling headlamps behind a glass cover, fitted from the 1968 model year; earlier DS cars have four exposed round headlamps."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Rathmines,_Co._Dublin_-_Ireland_(9265908624).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1972_Citroën_automobiles",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    ],
+    "source": {
+      "title": "File:Rathmines, Co. Dublin - Ireland (9265908624).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rathmines,_Co._Dublin_-_Ireland_(9265908624).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rathmines%2C_Co._Dublin_-_Ireland_%289265908624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mic from Reading - Berkshire, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Rathmines, Co. Dublin - Ireland (9265908624).jpg” by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, via Wikimedia Commons (Rathmines, Co. Dublin - Ireland)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: parked on a Dublin street."
+    }
+  },
+  {
+    "id": "datsun-240z-01",
+    "vehicleId": "datsun-240z",
+    "kind": "full",
+    "image": "photos/datsun-240z-01.webp",
+    "imageSmall": "photos/datsun-240z-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1978,
+      "basis": "No feature visible in the photo separates years within the 1969–1978 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1971_Datsun_240_Z_(35821460792).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Datsun_240Z",
+      "https://en.wikipedia.org/wiki/Nissan_S30"
+    ],
+    "source": {
+      "title": "File:1971 Datsun 240 Z (35821460792).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1971_Datsun_240_Z_(35821460792).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1971_Datsun_240_Z_%2835821460792%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1971 Datsun 240 Z (35821460792).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1971 Datsun 240 Z)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: S30 Z coupe at a car show; category Datsun 240Z."
+    }
+  },
+  {
+    "id": "ferrari-f40-01",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-01.webp",
+    "imageSmall": "photos/ferrari-f40-01-sm.webp",
+    "width": 1600,
+    "height": 889,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1992,
+      "basis": "No feature visible in the photo separates years within the 1987–1992 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1989 Ferrari F40.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/1989_Ferrari_F40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Ferrari F40.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: F40 with no plate or model text legible."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-01",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-01.webp",
+    "imageSmall": "photos/ford-mustang-1g-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1964,
+      "to": 1966,
+      "basis": "Early small-body front end (pre-1967 restyle: flat grille opening with floating pony corral); 1964½–1966 cars cannot be told apart from this angle."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_Mustang_1966_Abdale_St_Wavell_Heights_P1010998.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1966_Ford_Mustang_in_Australia",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:Ford Mustang 1966 Abdale St Wavell Heights P1010998.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_1966_Abdale_St_Wavell_Heights_P1010998.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ford_Mustang_1966_Abdale_St_Wavell_Heights_P1010998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "John Robert McPherson",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Ford Mustang 1966 Abdale St Wavell Heights P1010998.jpg” by John Robert McPherson, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: parked on a suburban street."
+    }
+  },
+  {
+    "id": "lamborghini-aventador-01",
+    "vehicleId": "lamborghini-aventador",
+    "kind": "full",
+    "image": "photos/lamborghini-aventador-01.webp",
+    "imageSmall": "photos/lamborghini-aventador-01-sm.webp",
+    "width": 1600,
+    "height": 968,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2016,
+      "basis": "Pre-\"S\" front bumper and lamp styling (LP 700-4 and LP 720-4 cars, built 2011–2016); the Aventador S, introduced for 2017, has a visibly different front bumper."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2012_Lamborghini_Aventador.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Aventador",
+      "https://en.wikipedia.org/wiki/Lamborghini_Aventador"
+    ],
+    "source": {
+      "title": "File:2012 Lamborghini Aventador.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2012_Lamborghini_Aventador.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/2012_Lamborghini_Aventador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2012 Lamborghini Aventador.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: Aventador on a city street."
+    }
+  },
+  {
+    "id": "lamborghini-countach-01",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-01.webp",
+    "imageSmall": "photos/lamborghini-countach-01-sm.webp",
+    "width": 1600,
+    "height": 909,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1984_Lamborghini_Countach_LP5000S.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1984 Lamborghini Countach LP5000S.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1984_Lamborghini_Countach_LP5000S.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/1984_Lamborghini_Countach_LP5000S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1984 Lamborghini Countach LP5000S.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: unmistakable Countach wedge; category Lamborghini Countach."
+    }
+  },
+  {
+    "id": "mercedes-300sl-01",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-01.webp",
+    "imageSmall": "photos/mercedes-300sl-01-sm.webp",
+    "width": 1600,
+    "height": 957,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:1955 Mercedes-Benz 300SL.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/1955_Mercedes-Benz_300SL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1955 Mercedes-Benz 300SL.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: gullwing coupe (door cut into the roof visible)."
+    }
+  },
+  {
+    "id": "mercedes-300sl-02",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-02.webp",
+    "imageSmall": "photos/mercedes-300sl-02-sm.webp",
+    "width": 1600,
+    "height": 1272,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL_W198_I_FOS21.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:1955 Mercedes-Benz 300SL W198 I FOS21.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL_W198_I_FOS21.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1955_Mercedes-Benz_300SL_W198_I_FOS21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1955 Mercedes-Benz 300SL W198 I FOS21.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: gullwing doors raised."
+    }
+  },
+  {
+    "id": "mx5-na-01",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "full",
+    "image": "photos/mx5-na-01.webp",
+    "imageSmall": "photos/mx5-na-01-sm.webp",
+    "width": 1600,
+    "height": 1004,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_1.6i.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1991 Mazda MX-5 1.6i.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_1.6i.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/1991_Mazda_MX-5_1.6i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1991 Mazda MX-5 1.6i.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/15847428078/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed on contact sheet: pop-up headlamps, NA body; Commons category Mazda MX-5 (NA)."
+    }
+  },
+  {
+    "id": "mx5-na-02",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "full",
+    "image": "photos/mx5-na-02.webp",
+    "imageSmall": "photos/mx5-na-02-sm.webp",
+    "width": 1600,
+    "height": 1098,
+    "setting": "street",
+    "angle": "rear-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_1.6i.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1990 Mazda MX-5 1.6i.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_1.6i.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1990_Mazda_MX-5_1.6i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1990 Mazda MX-5 1.6i.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/15031175157/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: NA rear with round tail lamps and soft top; category Mazda MX-5 (NA)."
+    }
+  },
+  {
+    "id": "supra-a80-01",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-01.webp",
+    "imageSmall": "photos/supra-a80-01-sm.webp",
+    "width": 1600,
+    "height": 946,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_Sport_Roof_in_Red,_front_left.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1994 Toyota Supra Sport Roof in Red, front left.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_Sport_Roof_in_Red,_front_left.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1994_Toyota_Supra_Sport_Roof_in_Red%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1994 Toyota Supra Sport Roof in Red, front left.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: A80 body with targa roof; Commons category A80 pre-facelift."
+    }
+  },
+  {
+    "id": "supra-a80-02",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-02.webp",
+    "imageSmall": "photos/supra-a80-02-sm.webp",
+    "width": 1600,
+    "height": 1045,
+    "setting": "street",
+    "angle": "rear-quarter",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_Sport_Roof_in_Red,_rear_left.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1994 Toyota Supra Sport Roof in Red, rear left.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_Sport_Roof_in_Red,_rear_left.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1994_Toyota_Supra_Sport_Roof_in_Red%2C_rear_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1994 Toyota Supra Sport Roof in Red, rear left.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: A80 rear with wing; no model name legible."
+    }
+  },
+  {
+    "id": "supra-a80-03",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-03.webp",
+    "imageSmall": "photos/supra-a80-03-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Toyota_Supra_3.0_(52643443655).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1993 Toyota Supra 3.0 (52643443655).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Toyota_Supra_3.0_(52643443655).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1993_Toyota_Supra_3.0_%2852643443655%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1993 Toyota Supra 3.0 (52643443655).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1993 Toyota Supra 3.0)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: A80 at a classic car show."
+    }
+  },
+  {
+    "id": "trabant-601-01",
+    "vehicleId": "trabant-601",
+    "kind": "full",
+    "image": "photos/trabant-601-01.webp",
+    "imageSmall": "photos/trabant-601-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1964–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1966_P601_Pink_Sedan.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Trabant_601",
+      "https://en.wikipedia.org/wiki/Trabant"
+    ],
+    "source": {
+      "title": "File:1966 P601 Pink Sedan.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1966_P601_Pink_Sedan.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1966_P601_Pink_Sedan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Cliff",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1966 P601 Pink Sedan.jpg” by Cliff, CC BY 2.0, via Wikimedia Commons (Flickr: 1966 P601 Pink Sedan)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: custom pink/white repaint; unmistakable Trabant."
+    }
+  },
+  {
+    "id": "vw-type2-t1-01",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-01.webp",
+    "imageSmall": "photos/vw-type2-t1-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Red_and_white_Volkswagen_Type_2_(T1)_bus_-_front_view_-_annual_'Busjesdag'_vintage_VAG_gathering_at_the_Rijtuigenloods,_Amersfoort,_Netherlands.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_2_(T1)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Red and white Volkswagen Type 2 (T1) bus - front view - annual 'Busjesdag' vintage VAG gathering at the Rijtuigenloods, Amersfoort, Netherlands.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Red_and_white_Volkswagen_Type_2_(T1)_bus_-_front_view_-_annual_%27Busjesdag%27_vintage_VAG_gathering_at_the_Rijtuigenloods,_Amersfoort,_Netherlands.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Red_and_white_Volkswagen_Type_2_%28T1%29_bus_-_front_view_-_annual_%27Busjesdag%27_vintage_VAG_gathering_at_the_Rijtuigenloods%2C_Amersfoort%2C_Netherlands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Red and white Volkswagen Type 2 (T1) bus - front view - annual 'Busjesdag' vintage VAG gathering at the Rijtuigenloods, Amersfoort, Netherlands.jpg” by Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: split-windscreen T1 bus, front."
+    }
+  }
+]

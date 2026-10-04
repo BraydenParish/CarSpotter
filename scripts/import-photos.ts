@@ -75,10 +75,11 @@ if (!todo.length) {
   process.exit(0);
 }
 
-const infos = await imageInfo(todo.map((c) => c.file));
+const infos = await imageInfo(todo.map((c) => c.file), 2000);
 const infoByTitle = new Map(infos.map((i) => [i.title.replace(/_/g, ' '), i]));
 let imported = 0;
 let rejected = 0;
+let failed = 0;
 
 for (const c of todo) {
   const tag = `[${c.id}]`;
@@ -115,7 +116,14 @@ for (const c of todo) {
   let original: Buffer | null = null;
   if (allowed) {
     if (force || !existsSync(join(root, 'public', image))) {
-      original = await download(info.url);
+      try {
+        // A 2000 px rendition is plenty for the 1600 px output and far lighter than multi-megabyte originals.
+        original = await download(info.thumbUrl && info.width > 2000 ? info.thumbUrl : info.url);
+      } catch (e) {
+        console.error(`${tag} download failed (${(e as Error).message.slice(0, 60)}) — skipped, re-run to retry`);
+        failed++;
+        continue;
+      }
       const full = await sharp(original).rotate().resize({ width: FULL_WIDTH, withoutEnlargement: true }).webp({ quality: 80 }).toBuffer({ resolveWithObject: true });
       writeFileSync(join(root, 'public', image), full.data);
       width = full.info.width;
@@ -192,5 +200,5 @@ if (!dryRun) {
   photos.sort((a, b) => a.id.localeCompare(b.id));
   writeFileSync(manifestPath, `${JSON.stringify(photos, null, 2)}\n`);
 }
-console.log(`\n${dryRun ? 'Checked' : 'Imported'} ${todo.length} candidate(s); ${imported} record(s) written; ${rejected} rejected for licensing.`);
+console.log(`\n${dryRun ? 'Checked' : 'Imported'} ${todo.length} candidate(s); ${imported} record(s) written; ${rejected} rejected for licensing${failed ? `; ${failed} download(s) failed — run again` : ''}.`);
 console.log('Next: npm run validate');
