@@ -25,7 +25,7 @@ const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 let lastCall = 0;
 
 /** Throttled (≥1 request/s), retrying API call — be polite to Wikimedia. */
-async function api(params: Record<string, string>): Promise<any> {
+export async function api(params: Record<string, string>): Promise<any> {
   const qs = new URLSearchParams({ format: 'json', formatversion: '2', maxlag: '5', ...params });
   for (let attempt = 0; attempt < 6; attempt++) {
     const wait = lastCall + 1000 - Date.now();
