@@ -262,6 +262,9 @@ export function matchModel(
   const expected = vehicle.model;
   let toks = tokens(input);
   if (!toks.length) return { correct: false, kind: 'empty', input, expected };
+  // A model name that starts with a make alias ("DMC-12") must match before the make is stripped off.
+  const whole = acceptedModels(vehicle).findIndex((n) => compact(n) === toks.join(''));
+  if (whole >= 0) return { correct: true, kind: whole === 0 ? 'exact' : 'alias', input, expected };
   toks = stripMake(toks, acceptedMakes(vehicle, makeAliases));
   const extras = new Set(GENERIC_EXTRAS);
   for (const w of vehicle.extraWords ?? []) for (const t of tokens(w)) extras.add(t);

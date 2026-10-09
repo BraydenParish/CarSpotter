@@ -291,3 +291,12 @@ describe('names of other cars that extend this one', () => {
     expect(model('Land Cruiser 79', 'toyota-land-cruiser-j70')).toBe(true);
   });
 });
+
+describe('model names that begin with a make alias', () => {
+  it('accepts DMC-12 even though DMC is also a make alias', () => {
+    const r = matchModel('DMC-12', v('delorean-dmc-12'), ctx.index, MAKE_ALIASES);
+    expect(r.correct).toBe(true);
+    expect(matchModel('DMC 12', v('delorean-dmc-12'), ctx.index, MAKE_ALIASES).correct).toBe(true);
+    expect(matchModel('H2', v('hummer-h1'), ctx.index, MAKE_ALIASES).correct).toBe(false);
+  });
+});

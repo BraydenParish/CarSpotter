@@ -10842,6 +10842,1986 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (xj #14); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
       }
+    },
+    {
+      "id": "hummer-h1-01",
+      "file": "File:Hummer H1 red front (cropped).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hummer_H1_red_front_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #0); Commons category: Hummer H1. CC BY 2.0 by Greg Gjerdingen."
+      }
+    },
+    {
+      "id": "hummer-h1-02",
+      "file": "File:1997 Hummer H1 (30077054865).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_Hummer_H1_(30077054865).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #2); Commons category: Hummer H1. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "hummer-h1-03",
+      "file": "File:1997 Hummer H1 (30077075095).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_Hummer_H1_(30077075095).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #4); Commons category: Hummer H1. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "hummer-h1-04",
+      "file": "File:Techno-Classica 2018, Essen (IMG 9792).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9792).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1_Alpha",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #6); Commons category: Hummer H1 Alpha. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "hummer-h1-05",
+      "file": "File:Techno-Classica 2018, Essen (IMG 9797).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9797).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1_Alpha",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #7); Commons category: Hummer H1 Alpha. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "hummer-h1-06",
+      "file": "File:Hummer H1 (33736).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hummer_H1_(33736).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #9); Commons category: Hummer H1. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "hummer-h1-07",
+      "file": "File:Hummer H1 (Auto classique St-Constant '13).JPG",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hummer_H1_(Auto_classique_St-Constant_'13).JPG",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #10); Commons category: Hummer H1. Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "hummer-h1-08",
+      "file": "File:Hummer H1 Alpha Convertible.JPG",
+      "vehicleId": "hummer-h1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hummer_H1_Alpha_Convertible.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1_Alpha",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #11); Commons category: Hummer H1 Alpha. Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "hummer-h1-09",
+      "file": "File:Hummer H1 Pickup modified (2).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hummer_H1_Pickup_modified_(2).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #13); Commons category: Hummer H1. CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "hummer-h1-10",
+      "file": "File:Hummer H1 Pickup modified (3).jpg",
+      "vehicleId": "hummer-h1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1992,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1992–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hummer_H1_Pickup_modified_(3).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hummer_H1",
+        "https://en.wikipedia.org/wiki/Hummer_H1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (h1 #14); Commons category: Hummer H1. CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-01",
+      "file": "File:1981 Delorean DMC (29043312252).jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1981_Delorean_DMC_(29043312252).jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_Australia",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #0); Commons category: DeLorean DMC-12 in Australia. CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-02",
+      "file": "File:1982 Delorean DMC12.jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1982_Delorean_DMC12.jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_England",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A display placard in front of the car is titled with the car name."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-03",
+      "file": "File:DeLorean DMC-12 Classic-Days 2022 DSC 0050.jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DeLorean_DMC-12_Classic-Days_2022_DSC_0050.jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_Germany",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #5); Commons category: DeLorean DMC-12 in Germany. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-04",
+      "file": "File:DeLorean DMC-12 Classic-Days 2022 DSC 0209.jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DeLorean_DMC-12_Classic-Days_2022_DSC_0209.jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_Germany",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #6); Commons category: DeLorean DMC-12 in Germany. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-05",
+      "file": "File:DeLorean DMC-12 Classic-Days 2022 IMG 7215.jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DeLorean_DMC-12_Classic-Days_2022_IMG_7215.jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_Germany",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #7); Commons category: DeLorean DMC-12 in Germany. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-06",
+      "file": "File:DeLorean DMC-12, ADAC Deutschland Klassik 2025, Heidelberg (P1048747).jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DeLorean_DMC-12,_ADAC_Deutschland_Klassik_2025,_Heidelberg_(P1048747).jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_Germany",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #9); Commons category: DeLorean DMC-12 in Germany. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-07",
+      "file": "File:'81-'82 DeLorean DMC-12 (Centropolis Laval '10).jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'81-'82_DeLorean_DMC-12_(Centropolis_Laval_'10).jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_Canada",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #10); Commons category: DeLorean DMC-12 in Canada. Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "delorean-dmc-12-08",
+      "file": "File:DeLorean (7324675154).jpg",
+      "vehicleId": "delorean-dmc-12",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1981,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1981–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DeLorean_(7324675154).jpg",
+        "https://commons.wikimedia.org/wiki/Category:DeLorean_DMC-12_in_the_United_States",
+        "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (delorean #12); Commons category: DeLorean DMC-12 in the United States. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-01",
+      "file": "File:2017 Mazda MX-5 RF Sport NAV 2.0 Front.jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2017_Mazda_MX-5_RF_Sport_NAV_2.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_RF",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #0); Commons category: Mazda MX-5 RF. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-02",
+      "file": "File:2016 Mazda MX-5 (ND) Roadster GT 1.5 convertible (25995812902).jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Mazda_MX-5_(ND)_Roadster_GT_1.5_convertible_(25995812902).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #1); Commons category: Mazda MX-5 (ND). CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-03",
+      "file": "File:2015 Mazda MX-5 (ND) Roadster GT convertible (2018-10-30) 01.jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2015_Mazda_MX-5_(ND)_Roadster_GT_convertible_(2018-10-30)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #2); Commons category: Mazda MX-5 (ND). CC BY-SA 4.0 by EurovisionNim."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-04",
+      "file": "File:GIMS 2019, Le Grand-Saconnex (GIMS0566).jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:GIMS_2019,_Le_Grand-Saconnex_(GIMS0566).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #5); Commons category: Mazda MX-5 (ND). CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-05",
+      "file": "File:Mazda MX-5 2018 (52511299363).jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_2018_(52511299363).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #6); Commons category: Mazda MX-5 (ND). CC BY-SA 2.0 by RL GNZLZ from Chile."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-06",
+      "file": "File:MAZDA MX-5 (ND) China.jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:MAZDA_MX-5_(ND)_China.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #9); Commons category: Mazda MX-5 (ND). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-07",
+      "file": "File:Mazda MX-5 100th Anniversary Special Edition (5BA-ND5RC) (2).jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_100th_Anniversary_Special_Edition_(5BA-ND5RC)_(2).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Front plate reads \"ROADSTER\", an accepted model name; a display sign stands beside the car."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-08",
+      "file": "File:Mazda MX-5 Miata SkyactivG ND Soul Red Crystal Metallic (14).jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_Miata_SkyactivG_ND_Soul_Red_Crystal_Metallic_(14).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Near-duplicate of mazda-mx5-nd-09 (same car, same spot, same angle)."
+      }
+    },
+    {
+      "id": "mazda-mx5-nd-09",
+      "file": "File:Mazda MX-5 Miata SkyactivG ND Soul Red Crystal Metallic (16).jpg",
+      "vehicleId": "mazda-mx5-nd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_Miata_SkyactivG_ND_Soul_Red_Crystal_Metallic_(16).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(ND)",
+        "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mx5nd #14); Commons category: Mazda MX-5 (ND). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "porsche-911-991-01",
+      "file": "File:2013 Porsche 911.jpg",
+      "vehicleId": "porsche-911-991",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2019,
+        "basis": "No feature visible in the photo separates years within the 2011–2019 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Porsche_911.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_991_Carrera_(2011–2015)_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p991 #1); Commons category: Porsche 991 Carrera (2011–2015) coupes. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "porsche-911-991-02",
+      "file": "File:2016 Porsche 911 Turbo Cabriolet 1.jpg",
+      "vehicleId": "porsche-911-991",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2019,
+        "basis": "No feature visible in the photo separates years within the 2011–2019 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Porsche_911_Turbo_Cabriolet_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_991_Turbo_Convertibles_(2015)",
+        "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p991 #2); Commons category: Porsche 991 Turbo Convertibles (2015). CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "porsche-911-991-03",
+      "file": "File:Porsche 911 Turbo S Exclusive Series IMG 3750.jpg",
+      "vehicleId": "porsche-911-991",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2019,
+        "basis": "No feature visible in the photo separates years within the 2011–2019 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_911_Turbo_S_Exclusive_Series_IMG_3750.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Orange_Porsche_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p991 #7); Commons category: Orange Porsche coupes. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "porsche-911-991-04",
+      "file": "File:2013 Porsche 911 Carrera 4S (991) (9626546987).jpg",
+      "vehicleId": "porsche-911-991",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2019,
+        "basis": "No feature visible in the photo separates years within the 2011–2019 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Porsche_911_Carrera_4S_(991)_(9626546987).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_991_Carrera_4S_(2013)_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p991 #8); Commons category: Porsche 991 Carrera 4S (2013) coupes. CC BY-SA 2.0 by David Villarreal Fernández."
+      }
+    },
+    {
+      "id": "porsche-911-991-05",
+      "file": "File:2015 Porsche 911 Carrera 4S Coupe.jpg",
+      "vehicleId": "porsche-911-991",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2019,
+        "basis": "No feature visible in the photo separates years within the 2011–2019 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2015_Porsche_911_Carrera_4S_Coupe.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_(991.2)_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Front plate reads \"Carrera 4S\", an accepted model name."
+      }
+    },
+    {
+      "id": "porsche-911-991-06",
+      "file": "File:2018 Porsche 911 Carrera S.jpg",
+      "vehicleId": "porsche-911-991",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2019,
+        "basis": "No feature visible in the photo separates years within the 2011–2019 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_Carrera_S.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_S_(991.2)",
+        "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p991 #10); Commons category: Porsche 911 Carrera S (991.2). CC0 by TTTNIS."
+      }
+    },
+    {
+      "id": "porsche-930-01",
+      "file": "File:1989 Porsche 930 Turbo Cabriolet with Ruf modifications, front right.jpg",
+      "vehicleId": "porsche-930",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1989,
+        "basis": "No feature visible in the photo separates years within the 1975–1989 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1989_Porsche_930_Turbo_Cabriolet_with_Ruf_modifications,_front_right.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_930_convertibles",
+        "https://en.wikipedia.org/wiki/Porsche_930"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p930 #0); Commons category: Porsche 930 convertibles. CC BY-SA 3.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "porsche-930-02",
+      "file": "File:1976 Porsche 911 Turbo Carrera (42871386680).jpg",
+      "vehicleId": "porsche-930",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1989,
+        "basis": "No feature visible in the photo separates years within the 1975–1989 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1976_Porsche_911_Turbo_Carrera_(42871386680).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_930_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_930"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p930 #1); Commons category: Porsche 930 coupes. CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "porsche-930-03",
+      "file": "File:1979 Porsche 911 930 Slantnose Cabriolet 1.jpg",
+      "vehicleId": "porsche-930",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1989,
+        "basis": "No feature visible in the photo separates years within the 1975–1989 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1979_Porsche_911_930_Slantnose_Cabriolet_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_930_flatnose",
+        "https://en.wikipedia.org/wiki/Porsche_930"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p930 #4); Commons category: Porsche 930 flatnose. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "porsche-930-04",
+      "file": "File:1981 Porsche 911 Turbo 3.3.jpg",
+      "vehicleId": "porsche-930",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1989,
+        "basis": "No feature visible in the photo separates years within the 1975–1989 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1981_Porsche_911_Turbo_3.3.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_930_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_930"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p930 #5); Commons category: Porsche 930 coupes. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "porsche-930-05",
+      "file": "File:Porsche 911 Turbo (Typ 930-3.3) ADAC Deutschland Klassik 2018 6290583.jpg",
+      "vehicleId": "porsche-930",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1989,
+        "basis": "No feature visible in the photo separates years within the 1975–1989 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_911_Turbo_(Typ_930-3.3)_ADAC_Deutschland_Klassik_2018_6290583.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_930_coupes",
+        "https://en.wikipedia.org/wiki/Porsche_930"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p930 #11); Commons category: Porsche 930 coupes. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "porsche-930-06",
+      "file": "File:Porsche 911 Turbo Cabrio, Techno-Classica 2018, Essen (IMG 0025).jpg",
+      "vehicleId": "porsche-930",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1989,
+        "basis": "No feature visible in the photo separates years within the 1975–1989 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_911_Turbo_Cabrio,_Techno-Classica_2018,_Essen_(IMG_0025).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_930_convertibles",
+        "https://en.wikipedia.org/wiki/Porsche_930"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p930 #12); Commons category: Porsche 930 convertibles. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "audi-quattro-01",
+      "file": "File:1987 Audi Quattro LC25.jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Audi_Quattro_LC25.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A show placard stands in front of the car."
+      }
+    },
+    {
+      "id": "audi-quattro-02",
+      "file": "File:1987 Audi Quattro.jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Audi_Quattro.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"quattro\" is etched into the rear side window and is legible at full size."
+      }
+    },
+    {
+      "id": "audi-quattro-03",
+      "file": "File:1988 Audi Quattro Turbo 2.2.jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_Audi_Quattro_Turbo_2.2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (quattro #4); Commons category: Audi Quattro. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "audi-quattro-04",
+      "file": "File:1989 Audi Quattro 2.2 (53623994897).jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1989_Audi_Quattro_2.2_(53623994897).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"quattro\" is etched into the rear side window and is legible at full size."
+      }
+    },
+    {
+      "id": "audi-quattro-05",
+      "file": "File:1990 Audi Quattro 2.2 Turbo (19421662126).jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1990_Audi_Quattro_2.2_Turbo_(19421662126).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (quattro #6); Commons category: Audi Quattro. CC BY 2.0 by Kieran White from Manchester, England."
+      }
+    },
+    {
+      "id": "audi-quattro-06",
+      "file": "File:Audi Quattro 20V Classic-Days 2022 DSC 0271.jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Audi_Quattro_20V_Classic-Days_2022_DSC_0271.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (quattro #8); Commons category: Audi Quattro. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "audi-quattro-07",
+      "file": "File:Audi Quattro at Schaffen Diest 2019.jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Audi_Quattro_at_Schaffen_Diest_2019.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"quattro\" is etched into the rear side window and is legible at full size."
+      }
+    },
+    {
+      "id": "audi-quattro-08",
+      "file": "File:1987 Audi Quattro (Irish) (14364714347).jpg",
+      "vehicleId": "audi-quattro",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1980,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1980–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Audi_Quattro_(Irish)_(14364714347).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_Quattro",
+        "https://en.wikipedia.org/wiki/Audi_Quattro"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (quattro #14); Commons category: Audi Quattro. CC BY 2.0 by Charlie from United Kingdom."
+      }
+    },
+    {
+      "id": "citroen-mehari-01",
+      "file": "File:1978 Citroën Méhari (9502102809).jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1978_Citroën_Méhari_(9502102809).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Méhari\" script on the tailgate is legible."
+      }
+    },
+    {
+      "id": "citroen-mehari-02",
+      "file": "File:1979 Citroën Méhari (11514983316).jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1979_Citroën_Méhari_(11514983316).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #1); Commons category: Citroën Méhari. CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "citroen-mehari-03",
+      "file": "File:1980 Citroën Méhari (5004088133).jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1980_Citroën_Méhari_(5004088133).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #2); Commons category: Citroën Méhari. CC BY 2.0 by Spanish Coches."
+      }
+    },
+    {
+      "id": "citroen-mehari-04",
+      "file": "File:1980 Citroën Méhari (5004700430).jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1980_Citroën_Méhari_(5004700430).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #3); Commons category: Citroën Méhari. CC BY 2.0 by Spanish Coches."
+      }
+    },
+    {
+      "id": "citroen-mehari-05",
+      "file": "File:1981 Citroën Méhari Paul Pietsch Classic 2025 DSC 9088.jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1981_Citroën_Méhari_Paul_Pietsch_Classic_2025_DSC_9088.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #4); Commons category: Citroën Méhari. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "citroen-mehari-06",
+      "file": "File:Citroën Méhari Nice IMG 1269.jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Citroën_Méhari_Nice_IMG_1269.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #5); Commons category: Citroën Méhari. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "citroen-mehari-07",
+      "file": "File:Citroën Méhari Retro Classics 2025 DSC 7529.jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Citroën_Méhari_Retro_Classics_2025_DSC_7529.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #6); Commons category: Citroën Méhari. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "citroen-mehari-08",
+      "file": "File:Citroën Méhari (5034561166).jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Citroën_Méhari_(5034561166).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mehari #12); Commons category: Citroën Méhari. CC BY 2.0 by Spanish Coches."
+      }
+    },
+    {
+      "id": "citroen-mehari-09",
+      "file": "File:Citroen Mehari 2.jpg",
+      "vehicleId": "citroen-mehari",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1988,
+        "basis": "No feature visible in the photo separates years within the 1968–1988 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Citroen_Mehari_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Citroën_Méhari",
+        "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A Porsche 356, also in the game, is prominent at the left edge; a FOR SALE card is in the windscreen."
+      }
+    },
+    {
+      "id": "volvo-p1800-01",
+      "file": "File:1966 Volvo 1800S.jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1966_Volvo_1800S.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_Coupé",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"1800 S\" badge on the rear panel is legible."
+      }
+    },
+    {
+      "id": "volvo-p1800-02",
+      "file": "File:1967 Volvo 1800 S (27772603276).jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Volvo_1800_S_(27772603276).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_Coupé",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #2); Commons category: Volvo P1800 Coupé. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "volvo-p1800-03",
+      "file": "File:1969 Volvo P 1800 S & 1968 Volvo P 1800 S & 1963 Volvo P 1800 (9066450394).jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Volvo_P_1800_S_&_1968_Volvo_P_1800_S_&_1963_Volvo_P_1800_(9066450394).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_(Jensen)",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #4); Commons category: Volvo P1800 (Jensen). CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "volvo-p1800-04",
+      "file": "File:1972 Volvo P1800 E.jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1972_Volvo_P1800_E.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_Coupé",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #5); Commons category: Volvo P1800 Coupé. CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "volvo-p1800-05",
+      "file": "File:1972 Volvo P1800ES (5976075336).jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1972_Volvo_P1800ES_(5976075336).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_ES",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #6); Commons category: Volvo P1800 ES. CC BY 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "volvo-p1800-06",
+      "file": "File:1972 Volvo P1800ES.jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1972_Volvo_P1800ES.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_ES",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #7); Commons category: Volvo P1800 ES. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "volvo-p1800-07",
+      "file": "File:1974 Volvo P1800 (3101894038).jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1974_Volvo_P1800_(3101894038).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_Coupé",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The windscreen display sheet is headed \"VOLVO 1800 COUPE\"."
+      }
+    },
+    {
+      "id": "volvo-p1800-08",
+      "file": "File:Volve 1800ES 1971.JPG",
+      "vehicleId": "volvo-p1800",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volve_1800ES_1971.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_ES",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #11); Commons category: Volvo P1800 ES. CC BY-SA 3.0 by Charles01."
+      }
+    },
+    {
+      "id": "volvo-p1800-09",
+      "file": "File:Volvo P 1800 ES 6302509.jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_P_1800_ES_6302509.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_ES",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #12); Commons category: Volvo P1800 ES. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "volvo-p1800-10",
+      "file": "File:Volvo P 1800 ES 6302520.jpg",
+      "vehicleId": "volvo-p1800",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1961–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_P_1800_ES_6302520.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P1800_ES",
+        "https://en.wikipedia.org/wiki/Volvo_P1800"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p1800 #13); Commons category: Volvo P1800 ES. CC BY-SA 4.0 by Ermell."
+      }
     }
   ]
 }
