@@ -22,9 +22,9 @@ A car-identification game built on **real photographs**. A photo appears, you na
 - Rejected candidates stay in `data/candidates.json` with the reason, but they are never imported or shipped. None are pending.
 
 **Photos per car**
-- 8–12 each: VW T1, Land Cruiser J40, Isetta, F40, 300 SL, 720S… (well-photographed classics and supercars).
-- 3–7 each: most cars.
-- 1–2 each: Mini, E-Type, Aventador, Defender, Wrangler JK, Jimny, Range Rover Classic, TR6, i3. Nearly every Commons photo of these shows the model name.
+- 8–12 each (21 cars): F40 (12); Z3, Traction Avant, Testarossa, Hummer H1, Countach, Urus, Skyline R32 GT-R and Amazon (10); 300 SL, Karmann Ghia, VW T1, VW T2 and up! (9); R8, Model T, XK120, RX-8, Model X, Camry and P1800 (8).
+- 3–7 each: 81 cars.
+- 1–2 each (9 cars): Mini, Aventador, Defender, Wrangler JK, Jimny and i3 (2); E-Type, Range Rover Classic and TR6 (1). Nearly every Commons photo of these shows the model name.
 - None: Dodge Charger (1968–70). Every candidate shows "Charger" in the grille or on the tail, so the record stays unused.
 
 **Themes** (each needs at least 4 cars): Everyday (31), Classics (52), JDM (18), Muscle (8), Supercars (15), European (66) and Off-Road (13), plus Electric (7) and American (21) as tags. All seven themed challenges are available.
