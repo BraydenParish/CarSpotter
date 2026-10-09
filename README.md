@@ -4,21 +4,30 @@ A car-identification game built on **real photographs**. A photo appears, you na
 
 ## Current status
 
-**75 verified photographs of 28 distinct cars**, all from Wikimedia Commons under CC0, public domain, CC BY or CC BY-SA, each viewed at full size before approval. Every mode is playable.
+**126 verified photographs of 39 distinct cars**, plus **14 badge-free detail crops**. Every photo comes from Wikimedia Commons under CC0, public domain, CC BY or CC BY-SA, and each was viewed at full size before approval. Every mode is playable. The game can be installed and played offline.
 
 | | Target | Actual |
 | --- | --- | --- |
-| Verified photographs (approved, full) | ≥ 30 | **75** |
-| Distinct cars | ≥ 20 | **28** (of 30 vehicle records) |
-| Street photos | favoured | **34 street**, 41 other (car shows, museums, rallies, dealer forecourts), 0 studio |
-| Expert-eligible photos | — | **58** photos of 21 cars (15 ask for a model year, the rest for the generation) |
-| Detail-challenge crops | ≥ 3 cars to unlock | **5** headlight crops (MX-5, Supra, Jimny, Model 3, Golf), so Detail mode is unlocked |
+| Verified photographs (approved, full) | ≥ 30 | **126** |
+| Distinct cars | ≥ 20 | **39** (of 41 vehicle records) |
+| Setting | street favoured (later relaxed) | **55 street**, 71 other (car shows, museums, rallies, dealer forecourts), 0 studio |
+| Expert-eligible photos | — | **80** photos of 26 cars (16 ask for a model year, the rest for the generation) |
+| Detail-challenge crops | ≥ 3 cars to unlock | **14** (MX-5, Supra, Jimny, Model 3, Golf Mk7, Miura, Testarossa, DS, Beetle, 2CV, Golf Mk1, Countach, W123, Trabant) |
 
-How the set was built: 105 candidates were picked from Commons contact sheets, and each was checked against its Commons file page (license, category, description). Every imported photo was then viewed at full size, with zoomed crops of badges and scripts. **29 candidates were rejected**, almost all because a legible model name (a grille script, fender badge, boot lettering, decal or show placard) would give the answer away. They stay in `data/candidates.json` with the reason, but they are never imported or shipped. One approved candidate (`honda-nsx-na-02`) could not be downloaded: Wikimedia returned HTTP 429 for that file throughout the session. Re-running `npm run import-photos` will pick it up.
+**How the set was built**
+- 159 candidates were picked from Commons contact sheets.
+- Each was checked against its Commons file page: license, category and description.
+- Every imported photo was then viewed at full size, with zoomed crops around badges, scripts and plates.
+- **33 candidates were rejected**. Almost all showed a legible model name: grille script, fender badge, boot lettering, a decal, a show placard, or a number plate reading "…ROSSA". One was rejected because a different car in the game stood prominently beside it.
+- Rejected candidates stay in `data/candidates.json` with the reason, but they are never imported or shipped. None are pending.
 
-Photos per car: MX-5, Skyline R34 and Supra have 5 each; 240Z, Fiat 500 and Golf have 4; most others have 2–3. **Camaro, Challenger, E-Type and Land Cruiser have 1 each**, because nearly every Commons photo of them shows the model script. **Dodge Charger and Ford F-150 have no approved photo**: every candidate has "Charger" in the grille or "F150" on the fender, so both records stay unused until clean photos are found.
+**Photos per car**
+- 5–6 each: W123, Barracuda, Miura, Series III, RX-7, MX-5, Skyline, Renault 4, Supra.
+- 2–4 each: most others.
+- 1 each: Camaro, Challenger, E-Type and Land Cruiser J40. Nearly every Commons photo of these shows the model script.
+- None: Dodge Charger and Ford F-150. Every candidate showed "Charger" in the grille or "F150" on the fender, so both records stay unused.
 
-Themes on offer (each needs ≥ 4 cars): Everyday (10), Classics (15), JDM (7), Supercars (5), European (15) and Off-Road (4: Defender, Wrangler, Land Cruiser J40, Jimny). **Muscle is hidden**: only 3 muscle cars have usable photos (Mustang, Camaro, Challenger). The game reports this rather than padding the theme.
+**Themes** (each needs at least 4 cars): Everyday (13), Classics (24), JDM (8), Muscle (4: Mustang, Camaro, Challenger, Barracuda), Supercars (7), European (23) and Off-Road (6). All seven are available.
 
 ## Quick start
 
@@ -47,7 +56,17 @@ Requires Node 20+.
 | **Daily Challenge** | 5 cars, identical for everyone on a UTC date (deterministic seeded selection). **Resets at 00:00 UTC.** One scored attempt per difficulty per day; leaving early counts as your attempt. Spoiler-free share text. |
 | **Themed Challenge** | Everyday, Classics, JDM, Muscle, Supercars, European, Off-road: offered only when ≥ 4 verified cars carry that dataset tag. |
 | **Detail Challenge** | Close-up crops (headlight, taillight, interior, grille…) cut from licensed photos; unlocked only when ≥ 3 cars have verified crops. Crops never include badges by selection rule. |
+| **Focus** | Ten cars. Each photo starts heavily blurred and sharpens over 12 s; points fall from 100% to 30% as it comes into focus (a live meter shows the current value). Enlarging the photo is disabled until the reveal. Normal and Hard. |
+| **Party (pass & play)** | 2–4 named players share one device. Each gets five different cars, with a "pass the phone" screen that hides the next photo and answers until that player taps *I'm ready*. Streaks are per player. Ends with a scoreboard (ties share a place) and a rematch button. Party games never change the owner's stats, garage, achievements or bests. |
 | **Practice** | Only cars you missed. Two correct practice answers clear a car. Does not affect bests or main stats. |
+
+**Learning from mistakes.** Each car's record is tracked. When a wrong answer names another real car (the option picked on Normal, or a typed make and model that exactly matches a known car), the mix-up is recorded too. Stats shows *Toughest cars* and *Cars you mix up*; the garage shows your record and past mix-ups for each car. The reveal shows the spotting tip of the car you picked, when it is in the collection, next to the right car's tip.
+
+**Offline and installable.** The game has a web-app manifest, icons and a service worker:
+- Pages are network-first. Hashed assets and photos are cache-first.
+- Chromium browsers get an **Install app** button.
+- Settings → *Offline play* saves every verified photo for offline use (about 35 MB), with progress, stop and remove.
+- The service worker is registered only in production builds.
 
 Also: garage (cars you identified), 25 achievements (each hidden until the photo set can actually support it), XP/levels, stats, personal bests, daily streak, first-play intro, settings (sound, haptics, hints, auto-advance, motion), progress export/import/reset.
 
@@ -86,7 +105,7 @@ Also: garage (cars you identified), 25 achievements (each hidden until the photo
 
 ### Data model
 
-`src/data/types.ts` (schema), `src/data/vehicles.json` (**30 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (80 approved records: 75 photos plus 5 detail crops). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
+`src/data/types.ts` (schema), `src/data/vehicles.json` (**41 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (140 approved records: 126 photos plus 14 detail crops). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
 
 ### Adding verified photos
 
@@ -122,39 +141,48 @@ Dark theme with high-contrast text, 44 px+ touch targets (48 px on primary butto
 
 ## Testing
 
-- **Automated (76 tests, `npm test`)**: answer matching, aliases, typo guards (now including regressions found by probing real answers: `260Z`/`280Z` are not a 240Z, `Prius c`/`Prius v` are not an XW30 Prius, `300 SLR` is not a 300 SL; `Golf 7`, `993` and `NSX-R` are accepted), combined entry, Expert eligibility/requirements, distractor validity (exactly one correct option, no two options naming the same model under different badges, vans offered for vans), scoring and bests, repeat prevention, deterministic daily selection, the run engine for every mode, progress/garage/practice, achievements, spoiler-free sharing, license rules and UI smoke tests.
-- **Answer-checker probe**: 154 real-world inputs across all 28 cars (right names, common misspellings, nicknames and *different real models*). All 154 behave correctly.
-- **Playtested with the real photos** in Chromium (Playwright driving `npm run dev`), at 390×780 (phone) and 1280×800 (desktop):
-  - Played: 10-Round Session (Normal/Hard/Expert), Free Play (Normal/Expert), Time Attack (Normal/Hard), Survival (Normal/Expert), Daily (Normal/Hard/Expert), Themed (Everyday, JDM, Off-Road on Normal/Hard/Expert), Detail (Normal/Hard) and Practice (Normal/Hard).
-  - Inputs: correct, wrong and partial answers.
-  - What was checked: no page errors; each Normal round had exactly one correct option; Expert showed its year or generation requirement before submission and accepted any year in the documented range; the reveal, credits and results screens rendered correctly.
-- **Fixed during playtesting**:
-  - Acura Integra and Honda Integra could both appear as distractors.
-  - The VW T1 was offered sports-car distractors (the lexicon had no other vans).
-  - The reveal screen's "Press Enter" hint overlapped the photo-credit link on phones.
-  - Rejected photos were still being shipped in `public/`.
-  - Detail crops broke once the importer switched to 1920 px renditions; crop rectangles are now scaled.
+- **Automated (87 tests, `npm test`).** Covers:
+  - Answer matching, aliases, the typo guard and combined make/model entry.
+  - Every documented generation name and alias for every car (see the generation bug below).
+  - Expert eligibility and requirements.
+  - Distractor validity: exactly one correct option, no model offered twice under different badges, vans offered for vans.
+  - Scoring and bests, the Focus multiplier, repeat prevention and deterministic daily selection.
+  - The run engine for every mode, including Party turn order, per-player streaks, standings and ties.
+  - Progress, garage and practice; mix-up and per-car tracking (and loading profiles saved before it existed).
+  - Party games never touching the owner's profile.
+  - Achievements, spoiler-free sharing, license rules and UI smoke tests.
+- **Answer-checker probes.** 154 + 81 real-world inputs across all 39 cars: right names, misspellings, nicknames and *different real models* (`RX-8` is not an RX-7, `GL-Class` not a G-Class, `512 TR` not a Testarossa, `912` not a 356, `W124` not a W123, `Challenger` not a Barracuda, `Series II` not a Series III). Plus 30 generation inputs. All behave correctly.
+- **Playtested with the real photos** in Chromium (Playwright driving `npm run dev`) at 390×780 (phone) and 1280×800 (desktop). Modes played:
+  - 10-Round Session (Normal/Hard/Expert), Focus (Normal/Hard), Free Play (Normal/Hard/Expert), Time Attack (Normal/Hard), Survival (Normal/Hard/Expert).
+  - Daily (Normal/Hard/Expert).
+  - Themed: Everyday, JDM, Muscle, Off-Road and Supercars across Normal, Hard and Expert.
+  - Detail (Normal/Hard), Practice (Normal/Hard/Expert), and Party with three players.
+  - Answers were a mix of correct, wrong and partial.
+- **What the playtest checked.** No page errors. Exactly one correct option per Normal round. Expert states its year or generation requirement before you submit. The Party hand-off screen hides the photo and the answers. The Focus blur and meter work, and the enlarge button is hidden until the reveal. The reveal, credits and results screens render correctly.
+- **Bugs found by playtesting and fixed:**
+  - **Generation answers containing the model name were rejected.** The Fiat 500's own generation, "Nuova 500", was marked wrong, along with 10 other documented aliases such as "Golf I", "Sting Ray" and "40 series". The checker removed model words from the typed text but not from the accepted names.
+  - Two distractors could be the same car under different badges (Acura/Honda Integra).
+  - The VW T1 was offered sports cars as distractors.
+  - On phones, the reveal footer overlapped the credit link.
+  - Rejected photos were still being shipped.
+  - Detail crops broke after the switch to 1920 px downloads.
+- **Not fixed.** One dev-server playtest run jumped back to the home screen. This matches a Vite page reload, which happens when `photos.json` is rewritten during an import, and four reruns did not reproduce it. A production build has no hot reload, but an in-progress run is still not saved if the browser reloads the tab (see limitations).
 
 ## Known limitations
 
-- **Coverage is uneven**: 4 cars have a single photo and 2 vehicle records (Charger, F-150) have none, because their badges are part of the design. The Muscle theme stays hidden until a fourth muscle car has clean photos.
-- **More show photos than street photos** (41 vs 34). On Commons, classics and supercars are mostly photographed at shows.
-- Expert asks for the generation on most photos. Only 15 photos can prove a year range, and only one (a 1969 Camaro) proves an exact year.
-- Tips and year ranges were re-checked against each vehicle's reference article. Fixes made:
-  - Citroën DS: glass-covered headlamps arrived in late 1967, for the 1968 model year.
-  - Citroën 2CV: the bonnet ribbing changed in 1960.
-  - Tesla Model 3: the chrome trim was dropped in November 2020.
-  - Datsun 240Z: the export name changed to 260Z in 1974, so the record now covers 1969–1973.
-  - Porsche 993: the tip is now worded as the reference describes it.
-  - Lamborghini Aventador: the 2017 Aventador S front.
-  - Two references (Ferrari F40, Fiat 500) could not be re-fetched because of Wikipedia rate limits, so those tips are unchanged.
-- Sound effects are synthesized beeps (Web Audio); there are no recorded sounds.
-- Progress is per-browser; the daily "one attempt" rule is honour-system (no server).
-- The reference lexicon used for distractors and the typo guard is hand-written and incomplete.
+- **Uneven coverage.** Four cars have a single photo, and two vehicle records (Dodge Charger, Ford F-150) have none, because their model names are part of the bodywork.
+- **More show photos than street photos** (71 vs 55). Commons mostly has show photos of classics and supercars.
+- **Expert usually asks for the generation.** Only 16 photos can prove a year range, and one (a 1969 Camaro) proves an exact year.
+- **Small Expert pools for some themes.** For example, Supercars on Expert has 3 cars, so those runs are short. The game shortens the run rather than repeating cars.
+- **An in-progress run is lost if the tab reloads.** For example, a phone browser can discard a background tab. Stats from the rounds already answered are kept.
+- **Fiat 500 tip not re-checked.** Every vehicle's tip and year range was checked against its reference article except the Fiat 500, whose article Wikipedia's API returned empty.
+- **Offline save fills on demand.** Saving photos for offline fetches them on request, and the service worker only caches photos as they are viewed.
+- **No server.** Sound effects are synthesized beeps; there are no recorded sounds. Progress is per browser. The daily "one attempt" and Party scores are on the honour system.
+- **Hand-written lexicon.** The reference lexicon used for distractors and the typo guard is hand-written and incomplete.
 
 ## Future features (not implemented)
 
-Server-validated daily results, multiplayer, leaderboards, community photo uploads/review queue, richer detail-challenge tooling, and recorded audio.
+Server-validated daily results, online multiplayer (Party is local pass-and-play only), leaderboards, resuming a run after a reload, community photo uploads/review queue, richer detail-challenge tooling, and recorded audio.
 
 ## Project layout
 

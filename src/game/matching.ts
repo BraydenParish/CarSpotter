@@ -350,14 +350,20 @@ export function matchGeneration(input: string, vehicle: Vehicle, makeAliases: Re
   toks = stripMake(toks, acceptedMakes(vehicle, makeAliases));
   // drop model words, e.g. "Golf Mk7" → "Mk7"
   const modelToks = new Set(acceptedModels(vehicle).flatMap(tokens));
-  const core = toks.filter((t) => !modelToks.has(t) || toks.length === 1);
+  const dropModel = (ts: string[]) => {
+    const kept = ts.filter((t) => !modelToks.has(t));
+    return kept.length ? kept : ts;
+  };
   const accepted = [gen.name, ...gen.aliases];
-  const typed = core.join('');
-  if (accepted.some((a) => compact(a) === typed)) return { correct: true, kind: 'exact', input, expected };
+  // Compare the typed text both as-is and with model words removed, against each accepted name
+  // treated the same way, so "Nuova 500", "Golf I" or "Sting Ray" match their own aliases.
+  const typedForms = new Set([toks.join(''), dropModel(toks).join('')]);
+  const acceptedForms = new Set(accepted.flatMap((a) => [compact(a), dropModel(tokens(a)).join('')]));
+  if ([...typedForms].some((t) => acceptedForms.has(t))) return { correct: true, kind: 'exact', input, expected };
   // Allow noise words ("Mk 7 generation", "the A80")
-  const stripped = core.filter((t) => !GEN_NOISE.has(t)).join('');
-  if (stripped && accepted.some((a) => tokens(a).filter((t) => !GEN_NOISE.has(t)).join('') === stripped)) {
-    return { correct: true, kind: 'alias', input, expected };
-  }
+  const noNoise = (ts: string[]) => ts.filter((t) => !GEN_NOISE.has(t)).join('');
+  const typedLoose = new Set([noNoise(toks), noNoise(dropModel(toks))].filter(Boolean));
+  const acceptedLoose = new Set(accepted.flatMap((a) => [noNoise(tokens(a)), noNoise(dropModel(tokens(a)))]).filter(Boolean));
+  if ([...typedLoose].some((t) => acceptedLoose.has(t))) return { correct: true, kind: 'alias', input, expected };
   return { correct: false, kind: 'wrong', input, expected };
 }

@@ -245,3 +245,26 @@ describe('answers for the third photo batch', () => {
     expect(model('Barracuda', 'dodge-challenger-1g').correct).toBe(false);
   });
 });
+
+describe('generation names that contain the model name', () => {
+  const gen = (input: string, id: string) => matchGeneration(input, v(id), MAKE_ALIASES).correct;
+  it('accepts every documented generation name and alias for every car', () => {
+    for (const vehicle of VEHICLES) {
+      if (!vehicle.generation) continue;
+      for (const name of [vehicle.generation.name, ...vehicle.generation.aliases]) {
+        expect(gen(name, vehicle.id), `${vehicle.id}: "${name}"`).toBe(true);
+      }
+    }
+  });
+
+  it('still rejects the bare model name and neighbouring generations', () => {
+    expect(gen('Nuova 500', 'fiat-500-nuova')).toBe(true);
+    expect(gen('500', 'fiat-500-nuova')).toBe(false);
+    expect(gen('Golf I', 'vw-golf-mk1')).toBe(true);
+    expect(gen('Golf', 'vw-golf-mk1')).toBe(false);
+    expect(gen('Mk7', 'vw-golf-mk1')).toBe(false);
+    expect(gen('Sting Ray', 'chevrolet-corvette-c2')).toBe(true);
+    expect(gen('C3', 'chevrolet-corvette-c2')).toBe(false);
+    expect(gen('964', 'porsche-911-993')).toBe(false);
+  });
+});
