@@ -249,8 +249,8 @@
       "angle": "front-quarter",
       "modelYear": {
         "from": 1987,
-        "to": 1992,
-        "basis": "No feature visible in the photo separates years within the 1987–1992 production run, so the full documented range is used."
+        "to": 1993,
+        "basis": "No visible feature separates F40 production years (1987–1993)."
       },
       "supports": {
         "make": true,
@@ -279,8 +279,8 @@
       "angle": "front-quarter",
       "modelYear": {
         "from": 1987,
-        "to": 1992,
-        "basis": "No feature visible in the photo separates years within the 1987–1992 production run, so the full documented range is used."
+        "to": 1993,
+        "basis": "No visible feature separates F40 production years (1987–1993)."
       },
       "supports": {
         "make": true,
@@ -4139,6 +4139,546 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: grey C2 at Goodwood Revival."
+      }
+    },
+    {
+      "id": "renault-4-01",
+      "file": "File:Renault 4 (JKE 568).jpg",
+      "vehicleId": "renault-4",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Renault_4_(JKE_568).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_4",
+        "https://en.wikipedia.org/wiki/Renault_4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: turquoise R4 on a show lawn."
+      }
+    },
+    {
+      "id": "renault-4-02",
+      "file": "File:Renault 4 (3807796918).jpg",
+      "vehicleId": "renault-4",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Renault_4_(3807796918).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_4",
+        "https://en.wikipedia.org/wiki/Renault_4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow R4 at a show."
+      }
+    },
+    {
+      "id": "renault-4-03",
+      "file": "File:Renault 4 (3761169745).jpg",
+      "vehicleId": "renault-4",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Renault_4_(3761169745).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_4",
+        "https://en.wikipedia.org/wiki/Renault_4"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"RENAULT 4\" badge on the front wing is legible."
+      }
+    },
+    {
+      "id": "renault-4-04",
+      "file": "File:Renault 4 (4612925350).jpg",
+      "vehicleId": "renault-4",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Renault_4_(4612925350).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_4",
+        "https://en.wikipedia.org/wiki/Renault_4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: green R4 in a car park."
+      }
+    },
+    {
+      "id": "renault-4-05",
+      "file": "File:FASA-España 1968 Renault 4 L Super (8530760779).jpg",
+      "vehicleId": "renault-4",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:FASA-España_1968_Renault_4_L_Super_(8530760779).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_4",
+        "https://en.wikipedia.org/wiki/Renault_4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: dark-blue Spanish-built R4 parked by a wall."
+      }
+    },
+    {
+      "id": "renault-4-06",
+      "file": "File:Renault 4L (16874252883).jpg",
+      "vehicleId": "renault-4",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Renault_4L_(16874252883).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_4",
+        "https://en.wikipedia.org/wiki/Renault_4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: turquoise early R4 parked on a street."
+      }
+    },
+    {
+      "id": "mercedes-w123-01",
+      "file": "File:'83 Mercedes-Benz (Auto classique St-Lambert VAQ '12).jpg",
+      "vehicleId": "mercedes-w123",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1986,
+        "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'83_Mercedes-Benz_(Auto_classique_St-Lambert_VAQ_'12).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red W123 saloon at a classic meet."
+      }
+    },
+    {
+      "id": "mercedes-w123-02",
+      "file": "File:1981 Mercedes-Benz (W123) (6379518289).jpg",
+      "vehicleId": "mercedes-w123",
+      "setting": "street",
+      "angle": "side",
+      "modelYear": {
+        "from": 1975,
+        "to": 1986,
+        "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1981_Mercedes-Benz_(W123)_(6379518289).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: dark W123 saloon parked on a street, side view."
+      }
+    },
+    {
+      "id": "mercedes-w123-03",
+      "file": "File:Azores-Day4-18 (33766682044).jpg",
+      "vehicleId": "mercedes-w123",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1975,
+        "to": 1986,
+        "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Azores-Day4-18_(33766682044).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: dark-blue W123 parked nose-on in a garage."
+      }
+    },
+    {
+      "id": "mercedes-w123-04",
+      "file": "File:1980 Mercedes-Benz W123.jpg",
+      "vehicleId": "mercedes-w123",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1986,
+        "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1980_Mercedes-Benz_W123.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: blue W123 parked in Wiesbaden."
+      }
+    },
+    {
+      "id": "mercedes-w123-05",
+      "file": "File:1979-1982 Mercedes-Benz W123 in Champagne Metallic, front right, 2023-07-27.jpg",
+      "vehicleId": "mercedes-w123",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1986,
+        "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1979-1982_Mercedes-Benz_W123_in_Champagne_Metallic,_front_right,_2023-07-27.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: champagne W123 in a car park."
+      }
+    },
+    {
+      "id": "mercedes-w123-06",
+      "file": "File:Auto Mercedes-Benz W123 Kaliningrad Mussorgskogo street Р656МВ39 2021-08 540.jpg",
+      "vehicleId": "mercedes-w123",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1975,
+        "to": 1986,
+        "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Auto_Mercedes-Benz_W123_Kaliningrad_Mussorgskogo_street_Р656МВ39_2021-08_540.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: green W123 parked on a street in Kaliningrad."
+      }
+    },
+    {
+      "id": "plymouth-barracuda-3g-01",
+      "file": "File:'70 Plymouth Barracuda (Les chauds vendredis '12).jpg",
+      "vehicleId": "plymouth-barracuda-3g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Les_chauds_vendredis_'12).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+        "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: pink 1970 Barracuda with hood open at a cruise night."
+      }
+    },
+    {
+      "id": "plymouth-barracuda-3g-02",
+      "file": "File:'70 Plymouth Barracuda (Auto classique Café Intervallo).JPG",
+      "vehicleId": "plymouth-barracuda-3g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Auto_classique_Café_Intervallo).JPG",
+        "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+        "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white 1970 Barracuda at a café meet."
+      }
+    },
+    {
+      "id": "plymouth-barracuda-3g-03",
+      "file": "File:'70 Plymouth Barracuda ('12 Les chauds vendredis).JPG",
+      "vehicleId": "plymouth-barracuda-3g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_('12_Les_chauds_vendredis).JPG",
+        "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+        "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: blue 1970 Barracuda at a cruise night."
+      }
+    },
+    {
+      "id": "plymouth-barracuda-3g-04",
+      "file": "File:'70 Plymouth Barracuda (Bagnoles au bord de l'eau '12).JPG",
+      "vehicleId": "plymouth-barracuda-3g",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Bagnoles_au_bord_de_l'eau_'12).JPG",
+        "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+        "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: orange 1970 Barracuda at a church car show."
+      }
+    },
+    {
+      "id": "plymouth-barracuda-3g-05",
+      "file": "File:'70 Plymouth Barracuda (Cruisin' At The Boardwalk '13).JPG",
+      "vehicleId": "plymouth-barracuda-3g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Cruisin'_At_The_Boardwalk_'13).JPG",
+        "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+        "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: blue 1970 Barracuda with shaker hood."
+      }
+    },
+    {
+      "id": "plymouth-barracuda-3g-06",
+      "file": "File:1970 Plymouth 'Cuda (31659179851).jpg",
+      "vehicleId": "plymouth-barracuda-3g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Plymouth_'Cuda_(31659179851).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+        "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: orange 1970 Cuda in a museum."
       }
     }
   ]

@@ -232,3 +232,16 @@ describe('answers for the second photo batch', () => {
     expect(model('Corvair', 'chevrolet-corvette-c2').correct).toBe(false);
   });
 });
+
+describe('answers for the third photo batch', () => {
+  it('handles the Renault 4, W123 and Barracuda', () => {
+    expect(model('R4', 'renault-4').correct).toBe(true);
+    expect(model('4L', 'renault-4').correct).toBe(true);
+    expect(model('5', 'renault-4').correct).toBe(false);
+    expect(model('240D', 'mercedes-w123').correct).toBe(true);
+    expect(model('W124', 'mercedes-w123').correct).toBe(false);
+    expect(model("'Cuda", 'plymouth-barracuda-3g').correct).toBe(true);
+    expect(model('Challenger', 'plymouth-barracuda-3g').correct).toBe(false);
+    expect(model('Barracuda', 'dodge-challenger-1g').correct).toBe(false);
+  });
+});

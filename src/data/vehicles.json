@@ -240,9 +240,9 @@
     "generation": null,
     "bodyStyle": "coupe",
     "country": "Italy",
-    "years": [1987, 1992],
+    "years": [1987, 1993],
     "categories": ["supercar", "european"],
-    "tip": "Huge full-width integrated rear wing, a louvred clear engine cover and NACA ducts in the bonnet and flanks.",
+    "tip": "Spartan Pininfarina wedge with Kevlar, carbon-fibre and aluminium panels and plastic windows (the first fifty had sliding Lexan side windows); every F40 left the factory in Rosso Corsa red.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_F40"
   },
   {
@@ -675,5 +675,123 @@
     ],
     "tip": "Sharp-edged Sting Ray body with hidden headlamps in rotating housings; the 1963 coupé alone has the split rear window.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+  },
+  {
+    "id": "renault-4",
+    "make": "Renault",
+    "model": "4",
+    "modelAliases": [
+      "R4",
+      "4L",
+      "Quatrelle",
+      "Renault 4L",
+      "4 L"
+    ],
+    "extraWords": [
+      "L",
+      "TL",
+      "GTL",
+      "Parisienne",
+      "Super"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      1961,
+      1994
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Upright, boxy little car with a top-hinged one-piece tailgate (often called the first mass-produced hatchback) and a full-width body roomier than the 2CV's.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Renault_4"
+  },
+{
+    "id": "mercedes-w123",
+    "make": "Mercedes-Benz",
+    "model": "W123",
+    "modelAliases": [
+      "123",
+      "W 123",
+      "200",
+      "230",
+      "230E",
+      "240D",
+      "240 D",
+      "250",
+      "280E",
+      "300D",
+      "300 D",
+      "200D",
+      "220D"
+    ],
+    "extraWords": [
+      "D",
+      "E",
+      "TD",
+      "CE"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [
+      1975,
+      1986
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Upright, square-cut saloon with horizontal headlamps, wide ribbed tail-lights and indicators on the outer edges of the front; round-lamp fronts on lower models until 1983 (and in North America), rectangular lamps otherwise.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+  },
+  {
+    "id": "plymouth-barracuda-3g",
+    "make": "Plymouth",
+    "model": "Barracuda",
+    "modelAliases": [
+      "'Cuda",
+      "Cuda",
+      "Hemi Cuda",
+      "Hemi 'Cuda",
+      "AAR Cuda",
+      "AAR 'Cuda"
+    ],
+    "extraWords": [
+      "Hemi",
+      "440",
+      "340",
+      "383",
+      "Gran Coupe",
+      "AAR"
+    ],
+    "generation": {
+      "name": "Third generation",
+      "aliases": [
+        "3rd generation",
+        "third gen",
+        "3rd gen",
+        "E-body",
+        "third",
+        "3rd"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1970,
+      1974
+    ],
+    "categories": [
+      "muscle",
+      "american",
+      "classic"
+    ],
+    "tip": "Short, wide E-body pony car that shares its platform but no sheet metal with the Dodge Challenger: two headlamps instead of the Challenger's four (only the 1971 Barracuda had four).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
   }
 ]

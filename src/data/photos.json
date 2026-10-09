@@ -731,8 +731,8 @@
     "angle": "front-quarter",
     "modelYear": {
       "from": 1987,
-      "to": 1992,
-      "basis": "No feature visible in the photo separates years within the 1987–1992 production run, so the full documented range is used."
+      "to": 1993,
+      "basis": "No visible feature separates F40 production years (1987–1993)."
     },
     "supports": {
       "make": true,
@@ -776,8 +776,8 @@
     "angle": "front-quarter",
     "modelYear": {
       "from": 1987,
-      "to": 1992,
-      "basis": "No feature visible in the photo separates years within the 1987–1992 production run, so the full documented range is used."
+      "to": 1993,
+      "basis": "No visible feature separates F40 production years (1987–1993)."
     },
     "supports": {
       "make": true,
@@ -1302,6 +1302,51 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: black NSX at a seaside meet; plate carries no model name."
+    }
+  },
+  {
+    "id": "honda-nsx-na-02",
+    "vehicleId": "honda-nsx-na",
+    "kind": "full",
+    "image": "photos/honda-nsx-na-02.webp",
+    "imageSmall": "photos/honda-nsx-na-02-sm.webp",
+    "width": 1600,
+    "height": 1054,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1990,
+      "to": 2001,
+      "basis": "Smooth nose with the pop-up headlamps retracted: the NSX kept pop-ups until the 2002 facelift replaced them with fixed headlamps, so this is a 1990–2001 car."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Dieppe,_France_(3496694790).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Honda_NSX_(1st_generation)",
+      "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+    ],
+    "source": {
+      "title": "File:Dieppe, France (3496694790).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dieppe,_France_(3496694790).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dieppe%2C_France_%283496694790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mic from Reading - Berkshire, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Dieppe, France (3496694790).jpg” by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, via Wikimedia Commons (Dieppe, France)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: orange NSX nose-on; plate carries no model name."
     }
   },
   {
@@ -2385,6 +2430,321 @@
     }
   },
   {
+    "id": "mercedes-g-class-w463-03",
+    "vehicleId": "mercedes-g-class-w463",
+    "kind": "full",
+    "image": "photos/mercedes-g-class-w463-03.webp",
+    "imageSmall": "photos/mercedes-g-class-w463-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "side",
+    "modelYear": {
+      "from": 1990,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 1990–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Geländewagen_(12803659694).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W_463_(1990–2018)",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+    ],
+    "source": {
+      "title": "File:Mercedes-Benz Geländewagen (12803659694).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Gel%C3%A4ndewagen_(12803659694).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mercedes-Benz_Gel%C3%A4ndewagen_%2812803659694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "nakhon100",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Mercedes-Benz Geländewagen (12803659694).jpg” by nakhon100, CC BY 2.0, via Wikimedia Commons (Mercedes-Benz Geländewagen)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black long-wheelbase G in a car park, side view."
+    }
+  },
+  {
+    "id": "mercedes-w123-01",
+    "vehicleId": "mercedes-w123",
+    "kind": "full",
+    "image": "photos/mercedes-w123-01.webp",
+    "imageSmall": "photos/mercedes-w123-01-sm.webp",
+    "width": 1600,
+    "height": 1102,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'83_Mercedes-Benz_(Auto_classique_St-Lambert_VAQ_'12).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:'83 Mercedes-Benz (Auto classique St-Lambert VAQ '12).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2783_Mercedes-Benz_(Auto_classique_St-Lambert_VAQ_%2712).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/%2783_Mercedes-Benz_%28Auto_classique_St-Lambert_VAQ_%2712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'83 Mercedes-Benz (Auto classique St-Lambert VAQ '12).jpg” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red W123 saloon at a classic meet."
+    }
+  },
+  {
+    "id": "mercedes-w123-02",
+    "vehicleId": "mercedes-w123",
+    "kind": "full",
+    "image": "photos/mercedes-w123-02.webp",
+    "imageSmall": "photos/mercedes-w123-02-sm.webp",
+    "width": 1600,
+    "height": 886,
+    "setting": "street",
+    "angle": "side",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1981_Mercedes-Benz_(W123)_(6379518289).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:1981 Mercedes-Benz (W123) (6379518289).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1981_Mercedes-Benz_(W123)_(6379518289).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1981_Mercedes-Benz_%28W123%29_%286379518289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Spanish Coches",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1981 Mercedes-Benz (W123) (6379518289).jpg” by Spanish Coches, CC BY 2.0, via Wikimedia Commons (1981 Mercedes-Benz [W123])",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark W123 saloon parked on a street, side view."
+    }
+  },
+  {
+    "id": "mercedes-w123-03",
+    "vehicleId": "mercedes-w123",
+    "kind": "full",
+    "image": "photos/mercedes-w123-03.webp",
+    "imageSmall": "photos/mercedes-w123-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Azores-Day4-18_(33766682044).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:Azores-Day4-18 (33766682044).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Azores-Day4-18_(33766682044).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Azores-Day4-18_%2833766682044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ajay Suresh from New York, NY, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Azores-Day4-18 (33766682044).jpg” by Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons (Azores-Day4-18)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-blue W123 parked nose-on in a garage."
+    }
+  },
+  {
+    "id": "mercedes-w123-04",
+    "vehicleId": "mercedes-w123",
+    "kind": "full",
+    "image": "photos/mercedes-w123-04.webp",
+    "imageSmall": "photos/mercedes-w123-04-sm.webp",
+    "width": 1600,
+    "height": 1109,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1980_Mercedes-Benz_W123.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:1980 Mercedes-Benz W123.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1980_Mercedes-Benz_W123.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1980_Mercedes-Benz_W123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1980 Mercedes-Benz W123.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/49534634162/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue W123 parked in Wiesbaden."
+    }
+  },
+  {
+    "id": "mercedes-w123-05",
+    "vehicleId": "mercedes-w123",
+    "kind": "full",
+    "image": "photos/mercedes-w123-05.webp",
+    "imageSmall": "photos/mercedes-w123-05-sm.webp",
+    "width": 1600,
+    "height": 908,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1979-1982_Mercedes-Benz_W123_in_Champagne_Metallic,_front_right,_2023-07-27.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:1979-1982 Mercedes-Benz W123 in Champagne Metallic, front right, 2023-07-27.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1979-1982_Mercedes-Benz_W123_in_Champagne_Metallic,_front_right,_2023-07-27.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1979-1982_Mercedes-Benz_W123_in_Champagne_Metallic%2C_front_right%2C_2023-07-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1979-1982 Mercedes-Benz W123 in Champagne Metallic, front right, 2023-07-27.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: champagne W123 in a car park."
+    }
+  },
+  {
+    "id": "mercedes-w123-06",
+    "vehicleId": "mercedes-w123",
+    "kind": "full",
+    "image": "photos/mercedes-w123-06.webp",
+    "imageSmall": "photos/mercedes-w123-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Auto_Mercedes-Benz_W123_Kaliningrad_Mussorgskogo_street_Р656МВ39_2021-08_540.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:Auto Mercedes-Benz W123 Kaliningrad Mussorgskogo street Р656МВ39 2021-08 540.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Auto_Mercedes-Benz_W123_Kaliningrad_Mussorgskogo_street_%D0%A0656%D0%9C%D0%9239_2021-08_540.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Auto_Mercedes-Benz_W123_Kaliningrad_Mussorgskogo_street_%D0%A0656%D0%9C%D0%9239_2021-08_540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Artyom Svetlov",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“Auto Mercedes-Benz W123 Kaliningrad Mussorgskogo street Р656МВ39 2021-08 540.jpg” by Artyom Svetlov, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green W123 parked on a street in Kaliningrad."
+    }
+  },
+  {
     "id": "mini-classic-01",
     "vehicleId": "mini-classic",
     "kind": "full",
@@ -2978,6 +3338,276 @@
     }
   },
   {
+    "id": "plymouth-barracuda-3g-01",
+    "vehicleId": "plymouth-barracuda-3g",
+    "kind": "full",
+    "image": "photos/plymouth-barracuda-3g-01.webp",
+    "imageSmall": "photos/plymouth-barracuda-3g-01-sm.webp",
+    "width": 1600,
+    "height": 1165,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Les_chauds_vendredis_'12).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+      "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    ],
+    "source": {
+      "title": "File:'70 Plymouth Barracuda (Les chauds vendredis '12).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Plymouth_Barracuda_(Les_chauds_vendredis_%2712).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/%2770_Plymouth_Barracuda_%28Les_chauds_vendredis_%2712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Plymouth Barracuda (Les chauds vendredis '12).jpg” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: pink 1970 Barracuda with hood open at a cruise night."
+    }
+  },
+  {
+    "id": "plymouth-barracuda-3g-02",
+    "vehicleId": "plymouth-barracuda-3g",
+    "kind": "full",
+    "image": "photos/plymouth-barracuda-3g-02.webp",
+    "imageSmall": "photos/plymouth-barracuda-3g-02-sm.webp",
+    "width": 1600,
+    "height": 798,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Auto_classique_Café_Intervallo).JPG",
+      "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+      "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    ],
+    "source": {
+      "title": "File:'70 Plymouth Barracuda (Auto classique Café Intervallo).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Plymouth_Barracuda_(Auto_classique_Caf%C3%A9_Intervallo).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%2770_Plymouth_Barracuda_%28Auto_classique_Caf%C3%A9_Intervallo%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Plymouth Barracuda (Auto classique Café Intervallo).JPG” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white 1970 Barracuda at a café meet."
+    }
+  },
+  {
+    "id": "plymouth-barracuda-3g-03",
+    "vehicleId": "plymouth-barracuda-3g",
+    "kind": "full",
+    "image": "photos/plymouth-barracuda-3g-03.webp",
+    "imageSmall": "photos/plymouth-barracuda-3g-03-sm.webp",
+    "width": 1600,
+    "height": 1017,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_('12_Les_chauds_vendredis).JPG",
+      "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+      "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    ],
+    "source": {
+      "title": "File:'70 Plymouth Barracuda ('12 Les chauds vendredis).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Plymouth_Barracuda_(%2712_Les_chauds_vendredis).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%2770_Plymouth_Barracuda_%28%2712_Les_chauds_vendredis%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Plymouth Barracuda ('12 Les chauds vendredis).JPG” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue 1970 Barracuda at a cruise night."
+    }
+  },
+  {
+    "id": "plymouth-barracuda-3g-04",
+    "vehicleId": "plymouth-barracuda-3g",
+    "kind": "full",
+    "image": "photos/plymouth-barracuda-3g-04.webp",
+    "imageSmall": "photos/plymouth-barracuda-3g-04-sm.webp",
+    "width": 1600,
+    "height": 1143,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Bagnoles_au_bord_de_l'eau_'12).JPG",
+      "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+      "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    ],
+    "source": {
+      "title": "File:'70 Plymouth Barracuda (Bagnoles au bord de l'eau '12).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Plymouth_Barracuda_(Bagnoles_au_bord_de_l%27eau_%2712).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%2770_Plymouth_Barracuda_%28Bagnoles_au_bord_de_l%27eau_%2712%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Plymouth Barracuda (Bagnoles au bord de l'eau '12).JPG” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: orange 1970 Barracuda at a church car show."
+    }
+  },
+  {
+    "id": "plymouth-barracuda-3g-05",
+    "vehicleId": "plymouth-barracuda-3g",
+    "kind": "full",
+    "image": "photos/plymouth-barracuda-3g-05.webp",
+    "imageSmall": "photos/plymouth-barracuda-3g-05-sm.webp",
+    "width": 1600,
+    "height": 1133,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Plymouth_Barracuda_(Cruisin'_At_The_Boardwalk_'13).JPG",
+      "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+      "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    ],
+    "source": {
+      "title": "File:'70 Plymouth Barracuda (Cruisin' At The Boardwalk '13).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Plymouth_Barracuda_(Cruisin%27_At_The_Boardwalk_%2713).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%2770_Plymouth_Barracuda_%28Cruisin%27_At_The_Boardwalk_%2713%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Plymouth Barracuda (Cruisin' At The Boardwalk '13).JPG” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue 1970 Barracuda with shaker hood."
+    }
+  },
+  {
+    "id": "plymouth-barracuda-3g-06",
+    "vehicleId": "plymouth-barracuda-3g",
+    "kind": "full",
+    "image": "photos/plymouth-barracuda-3g-06.webp",
+    "imageSmall": "photos/plymouth-barracuda-3g-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Plymouth_'Cuda_(31659179851).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Plymouth_Barracuda",
+      "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    ],
+    "source": {
+      "title": "File:1970 Plymouth 'Cuda (31659179851).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_%27Cuda_(31659179851).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/1970_Plymouth_%27Cuda_%2831659179851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Plymouth 'Cuda (31659179851).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1970 Plymouth 'Cuda)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: orange 1970 Cuda in a museum."
+    }
+  },
+  {
     "id": "porsche-356-01",
     "vehicleId": "porsche-356",
     "kind": "full",
@@ -3245,6 +3875,186 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: black 993 in a showroom."
+    }
+  },
+  {
+    "id": "renault-4-01",
+    "vehicleId": "renault-4",
+    "kind": "full",
+    "image": "photos/renault-4-01.webp",
+    "imageSmall": "photos/renault-4-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Renault_4_(JKE_568).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_4",
+      "https://en.wikipedia.org/wiki/Renault_4"
+    ],
+    "source": {
+      "title": "File:Renault 4 (JKE 568).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Renault_4_(JKE_568).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Renault_4_%28JKE_568%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Chepe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Renault 4 (JKE 568).jpg” by Chepe, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: turquoise R4 on a show lawn."
+    }
+  },
+  {
+    "id": "renault-4-02",
+    "vehicleId": "renault-4",
+    "kind": "full",
+    "image": "photos/renault-4-02.webp",
+    "imageSmall": "photos/renault-4-02-sm.webp",
+    "width": 1600,
+    "height": 1242,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Renault_4_(3807796918).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_4",
+      "https://en.wikipedia.org/wiki/Renault_4"
+    ],
+    "source": {
+      "title": "File:Renault 4 (3807796918).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Renault_4_(3807796918).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Renault_4_%283807796918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "allen watkin from London, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Renault 4 (3807796918).jpg” by allen watkin from London, UK, CC BY-SA 2.0, via Wikimedia Commons (Renault 4)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: yellow R4 at a show."
+    }
+  },
+  {
+    "id": "renault-4-05",
+    "vehicleId": "renault-4",
+    "kind": "full",
+    "image": "photos/renault-4-05.webp",
+    "imageSmall": "photos/renault-4-05-sm.webp",
+    "width": 1600,
+    "height": 874,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:FASA-España_1968_Renault_4_L_Super_(8530760779).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_4",
+      "https://en.wikipedia.org/wiki/Renault_4"
+    ],
+    "source": {
+      "title": "File:FASA-España 1968 Renault 4 L Super (8530760779).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:FASA-Espa%C3%B1a_1968_Renault_4_L_Super_(8530760779).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/FASA-Espa%C3%B1a_1968_Renault_4_L_Super_%288530760779%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Spanish Coches",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“FASA-España 1968 Renault 4 L Super (8530760779).jpg” by Spanish Coches, CC BY 2.0, via Wikimedia Commons (FASA-España 1968 Renault 4 L Super)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-blue Spanish-built R4 parked by a wall."
+    }
+  },
+  {
+    "id": "renault-4-06",
+    "vehicleId": "renault-4",
+    "kind": "full",
+    "image": "photos/renault-4-06.webp",
+    "imageSmall": "photos/renault-4-06-sm.webp",
+    "width": 1600,
+    "height": 1241,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Renault_4L_(16874252883).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_4",
+      "https://en.wikipedia.org/wiki/Renault_4"
+    ],
+    "source": {
+      "title": "File:Renault 4L (16874252883).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Renault_4L_(16874252883).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Renault_4L_%2816874252883%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dennis Elzinga",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Renault 4L (16874252883).jpg” by Dennis Elzinga, CC BY 2.0, via Wikimedia Commons (Renault 4L)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: turquoise early R4 parked on a street."
     }
   },
   {
