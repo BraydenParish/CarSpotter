@@ -2540,5 +2540,322 @@
     ],
     "tip": "Pelle Petterson-styled 2+2 (1961–1973), first built by Jensen: a long bonnet, egg-crate grille, a dipped chrome side crease and small rear fins; the glass-tailgate 1800ES shooting brake came in 1972. The Saint drove one.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Volvo_P1800"
+  },
+  {
+    "id": "porsche-boxster-986",
+    "make": "Porsche",
+    "model": "Boxster",
+    "modelAliases": [
+      "Boxster S",
+      "Boxster 986",
+      "986 Boxster"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "S",
+      "2.5",
+      "2.7",
+      "3.2",
+      "Spyder",
+      "550",
+      "Special Edition",
+      "Roadster"
+    ],
+    "generation": {
+      "name": "986",
+      "aliases": [
+        "type 986",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "roadster",
+    "country": "Germany",
+    "years": [
+      1996,
+      2004
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "Porsche's first mid-engined roadster since the 914 (986, late 1996–2004): a short two-seater with a fabric top, the same bonnet, wings and 'fried egg' teardrop headlamps as the 996-generation 911, and air intakes ahead of the rear wheels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+  },
+{
+    "id": "bmw-z3",
+    "make": "BMW",
+    "model": "Z3",
+    "modelAliases": [
+      "Z3 Roadster",
+      "Z3 Coupe",
+      "Z3 Coupé",
+      "M Roadster",
+      "M Coupe",
+      "M Coupé",
+      "Z3 M",
+      "Z3M"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "Roadster",
+      "Coupe",
+      "Coupé",
+      "1.8",
+      "1.9",
+      "2.0",
+      "2.2",
+      "2.8",
+      "3.0",
+      "M",
+      "i",
+      "is"
+    ],
+    "generation": {
+      "name": "E36/7",
+      "aliases": [
+        "E36/8",
+        "E36-7",
+        "E36-8",
+        "E367",
+        "E368",
+        "E36 7",
+        "E36 8"
+      ]
+    },
+    "bodyStyle": "roadster",
+    "country": "Germany",
+    "years": [
+      1995,
+      2002
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "BMW's 1995–2002 two-seater on a shortened E36 platform, sold as a roadster (E36/7) and as the 'clown shoe' shooting-brake coupé (E36/8): a long bonnet, kidney grille set low between slanted headlamps, and gill-like side vents behind the front wheels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_Z3"
+  },
+{
+    "id": "jaguar-xk120",
+    "make": "Jaguar",
+    "model": "XK120",
+    "modelAliases": [
+      "XK 120",
+      "XK-120",
+      "XK120 Roadster",
+      "XK120 OTS",
+      "XK120 FHC",
+      "XK120 DHC"
+    ],
+    "makeAliases": [
+      "Jag"
+    ],
+    "extraWords": [
+      "OTS",
+      "FHC",
+      "DHC",
+      "Roadster",
+      "Open Two-Seater",
+      "Fixed Head Coupe",
+      "Drophead",
+      "SE"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "United Kingdom",
+    "years": [
+      1948,
+      1954
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Jaguar's first post-war sports car (1948–1954), once the world's fastest production car: a long, flowing body with a narrow vertical-bar oval grille, separate headlamp pods on the wings, faired-in rear wheels and a split windscreen on the open two-seater.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Jaguar_XK120"
+  },
+{
+    "id": "austin-healey-3000",
+    "make": "Austin-Healey",
+    "model": "3000",
+    "modelAliases": [
+      "Healey 3000",
+      "Big Healey",
+      "3000 Mk I",
+      "3000 Mk II",
+      "3000 Mk III",
+      "BN7",
+      "BT7",
+      "BJ7",
+      "BJ8"
+    ],
+    "makeAliases": [
+      "Austin Healey",
+      "Healey",
+      "BMC"
+    ],
+    "extraWords": [
+      "Mk",
+      "Mark",
+      "I",
+      "II",
+      "III",
+      "1",
+      "2",
+      "3",
+      "BN7",
+      "BT7",
+      "BJ7",
+      "BJ8",
+      "Convertible",
+      "Roadster"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "United Kingdom",
+    "years": [
+      1959,
+      1967
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "The best-known 'Big Healey' (1959–1967), bodied by Jensen and built at Abingdon: a low, long-bonneted roadster with a wide oval grille of vertical bars, a bonnet scoop and a sweeping two-tone side flash.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+  },
+{
+    "id": "triumph-tr6",
+    "make": "Triumph",
+    "model": "TR6",
+    "modelAliases": [
+      "TR 6",
+      "TR-6",
+      "TR6 PI"
+    ],
+    "makeAliases": [
+      "Standard-Triumph",
+      "British Leyland"
+    ],
+    "extraWords": [
+      "PI",
+      "CR",
+      "CC",
+      "CP",
+      "Roadster",
+      "Injection",
+      "Hardtop"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "United Kingdom",
+    "years": [
+      1968,
+      1976
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Karmann-restyled successor to the TR5 (September 1968 – July 1976): a squared-off, flat-decked roadster with a full-width black grille between the round headlamps and a cut-off Kamm tail, on the older TR chassis.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Triumph_TR6"
+  },
+{
+    "id": "volvo-amazon",
+    "make": "Volvo",
+    "model": "Amazon",
+    "modelAliases": [
+      "Amazon 121",
+      "Amazon 122",
+      "121",
+      "122",
+      "122S",
+      "123GT",
+      "221",
+      "222",
+      "P120",
+      "P130",
+      "P220",
+      "Amazon Estate",
+      "Amazon Kombi"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "121",
+      "122",
+      "122S",
+      "123",
+      "123GT",
+      "S",
+      "GT",
+      "Estate",
+      "Kombi",
+      "Wagon",
+      "Sport"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Sweden",
+    "years": [
+      1956,
+      1970
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "everyday"
+    ],
+    "tip": "Volvo's tall-bodied family car of 1956–1970 (sold as the 121/122S): rounded, slightly American-influenced styling with a twin-section grille, a pronounced side crease and small tail fins; two- and four-door saloons and an estate.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volvo_Amazon"
+  },
+{
+    "id": "vw-karmann-ghia",
+    "make": "Volkswagen",
+    "model": "Karmann Ghia",
+    "modelAliases": [
+      "Karmann-Ghia",
+      "Type 14",
+      "Typ 14",
+      "Ghia",
+      "Karmann Ghia Cabriolet",
+      "Karmann Ghia Coupe"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "Coupe",
+      "Coupé",
+      "Cabriolet",
+      "Cabrio",
+      "Convertible",
+      "1200",
+      "1300",
+      "1500",
+      "1600",
+      "Type 14"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1955,
+      1975
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "Beetle-based 2+2 coupé and convertible (Type 14, 1955–1975) styled by Ghia and hand-built by Karmann: a low, rounded body with a sloping nose, small chrome-slatted 'nostril' grilles either side of the badge and no radiator grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
   }
 ]

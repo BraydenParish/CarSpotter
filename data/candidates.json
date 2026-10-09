@@ -15312,6 +15312,1806 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (t1b #14); Commons category: Volkswagen T1 buses. CC BY-SA 4.0 by JoachimKohler-HB."
       }
+    },
+    {
+      "id": "porsche-boxster-986-01",
+      "file": "File:1999 Porsche Boxster 2.5 Front.jpg",
+      "vehicleId": "porsche-boxster-986",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2004,
+        "basis": "No feature visible in the photo separates years within the 1996–2004 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1999_Porsche_Boxster_2.5_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_986_Boxster_(pre-facelift)",
+        "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (boxster986 #0); Commons category: Porsche 986 Boxster (pre-facelift). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "porsche-boxster-986-02",
+      "file": "File:2002-2004 Porsche Boxster (986) convertible (2012-06-24) 01.jpg",
+      "vehicleId": "porsche-boxster-986",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2004,
+        "basis": "No feature visible in the photo separates years within the 1996–2004 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2002-2004_Porsche_Boxster_(986)_convertible_(2012-06-24)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_986_Boxster",
+        "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (boxster986 #1); Commons category: Porsche 986 Boxster. Public domain by OSX."
+      }
+    },
+    {
+      "id": "porsche-boxster-986-03",
+      "file": "File:1999 Porsche Boxster (34815136166).jpg",
+      "vehicleId": "porsche-boxster-986",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2004,
+        "basis": "No feature visible in the photo separates years within the 1996–2004 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1999_Porsche_Boxster_(34815136166).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_986_Boxster_(pre-facelift)",
+        "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Dealer sale sheets in the windscreen; a Corvette and other cars crowd the frame."
+      }
+    },
+    {
+      "id": "porsche-boxster-986-04",
+      "file": "File:2000 Porsche Boxster S James Dean 550 Spyder Recreation.jpg",
+      "vehicleId": "porsche-boxster-986",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2004,
+        "basis": "No feature visible in the photo separates years within the 1996–2004 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2000_Porsche_Boxster_S_James_Dean_550_Spyder_Recreation.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_986_Boxster",
+        "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (boxster986 #8); Commons category: Porsche 986 Boxster. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "porsche-boxster-986-05",
+      "file": "File:2000 Porsche Boxster.jpg",
+      "vehicleId": "porsche-boxster-986",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2004,
+        "basis": "No feature visible in the photo separates years within the 1996–2004 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2000_Porsche_Boxster.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_986_Boxster_(pre-facelift)",
+        "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (boxster986 #9); Commons category: Porsche 986 Boxster (pre-facelift). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "porsche-boxster-986-06",
+      "file": "File:Porsche Boxster 986 (Orange Julep).jpg",
+      "vehicleId": "porsche-boxster-986",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2004,
+        "basis": "No feature visible in the photo separates years within the 1996–2004 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_Boxster_986_(Orange_Julep).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_986_Boxster_(pre-facelift)",
+        "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (boxster986 #10); Commons category: Porsche 986 Boxster (pre-facelift). Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "bmw-z3-01",
+      "file": "File:2001 BMW Z3 Roadster Automatic 2.2 Front.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2001_BMW_Z3_Roadster_Automatic_2.2_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/7",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #0); Commons category: BMW E36/7. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "bmw-z3-02",
+      "file": "File:1998 BMW Z3 1.9 Front (1).jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1998_BMW_Z3_1.9_Front_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/7",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #1); Commons category: BMW E36/7. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "bmw-z3-03",
+      "file": "File:1999 BMW Z3 1.9 Front.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1999_BMW_Z3_1.9_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/7",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #2); Commons category: BMW E36/7. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "bmw-z3-04",
+      "file": "File:BMW Z3 M (E36-8) 3201cc registered September 1999 01.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Z3_M_(E36-8)_3201cc_registered_September_1999_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Z3_M_(E36/8)",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #3); Commons category: BMW Z3 M (E36/8). CC BY-SA 4.0 by Charles01."
+      }
+    },
+    {
+      "id": "bmw-z3-05",
+      "file": "File:1997 BMW Z3 (E36-7) convertible (27020958151).jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_BMW_Z3_(E36-7)_convertible_(27020958151).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/7",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #5); Commons category: BMW E36/7. CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "bmw-z3-06",
+      "file": "File:1997 BMW Z3 1.9.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_BMW_Z3_1.9.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/7",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #6); Commons category: BMW E36/7. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "bmw-z3-07",
+      "file": "File:1999 BMW Z3 Coupé 2.8i (E36 8) (51298099157).jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1999_BMW_Z3_Coupé_2.8i_(E36_8)_(51298099157).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/8",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #8); Commons category: BMW E36/8. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "bmw-z3-08",
+      "file": "File:1999 BMW Z3 M Coupe Blue.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1999_BMW_Z3_M_Coupe_Blue.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Z3_M_(E36/8)",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #10); Commons category: BMW Z3 M (E36/8). CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "bmw-z3-09",
+      "file": "File:2000 BMW Z3 2.8 roadster, front left, 06-14-2025.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2000_BMW_Z3_2.8_roadster,_front_left,_06-14-2025.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E36/7",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #12); Commons category: BMW E36/7. CC BY-SA 4.0 by MercurySable99."
+      }
+    },
+    {
+      "id": "bmw-z3-10",
+      "file": "File:2002 BMW Z3 M Coupe 1.jpg",
+      "vehicleId": "bmw-z3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1995,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1995–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2002_BMW_Z3_M_Coupe_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Z3_M_(E36/8)",
+        "https://en.wikipedia.org/wiki/BMW_Z3"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z3 #14); Commons category: BMW Z3 M (E36/8). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "jaguar-xk120-01",
+      "file": "File:1953 Jaguar XK120 Fixed Head Coupé in Black, front right.jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1953_Jaguar_XK120_Fixed_Head_Coupé_in_Black,_front_right.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_fixed_head_coupé",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #0); Commons category: Jaguar XK120 fixed head coupé. CC BY-SA 4.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "jaguar-xk120-02",
+      "file": "File:1950 Jaguar XK120 HCC22.jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1950_Jaguar_XK120_HCC22.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #2); Commons category: Jaguar XK120 Open Two-Seater. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "jaguar-xk120-03",
+      "file": "File:1950 Jaguar XK120 Open Two-Seater Classic-Gala 2025 DSC 0973 (cropped).jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1950_Jaguar_XK120_Open_Two-Seater_Classic-Gala_2025_DSC_0973_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #3); Commons category: Jaguar XK120 Open Two-Seater. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "jaguar-xk120-04",
+      "file": "File:1950 Jaguar XK120 Open Two-Seater Classic-Gala 2025 DSC 0973.jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1950_Jaguar_XK120_Open_Two-Seater_Classic-Gala_2025_DSC_0973.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Near-duplicate of jaguar-xk120-03 (same car, same spot)."
+      }
+    },
+    {
+      "id": "jaguar-xk120-05",
+      "file": "File:1950 Jaguar XK120 Open Two-Seater Classic-Gala 2025 DSC 0976.jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1950_Jaguar_XK120_Open_Two-Seater_Classic-Gala_2025_DSC_0976.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #5); Commons category: Jaguar XK120 Open Two-Seater. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "jaguar-xk120-06",
+      "file": "File:1951 Jaguar XK 120 (4784261885).jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1951_Jaguar_XK_120_(4784261885).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #6); Commons category: Jaguar XK120 Open Two-Seater. CC BY 2.0 by Spanish Coches."
+      }
+    },
+    {
+      "id": "jaguar-xk120-07",
+      "file": "File:1953 Jaguar XK 120 Fixed Head Coupé The Square downtown Bellows Falls VT August 2026 01.jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1953_Jaguar_XK_120_Fixed_Head_Coupé_The_Square_downtown_Bellows_Falls_VT_August_2026_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_fixed_head_coupé",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #8); Commons category: Jaguar XK120 fixed head coupé. CC BY 4.0 by Artaxerxes."
+      }
+    },
+    {
+      "id": "jaguar-xk120-08",
+      "file": "File:Jaguar XK 120 OTS SE Sachs Franken Classic 2018 P5190291.jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jaguar_XK_120_OTS_SE_Sachs_Franken_Classic_2018_P5190291.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #10); Commons category: Jaguar XK120 Open Two-Seater. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "jaguar-xk120-09",
+      "file": "File:Techno-Classica 2018, Essen (IMG 9285).jpg",
+      "vehicleId": "jaguar-xk120",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1954,
+        "basis": "No feature visible in the photo separates years within the 1948–1954 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9285).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_XK120_Open_Two-Seater",
+        "https://en.wikipedia.org/wiki/Jaguar_XK120"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xk120 #14); Commons category: Jaguar XK120 Open Two-Seater. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "austin-healey-3000-01",
+      "file": "File:Austin-Healey 3000 Mk III sports convertible (1962) Solitude Revival 2022 1X7A0112.jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Austin-Healey_3000_Mk_III_sports_convertible_(1962)_Solitude_Revival_2022_1X7A0112.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_III_sports_convertible",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #2); Commons category: Austin-Healey 3000 Mk III sports convertible. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "austin-healey-3000-02",
+      "file": "File:1961 Austin Healey 3000 MkII BN7 (25076924446).jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1961_Austin_Healey_3000_MkII_BN7_(25076924446).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_II",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Plate reads \"MF 3000\", spelling the model number."
+      }
+    },
+    {
+      "id": "austin-healey-3000-03",
+      "file": "File:1963 Austin Healey 3000 1.jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1963_Austin_Healey_3000_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_MK_I",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #5); Commons category: Austin-Healey 3000 MK I. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "austin-healey-3000-04",
+      "file": "File:2016 Twin Cities Auto Show (25442556640).jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Twin_Cities_Auto_Show_(25442556640).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_III_sports_convertible",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Bonnet badge reads \"Austin Healey 3000 Mk III\"."
+      }
+    },
+    {
+      "id": "austin-healey-3000-05",
+      "file": "File:Austin healey 3000 MK II BJ7 Sachs Franken Classic 2018 P5201063.jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Austin_healey_3000_MK_II_BJ7_Sachs_Franken_Classic_2018_P5201063.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_III_sports_convertible",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #8); Commons category: Austin-Healey 3000 Mk III sports convertible. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "austin-healey-3000-06",
+      "file": "File:Austin Healey 3000 MK Ii BJ8 Sachs Franken Classic 2018 P5190672.jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Austin_Healey_3000_MK_Ii_BJ8_Sachs_Franken_Classic_2018_P5190672.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_II",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #9); Commons category: Austin-Healey 3000 Mk II. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "austin-healey-3000-07",
+      "file": "File:Austin Healey 3000 MK1 Sachs Franken Classic 2018 P5190384.jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Austin_Healey_3000_MK1_Sachs_Franken_Classic_2018_P5190384.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_II",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #10); Commons category: Austin-Healey 3000 Mk II. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "austin-healey-3000-08",
+      "file": "File:Austin Healey 3000 MK1 Sachs Franken Classic 2018 P5201251.jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Austin_Healey_3000_MK1_Sachs_Franken_Classic_2018_P5201251.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_MK_I",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #11); Commons category: Austin-Healey 3000 MK I. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "austin-healey-3000-09",
+      "file": "File:Austin Healey (932166593).jpg",
+      "vehicleId": "austin-healey-3000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1959,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1959–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Austin_Healey_(932166593).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Austin-Healey_3000_Mk_III_sports_convertible",
+        "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ah3000 #14); Commons category: Austin-Healey 3000 Mk III sports convertible. CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "triumph-tr6-01",
+      "file": "File:1975 Triumph TR6 Injection 2.5 Front.jpg",
+      "vehicleId": "triumph-tr6",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1976,
+        "basis": "No feature visible in the photo separates years within the 1968–1976 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1975_Triumph_TR6_Injection_2.5_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1975_Triumph_TR6",
+        "https://en.wikipedia.org/wiki/Triumph_TR6"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"TR6\" badge on the grille is legible at full size."
+      }
+    },
+    {
+      "id": "triumph-tr6-02",
+      "file": "File:1973 Triumph TR6 Roadster (17860174816).jpg",
+      "vehicleId": "triumph-tr6",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1976,
+        "basis": "No feature visible in the photo separates years within the 1968–1976 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1973_Triumph_TR6_Roadster_(17860174816).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1973_Triumph_TR6",
+        "https://en.wikipedia.org/wiki/Triumph_TR6"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"TR6\" badge on the grille is legible at full size."
+      }
+    },
+    {
+      "id": "triumph-tr6-03",
+      "file": "File:1973 Triumph TR6 2.jpg",
+      "vehicleId": "triumph-tr6",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1976,
+        "basis": "No feature visible in the photo separates years within the 1968–1976 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1973_Triumph_TR6_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1973_Triumph_TR6",
+        "https://en.wikipedia.org/wiki/Triumph_TR6"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"TR6\" badge on the grille is legible at full size."
+      }
+    },
+    {
+      "id": "triumph-tr6-04",
+      "file": "File:Triumph TR6 ADAC Deutschland Klassik 2018 6302960.jpg",
+      "vehicleId": "triumph-tr6",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1976,
+        "basis": "No feature visible in the photo separates years within the 1968–1976 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Triumph_TR6_ADAC_Deutschland_Klassik_2018_6302960.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Triumph_TR6",
+        "https://en.wikipedia.org/wiki/Triumph_TR6"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tr6 #9); Commons category: Triumph TR6. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "triumph-tr6-05",
+      "file": "File:Triumph TR6 Sachs Franken Classic 2018 PI (CP)- P5190466.jpg",
+      "vehicleId": "triumph-tr6",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1976,
+        "basis": "No feature visible in the photo separates years within the 1968–1976 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Triumph_TR6_Sachs_Franken_Classic_2018_PI_(CP)-_P5190466.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Triumph_TR6",
+        "https://en.wikipedia.org/wiki/Triumph_TR6"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"TR6\" badge on the rear wing is legible at full size."
+      }
+    },
+    {
+      "id": "triumph-tr6-06",
+      "file": "File:'75 Triumph TR6 (Auto classique VAQ St-Lambert '12).jpg",
+      "vehicleId": "triumph-tr6",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1976,
+        "basis": "No feature visible in the photo separates years within the 1968–1976 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'75_Triumph_TR6_(Auto_classique_VAQ_St-Lambert_'12).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1975_Triumph_TR6",
+        "https://en.wikipedia.org/wiki/Triumph_TR6"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"TR6\" badge on the grille is legible at full size."
+      }
+    },
+    {
+      "id": "volvo-amazon-01",
+      "file": "File:1966 Volvo Amazon P 12194 front.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1966_Volvo_Amazon_P_12194_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P120",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #0); Commons category: Volvo P120. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "volvo-amazon-02",
+      "file": "File:1965 Volvo 121 Amazon.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Volvo_121_Amazon.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P120",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #3); Commons category: Volvo P120. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "volvo-amazon-03",
+      "file": "File:1967 Volvo Amazon 221 1.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Volvo_Amazon_221_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P220",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #6); Commons category: Volvo P220. CC0 by Calreyn88."
+      }
+    },
+    {
+      "id": "volvo-amazon-04",
+      "file": "File:1967 Volvo Amazon.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Volvo_Amazon.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P130",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #7); Commons category: Volvo P130. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "volvo-amazon-05",
+      "file": "File:Volvo Amazon 121 Sachs Franken Classic 2018 P5201084.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_Amazon_121_Sachs_Franken_Classic_2018_P5201084.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P130",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #9); Commons category: Volvo P130. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "volvo-amazon-06",
+      "file": "File:Volvo P121 Amazon Sachs Franken Classic 2018 P5190478.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_P121_Amazon_Sachs_Franken_Classic_2018_P5190478.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P130",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #10); Commons category: Volvo P130. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "volvo-amazon-07",
+      "file": "File:Volvo 122 (2910046796).jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_122_(2910046796).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P130",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #11); Commons category: Volvo P130. CC BY 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "volvo-amazon-08",
+      "file": "File:Volvo Amazon-P1150330PS.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_Amazon-P1150330PS.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P130",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #12); Commons category: Volvo P130. CC BY-SA 4.0 by ermell."
+      }
+    },
+    {
+      "id": "volvo-amazon-09",
+      "file": "File:Volvo 121 (Amazon) 01.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volvo_121_(Amazon)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P130",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #13); Commons category: Volvo P130. CC BY-SA 3.0 by Huhu Uet."
+      }
+    },
+    {
+      "id": "volvo-amazon-10",
+      "file": "File:1963 Volvo 121.jpg",
+      "vehicleId": "volvo-amazon",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1956,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1956–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1963_Volvo_121.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volvo_P220",
+        "https://en.wikipedia.org/wiki/Volvo_Amazon"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (amazon #14); Commons category: Volvo P220. CC BY 2.0 by NZ Car Freak."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-01",
+      "file": "File:1967 Volkswagen Type 14 Cabriolet Classic-Gala 2025 DSC 0836 (cropped).jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Volkswagen_Type_14_Cabriolet_Classic-Gala_2025_DSC_0836_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #0); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-02",
+      "file": "File:1969 Volkswagen Karmann Ghia 1.jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Volkswagen_Karmann_Ghia_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #2); Commons category: Volkswagen Type 14. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-03",
+      "file": "File:Volkswagen Karmann Ghia Cabrio Sachs Franken Classic 2018 P5190593.jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_Karmann_Ghia_Cabrio_Sachs_Franken_Classic_2018_P5190593.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #4); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-04",
+      "file": "File:Volkswagen Type 14 Cabriolet (1968) Classic-Gala 2022 1X7A0314 (cropped).jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_Type_14_Cabriolet_(1968)_Classic-Gala_2022_1X7A0314_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #6); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-05",
+      "file": "File:VW 1300 Karmann-Ghia Cabriolet (Typ 14) ADAC Deutschland Klassik 2018 6290579.jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:VW_1300_Karmann-Ghia_Cabriolet_(Typ_14)_ADAC_Deutschland_Klassik_2018_6290579.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #8); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-06",
+      "file": "File:VW 1300 Karmann-Ghia Cabriolet (Typ 14)- P6280013.jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:VW_1300_Karmann-Ghia_Cabriolet_(Typ_14)-_P6280013.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #9); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-07",
+      "file": "File:Detmold - 2016-08-27 - VW Karmann Ghia Coupe BJ 1966 (01).jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Detmold_-_2016-08-27_-_VW_Karmann_Ghia_Coupe_BJ_1966_(01).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #10); Commons category: Volkswagen Type 14. CC BY-SA 4.0 by Tsungam."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-08",
+      "file": "File:VW Karmann Ghia 2013-07-21 13-16-01.JPG",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:VW_Karmann_Ghia_2013-07-21_13-16-01.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #11); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 3.0 by Berthold Werner."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-09",
+      "file": "File:Höxter Germany VW-Karmann-Ghia-01.jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Höxter_Germany_VW-Karmann-Ghia-01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The \"Karmann\" coachbuilder badge on the wing is readable at full size."
+      }
+    },
+    {
+      "id": "vw-karmann-ghia-10",
+      "file": "File:2014 Rolling Sculpture Car Show 64 (1972 Volkswagen Karmann Ghia).jpg",
+      "vehicleId": "vw-karmann-ghia",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1955–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2014_Rolling_Sculpture_Car_Show_64_(1972_Volkswagen_Karmann_Ghia).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_14_Cabriolet",
+        "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (karmann #13); Commons category: Volkswagen Type 14 Cabriolet. CC BY-SA 4.0 by Michael Barera."
+      }
     }
   ]
 }
