@@ -1,5 +1,320 @@
 [
   {
+    "id": "aston-martin-db5-01",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-01.webp",
+    "imageSmall": "photos/aston-martin-db5-01-sm.webp",
+    "width": 1600,
+    "height": 1159,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1963_Aston_Martin_DB5_Vantage.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_Convertible",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:1963 Aston Martin DB5 Vantage.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1963_Aston_Martin_DB5_Vantage.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/1963_Aston_Martin_DB5_Vantage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1963 Aston Martin DB5 Vantage.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #0); Commons category: Aston Martin DB5 Convertible. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "aston-martin-db5-02",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-02.webp",
+    "imageSmall": "photos/aston-martin-db5-02-sm.webp",
+    "width": 1600,
+    "height": 982,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1964_Aston_Martin_DB5_Convertible_LC.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_Convertible",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:1964 Aston Martin DB5 Convertible LC.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1964_Aston_Martin_DB5_Convertible_LC.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1964_Aston_Martin_DB5_Convertible_LC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1964 Aston Martin DB5 Convertible LC.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #1); Commons category: Aston Martin DB5 Convertible. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "aston-martin-db5-03",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-03.webp",
+    "imageSmall": "photos/aston-martin-db5-03-sm.webp",
+    "width": 1600,
+    "height": 967,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Aston_Martin_DB5_Convertible_HCC22.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_Convertible",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:1965 Aston Martin DB5 Convertible HCC22.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Aston_Martin_DB5_Convertible_HCC22.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1965_Aston_Martin_DB5_Convertible_HCC22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1965 Aston Martin DB5 Convertible HCC22.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #3); Commons category: Aston Martin DB5 Convertible. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "aston-martin-db5-04",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-04.webp",
+    "imageSmall": "photos/aston-martin-db5-04-sm.webp",
+    "width": 1600,
+    "height": 950,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Aston_Martin_DB5_Shooting_Brake_SP24.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_Shooting_Brake",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:1965 Aston Martin DB5 Shooting Brake SP24.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Aston_Martin_DB5_Shooting_Brake_SP24.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/1965_Aston_Martin_DB5_Shooting_Brake_SP24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1965 Aston Martin DB5 Shooting Brake SP24.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #4); Commons category: Aston Martin DB5 Shooting Brake. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "aston-martin-db5-05",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-05.webp",
+    "imageSmall": "photos/aston-martin-db5-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1966_Aston_Martin_DB5_Shooting_Brake_LC_Zoom.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_Shooting_Brake",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:1966 Aston Martin DB5 Shooting Brake LC Zoom.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1966_Aston_Martin_DB5_Shooting_Brake_LC_Zoom.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/1966_Aston_Martin_DB5_Shooting_Brake_LC_Zoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1966 Aston Martin DB5 Shooting Brake LC Zoom.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #6); Commons category: Aston Martin DB5 Shooting Brake. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "aston-martin-db5-06",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-06.webp",
+    "imageSmall": "photos/aston-martin-db5-06-sm.webp",
+    "width": 1600,
+    "height": 1040,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1963_Aston_Martin_DB5_(James_Bond)_front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_in_James_Bond_film",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:1963 Aston Martin DB5 (James Bond) front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1963_Aston_Martin_DB5_(James_Bond)_front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/1963_Aston_Martin_DB5_%28James_Bond%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "DestinationFearFan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1963 Aston Martin DB5 (James Bond) front.jpg” by DestinationFearFan, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #7); Commons category: Aston Martin DB5 in James Bond film. CC BY-SA 4.0 by DestinationFearFan."
+    }
+  },
+  {
+    "id": "aston-martin-db5-07",
+    "vehicleId": "aston-martin-db5",
+    "kind": "full",
+    "image": "photos/aston-martin-db5-07.webp",
+    "imageSmall": "photos/aston-martin-db5-07-sm.webp",
+    "width": 1600,
+    "height": 1062,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1963–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB5_Volante.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Aston_Martin_DB5_Convertible",
+      "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    ],
+    "source": {
+      "title": "File:Aston Martin DB5 Volante.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB5_Volante.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Aston_Martin_DB5_Volante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Aston Martin DB5 Volante.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (db5 #10); Commons category: Aston Martin DB5 Convertible. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
     "id": "audi-tt-8n-01",
     "vehicleId": "audi-tt-8n",
     "kind": "full",
@@ -762,6 +1077,366 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (veyron #13); Commons category: Bugatti Veyron Grand Sport. CC BY 3.0 by Norbert Aepli, Switzerland (User:Noebu)."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-01",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-01.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_(4679927367).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Coupe",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet (4679927367).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_(4679927367).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/1957_Chevrolet_%284679927367%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet (4679927367).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #2); Commons category: 1957 Chevrolet Bel Air Sport Coupe. CC BY 2.0 by dave_7 from Lethbridge, Canada."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-02",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-02.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(20103779012).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Sedan",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Bel Air (20103779012).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(20103779012).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1957_Chevrolet_Bel_Air_%2820103779012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet Bel Air (20103779012).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet Bel Air)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #5); Commons category: 1957 Chevrolet Bel Air Sport Sedan. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-03",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-03.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-03-sm.webp",
+    "width": 1600,
+    "height": 1065,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(21395837158).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Coupe_(Customised)",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Bel Air (21395837158).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(21395837158).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/1957_Chevrolet_Bel_Air_%2821395837158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet Bel Air (21395837158).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet Bel Air)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #7); Commons category: 1957 Chevrolet Bel Air Sport Coupe (Customised). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-04",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-04.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-04-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Convertible_(32018846855).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Convertible",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Bel Air Convertible (32018846855).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Convertible_(32018846855).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1957_Chevrolet_Bel_Air_Convertible_%2832018846855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet Bel Air Convertible (32018846855).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet Bel Air Convertible)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #8); Commons category: 1957 Chevrolet Bel Air Convertible. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-05",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-05.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-05-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Convertible_(33342361716).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Convertible",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Bel Air Convertible (33342361716).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Convertible_(33342361716).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/1957_Chevrolet_Bel_Air_Convertible_%2833342361716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet Bel Air Convertible (33342361716).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet Bel Air Convertible)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #9); Commons category: 1957 Chevrolet Bel Air Convertible. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-06",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-06.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Sport_Coupe_P5200937.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Coupe",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Bel Air Sport Coupe P5200937.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Sport_Coupe_P5200937.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1957_Chevrolet_Bel_Air_Sport_Coupe_P5200937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1957 Chevrolet Bel Air Sport Coupe P5200937.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #10); Commons category: 1957 Chevrolet Bel Air Sport Coupe. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-07",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-07.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-07-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Sport_Coupe;_Hastings,_MN_(42233469505).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Coupe",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Bel Air Sport Coupe; Hastings, MN (42233469505).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_Sport_Coupe;_Hastings,_MN_(42233469505).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/1957_Chevrolet_Bel_Air_Sport_Coupe%3B_Hastings%2C_MN_%2842233469505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet Bel Air Sport Coupe; Hastings, MN (42233469505).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (DSC00813)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #11); Commons category: 1957 Chevrolet Bel Air Sport Coupe. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "chevrolet-bel-air-1957-08",
+    "vehicleId": "chevrolet-bel-air-1957",
+    "kind": "full",
+    "image": "photos/chevrolet-bel-air-1957-08.webp",
+    "imageSmall": "photos/chevrolet-bel-air-1957-08-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Belair_4_door_Hardtop_(23204355454).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Sedan",
+      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    ],
+    "source": {
+      "title": "File:1957 Chevrolet Belair 4 door Hardtop (23204355454).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Belair_4_door_Hardtop_(23204355454).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/1957_Chevrolet_Belair_4_door_Hardtop_%2823204355454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1957 Chevrolet Belair 4 door Hardtop (23204355454).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet Belair 4 door Hardtop)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (belair57 #13); Commons category: 1957 Chevrolet Bel Air Sport Sedan. CC BY 2.0 by Sicnag."
     }
   },
   {
@@ -3219,6 +3894,366 @@
     }
   },
   {
+    "id": "ford-model-t-01",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-01.webp",
+    "imageSmall": "photos/ford-model-t-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1909_Ford_Model_T_T1_Touring_model_(12703369904).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1908–1912)_Touring",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:1909 Ford Model T T1 Touring model (12703369904).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1909_Ford_Model_T_T1_Touring_model_(12703369904).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1909_Ford_Model_T_T1_Touring_model_%2812703369904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1909 Ford Model T T1 Touring model (12703369904).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1909 Ford Model T T1 Tourer)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #0); Commons category: Ford Model T (1908–1912) Touring. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "ford-model-t-02",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-02.webp",
+    "imageSmall": "photos/ford-model-t-02-sm.webp",
+    "width": 1600,
+    "height": 1154,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1914_Ford_Model_T_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1914)",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:1914 Ford Model T 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1914_Ford_Model_T_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1914_Ford_Model_T_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1914 Ford Model T 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #1); Commons category: Ford Model T (1914). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ford-model-t-03",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-03.webp",
+    "imageSmall": "photos/ford-model-t-03-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_Model_T_(1925)_Classic-Gala_2021_1X7A0217.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1925)",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:Ford Model T (1925) Classic-Gala 2021 1X7A0217.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_Model_T_(1925)_Classic-Gala_2021_1X7A0217.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ford_Model_T_%281925%29_Classic-Gala_2021_1X7A0217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ford Model T (1925) Classic-Gala 2021 1X7A0217.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #3); Commons category: Ford Model T (1925). CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "ford-model-t-04",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-04.webp",
+    "imageSmall": "photos/ford-model-t-04-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_Model_T_Touring_(1909)_Classic-Gala_2021_1X7A0211.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1909)",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:Ford Model T Touring (1909) Classic-Gala 2021 1X7A0211.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_Model_T_Touring_(1909)_Classic-Gala_2021_1X7A0211.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ford_Model_T_Touring_%281909%29_Classic-Gala_2021_1X7A0211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ford Model T Touring (1909) Classic-Gala 2021 1X7A0211.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #6); Commons category: Ford Model T (1909). CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "ford-model-t-05",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-05.webp",
+    "imageSmall": "photos/ford-model-t-05-sm.webp",
+    "width": 1600,
+    "height": 1048,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_Model_T_&_55_Chevrolet_Bel_Air_(9132862313).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1913–1914)_Touring",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:Ford Model T & 55 Chevrolet Bel Air (9132862313).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_Model_T_%26_55_Chevrolet_Bel_Air_(9132862313).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ford_Model_T_%26_55_Chevrolet_Bel_Air_%289132862313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Ford Model T & 55 Chevrolet Bel Air (9132862313).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (Ford Model T & 55 Chevrolet Bel Air)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #8); Commons category: Ford Model T (1913–1914) Touring. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "ford-model-t-06",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-06.webp",
+    "imageSmall": "photos/ford-model-t-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_Model_T_Tourabout-_P6280014.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1908–1912)_Tourabout",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:Ford Model T Tourabout- P6280014.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_Model_T_Tourabout-_P6280014.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ford_Model_T_Tourabout-_P6280014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ford Model T Tourabout- P6280014.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #11); Commons category: Ford Model T (1908–1912) Tourabout. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "ford-model-t-07",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-07.webp",
+    "imageSmall": "photos/ford-model-t-07-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Memphis_TN_Model_T_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1926–1927)_Tudor",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:Memphis TN Model T 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Memphis_TN_Model_T_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Memphis_TN_Model_T_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Thomas R Machnitzki",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "credit": "“Memphis TN Model T 01.jpg” by Thomas R Machnitzki, CC BY 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #12); Commons category: Ford Model T (1926–1927) Tudor. CC BY 3.0 by Thomas R Machnitzki."
+    }
+  },
+  {
+    "id": "ford-model-t-08",
+    "vehicleId": "ford-model-t",
+    "kind": "full",
+    "image": "photos/ford-model-t-08.webp",
+    "imageSmall": "photos/ford-model-t-08-sm.webp",
+    "width": 1600,
+    "height": 1118,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1908,
+      "to": 1927,
+      "basis": "No feature visible in the photo separates years within the 1908–1927 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1915_Ford_Model_T_Tourer_(32686223161).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Model_T_(1915)",
+      "https://en.wikipedia.org/wiki/Ford_Model_T"
+    ],
+    "source": {
+      "title": "File:1915 Ford Model T Tourer (32686223161).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1915_Ford_Model_T_Tourer_(32686223161).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1915_Ford_Model_T_Tourer_%2832686223161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "GPS 56 from New Zealand",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1915 Ford Model T Tourer (32686223161).jpg” by GPS 56 from New Zealand, CC BY 2.0, via Wikimedia Commons (1915 Ford Model T Tourer)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modelt #14); Commons category: Ford Model T (1915). CC BY 2.0 by GPS 56 from New Zealand."
+    }
+  },
+  {
     "id": "ford-mustang-1g-01",
     "vehicleId": "ford-mustang-1g",
     "kind": "full",
@@ -4807,6 +5842,321 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: white Miura at Goodwood."
+    }
+  },
+  {
+    "id": "lancia-delta-01",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-01.webp",
+    "imageSmall": "photos/lancia-delta-01-sm.webp",
+    "width": 1600,
+    "height": 1193,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lancia_DELTA_HF_Integrale_8v_(E-L31D5)_front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_16v",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:Lancia DELTA HF Integrale 8v (E-L31D5) front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lancia_DELTA_HF_Integrale_8v_(E-L31D5)_front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lancia_DELTA_HF_Integrale_8v_%28E-L31D5%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Lancia DELTA HF Integrale 8v (E-L31D5) front.jpg” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #0); Commons category: Lancia Delta HF Integrale 16v. CC0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "lancia-delta-02",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-02.webp",
+    "imageSmall": "photos/lancia-delta-02-sm.webp",
+    "width": 1600,
+    "height": 1013,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Lancia_Delta_HF_Integrale_16v.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_16v",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:1989 Lancia Delta HF Integrale 16v.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Lancia_Delta_HF_Integrale_16v.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/1989_Lancia_Delta_HF_Integrale_16v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Lancia Delta HF Integrale 16v.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #1); Commons category: Lancia Delta HF Integrale 16v. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lancia-delta-03",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-03.webp",
+    "imageSmall": "photos/lancia-delta-03-sm.webp",
+    "width": 1600,
+    "height": 1095,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Lancia_Delta_Integrale_8v.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_8v",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:1989 Lancia Delta Integrale 8v.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Lancia_Delta_Integrale_8v.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/1989_Lancia_Delta_Integrale_8v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“1989 Lancia Delta Integrale 8v.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #2); Commons category: Lancia Delta HF Integrale 8v. CC BY 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lancia-delta-04",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-04.webp",
+    "imageSmall": "photos/lancia-delta-04-sm.webp",
+    "width": 1600,
+    "height": 901,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Lancia_Delta_HF_Integrale_4WD_(53779943259).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:1994 Lancia Delta HF Integrale 4WD (53779943259).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Lancia_Delta_HF_Integrale_4WD_(53779943259).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/1994_Lancia_Delta_HF_Integrale_4WD_%2853779943259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1994 Lancia Delta HF Integrale 4WD (53779943259).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1994 Lancia Delta HF Integrale 4WD)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #4); Commons category: Lancia Delta HF Integrale. CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "lancia-delta-05",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-05.webp",
+    "imageSmall": "photos/lancia-delta-05-sm.webp",
+    "width": 1600,
+    "height": 1001,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lancia_Delta,_Motortreff_Bella_Italia_2024,_Munich_(P1190463).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:Lancia Delta, Motortreff Bella Italia 2024, Munich (P1190463).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lancia_Delta,_Motortreff_Bella_Italia_2024,_Munich_(P1190463).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lancia_Delta%2C_Motortreff_Bella_Italia_2024%2C_Munich_%28P1190463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Lancia Delta, Motortreff Bella Italia 2024, Munich (P1190463).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #8); Commons category: Lancia Delta HF Integrale. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "lancia-delta-06",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-06.webp",
+    "imageSmall": "photos/lancia-delta-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1988_Lancia_Delta_HF_Integrale_(14137376252).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_8v",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:1988 Lancia Delta HF Integrale (14137376252).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Lancia_Delta_HF_Integrale_(14137376252).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1988_Lancia_Delta_HF_Integrale_%2814137376252%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "davocano",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1988 Lancia Delta HF Integrale (14137376252).jpg” by davocano, CC BY 2.0, via Wikimedia Commons (1988 Lancia Delta HF Integrale)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #12); Commons category: Lancia Delta HF Integrale 8v. CC BY 2.0 by davocano."
+    }
+  },
+  {
+    "id": "lancia-delta-07",
+    "vehicleId": "lancia-delta",
+    "kind": "full",
+    "image": "photos/lancia-delta-07.webp",
+    "imageSmall": "photos/lancia-delta-07-sm.webp",
+    "width": 1600,
+    "height": 1380,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1979,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Lancia_Delta_Integrale_HF_(7574707368).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_Evoluzione",
+      "https://en.wikipedia.org/wiki/Lancia_Delta"
+    ],
+    "source": {
+      "title": "File:1994 Lancia Delta Integrale HF (7574707368).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Lancia_Delta_Integrale_HF_(7574707368).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/1994_Lancia_Delta_Integrale_HF_%287574707368%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Peter Bonnett from Manchester, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“1994 Lancia Delta Integrale HF (7574707368).jpg” by Peter Bonnett from Manchester, UK, CC BY-SA 2.0, via Wikimedia Commons (1994 Lancia Delta Integrale HF)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (delta #13); Commons category: Lancia Delta HF Integrale Evoluzione. CC BY-SA 2.0 by Peter Bonnett from Manchester, UK."
     }
   },
   {
@@ -7391,6 +8741,51 @@
     }
   },
   {
+    "id": "nissan-leaf-ze0-04",
+    "vehicleId": "nissan-leaf-ze0",
+    "kind": "full",
+    "image": "photos/nissan-leaf-ze0-04.webp",
+    "imageSmall": "photos/nissan-leaf-ze0-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2010,
+      "to": 2017,
+      "basis": "No feature visible in the photo separates years within the 2010–2017 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2011_Nissan_LEAF_(5482989263).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Leaf_(ZE0)",
+      "https://en.wikipedia.org/wiki/Nissan_Leaf"
+    ],
+    "source": {
+      "title": "File:2011 Nissan LEAF (5482989263).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2011_Nissan_LEAF_(5482989263).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2011_Nissan_LEAF_%285482989263%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Michael Gil from Calgary, AB, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2011 Nissan LEAF (5482989263).jpg” by Michael Gil from Calgary, AB, Canada, CC BY 2.0, via Wikimedia Commons (2011 Nissan LEAF)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (leaf #9); Commons category: Nissan Leaf (ZE0). CC BY 2.0 by Michael Gil from Calgary, AB, Canada."
+    }
+  },
+  {
     "id": "nissan-skyline-r34-01",
     "vehicleId": "nissan-skyline-r34",
     "kind": "full",
@@ -8963,6 +10358,321 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: turquoise early R4 parked on a street."
+    }
+  },
+  {
+    "id": "saab-900-classic-01",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-01.webp",
+    "imageSmall": "photos/saab-900-classic-01-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Saab_900_Turbo_convertible_(2016-06-22)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_convertible",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1989 Saab 900 Turbo convertible (2016-06-22) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Saab_900_Turbo_convertible_(2016-06-22)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1989_Saab_900_Turbo_convertible_%282016-06-22%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“1989 Saab 900 Turbo convertible (2016-06-22) 01.jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #1); Commons category: Saab 900 (first generation) convertible. Public domain by OSX."
+    }
+  },
+  {
+    "id": "saab-900-classic-02",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-02.webp",
+    "imageSmall": "photos/saab-900-classic-02-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Saab_900_(TU5M)_Turbo_5-door_hatchback_(2015-06-18)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_five-door_hatchback",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1993 Saab 900 (TU5M) Turbo 5-door hatchback (2015-06-18) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Saab_900_(TU5M)_Turbo_5-door_hatchback_(2015-06-18)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/1993_Saab_900_%28TU5M%29_Turbo_5-door_hatchback_%282015-06-18%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“1993 Saab 900 (TU5M) Turbo 5-door hatchback (2015-06-18) 01.jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #2); Commons category: Saab 900 (first generation) five-door hatchback. Public domain by OSX."
+    }
+  },
+  {
+    "id": "saab-900-classic-03",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-03.webp",
+    "imageSmall": "photos/saab-900-classic-03-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1985_Saab_900_(8882577374).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_four-door_sedan",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1985 Saab 900 (8882577374).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1985_Saab_900_(8882577374).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/1985_Saab_900_%288882577374%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Niels de Wit from Lunteren, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1985 Saab 900 (8882577374).jpg” by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0, via Wikimedia Commons (1985 Saab 900)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #4); Commons category: Saab 900 (first generation) four-door sedan. CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+    }
+  },
+  {
+    "id": "saab-900-classic-04",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-04.webp",
+    "imageSmall": "photos/saab-900-classic-04-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Saab_900i_sedan_(23316845596).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_four-door_sedan",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1990 Saab 900i sedan (23316845596).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Saab_900i_sedan_(23316845596).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/1990_Saab_900i_sedan_%2823316845596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1990 Saab 900i sedan (23316845596).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1990 Saab 900i)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #6); Commons category: Saab 900 (first generation) four-door sedan. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "saab-900-classic-05",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-05.webp",
+    "imageSmall": "photos/saab-900-classic-05-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Saab_900_S_Aero_Turbo_(37768992814).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_three-door_hatchback",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1991 Saab 900 S Aero Turbo (37768992814).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Saab_900_S_Aero_Turbo_(37768992814).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/1991_Saab_900_S_Aero_Turbo_%2837768992814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1991 Saab 900 S Aero Turbo (37768992814).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1991 Saab 900 S Aero Turbo)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #7); Commons category: Saab 900 (first generation) three-door hatchback. CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "saab-900-classic-06",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-06.webp",
+    "imageSmall": "photos/saab-900-classic-06-sm.webp",
+    "width": 1600,
+    "height": 1123,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Saab_900_Turbo_16v_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_three-door_hatchback",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1993 Saab 900 Turbo 16v 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Saab_900_Turbo_16v_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/1993_Saab_900_Turbo_16v_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1993 Saab 900 Turbo 16v 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #11); Commons category: Saab 900 (first generation) three-door hatchback. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "saab-900-classic-07",
+    "vehicleId": "saab-900-classic",
+    "kind": "full",
+    "image": "photos/saab-900-classic-07.webp",
+    "imageSmall": "photos/saab-900-classic-07-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1978,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1978–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Saab_900_2.0_SE_Turbo_(39558152204).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Saab_900_(first_generation)_three-door_hatchback",
+      "https://en.wikipedia.org/wiki/Saab_900"
+    ],
+    "source": {
+      "title": "File:1994 Saab 900 2.0 SE Turbo (39558152204).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Saab_900_2.0_SE_Turbo_(39558152204).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/1994_Saab_900_2.0_SE_Turbo_%2839558152204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1994 Saab 900 2.0 SE Turbo (39558152204).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1994 Saab 900 2.0 SE Turbo)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (saab900 #13); Commons category: Saab 900 (first generation) three-door hatchback. CC BY 2.0 by Kieran White from Manchester, England."
     }
   },
   {
