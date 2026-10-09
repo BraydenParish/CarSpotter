@@ -3404,5 +3404,501 @@
     ],
     "tip": "Tesla's Model S-based crossover (2015–2026) with falcon-wing rear doors: a smooth, grille-less nose with a small T badge, a huge windscreen sweeping back over the front seats and a rounded, tall fastback rear.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Model_X"
+  },
+  {
+    "id": "chevrolet-chevelle-1970",
+    "make": "Chevrolet",
+    "model": "Chevelle",
+    "modelAliases": [
+      "Chevelle SS",
+      "Chevelle Malibu",
+      "Chevelle SS 396",
+      "Chevelle SS 454"
+    ],
+    "makeAliases": [
+      "Chevy"
+    ],
+    "extraWords": [
+      "SS",
+      "396",
+      "454",
+      "LS6",
+      "Malibu",
+      "Sport Coupe",
+      "Convertible",
+      "Hardtop"
+    ],
+    "generation": {
+      "name": "Second generation",
+      "aliases": [
+        "2nd generation",
+        "2nd gen",
+        "second gen",
+        "1968–1972",
+        "A-body"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1968,
+      1972
+    ],
+    "categories": [
+      "muscle",
+      "american",
+      "classic"
+    ],
+    "tip": "Second-generation Chevelle (1968–1972): an all-new sculpted body with tapered front wings, a long-bonnet/short-deck profile and a high rear deck; the 1970 restyle added a coke-bottle waist and quad headlamps set into a full-width grille, often with SS stripes on the bonnet.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+  },
+{
+    "id": "alfa-romeo-giulia-sprint-gt",
+    "make": "Alfa Romeo",
+    "model": "Giulia Sprint GT",
+    "modelAliases": [
+      "Giulia GT",
+      "Giulia Sprint",
+      "GT Veloce",
+      "Giulia GTV",
+      "GT Junior",
+      "Giulia GT Junior",
+      "1750 GTV",
+      "2000 GTV",
+      "Bertone Coupe",
+      "Giulia Coupe",
+      "105 Coupe"
+    ],
+    "makeAliases": [
+      "Alfa"
+    ],
+    "extraWords": [
+      "Veloce",
+      "GTA",
+      "1300",
+      "1600",
+      "1750",
+      "2000",
+      "Junior",
+      "Sprint",
+      "GT",
+      "Coupe",
+      "Coupé",
+      "Bertone",
+      "Scalino",
+      "step-nose"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1963,
+      1977
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Giugiaro's Bertone coupé on the 105-series Giulia (first shown 1963): a crisp 2+2 with a shield-shaped Alfa grille between twin round lamps, a slim pillared glasshouse and, on early cars, the 'step-nose' (scalino) lip at the front of the bonnet.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+  },
+{
+    "id": "fiat-124-spider",
+    "make": "Fiat",
+    "model": "124 Spider",
+    "modelAliases": [
+      "124 Sport Spider",
+      "124 Spider",
+      "Spider 2000",
+      "Spidereuropa",
+      "124 Spyder",
+      "Pininfarina Spider Europa"
+    ],
+    "makeAliases": [
+      "Pininfarina"
+    ],
+    "extraWords": [
+      "Sport",
+      "2000",
+      "1800",
+      "1600",
+      "1400",
+      "CS",
+      "AS",
+      "BS",
+      "DS",
+      "Europa",
+      "Turbo",
+      "Volumex"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "Italy",
+    "years": [
+      1966,
+      1985
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Pininfarina-designed and -built roadster (1966–1985): a clean, low body with twin round headlamps in shallow recesses, a slim horizontal grille, twin bonnet power bulges on later cars and, on US cars, big black impact bumpers.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+  },
+{
+    "id": "renault-5",
+    "make": "Renault",
+    "model": "5",
+    "modelAliases": [
+      "R5",
+      "Renault 5",
+      "Le Car",
+      "Cinq",
+      "5 TL",
+      "5 GTL",
+      "5 TS",
+      "5 LS",
+      "5 Alpine"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "TL",
+      "GTL",
+      "TS",
+      "LS",
+      "Alpine",
+      "Gordini",
+      "Automatic",
+      "Le Car",
+      "Société"
+    ],
+    "generation": {
+      "name": "First generation",
+      "aliases": [
+        "1st generation",
+        "1st gen",
+        "first gen",
+        "R5",
+        "Mk1",
+        "1972"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      1972,
+      1985
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "The original Renault 5 (1972–1985, 'Le Car' in the US): a short, upright three-door hatchback with wrap-around plastic bumpers, a flat bonnet with the diamond badge, rectangular headlamps and tall vertical tail lamps beside the hatch.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Renault_5"
+  },
+{
+    "id": "skoda-octavia-3",
+    "make": "Škoda",
+    "model": "Octavia",
+    "modelAliases": [
+      "Octavia RS",
+      "Octavia vRS",
+      "Octavia Combi",
+      "Octavia Estate",
+      "Octavia Scout"
+    ],
+    "makeAliases": [
+      "Skoda"
+    ],
+    "extraWords": [
+      "RS",
+      "vRS",
+      "Combi",
+      "Estate",
+      "Scout",
+      "Liftback",
+      "TDI",
+      "TSI",
+      "Elegance",
+      "Ambition",
+      "SE",
+      "L&K"
+    ],
+    "generation": {
+      "name": "Mk3",
+      "aliases": [
+        "5E",
+        "Typ 5E",
+        "A7",
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "Octavia III",
+        "III"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Czech Republic",
+    "years": [
+      2012,
+      2020
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Third-generation Octavia (Typ 5E, revealed December 2012): a crisply creased liftback or Combi estate with a vertical-slat Škoda grille; the 2017 facelift split each headlamp in two, like a pre-facelift Mercedes E-Class.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+  },
+{
+    "id": "hyundai-ioniq-5",
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "modelAliases": [
+      "IONIQ 5",
+      "Ioniq5",
+      "Ioniq 5 N"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "N",
+      "N Line",
+      "Long Range",
+      "AWD",
+      "RWD",
+      "SE",
+      "SEL",
+      "Limited"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "South Korea",
+    "years": [
+      2021,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "everyday"
+    ],
+    "tip": "Hyundai's first E-GMP electric car (2021 on), inspired by the 1975 Pony: a boxy, flat-sided crossover-hatchback with a full-width clamshell bonnet, square 'Parametric Pixel' lamps and a sharp Z-shaped crease in the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+  },
+{
+    "id": "tesla-model-y",
+    "make": "Tesla",
+    "model": "Model Y",
+    "modelAliases": [
+      "ModelY",
+      "Model Y Juniper"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Long Range",
+      "Performance",
+      "Standard",
+      "Dual Motor",
+      "AWD",
+      "RWD",
+      "Juniper",
+      "L"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      2020,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "american"
+    ],
+    "tip": "Tesla's compact crossover (2020 on), the best-selling EV ever: a tall, rounded Model 3-like fastback with no grille; the January 2025 'Juniper' refresh added a full-width light bar across the nose and tail.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+  },
+{
+    "id": "toyota-camry-xv70",
+    "make": "Toyota",
+    "model": "Camry",
+    "modelAliases": [
+      "Camry Hybrid",
+      "Camry SE",
+      "Camry XSE",
+      "Camry LE",
+      "Camry XLE"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Hybrid",
+      "SE",
+      "XSE",
+      "LE",
+      "XLE",
+      "TRD",
+      "Ascent",
+      "Sport",
+      "SX",
+      "SL"
+    ],
+    "generation": {
+      "name": "XV70",
+      "aliases": [
+        "XV 70",
+        "eighth generation",
+        "8th generation",
+        "8th gen",
+        "Camry 70"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Japan",
+    "years": [
+      2017,
+      2024
+    ],
+    "categories": [
+      "everyday"
+    ],
+    "tip": "Eighth-generation Camry (XV70, June 2017 – October 2024) on the TNGA platform: lower and wider, with a huge lower grille opening below a thin upper slot and the Toyota badge, slim swept headlamps and, on sportier trims, a black 'fang' bumper.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+  },
+{
+    "id": "vw-up",
+    "make": "Volkswagen",
+    "model": "Up",
+    "modelAliases": [
+      "up!",
+      "Up!",
+      "e-up!",
+      "e-Up",
+      "up! GTI",
+      "Up GTI",
+      "Move Up",
+      "High Up",
+      "Take Up",
+      "Cross Up"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "GTI",
+      "Move",
+      "High",
+      "Take",
+      "Cross",
+      "Cheer",
+      "Club",
+      "Beats",
+      "e",
+      "BlueMotion",
+      "3-door",
+      "5-door"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      2011,
+      2023
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Volkswagen's 2011–2023 city car (twin of the SEAT Mii and Škoda Citigo): a tiny, upright hatchback with wheels pushed to the corners, a black-glass tailgate and, before the 2016 facelift, a smiley black bumper band across the nose.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Up"
+  },
+{
+    "id": "renault-zoe",
+    "make": "Renault",
+    "model": "Zoe",
+    "modelAliases": [
+      "ZOE",
+      "Zoé",
+      "Zoe E-Tech",
+      "Zoe Z.E."
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Z.E.",
+      "ZE",
+      "40",
+      "50",
+      "R90",
+      "R110",
+      "R135",
+      "E-Tech",
+      "Intens",
+      "Iconic",
+      "Life",
+      "Zen",
+      "Dynamique",
+      "Expression"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      2012,
+      2024
+    ],
+    "categories": [
+      "everyday",
+      "electric",
+      "european"
+    ],
+    "tip": "Renault's Clio-based electric supermini (December 2012 – March 2024): a rounded five-door with a big diamond badge hiding the charge port, blue-tinted headlamps on early cars and 'boomerang' lamps after the 2019 facelift.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Renault_Zoe"
+  },
+{
+    "id": "bmw-i3",
+    "make": "BMW",
+    "model": "i3",
+    "modelAliases": [
+      "i3s",
+      "i3 REx",
+      "i3 Rex",
+      "i3 94Ah",
+      "i3 120Ah"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "s",
+      "REx",
+      "Rex",
+      "94Ah",
+      "120Ah",
+      "eDrive",
+      "Range Extender"
+    ],
+    "generation": {
+      "name": "I01",
+      "aliases": [
+        "I 01",
+        "first generation",
+        "1st generation",
+        "1st gen"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      2013,
+      2022
+    ],
+    "categories": [
+      "electric",
+      "european"
+    ],
+    "tip": "BMW's first mass-produced electric car (2013–2022), with a carbon-fibre passenger cell: a tall, short city car with rear-hinged coach doors, a black 'stream-flow' band from bonnet to roof and tailgate, and blue-trimmed closed kidney grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
   }
 ]

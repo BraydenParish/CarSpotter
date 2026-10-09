@@ -20712,6 +20712,2045 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (modelx #14); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Benespit."
       }
+    },
+    {
+      "id": "dodge-charger-2g-05",
+      "file": "File:1968 Dodge Charger R T (17724849853).jpg",
+      "vehicleId": "dodge-charger-2g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1968–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1968_Dodge_Charger_R_T_(17724849853).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1968_Dodge_Charger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (charger3 #9); Commons category: 1968 Dodge Charger R/T. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "dodge-charger-2g-06",
+      "file": "File:1968 Dodge Charger R T (18346327825).jpg",
+      "vehicleId": "dodge-charger-2g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1968–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1968_Dodge_Charger_R_T_(18346327825).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1968_Dodge_Charger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (charger3 #10); Commons category: 1968 Dodge Charger R/T. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-01",
+      "file": "File:1970 Chevrolet Chevelle SS 396 Sport Coupe in Cranberry Red, Front Right (Hilton Beach 2023).jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS_396_Sport_Coupe_in_Cranberry_Red,_Front_Right_(Hilton_Beach_2023).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #0); Commons category: 1970 Chevrolet Chevelle SS. CC BY-SA 4.0 by Elise240SX."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-02",
+      "file": "File:Chevrolet Chevelle SS 454 1970 01.jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Chevelle_SS_454_1970_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #1); Commons category: 1970 Chevrolet Chevelle SS. CC BY-SA 2.0 by RL GNZLZ."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-03",
+      "file": "File:1970 Chevrolet Chevelle SS454 (15748244098) (cropped).jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_(15748244098)_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #4); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-04",
+      "file": "File:1970 Chevrolet Chevelle SS454 Sports Coupe (20769961313).jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe_(20769961313).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #5); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-05",
+      "file": "File:1970 Chevrolet Chevelle SS454 Sports Coupe (8343895415).jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe_(8343895415).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #6); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-06",
+      "file": "File:1970 Chevrolet Chevelle SS454 Sports Coupe.jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #7); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-07",
+      "file": "File:1970 Chevrolet Malibu (6126270736).jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Malibu_(6126270736).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #8); Commons category: 1970 Chevrolet Chevelle. CC BY 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-08",
+      "file": "File:'70 Chevrolet Chevelle Coupe (Chauds vendredis '10).jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'70_Chevrolet_Chevelle_Coupe_(Chauds_vendredis_'10).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #12); Commons category: 1970 Chevrolet Chevelle. Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "chevrolet-chevelle-1970-09",
+      "file": "File:1970 Chevrolet Chevelle SS 396 Sport Coupe, front left, 06-08-2024.jpg",
+      "vehicleId": "chevrolet-chevelle-1970",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1972,
+        "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS_396_Sport_Coupe,_front_left,_06-08-2024.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chevelle70 #14); Commons category: 1970 Chevrolet Chevelle SS. CC BY-SA 4.0 by MercurySable99."
+      }
+    },
+    {
+      "id": "alfa-romeo-giulia-sprint-gt-01",
+      "file": "File:1965 Alfa Romeo Giulia Sprint GT 1600 NL 01.jpg",
+      "vehicleId": "alfa-romeo-giulia-sprint-gt",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1977,
+        "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+        "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (giuliagt #0); Commons category: Alfa Romeo Giulia Sprint GT. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "alfa-romeo-giulia-sprint-gt-02",
+      "file": "File:1964 Alfa Romeo Giulia Sprint GT.jpg",
+      "vehicleId": "alfa-romeo-giulia-sprint-gt",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1977,
+        "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1964_Alfa_Romeo_Giulia_Sprint_GT.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+        "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (giuliagt #3); Commons category: Alfa Romeo Giulia Sprint GT. CC0 by Calreyn88."
+      }
+    },
+    {
+      "id": "alfa-romeo-giulia-sprint-gt-03",
+      "file": "File:1965 Alfa Romeo Giulia Sprint GT 1600 NL 03.jpg",
+      "vehicleId": "alfa-romeo-giulia-sprint-gt",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1977,
+        "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_03.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+        "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (giuliagt #5); Commons category: Alfa Romeo Giulia Sprint GT. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "alfa-romeo-giulia-sprint-gt-04",
+      "file": "File:1967 Alfa Romeo Giulia Sprint GT Veloce.jpg",
+      "vehicleId": "alfa-romeo-giulia-sprint-gt",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1977,
+        "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Alfa_Romeo_Giulia_Sprint_GT_Veloce.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT_Veloce",
+        "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (giuliagt #8); Commons category: Alfa Romeo Giulia Sprint GT Veloce. CC0 by Calreyn88."
+      }
+    },
+    {
+      "id": "alfa-romeo-giulia-sprint-gt-05",
+      "file": "File:1970 Alfa Romeo Giulia 105 115 (green).jpg",
+      "vehicleId": "alfa-romeo-giulia-sprint-gt",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1977,
+        "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Alfa_Romeo_Giulia_105_115_(green).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+        "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (giuliagt #9); Commons category: Alfa Romeo Giulia Sprint GT. CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "fiat-124-spider-01",
+      "file": "File:Fiat 124 Sport Spider AS, Berlin (front right) (cropped).jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Fiat_124_Sport_Spider_AS,_Berlin_(front_right)_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_(AS)",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #1); Commons category: Fiat 124 Sport Spider (AS). CC BY-SA 3.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "fiat-124-spider-02",
+      "file": "File:1976 Fiat (29596661675).jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1976_Fiat_(29596661675).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_(CS)",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #2); Commons category: Fiat 124 Sport Spider (CS). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "fiat-124-spider-03",
+      "file": "File:1976 Fiat 124 Sport.jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1976_Fiat_124_Sport.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #4); Commons category: Fiat 124 Sport Spider. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "fiat-124-spider-04",
+      "file": "File:1980 Fiat Spider (848499865).jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1980_Fiat_Spider_(848499865).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_2000",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #6); Commons category: Fiat 124 Sport Spider 2000. CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "fiat-124-spider-05",
+      "file": "File:81 Fiat Spider 1600 (8111428687).jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:81_Fiat_Spider_1600_(8111428687).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_2000",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #8); Commons category: Fiat 124 Sport Spider 2000. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "fiat-124-spider-06",
+      "file": "File:Fiat 124 Spider 1958 Oldtimertreffen Ebern 2019 6200214.jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Fiat_124_Spider_1958_Oldtimertreffen_Ebern_2019_6200214.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #11); Commons category: Fiat 124 Sport Spider. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "fiat-124-spider-07",
+      "file": "File:72 Fiat 124 Sport (6045841069).jpg",
+      "vehicleId": "fiat-124-spider",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:72_Fiat_124_Sport_(6045841069).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_(BS)",
+        "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (fiat124 #13); Commons category: Fiat 124 Sport Spider (BS). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "renault-5-01",
+      "file": "File:1979 Renault 5 Alpine (8962451404).jpg",
+      "vehicleId": "renault-5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1972,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1979_Renault_5_Alpine_(8962451404).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_5_Alpine",
+        "https://en.wikipedia.org/wiki/Renault_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (r5 #2); Commons category: Renault 5 Alpine. CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "renault-5-02",
+      "file": "File:1982 Renault 5 Automatic (14930127929).jpg",
+      "vehicleId": "renault-5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1972,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1982_Renault_5_Automatic_(14930127929).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_5_(first_generation)",
+        "https://en.wikipedia.org/wiki/Renault_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (r5 #4); Commons category: Renault 5 (first generation). CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "renault-5-03",
+      "file": "File:1983 Renault 5 Alpine Turbo.jpg",
+      "vehicleId": "renault-5",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1972,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1983_Renault_5_Alpine_Turbo.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_5_Alpine",
+        "https://en.wikipedia.org/wiki/Renault_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (r5 #5); Commons category: Renault 5 Alpine. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "renault-5-04",
+      "file": "File:1983 Renault 5 Gordini Turbo BS J26.jpg",
+      "vehicleId": "renault-5",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1972,
+        "to": 1985,
+        "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1983_Renault_5_Gordini_Turbo_BS_J26.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_5_Turbo",
+        "https://en.wikipedia.org/wiki/Renault_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (r5 #6); Commons category: Renault 5 Turbo. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "skoda-octavia-3-01",
+      "file": "File:Skoda Octavia 1.8 TSI Green tec Elegance (III) – Frontansicht, 14. April 2013, Düsseldorf.jpg",
+      "vehicleId": "skoda-octavia-3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_1.8_TSI_Green_tec_Elegance_(III)_–_Frontansicht,_14._April_2013,_Düsseldorf.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III",
+        "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (octavia3 #0); Commons category: Škoda Octavia III. CC BY-SA 3.0 de by M 93."
+      }
+    },
+    {
+      "id": "skoda-octavia-3-02",
+      "file": "File:2018 Skoda Octavia VRS.jpg",
+      "vehicleId": "skoda-octavia-3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Skoda_Octavia_VRS.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III_Facelift",
+        "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (octavia3 #2); Commons category: Škoda Octavia III Facelift. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "skoda-octavia-3-03",
+      "file": "File:Skoda Octavia 1.6 TDi Elegance 2015 (45756164244).jpg",
+      "vehicleId": "skoda-octavia-3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_1.6_TDi_Elegance_2015_(45756164244).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III",
+        "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (octavia3 #5); Commons category: Škoda Octavia III. CC BY-SA 2.0 by RL GNZLZ from Chile."
+      }
+    },
+    {
+      "id": "skoda-octavia-3-04",
+      "file": "File:2014 Skoda Octavia (5E MY14) vRS 162TSI station wagon (2018-10-01) 01.jpg",
+      "vehicleId": "skoda-octavia-3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2014_Skoda_Octavia_(5E_MY14)_vRS_162TSI_station_wagon_(2018-10-01)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III_Combi",
+        "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (octavia3 #8); Commons category: Škoda Octavia III Combi. CC BY-SA 4.0 by EurovisionNim."
+      }
+    },
+    {
+      "id": "skoda-octavia-3-05",
+      "file": "File:ŠKODA OCTAVIA (5E) China.jpg",
+      "vehicleId": "skoda-octavia-3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:ŠKODA_OCTAVIA_(5E)_China.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III_Facelift",
+        "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (octavia3 #11); Commons category: Škoda Octavia III Facelift. CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "hyundai-ioniq-5-01",
+      "file": "File:Hyundai Ioniq 5 IAA 2021 1X7A0237.jpg",
+      "vehicleId": "hyundai-ioniq-5",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2021,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2021–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_IAA_2021_1X7A0237.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hyundai_Ioniq_5",
+        "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ioniq5 #2); Commons category: Hyundai Ioniq 5. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "hyundai-ioniq-5-02",
+      "file": "File:2021 Hyundai Ioniq 5 1.jpg",
+      "vehicleId": "hyundai-ioniq-5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2021,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2021–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Ioniq_5_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hyundai_Ioniq_5",
+        "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ioniq5 #11); Commons category: Hyundai Ioniq 5. CC BY-SA 4.0 by Benespit."
+      }
+    },
+    {
+      "id": "hyundai-ioniq-5-03",
+      "file": "File:2022 Hyundai Ioniq 5 Signature, West Surabaya.jpg",
+      "vehicleId": "hyundai-ioniq-5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2021,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2021–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Ioniq_5_Signature,_West_Surabaya.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Hyundai_Ioniq_5",
+        "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ioniq5 #12); Commons category: Hyundai Ioniq 5. CC BY-SA 4.0 by Alex Neman."
+      }
+    },
+    {
+      "id": "tesla-model-y-01",
+      "file": "File:Tesla Model Y (2025) DSC 8297.jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_DSC_8297.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #2); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "tesla-model-y-02",
+      "file": "File:Tesla Model Y (2025) MYLE Festival 2025 DSC 9564.jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_MYLE_Festival_2025_DSC_9564.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #3); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "tesla-model-y-03",
+      "file": "File:2025 Tesla Model Y RWD front.jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_RWD_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #6); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by LuvsMG481."
+      }
+    },
+    {
+      "id": "tesla-model-y-04",
+      "file": "File:Tesla Model Y 2025 at Santana Row dllu 01.jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_2025_at_Santana_Row_dllu_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #7); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Dllu."
+      }
+    },
+    {
+      "id": "tesla-model-y-05",
+      "file": "File:Tesla Model Y Dual Motor First Edition Juniper Quicksilver (9).jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Dual_Motor_First_Edition_Juniper_Quicksilver_(9).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #9); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "tesla-model-y-06",
+      "file": "File:Tesla Model Y Dual Motor Juniper Pearl White Multi-Coat (2).jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Dual_Motor_Juniper_Pearl_White_Multi-Coat_(2).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #10); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "tesla-model-y-07",
+      "file": "File:Tesla Model Y Standard front view dllu.jpg",
+      "vehicleId": "tesla-model-y",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2020,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Standard_front_view_dllu.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modely #14); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Dllu."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-01",
+      "file": "File:Toyota Camry Hybrid, Ribnitz-Damgarten (LRM 20200504 165212).jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Camry_Hybrid,_Ribnitz-Damgarten_(LRM_20200504_165212).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_Hybrid_(XV70,_Europe,_2018)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #0); Commons category: Toyota Camry Hybrid (XV70, Europe, 2018). CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-02",
+      "file": "File:2017 Toyota Camry (ASV70R) SX sedan (2018-11-02) 01.jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2017_Toyota_Camry_(ASV70R)_SX_sedan_(2018-11-02)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_Australia,_2018)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #2); Commons category: Toyota Camry (XV70, Australia, 2018). CC BY-SA 4.0 by EurovisionNim."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-03",
+      "file": "File:2018 Toyota Camry (AXHV71R) Ascent Sport Hybrid sedan (2018-08-13) 01.jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_(AXHV71R)_Ascent_Sport_Hybrid_sedan_(2018-08-13)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_Hybrid_(XV70,_Australia,_2018)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #3); Commons category: Toyota Camry Hybrid (XV70, Australia, 2018). CC BY-SA 4.0 by EurovisionNim."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-04",
+      "file": "File:2018 Toyota Camry SE front (2) 3.16.18.jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_SE_front_(2)_3.16.18.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_North_America,_2018)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #4); Commons category: Toyota Camry (XV70, North America, 2018). CC BY-SA 4.0 by Kevauto."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-05",
+      "file": "File:Moscow, Toyota Camry (XV70), Aug 2025 01.jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Moscow,_Toyota_Camry_(XV70),_Aug_2025_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_Europe)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #7); Commons category: Toyota Camry (XV70, Europe). CC0 by Retired electrician."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-06",
+      "file": "File:TOYOTA CAMRY (XV70) China (117).jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(117).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_China,_2021)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #8); Commons category: Toyota Camry (XV70, China, 2021). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-07",
+      "file": "File:TOYOTA CAMRY (XV70) China (28) (cropped).jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(28)_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_China,_2021)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #10); Commons category: Toyota Camry (XV70, China, 2021). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-08",
+      "file": "File:TOYOTA CAMRY (XV70) China (41).jpg",
+      "vehicleId": "toyota-camry-xv70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2017,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(41).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_China,_2018)",
+        "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camry70 #11); Commons category: Toyota Camry (XV70, China, 2018). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "vw-up-01",
+      "file": "File:2013 Volkswagen Move UP 1.0 Front.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Move_UP_1.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #0); Commons category: Volkswagen up! (2011–2016). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "vw-up-02",
+      "file": "File:2018 Volkswagen up! GTi 1.0 Front.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Volkswagen_up!_GTi_1.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_GTI",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #1); Commons category: Volkswagen up! GTI. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "vw-up-03",
+      "file": "File:2019 Volkswagen up! GTi 1.0 Front.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_up!_GTi_1.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_GTI",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #2); Commons category: Volkswagen up! GTI. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "vw-up-04",
+      "file": "File:VW cup up! 1.0 BlueMotion Technology – Frontansicht, 19. Juni 2014, Düsseldorf.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:VW_cup_up!_1.0_BlueMotion_Technology_–_Frontansicht,_19._Juni_2014,_Düsseldorf.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #3); Commons category: Volkswagen up! (2011–2016). CC BY-SA 3.0 de by M 93."
+      }
+    },
+    {
+      "id": "vw-up-05",
+      "file": "File:VW high up! 1.0 – Frontansicht (1), 17. März 2012, Düsseldorf.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:VW_high_up!_1.0_–_Frontansicht_(1),_17._März_2012,_Düsseldorf.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #4); Commons category: Volkswagen up! (2011–2016). CC BY-SA 3.0 de by M 93."
+      }
+    },
+    {
+      "id": "vw-up-06",
+      "file": "File:Volkswagen up! GTI (ABA-AADKR) front.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_up!_GTI_(ABA-AADKR)_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_GTI",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #6); Commons category: Volkswagen up! GTI. CC0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "vw-up-07",
+      "file": "File:2013 Volkswagen Take UP! 1.0.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Take_UP!_1.0.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #8); Commons category: Volkswagen up! (2011–2016). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "vw-up-08",
+      "file": "File:2019 Volkswagen Up! GTi.jpg",
+      "vehicleId": "vw-up",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_Up!_GTi.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Up!",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #9); Commons category: Volkswagen Up!. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "vw-up-09",
+      "file": "File:Volkswagen Up GTI, IAA 2017, Frankfurt am Main (1Y7A2905).jpg",
+      "vehicleId": "vw-up",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_Up_GTI,_IAA_2017,_Frankfurt_am_Main_(1Y7A2905).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fotoprojekt_IAA_2017_(supported_by_Wikimedia_Deutschland)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Up"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (up #13); Commons category: Fotoprojekt IAA 2017 (supported by Wikimedia Deutschland). CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "renault-zoe-01",
+      "file": "File:2018 Renault ZOE.jpg",
+      "vehicleId": "renault-zoe",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Renault_ZOE.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+        "https://en.wikipedia.org/wiki/Renault_Zoe"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (zoe #0); Commons category: Renault Zoe (2012). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "renault-zoe-02",
+      "file": "File:Renault Zoe, Paris Motor Show 2018, IMG 0201.jpg",
+      "vehicleId": "renault-zoe",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Renault_Zoe,_Paris_Motor_Show_2018,_IMG_0201.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+        "https://en.wikipedia.org/wiki/Renault_Zoe"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (zoe #2); Commons category: Renault Zoe (2012). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "renault-zoe-03",
+      "file": "File:Auto di E-vai, servizio di car sharing del gruppo FNM in ricarica davanti alla stazione di Rogoredo a Milabo (ottobre 2022).jpg",
+      "vehicleId": "renault-zoe",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Auto_di_E-vai,_servizio_di_car_sharing_del_gruppo_FNM_in_ricarica_davanti_alla_stazione_di_Rogoredo_a_Milabo_(ottobre_2022).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2019)",
+        "https://en.wikipedia.org/wiki/Renault_Zoe"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (zoe #4); Commons category: Renault Zoe (2019). CC BY-SA 4.0 by Marcuscalabresus."
+      }
+    },
+    {
+      "id": "renault-zoe-04",
+      "file": "File:White Renault Zoe (front).jpg",
+      "vehicleId": "renault-zoe",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:White_Renault_Zoe_(front).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+        "https://en.wikipedia.org/wiki/Renault_Zoe"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (zoe #10); Commons category: Renault Zoe (2012). CC BY-SA 4.0 by Fiver, der Hellseher."
+      }
+    },
+    {
+      "id": "renault-zoe-05",
+      "file": "File:2015-03-03 Geneva Motor Show 3396.JPG",
+      "vehicleId": "renault-zoe",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_3396.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+        "https://en.wikipedia.org/wiki/Renault_Zoe"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (zoe #14); Commons category: Renault Zoe (2012). CC BY 4.0 by Norbert Aepli, Switzerland (User:Noebu)."
+      }
+    },
+    {
+      "id": "bmw-i3-01",
+      "file": "File:BMW i3s, IAA 2017, Frankfurt (1Y7A3292).jpg",
+      "vehicleId": "bmw-i3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2013,
+        "to": 2022,
+        "basis": "No feature visible in the photo separates years within the 2013–2022 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_i3s,_IAA_2017,_Frankfurt_(1Y7A3292).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_i3s",
+        "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (i3 #3); Commons category: BMW i3s. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "bmw-i3-02",
+      "file": "File:BMW I01 i3 eDrive Capparis White (10).jpg",
+      "vehicleId": "bmw-i3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2013,
+        "to": 2022,
+        "basis": "No feature visible in the photo separates years within the 2013–2022 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_I01_i3_eDrive_Capparis_White_(10).jpg",
+        "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (i3 #6); Commons category: None. CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "bmw-i3-03",
+      "file": "File:BMW I01 i3 eDrive Capparis White (12).jpg",
+      "vehicleId": "bmw-i3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2013,
+        "to": 2022,
+        "basis": "No feature visible in the photo separates years within the 2013–2022 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_I01_i3_eDrive_Capparis_White_(12).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_i3_(2013–2017)",
+        "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (i3 #8); Commons category: BMW i3 (2013–2017). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "bmw-i3-04",
+      "file": "File:BMW i3s IMG 0891.jpg",
+      "vehicleId": "bmw-i3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2013,
+        "to": 2022,
+        "basis": "No feature visible in the photo separates years within the 2013–2022 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_i3s_IMG_0891.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_i3s",
+        "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (i3 #12); Commons category: BMW i3s. CC BY-SA 4.0 by Alexander Migl."
+      }
     }
   ]
 }
