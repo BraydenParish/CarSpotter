@@ -399,4 +399,6 @@ export const EXTRA_MODEL_NAMES: string[] = [
   'Comanche', 'Wagoneer', 'Grand Wagoneer', 'Isetta 600', 'BMW 600', 'BMW 700', 'Crossblade', 'Forfour',
   'H2', 'H3', 'Humvee', 'HMMWV', 'E-Méhari', 'E-Mehari', 'Sport Quattro', 'Coupe Quattro', '90 Quattro', 'RS2', '964', '992', 'Carrera RS', 'Speedster', 'GT2', 'GT3', 'GT2 RS', 'GT3 RS', 'Amazon', '122', 'P544', 'PV544', 'Miata NA', 'Miata NB', 'Miata NC',
   'Type 34', 'Karmann Ghia Type 34', 'XK140', 'XK150', 'XK 140', 'XK 150', 'TR4', 'TR5', 'TR7', 'TR250', '100-6', 'Sprite', 'Z4', 'Z1', 'Z8', 'P1800',
+  'Elise', 'Exige', 'Evora', 'Europa', '650S', '570S', '600LT', '750S', 'P1', 'Senna', 'LM002', 'Bentayga', 'Q7', 'Q8', 'R8 LMS', 'e-tron', 'Rosalie', 'T3', 'T4', 'Vanagon',
+  '300ZX', '400Z', 'R33', 'R35', 'GT-R R35', 'Skyline R33', 'RX-7', 'MX-30',
 ];

@@ -2857,5 +2857,431 @@
     ],
     "tip": "Beetle-based 2+2 coupé and convertible (Type 14, 1955–1975) styled by Ghia and hand-built by Karmann: a low, rounded body with a sloping nose, small chrome-slatted 'nostril' grilles either side of the badge and no radiator grille.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+  },
+  {
+    "id": "vw-type2-t2",
+    "make": "Volkswagen",
+    "model": "Type 2",
+    "modelAliases": [
+      "Transporter",
+      "Kombi",
+      "Microbus",
+      "Bus",
+      "Bulli",
+      "Bay Window",
+      "Bay"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "Kombi",
+      "Camper",
+      "Westfalia",
+      "Pickup",
+      "Pritsche",
+      "Panel",
+      "Van",
+      "Bus",
+      "Clipper",
+      "Deluxe"
+    ],
+    "generation": {
+      "name": "T2",
+      "aliases": [
+        "T 2",
+        "T2a",
+        "T2b",
+        "bay window",
+        "bay-window",
+        "baywindow",
+        "early bay",
+        "late bay",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "van",
+    "country": "Germany",
+    "years": [
+      1967,
+      1979
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "Second-generation VW bus (built in Germany late 1967–1979, much longer in Mexico and Brazil): a one-piece curved 'bay window' windscreen replacing the T1's split screen, a big VW roundel on the flat nose and, on later T2b vans, the indicators moved up beside the fresh-air grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+  },
+{
+    "id": "citroen-traction-avant",
+    "make": "Citroën",
+    "model": "Traction Avant",
+    "modelAliases": [
+      "Traction",
+      "11 CV",
+      "11CV",
+      "11 B",
+      "11B",
+      "11 BL",
+      "11BL",
+      "7 CV",
+      "7CV",
+      "7C",
+      "15 Six",
+      "15-Six",
+      "Onze",
+      "Light Fifteen",
+      "Big Fifteen"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Légère",
+      "Legere",
+      "Normale",
+      "Familiale",
+      "Commerciale",
+      "Berline",
+      "Cabriolet",
+      "Six",
+      "B",
+      "BL",
+      "CV"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "France",
+    "years": [
+      1934,
+      1957
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "The first mass-produced front-wheel-drive, unit-bodied car (Citroën, 1934–1957): long and low for its day with no running boards, separate flowing front wings, free-standing headlamps and a tall grille carrying the double-chevron logo.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+  },
+{
+    "id": "lotus-esprit",
+    "make": "Lotus",
+    "model": "Esprit",
+    "modelAliases": [
+      "Esprit Turbo",
+      "Turbo Esprit",
+      "Esprit S1",
+      "Esprit S2",
+      "Esprit S3",
+      "Esprit SE",
+      "Esprit V8",
+      "Esprit GT3",
+      "Esprit S4"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Turbo",
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S4s",
+      "SE",
+      "HC",
+      "HCI",
+      "V8",
+      "GT3",
+      "Sport 300",
+      "X180"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      1976,
+      2004
+    ],
+    "categories": [
+      "european",
+      "sports",
+      "classic"
+    ],
+    "tip": "Hethel-built mid-engined wedge (1976–2004), one of Giugiaro's 'folded paper' designs: a flat, knife-edged nose, a steeply raked windscreen and a louvred engine cover; Peter Stevens softened the lines for the 1987 X180 cars.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lotus_Esprit"
+  },
+{
+    "id": "ferrari-f355",
+    "make": "Ferrari",
+    "model": "F355",
+    "modelAliases": [
+      "355",
+      "F 355",
+      "F355 Berlinetta",
+      "F355 GTS",
+      "F355 Spider",
+      "F355 Spyder",
+      "355 F1"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Berlinetta",
+      "GTS",
+      "Spider",
+      "Spyder",
+      "F1"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1994,
+      1999
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Heavily revised 348 (May 1994–1999) with Pininfarina's wind-tunnel-shaped body: a wide oval front intake under pop-up headlamps, big side intakes, four round tail lamps under a mesh grille and a flat underbody.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_F355"
+  },
+{
+    "id": "mclaren-720s",
+    "make": "McLaren",
+    "model": "720S",
+    "modelAliases": [
+      "720 S",
+      "720S Spider",
+      "720S Coupe",
+      "720S Coupé"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Spider",
+      "Coupe",
+      "Coupé",
+      "Performance",
+      "Luxury"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      2017,
+      2023
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Replaced the 650S in 2017 on the MonoCage II carbon tub: dihedral doors, a teardrop canopy and hollow 'eye socket' headlamp pods that duct air to the radiators; no side intakes behind the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/McLaren_720S"
+  },
+{
+    "id": "audi-r8-type42",
+    "make": "Audi",
+    "model": "R8",
+    "modelAliases": [
+      "R8 V8",
+      "R8 V10",
+      "R8 Spyder",
+      "R8 GT",
+      "R8 Coupe"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "V8",
+      "V10",
+      "Plus",
+      "Spyder",
+      "Spider",
+      "GT",
+      "Coupe",
+      "quattro",
+      "FSI",
+      "4.2",
+      "5.2"
+    ],
+    "generation": {
+      "name": "Type 42",
+      "aliases": [
+        "42",
+        "Typ 42",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1",
+        "Mk 1"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      2006,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Audi's Gallardo-based mid-engined supercar (June 2006 – August 2015): a large single-frame grille, LED-lined headlamps and the contrasting 'sideblade' panel behind the doors (absent on the Spyder).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+  },
+{
+    "id": "lamborghini-urus",
+    "make": "Lamborghini",
+    "model": "Urus",
+    "modelAliases": [
+      "Urus S",
+      "Urus Performante",
+      "Urus SE"
+    ],
+    "makeAliases": [
+      "Lambo"
+    ],
+    "extraWords": [
+      "S",
+      "SE",
+      "Performante",
+      "PHEV"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "Italy",
+    "years": [
+      2018,
+      2026
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Lamborghini's first SUV under Volkswagen (December 2017, 2018 model year) on the MLB Evo platform: a coupé-like five-door with a sharply sloping roof, hexagonal arches and Y-shaped light signatures.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+  },
+  {
+    "id": "nissan-370z",
+    "make": "Nissan",
+    "model": "370Z",
+    "modelAliases": [
+      "370 Z",
+      "Fairlady Z",
+      "370Z Roadster",
+      "370Z Coupe",
+      "370Z Nismo",
+      "Nismo 370Z",
+      "Z34"
+    ],
+    "makeAliases": [
+      "Datsun"
+    ],
+    "extraWords": [
+      "Roadster",
+      "Coupe",
+      "Coupé",
+      "Nismo",
+      "Touring",
+      "Sport",
+      "GT"
+    ],
+    "generation": {
+      "name": "Z34",
+      "aliases": [
+        "Z 34",
+        "sixth generation",
+        "6th generation",
+        "6th gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2008,
+      2020
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Sixth-generation Z car (2008–2020, Fairlady Z Z34 in Japan): a short, wide two-seater with boomerang-shaped headlamps and tail lamps, a vertical 'fang' of daytime lights in the bumper and a fastback roof; also a roadster.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_370Z"
+  },
+{
+    "id": "nissan-skyline-r32-gtr",
+    "make": "Nissan",
+    "model": "Skyline",
+    "modelAliases": [
+      "Skyline GT-R",
+      "Skyline GTR",
+      "GT-R",
+      "GTR",
+      "R32 GT-R",
+      "R32 GTR",
+      "BNR32"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "GT-R",
+      "GTR",
+      "V-Spec",
+      "V-Spec II",
+      "Nismo",
+      "N1"
+    ],
+    "generation": {
+      "name": "R32",
+      "aliases": [
+        "BNR32",
+        "HCR32",
+        "eighth generation",
+        "8th generation",
+        "8th gen",
+        "R 32"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      1989,
+      1994
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "The 1989–1994 BNR32 revived the GT-R name and won Group A touring-car titles ('Godzilla'): a compact, boxy two-door with slim horizontal headlamps, a thin slatted grille, a bonnet with a slight bulge and a rear wing.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+  },
+{
+    "id": "mazda-rx8",
+    "make": "Mazda",
+    "model": "RX-8",
+    "modelAliases": [
+      "RX8",
+      "RX 8"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Type E",
+      "Type S",
+      "R3",
+      "Shinka",
+      "Spirit R",
+      "40th Anniversary",
+      "Hydrogen RE"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2003,
+      2012
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Rotary-engined successor to the RX-7 (2003–2012): a four-seat coupé with rear-hinged 'freestyle' back doors and no B-pillar, flared front wings with a vertical side vent, and pentagonal grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_RX-8"
   }
 ]

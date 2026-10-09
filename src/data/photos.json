@@ -495,6 +495,366 @@
     }
   },
   {
+    "id": "audi-r8-type42-01",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-01.webp",
+    "imageSmall": "photos/audi-r8-type42-01-sm.webp",
+    "width": 1600,
+    "height": 838,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Audi_R8_GT_Spyder_MYLE_Festival_2025_DSC_9590_(cropped).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_GT_Spyder",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:Audi R8 GT Spyder MYLE Festival 2025 DSC 9590 (cropped).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Audi_R8_GT_Spyder_MYLE_Festival_2025_DSC_9590_(cropped).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Audi_R8_GT_Spyder_MYLE_Festival_2025_DSC_9590_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Audi R8 GT Spyder MYLE Festival 2025 DSC 9590 (cropped).jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #0); Commons category: Audi R8 GT Spyder. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "audi-r8-type42-02",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-02.webp",
+    "imageSmall": "photos/audi-r8-type42-02-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010_Audi_R8_Spyder_(5105626013).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_(2009)_V10_Spyder",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:2010 Audi R8 Spyder (5105626013).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010_Audi_R8_Spyder_(5105626013).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2010_Audi_R8_Spyder_%285105626013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Spanish Coches",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2010 Audi R8 Spyder (5105626013).jpg” by Spanish Coches, CC BY 2.0, via Wikimedia Commons (2010 Audi R8 Spyder)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #2); Commons category: Audi R8 (2009) V10 Spyder. CC BY 2.0 by Spanish Coches."
+    }
+  },
+  {
+    "id": "audi-r8-type42-03",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-03.webp",
+    "imageSmall": "photos/audi-r8-type42-03-sm.webp",
+    "width": 1600,
+    "height": 842,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010_Audi_R8_Spyder_Quattro_V10_5.2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_(2009)_V10_Spyder",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:2010 Audi R8 Spyder Quattro V10 5.2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010_Audi_R8_Spyder_Quattro_V10_5.2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2010_Audi_R8_Spyder_Quattro_V10_5.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2010 Audi R8 Spyder Quattro V10 5.2.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #3); Commons category: Audi R8 (2009) V10 Spyder. CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "audi-r8-type42-04",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-04.webp",
+    "imageSmall": "photos/audi-r8-type42-04-sm.webp",
+    "width": 1600,
+    "height": 1008,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2011_Audi_R8_GT_gfos25.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_GT_coupes_(type_42)",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:2011 Audi R8 GT gfos25.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2011_Audi_R8_GT_gfos25.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/2011_Audi_R8_GT_gfos25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2011 Audi R8 GT gfos25.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #4); Commons category: Audi R8 GT coupes (type 42). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "audi-r8-type42-05",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-05.webp",
+    "imageSmall": "photos/audi-r8-type42-05-sm.webp",
+    "width": 1600,
+    "height": 996,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Audi_R8_--_08-13-2009.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_(2007)_V8_coupes",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:Audi R8 -- 08-13-2009.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Audi_R8_--_08-13-2009.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Audi_R8_--_08-13-2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "IFCAR",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“Audi R8 -- 08-13-2009.jpg” by IFCAR, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #5); Commons category: Audi R8 (2007) V8 coupes. Public domain by IFCAR."
+    }
+  },
+  {
+    "id": "audi-r8-type42-06",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-06.webp",
+    "imageSmall": "photos/audi-r8-type42-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Quattro_Type_42_Ibis_White_(2).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_(2008)_V10_coupes",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:Audi R8 V10 Quattro Type 42 Ibis White (2).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Quattro_Type_42_Ibis_White_(2).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Audi_R8_V10_Quattro_Type_42_Ibis_White_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Audi R8 V10 Quattro Type 42 Ibis White (2).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #11); Commons category: Audi R8 (2008) V10 coupes. CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "audi-r8-type42-07",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-07.webp",
+    "imageSmall": "photos/audi-r8-type42-07-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:White_Audi_R8_fl.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_(2007)_V8_coupes",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:White Audi R8 fl.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Audi_R8_fl.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/White_Audi_R8_fl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+      "credit": "“White Audi R8 fl.jpg” by Matti Blume, CC BY 2.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #13); Commons category: Audi R8 (2007) V8 coupes. CC BY 2.0 de by Matti Blume."
+    }
+  },
+  {
+    "id": "audi-r8-type42-08",
+    "vehicleId": "audi-r8-type42",
+    "kind": "full",
+    "image": "photos/audi-r8-type42-08.webp",
+    "imageSmall": "photos/audi-r8-type42-08-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2006,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2006–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Moscow,_Audi_R8_(2009)_Spyder,_Sept_2025_09.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Audi_R8_(2009)_Spyder",
+      "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+    ],
+    "source": {
+      "title": "File:Moscow, Audi R8 (2009) Spyder, Sept 2025 09.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_Audi_R8_(2009)_Spyder,_Sept_2025_09.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Moscow%2C_Audi_R8_%282009%29_Spyder%2C_Sept_2025_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Retired electrician",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Moscow, Audi R8 (2009) Spyder, Sept 2025 09.jpg” by Retired electrician, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r8a #14); Commons category: Audi R8 (2009) Spyder. CC0 by Retired electrician."
+    }
+  },
+  {
     "id": "audi-tt-8n-01",
     "vehicleId": "audi-tt-8n",
     "kind": "full",
@@ -3841,6 +4201,456 @@
     }
   },
   {
+    "id": "citroen-traction-avant-01",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-01.webp",
+    "imageSmall": "photos/citroen-traction-avant-01-sm.webp",
+    "width": 1600,
+    "height": 1055,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1952_Citroen_Traction_Avant.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:1952 Citroen Traction Avant.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1952_Citroen_Traction_Avant.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/1952_Citroen_Traction_Avant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1952 Citroen Traction Avant.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #2); Commons category: Citroën Traction Avant. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-02",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-02.webp",
+    "imageSmall": "photos/citroen-traction-avant-02-sm.webp",
+    "width": 1600,
+    "height": 1108,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1955_Citroën_Traction_11B_Normale,_front_left,_NYC.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_11_CV",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:1955 Citroën Traction 11B Normale, front left, NYC.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1955_Citro%C3%ABn_Traction_11B_Normale,_front_left,_NYC.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/1955_Citro%C3%ABn_Traction_11B_Normale%2C_front_left%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1955 Citroën Traction 11B Normale, front left, NYC.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #3); Commons category: Citroën 11 CV. CC BY-SA 3.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-03",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-03.webp",
+    "imageSmall": "photos/citroen-traction-avant-03-sm.webp",
+    "width": 1600,
+    "height": 944,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1955_Citroen_Traction_Avant_1.9_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:1955 Citroen Traction Avant 1.9 Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1955_Citroen_Traction_Avant_1.9_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/1955_Citroen_Traction_Avant_1.9_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1955 Citroen Traction Avant 1.9 Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #4); Commons category: Citroën Traction Avant. CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-04",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-04.webp",
+    "imageSmall": "photos/citroen-traction-avant-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroën_Traction_Avant_11_B_Légère_Berline_ADAC_Deutschland_Klassik_2018_6280086.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant_11_CV_in_Germany",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Citroën Traction Avant 11 B Légère Berline ADAC Deutschland Klassik 2018 6280086.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Traction_Avant_11_B_L%C3%A9g%C3%A8re_Berline_ADAC_Deutschland_Klassik_2018_6280086.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Citro%C3%ABn_Traction_Avant_11_B_L%C3%A9g%C3%A8re_Berline_ADAC_Deutschland_Klassik_2018_6280086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Citroën Traction Avant 11 B Légère Berline ADAC Deutschland Klassik 2018 6280086.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #6); Commons category: Citroën Traction Avant 11 CV in Germany. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-05",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-05.webp",
+    "imageSmall": "photos/citroen-traction-avant-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroën_Traction_Avant_11_B_Légère_Berline_ADAC_Deutschland_Klassik_2018_6301816.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant_11_CV_in_Germany",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Citroën Traction Avant 11 B Légère Berline ADAC Deutschland Klassik 2018 6301816.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Traction_Avant_11_B_L%C3%A9g%C3%A8re_Berline_ADAC_Deutschland_Klassik_2018_6301816.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Citro%C3%ABn_Traction_Avant_11_B_L%C3%A9g%C3%A8re_Berline_ADAC_Deutschland_Klassik_2018_6301816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Citroën Traction Avant 11 B Légère Berline ADAC Deutschland Klassik 2018 6301816.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #7); Commons category: Citroën Traction Avant 11 CV in Germany. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-06",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-06.webp",
+    "imageSmall": "photos/citroen-traction-avant-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_15_six_Sachs_Franken_Classic_2018_P5200819.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Automobiles_with_license_plates_of_Bavaria",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Citroen Traction Avant 15 six Sachs Franken Classic 2018 P5200819.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_15_six_Sachs_Franken_Classic_2018_P5200819.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Citroen_Traction_Avant_15_six_Sachs_Franken_Classic_2018_P5200819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Citroen Traction Avant 15 six Sachs Franken Classic 2018 P5200819.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #8); Commons category: Automobiles with license plates of Bavaria. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-07",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-07.webp",
+    "imageSmall": "photos/citroen-traction-avant-07-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_15_six_Sachs_Franken_Classic_2018_P5201195.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Automobiles_with_license_plates_of_Bavaria",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Citroen Traction Avant 15 six Sachs Franken Classic 2018 P5201195.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_15_six_Sachs_Franken_Classic_2018_P5201195.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Citroen_Traction_Avant_15_six_Sachs_Franken_Classic_2018_P5201195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Citroen Traction Avant 15 six Sachs Franken Classic 2018 P5201195.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #9); Commons category: Automobiles with license plates of Bavaria. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-08",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-08.webp",
+    "imageSmall": "photos/citroen-traction-avant-08-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_Classic-Gala_2021_1X7A0158.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Citroen Traction Avant Classic-Gala 2021 1X7A0158.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_Classic-Gala_2021_1X7A0158.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Citroen_Traction_Avant_Classic-Gala_2021_1X7A0158.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Citroen Traction Avant Classic-Gala 2021 1X7A0158.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #10); Commons category: Citroën Traction Avant. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-09",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-09.webp",
+    "imageSmall": "photos/citroen-traction-avant-09-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Bourg-la-Reine_-_Journées_européennes_du_patrimoine_2024_-_Citroën_Traction_Avant_11BL_(3).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant_11_CV_in_France",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Bourg-la-Reine - Journées européennes du patrimoine 2024 - Citroën Traction Avant 11BL (3).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bourg-la-Reine_-_Journ%C3%A9es_europ%C3%A9ennes_du_patrimoine_2024_-_Citro%C3%ABn_Traction_Avant_11BL_(3).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bourg-la-Reine_-_Journ%C3%A9es_europ%C3%A9ennes_du_patrimoine_2024_-_Citro%C3%ABn_Traction_Avant_11BL_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "YANN92340",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Bourg-la-Reine - Journées européennes du patrimoine 2024 - Citroën Traction Avant 11BL (3).jpg” by YANN92340, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #12); Commons category: Citroën Traction Avant 11 CV in France. CC0 by YANN92340."
+    }
+  },
+  {
+    "id": "citroen-traction-avant-10",
+    "vehicleId": "citroen-traction-avant",
+    "kind": "full",
+    "image": "photos/citroen-traction-avant-10.webp",
+    "imageSmall": "photos/citroen-traction-avant-10-sm.webp",
+    "width": 1600,
+    "height": 1064,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1934,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1934–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroen_11_CV_BW_2017-07-16_14-02-01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_Traction_Avant_11_CV_in_Germany",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    ],
+    "source": {
+      "title": "File:Citroen 11 CV BW 2017-07-16 14-02-01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citroen_11_CV_BW_2017-07-16_14-02-01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Citroen_11_CV_BW_2017-07-16_14-02-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Berthold Werner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Citroen 11 CV BW 2017-07-16 14-02-01.jpg” by Berthold Werner, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (traction #13); Commons category: Citroën Traction Avant 11 CV in Germany. CC BY-SA 4.0 by Berthold Werner."
+    }
+  },
+  {
     "id": "datsun-240z-01",
     "vehicleId": "datsun-240z",
     "kind": "full",
@@ -5101,6 +5911,276 @@
     }
   },
   {
+    "id": "ferrari-f355-01",
+    "vehicleId": "ferrari-f355",
+    "kind": "full",
+    "image": "photos/ferrari-f355-01.webp",
+    "imageSmall": "photos/ferrari-f355-01-sm.webp",
+    "width": 1600,
+    "height": 995,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1999,
+      "basis": "No feature visible in the photo separates years within the 1994–1999 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1995_Ferrari_F355_Berlinetta.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F355_Berlinetta",
+      "https://en.wikipedia.org/wiki/Ferrari_F355"
+    ],
+    "source": {
+      "title": "File:1995 Ferrari F355 Berlinetta.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1995_Ferrari_F355_Berlinetta.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1995_Ferrari_F355_Berlinetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1995 Ferrari F355 Berlinetta.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f355 #0); Commons category: Ferrari F355 Berlinetta. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-f355-02",
+    "vehicleId": "ferrari-f355",
+    "kind": "full",
+    "image": "photos/ferrari-f355-02.webp",
+    "imageSmall": "photos/ferrari-f355-02-sm.webp",
+    "width": 1600,
+    "height": 762,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1999,
+      "basis": "No feature visible in the photo separates years within the 1994–1999 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1998_Ferrari_F355_Spider_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F355_Spider",
+      "https://en.wikipedia.org/wiki/Ferrari_F355"
+    ],
+    "source": {
+      "title": "File:1998 Ferrari F355 Spider 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1998_Ferrari_F355_Spider_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1998_Ferrari_F355_Spider_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1998 Ferrari F355 Spider 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f355 #2); Commons category: Ferrari F355 Spider. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-f355-03",
+    "vehicleId": "ferrari-f355",
+    "kind": "full",
+    "image": "photos/ferrari-f355-03.webp",
+    "imageSmall": "photos/ferrari-f355-03-sm.webp",
+    "width": 1280,
+    "height": 653,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1999,
+      "basis": "No feature visible in the photo separates years within the 1994–1999 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1998_Ferrari_F355.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F355_GTS",
+      "https://en.wikipedia.org/wiki/Ferrari_F355"
+    ],
+    "source": {
+      "title": "File:1998 Ferrari F355.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1998_Ferrari_F355.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/1998_Ferrari_F355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1998 Ferrari F355.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f355 #3); Commons category: Ferrari F355 GTS. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-f355-04",
+    "vehicleId": "ferrari-f355",
+    "kind": "full",
+    "image": "photos/ferrari-f355-04.webp",
+    "imageSmall": "photos/ferrari-f355-04-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1999,
+      "basis": "No feature visible in the photo separates years within the 1994–1999 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1999_Ferrari_F355_Spyder_(12882577884).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F355_Spider",
+      "https://en.wikipedia.org/wiki/Ferrari_F355"
+    ],
+    "source": {
+      "title": "File:1999 Ferrari F355 Spyder (12882577884).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1999_Ferrari_F355_Spyder_(12882577884).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1999_Ferrari_F355_Spyder_%2812882577884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1999 Ferrari F355 Spyder (12882577884).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1999 Ferrari F355 Spyder)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f355 #4); Commons category: Ferrari F355 Spider. CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "ferrari-f355-05",
+    "vehicleId": "ferrari-f355",
+    "kind": "full",
+    "image": "photos/ferrari-f355-05.webp",
+    "imageSmall": "photos/ferrari-f355-05-sm.webp",
+    "width": 1600,
+    "height": 898,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1999,
+      "basis": "No feature visible in the photo separates years within the 1994–1999 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ferrari_F355_in_front_of_the_ArsDigita_offices_taken_by_Hans_Masing_in_July_2000.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F355_Berlinetta",
+      "https://en.wikipedia.org/wiki/Ferrari_F355"
+    ],
+    "source": {
+      "title": "File:Ferrari F355 in front of the ArsDigita offices taken by Hans Masing in July 2000.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_F355_in_front_of_the_ArsDigita_offices_taken_by_Hans_Masing_in_July_2000.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ferrari_F355_in_front_of_the_ArsDigita_offices_taken_by_Hans_Masing_in_July_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Hans C. Masing (as Hmasing at en.wikipedia)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Ferrari F355 in front of the ArsDigita offices taken by Hans Masing in July 2000.jpg” by Hans C. Masing (as Hmasing at en.wikipedia), CC BY-SA 3.0, via Wikimedia Commons (Transferred from en.wikipedia to Commons by User:Closeapple using CommonsHelper.)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f355 #6); Commons category: Ferrari F355 Berlinetta. CC BY-SA 3.0 by Hans C. Masing (as Hmasing at en.wikipedia)."
+    }
+  },
+  {
+    "id": "ferrari-f355-06",
+    "vehicleId": "ferrari-f355",
+    "kind": "full",
+    "image": "photos/ferrari-f355-06.webp",
+    "imageSmall": "photos/ferrari-f355-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1999,
+      "basis": "No feature visible in the photo separates years within the 1994–1999 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F355_berlinetta.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F355_Berlinetta",
+      "https://en.wikipedia.org/wiki/Ferrari_F355"
+    ],
+    "source": {
+      "title": "File:Red Ferrari F355 berlinetta.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F355_berlinetta.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Red_Ferrari_F355_berlinetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Red Ferrari F355 berlinetta.jpg” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f355 #11); Commons category: Ferrari F355 Berlinetta. CC0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
     "id": "ferrari-f40-01",
     "vehicleId": "ferrari-f40",
     "kind": "full",
@@ -5871,6 +6951,276 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: red Testarossa at a street car show."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-06",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-06.webp",
+    "imageSmall": "photos/ferrari-testarossa-06-sm.webp",
+    "width": 1600,
+    "height": 934,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1985_Ferrari_Testarossa_Targa.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1985 Ferrari Testarossa Targa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1985_Ferrari_Testarossa_Targa.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/1985_Ferrari_Testarossa_Targa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1985 Ferrari Testarossa Targa.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (testarossa #0); Commons category: Ferrari Testarossa. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-07",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-07.webp",
+    "imageSmall": "photos/ferrari-testarossa-07-sm.webp",
+    "width": 1600,
+    "height": 906,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1987 Ferrari Testarossa 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/1987_Ferrari_Testarossa_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1987 Ferrari Testarossa 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (testarossa #2); Commons category: Ferrari Testarossa. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-08",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-08.webp",
+    "imageSmall": "photos/ferrari-testarossa-08-sm.webp",
+    "width": 1600,
+    "height": 1046,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1988_Ferrari_Testarossa_(84749).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1988 Ferrari Testarossa (84749).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Ferrari_Testarossa_(84749).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/1988_Ferrari_Testarossa_%2884749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1988 Ferrari Testarossa (84749).jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (testarossa #7); Commons category: Ferrari Testarossa. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-09",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-09.webp",
+    "imageSmall": "photos/ferrari-testarossa-09-sm.webp",
+    "width": 1600,
+    "height": 973,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Ferrari_Testarossa.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1990 Ferrari Testarossa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Ferrari_Testarossa.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/1990_Ferrari_Testarossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1990 Ferrari Testarossa.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (testarossa #8); Commons category: Ferrari Testarossa. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-12",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-12.webp",
+    "imageSmall": "photos/ferrari-testarossa-12-sm.webp",
+    "width": 1600,
+    "height": 1234,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1985_Ferrari_Testarossa.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1985 Ferrari Testarossa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1985_Ferrari_Testarossa.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/1985_Ferrari_Testarossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "DestinationFearFan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1985 Ferrari Testarossa.jpg” by DestinationFearFan, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (testarossa #13); Commons category: Ferrari Testarossa. CC BY-SA 4.0 by DestinationFearFan."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-13",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-13.webp",
+    "imageSmall": "photos/ferrari-testarossa-13-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1986_Ferrari_Testarossa.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1986 Ferrari Testarossa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1986_Ferrari_Testarossa.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/1986_Ferrari_Testarossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ssu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1986 Ferrari Testarossa.jpg” by Ssu, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (testarossa #14); Commons category: Ferrari Testarossa. CC BY-SA 4.0 by Ssu."
     }
   },
   {
@@ -9985,6 +11335,456 @@
     }
   },
   {
+    "id": "lamborghini-urus-01",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-01.webp",
+    "imageSmall": "photos/lamborghini-urus-01-sm.webp",
+    "width": 1600,
+    "height": 905,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Urus_Auto.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:2021 Lamborghini Urus Auto.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Urus_Auto.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/2021_Lamborghini_Urus_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2021 Lamborghini Urus Auto.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #0); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lamborghini-urus-02",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-02.webp",
+    "imageSmall": "photos/lamborghini-urus-02-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A0035).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0035).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A0035).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Geneva_International_Motor_Show_2018%2C_Le_Grand-Saconnex_%281X7A0035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0035).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #2); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "lamborghini-urus-03",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-03.webp",
+    "imageSmall": "photos/lamborghini-urus-03-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A1485).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1485).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A1485).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Geneva_International_Motor_Show_2018%2C_Le_Grand-Saconnex_%281X7A1485%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1485).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #3); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "lamborghini-urus-04",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-04.webp",
+    "imageSmall": "photos/lamborghini-urus-04-sm.webp",
+    "width": 1600,
+    "height": 833,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Lamborghini_Urus,_front_7.20.19.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:2019 Lamborghini Urus, front 7.20.19.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Lamborghini_Urus,_front_7.20.19.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/2019_Lamborghini_Urus%2C_front_7.20.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kevauto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Lamborghini Urus, front 7.20.19.jpg” by Kevauto, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #5); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Kevauto."
+    }
+  },
+  {
+    "id": "lamborghini-urus-05",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-05.webp",
+    "imageSmall": "photos/lamborghini-urus-05-sm.webp",
+    "width": 1600,
+    "height": 887,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2025_Lamborghini_Urus_SE_PHEV_-_3996cc_4.0_(789PS)_PHEV_-_Nero_Helene_-_02-2025,_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus_SE",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:2025 Lamborghini Urus SE PHEV - 3996cc 4.0 (789PS) PHEV - Nero Helene - 02-2025, Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2025_Lamborghini_Urus_SE_PHEV_-_3996cc_4.0_(789PS)_PHEV_-_Nero_Helene_-_02-2025,_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/2025_Lamborghini_Urus_SE_PHEV_-_3996cc_4.0_%28789PS%29_PHEV_-_Nero_Helene_-_02-2025%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Harvey Bold",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“2025 Lamborghini Urus SE PHEV - 3996cc 4.0 (789PS) PHEV - Nero Helene - 02-2025, Front.jpg” by Harvey Bold, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #6); Commons category: Lamborghini Urus SE. CC0 by Harvey Bold."
+    }
+  },
+  {
+    "id": "lamborghini-urus-06",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-06.webp",
+    "imageSmall": "photos/lamborghini-urus-06-sm.webp",
+    "width": 1600,
+    "height": 845,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_1X7A0300.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Lamborghini Urus 1X7A0300.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_1X7A0300.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lamborghini_Urus_1X7A0300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Urus 1X7A0300.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #8); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "lamborghini-urus-07",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-07.webp",
+    "imageSmall": "photos/lamborghini-urus-07-sm.webp",
+    "width": 1600,
+    "height": 870,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_SE_DSC_8521.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus_SE",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Lamborghini Urus SE DSC 8521.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_SE_DSC_8521.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Lamborghini_Urus_SE_DSC_8521.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Urus SE DSC 8521.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #10); Commons category: Lamborghini Urus SE. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "lamborghini-urus-08",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-08.webp",
+    "imageSmall": "photos/lamborghini-urus-08-sm.webp",
+    "width": 1600,
+    "height": 905,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_SE_DSC_8524.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus_SE",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Lamborghini Urus SE DSC 8524.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_SE_DSC_8524.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Urus SE DSC 8524.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #11); Commons category: Lamborghini Urus SE. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "lamborghini-urus-09",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-09.webp",
+    "imageSmall": "photos/lamborghini-urus-09-sm.webp",
+    "width": 1600,
+    "height": 1193,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_front_view_dllu.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Lamborghini Urus front view dllu.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_front_view_dllu.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lamborghini_Urus_front_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Urus front view dllu.jpg” by Dllu, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #13); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Dllu."
+    }
+  },
+  {
+    "id": "lamborghini-urus-10",
+    "vehicleId": "lamborghini-urus",
+    "kind": "full",
+    "image": "photos/lamborghini-urus-10.webp",
+    "imageSmall": "photos/lamborghini-urus-10-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_oblique_view_dllu_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Urus",
+      "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+    ],
+    "source": {
+      "title": "File:Lamborghini Urus oblique view dllu 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_oblique_view_dllu_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lamborghini_Urus_oblique_view_dllu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Urus oblique view dllu 01.jpg” by Dllu, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (urus #14); Commons category: Lamborghini Urus. CC BY-SA 4.0 by Dllu."
+    }
+  },
+  {
     "id": "lancia-delta-02",
     "vehicleId": "lancia-delta",
     "kind": "full",
@@ -10477,6 +12277,276 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: olive Series III driving on a road with passengers."
+    }
+  },
+  {
+    "id": "lotus-esprit-01",
+    "vehicleId": "lotus-esprit",
+    "kind": "full",
+    "image": "photos/lotus-esprit-01.webp",
+    "imageSmall": "photos/lotus-esprit-01-sm.webp",
+    "width": 1600,
+    "height": 972,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1976,
+      "to": 2004,
+      "basis": "No feature visible in the photo separates years within the 1976–2004 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Lotus_Esprit_Turbo_SE_(US_model),_front_left_at_Greenwich_2018.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lotus_Esprit_(X180)",
+      "https://en.wikipedia.org/wiki/Lotus_Esprit"
+    ],
+    "source": {
+      "title": "File:1991 Lotus Esprit Turbo SE (US model), front left at Greenwich 2018.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Lotus_Esprit_Turbo_SE_(US_model),_front_left_at_Greenwich_2018.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/1991_Lotus_Esprit_Turbo_SE_%28US_model%29%2C_front_left_at_Greenwich_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1991 Lotus Esprit Turbo SE (US model), front left at Greenwich 2018.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (esprit #1); Commons category: Lotus Esprit (X180). CC BY-SA 3.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "lotus-esprit-02",
+    "vehicleId": "lotus-esprit",
+    "kind": "full",
+    "image": "photos/lotus-esprit-02.webp",
+    "imageSmall": "photos/lotus-esprit-02-sm.webp",
+    "width": 1600,
+    "height": 815,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1976,
+      "to": 2004,
+      "basis": "No feature visible in the photo separates years within the 1976–2004 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2003_Lotus_Esprit_V8_in_Arctic_Silver_Metallic,_front_left.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lotus_Esprit_V8",
+      "https://en.wikipedia.org/wiki/Lotus_Esprit"
+    ],
+    "source": {
+      "title": "File:2003 Lotus Esprit V8 in Arctic Silver Metallic, front left.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2003_Lotus_Esprit_V8_in_Arctic_Silver_Metallic,_front_left.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2003_Lotus_Esprit_V8_in_Arctic_Silver_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2003 Lotus Esprit V8 in Arctic Silver Metallic, front left.jpg” by Mr.choppers, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (esprit #2); Commons category: Lotus Esprit V8. CC BY-SA 4.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "lotus-esprit-03",
+    "vehicleId": "lotus-esprit",
+    "kind": "full",
+    "image": "photos/lotus-esprit-03.webp",
+    "imageSmall": "photos/lotus-esprit-03-sm.webp",
+    "width": 1600,
+    "height": 992,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1976,
+      "to": 2004,
+      "basis": "No feature visible in the photo separates years within the 1976–2004 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1988_Lotus_Esprit_Turbo_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lotus_Esprit_(X180)",
+      "https://en.wikipedia.org/wiki/Lotus_Esprit"
+    ],
+    "source": {
+      "title": "File:1988 Lotus Esprit Turbo 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Lotus_Esprit_Turbo_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/1988_Lotus_Esprit_Turbo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“1988 Lotus Esprit Turbo 1.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (esprit #8); Commons category: Lotus Esprit (X180). CC BY 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lotus-esprit-04",
+    "vehicleId": "lotus-esprit",
+    "kind": "full",
+    "image": "photos/lotus-esprit-04.webp",
+    "imageSmall": "photos/lotus-esprit-04-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1976,
+      "to": 2004,
+      "basis": "No feature visible in the photo separates years within the 1976–2004 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Lotus_Esprit_2.2_Turbo_(14175407550).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lotus_Esprit_(X180)",
+      "https://en.wikipedia.org/wiki/Lotus_Esprit"
+    ],
+    "source": {
+      "title": "File:1989 Lotus Esprit 2.2 Turbo (14175407550).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Lotus_Esprit_2.2_Turbo_(14175407550).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/1989_Lotus_Esprit_2.2_Turbo_%2814175407550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1989 Lotus Esprit 2.2 Turbo (14175407550).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1989 Lotus Esprit 2.2 Turbo)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (esprit #9); Commons category: Lotus Esprit (X180). CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "lotus-esprit-05",
+    "vehicleId": "lotus-esprit",
+    "kind": "full",
+    "image": "photos/lotus-esprit-05.webp",
+    "imageSmall": "photos/lotus-esprit-05-sm.webp",
+    "width": 1600,
+    "height": 882,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1976,
+      "to": 2004,
+      "basis": "No feature visible in the photo separates years within the 1976–2004 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Lotus_Esprit_Turbo_SE_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lotus_Esprit_(X180)",
+      "https://en.wikipedia.org/wiki/Lotus_Esprit"
+    ],
+    "source": {
+      "title": "File:1989 Lotus Esprit Turbo SE 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Lotus_Esprit_Turbo_SE_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1989_Lotus_Esprit_Turbo_SE_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Lotus Esprit Turbo SE 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (esprit #10); Commons category: Lotus Esprit (X180). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lotus-esprit-07",
+    "vehicleId": "lotus-esprit",
+    "kind": "full",
+    "image": "photos/lotus-esprit-07.webp",
+    "imageSmall": "photos/lotus-esprit-07-sm.webp",
+    "width": 1600,
+    "height": 847,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1976,
+      "to": 2004,
+      "basis": "No feature visible in the photo separates years within the 1976–2004 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lotus_Esprit_Turbo_HCI_(1986)_Solitude_Revival_2019_IMG_1841.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lotus_Esprit_S3/Turbo",
+      "https://en.wikipedia.org/wiki/Lotus_Esprit"
+    ],
+    "source": {
+      "title": "File:Lotus Esprit Turbo HCI (1986) Solitude Revival 2019 IMG 1841.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Esprit_Turbo_HCI_(1986)_Solitude_Revival_2019_IMG_1841.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lotus_Esprit_Turbo_HCI_%281986%29_Solitude_Revival_2019_IMG_1841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lotus Esprit Turbo HCI (1986) Solitude Revival 2019 IMG 1841.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (esprit #13); Commons category: Lotus Esprit S3/Turbo. CC BY-SA 4.0 by Alexander Migl."
     }
   },
   {
@@ -11017,6 +13087,546 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: red FD parked by a wall."
+    }
+  },
+  {
+    "id": "mazda-rx8-01",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-01.webp",
+    "imageSmall": "photos/mazda-rx8-01-sm.webp",
+    "width": 1600,
+    "height": 886,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2005_Mazda_RX-8_Shinka_Edition_in_Black_Cherry_Mica,_Front_Right,_05-29-2022.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:2005 Mazda RX-8 Shinka Edition in Black Cherry Mica, Front Right, 05-29-2022.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2005_Mazda_RX-8_Shinka_Edition_in_Black_Cherry_Mica,_Front_Right,_05-29-2022.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/2005_Mazda_RX-8_Shinka_Edition_in_Black_Cherry_Mica%2C_Front_Right%2C_05-29-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2005 Mazda RX-8 Shinka Edition in Black Cherry Mica, Front Right, 05-29-2022.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #0); Commons category: Mazda RX-8. CC BY-SA 4.0 by Elise240SX."
+    }
+  },
+  {
+    "id": "mazda-rx8-02",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-02.webp",
+    "imageSmall": "photos/mazda-rx8-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2003_Mazda_RX-8_(FE)_coupe_(23713954939).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8_(2003)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:2003 Mazda RX-8 (FE) coupe (23713954939).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2003_Mazda_RX-8_(FE)_coupe_(23713954939).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/2003_Mazda_RX-8_%28FE%29_coupe_%2823713954939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2003 Mazda RX-8 (FE) coupe (23713954939).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (Mazda RX-8)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #1); Commons category: Mazda RX-8 (2003). CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "mazda-rx8-03",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-03.webp",
+    "imageSmall": "photos/mazda-rx8-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2003_Mazda_RX8_Coupe_(25887169906).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8_(2003)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:2003 Mazda RX8 Coupe (25887169906).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2003_Mazda_RX8_Coupe_(25887169906).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2003_Mazda_RX8_Coupe_%2825887169906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2003 Mazda RX8 Coupe (25887169906).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (2003 Mazda RX8 Coupe)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #2); Commons category: Mazda RX-8 (2003). CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "mazda-rx8-04",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-04.webp",
+    "imageSmall": "photos/mazda-rx8-04-sm.webp",
+    "width": 1600,
+    "height": 874,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2004_Mazda_RX-8_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:2004 Mazda RX-8 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2004_Mazda_RX-8_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/2004_Mazda_RX-8_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2004 Mazda RX-8 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #3); Commons category: Mazda RX-8. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "mazda-rx8-05",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-05.webp",
+    "imageSmall": "photos/mazda-rx8-05-sm.webp",
+    "width": 1600,
+    "height": 960,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mazda_RX-8_2005_(52728588056).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:Mazda RX-8 2005 (52728588056).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mazda_RX-8_2005_(52728588056).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mazda_RX-8_2005_%2852728588056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "RL GNZLZ from Chile",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Mazda RX-8 2005 (52728588056).jpg” by RL GNZLZ from Chile, CC BY-SA 2.0, via Wikimedia Commons (Mazda RX-8 2005)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #6); Commons category: Mazda RX-8. CC BY-SA 2.0 by RL GNZLZ from Chile."
+    }
+  },
+  {
+    "id": "mazda-rx8-06",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-06.webp",
+    "imageSmall": "photos/mazda-rx8-06-sm.webp",
+    "width": 1600,
+    "height": 980,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mazda_RX-8_2007_(50152569953).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:Mazda RX-8 2007 (50152569953).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mazda_RX-8_2007_(50152569953).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mazda_RX-8_2007_%2850152569953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "RL GNZLZ from Chile",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Mazda RX-8 2007 (50152569953).jpg” by RL GNZLZ from Chile, CC BY-SA 2.0, via Wikimedia Commons (Mazda RX-8 2007)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #7); Commons category: Mazda RX-8. CC BY-SA 2.0 by RL GNZLZ from Chile."
+    }
+  },
+  {
+    "id": "mazda-rx8-09",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-09.webp",
+    "imageSmall": "photos/mazda-rx8-09-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mazda_RX-8_Type_E_Opencar_(2).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8_Type_E(2003)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:Mazda RX-8 Type E Opencar (2).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mazda_RX-8_Type_E_Opencar_(2).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mazda_RX-8_Type_E_Opencar_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Mazda RX-8 Type E Opencar (2).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #10); Commons category: Mazda RX-8 Type E(2003). CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "mazda-rx8-11",
+    "vehicleId": "mazda-rx8",
+    "kind": "full",
+    "image": "photos/mazda-rx8-11.webp",
+    "imageSmall": "photos/mazda-rx8-11-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2003,
+      "to": 2012,
+      "basis": "No feature visible in the photo separates years within the 2003–2012 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2011_Mazda_RX-8_(5483490024).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-8_(facelift)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-8"
+    ],
+    "source": {
+      "title": "File:2011 Mazda RX-8 (5483490024).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2011_Mazda_RX-8_(5483490024).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2011_Mazda_RX-8_%285483490024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Michael Gil from Calgary, AB, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2011 Mazda RX-8 (5483490024).jpg” by Michael Gil from Calgary, AB, Canada, CC BY 2.0, via Wikimedia Commons (2011 Mazda RX-8)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rx8 #13); Commons category: Mazda RX-8 (facelift). CC BY 2.0 by Michael Gil from Calgary, AB, Canada."
+    }
+  },
+  {
+    "id": "mclaren-720s-05",
+    "vehicleId": "mclaren-720s",
+    "kind": "full",
+    "image": "photos/mclaren-720s-05.webp",
+    "imageSmall": "photos/mclaren-720s-05-sm.webp",
+    "width": 1600,
+    "height": 1195,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2017–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2017_McLaren_720S_V8_S-A_(T21_ARK).jpg",
+      "https://commons.wikimedia.org/wiki/Category:McLaren_720S",
+      "https://en.wikipedia.org/wiki/McLaren_720S"
+    ],
+    "source": {
+      "title": "File:2017 McLaren 720S V8 S-A (T21 ARK).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2017_McLaren_720S_V8_S-A_(T21_ARK).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2017_McLaren_720S_V8_S-A_%28T21_ARK%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Carfanatic2019",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2017 McLaren 720S V8 S-A (T21 ARK).jpg” by Carfanatic2019, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mcl720 #4); Commons category: McLaren 720S. CC BY-SA 4.0 by Carfanatic2019."
+    }
+  },
+  {
+    "id": "mclaren-720s-06",
+    "vehicleId": "mclaren-720s",
+    "kind": "full",
+    "image": "photos/mclaren-720s-06.webp",
+    "imageSmall": "photos/mclaren-720s-06-sm.webp",
+    "width": 1600,
+    "height": 777,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2017–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_McLaren_720S_11.jpg",
+      "https://commons.wikimedia.org/wiki/Category:McLaren_720S",
+      "https://en.wikipedia.org/wiki/McLaren_720S"
+    ],
+    "source": {
+      "title": "File:2018 McLaren 720S 11.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_McLaren_720S_11.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2018_McLaren_720S_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 McLaren 720S 11.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mcl720 #5); Commons category: McLaren 720S. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "mclaren-720s-07",
+    "vehicleId": "mclaren-720s",
+    "kind": "full",
+    "image": "photos/mclaren-720s-07.webp",
+    "imageSmall": "photos/mclaren-720s-07-sm.webp",
+    "width": 1600,
+    "height": 822,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2017–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_McLaren_720S_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:McLaren_720S_coupes",
+      "https://en.wikipedia.org/wiki/McLaren_720S"
+    ],
+    "source": {
+      "title": "File:2018 McLaren 720S 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_McLaren_720S_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2018_McLaren_720S_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 McLaren 720S 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mcl720 #6); Commons category: McLaren 720S coupes. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "mclaren-720s-10",
+    "vehicleId": "mclaren-720s",
+    "kind": "full",
+    "image": "photos/mclaren-720s-10.webp",
+    "imageSmall": "photos/mclaren-720s-10-sm.webp",
+    "width": 1600,
+    "height": 813,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2017–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2020_McLaren_720S_front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:McLaren_720S_Spider",
+      "https://en.wikipedia.org/wiki/McLaren_720S"
+    ],
+    "source": {
+      "title": "File:2020 McLaren 720S front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2020_McLaren_720S_front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/2020_McLaren_720S_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "LuvsMG481",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2020 McLaren 720S front.jpg” by LuvsMG481, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mcl720 #12); Commons category: McLaren 720S Spider. CC BY-SA 4.0 by LuvsMG481."
     }
   },
   {
@@ -13331,6 +15941,231 @@
     }
   },
   {
+    "id": "nissan-370z-01",
+    "vehicleId": "nissan-370z",
+    "kind": "full",
+    "image": "photos/nissan-370z-01.webp",
+    "imageSmall": "photos/nissan-370z-01-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2008–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Nissan_370Z_(Z34_MY13.5)_coupe_(2015-06-18)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_370Z_Coupe",
+      "https://en.wikipedia.org/wiki/Nissan_370Z"
+    ],
+    "source": {
+      "title": "File:2013 Nissan 370Z (Z34 MY13.5) coupe (2015-06-18) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Nissan_370Z_(Z34_MY13.5)_coupe_(2015-06-18)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/2013_Nissan_370Z_%28Z34_MY13.5%29_coupe_%282015-06-18%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2013 Nissan 370Z (Z34 MY13.5) coupe (2015-06-18) 01.jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z34 #1); Commons category: Nissan 370Z Coupe. Public domain by OSX."
+    }
+  },
+  {
+    "id": "nissan-370z-02",
+    "vehicleId": "nissan-370z",
+    "kind": "full",
+    "image": "photos/nissan-370z-02.webp",
+    "imageSmall": "photos/nissan-370z-02-sm.webp",
+    "width": 1600,
+    "height": 933,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2008–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010_Nissan_370Z_convertible_--_06-19-2010.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_370Z_Roadster",
+      "https://en.wikipedia.org/wiki/Nissan_370Z"
+    ],
+    "source": {
+      "title": "File:2010 Nissan 370Z convertible -- 06-19-2010.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010_Nissan_370Z_convertible_--_06-19-2010.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/2010_Nissan_370Z_convertible_--_06-19-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "IFCAR",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2010 Nissan 370Z convertible -- 06-19-2010.jpg” by IFCAR, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z34 #2); Commons category: Nissan 370Z Roadster. Public domain by IFCAR."
+    }
+  },
+  {
+    "id": "nissan-370z-03",
+    "vehicleId": "nissan-370z",
+    "kind": "full",
+    "image": "photos/nissan-370z-03.webp",
+    "imageSmall": "photos/nissan-370z-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2008–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2010_Nissan_370Z_Roadster_(51527295752).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_370Z_Roadster",
+      "https://en.wikipedia.org/wiki/Nissan_370Z"
+    ],
+    "source": {
+      "title": "File:2010 Nissan 370Z Roadster (51527295752).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2010_Nissan_370Z_Roadster_(51527295752).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2010_Nissan_370Z_Roadster_%2851527295752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2010 Nissan 370Z Roadster (51527295752).jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/51527295752/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z34 #3); Commons category: Nissan 370Z Roadster. CC BY 2.0 by Rutger van der Maar."
+    }
+  },
+  {
+    "id": "nissan-370z-05",
+    "vehicleId": "nissan-370z",
+    "kind": "full",
+    "image": "photos/nissan-370z-05.webp",
+    "imageSmall": "photos/nissan-370z-05-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2008–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2014_Nissan_370Z_(32470105316).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_370Z_Coupe",
+      "https://en.wikipedia.org/wiki/Nissan_370Z"
+    ],
+    "source": {
+      "title": "File:2014 Nissan 370Z (32470105316).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2014_Nissan_370Z_(32470105316).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/2014_Nissan_370Z_%2832470105316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2014 Nissan 370Z (32470105316).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (2014 Nissan 370Z)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z34 #6); Commons category: Nissan 370Z Coupe. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "nissan-370z-07",
+    "vehicleId": "nissan-370z",
+    "kind": "full",
+    "image": "photos/nissan-370z-07.webp",
+    "imageSmall": "photos/nissan-370z-07-sm.webp",
+    "width": 1600,
+    "height": 893,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2008–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Nissan_370Z_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_370Z_Coupe",
+      "https://en.wikipedia.org/wiki/Nissan_370Z"
+    ],
+    "source": {
+      "title": "File:Nissan 370Z 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nissan_370Z_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nissan_370Z_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Nissan 370Z 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z34 #12); Commons category: Nissan 370Z Coupe. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
     "id": "nissan-leaf-ze0-01",
     "vehicleId": "nissan-leaf-ze0",
     "kind": "full",
@@ -13463,6 +16298,456 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (leaf #9); Commons category: Nissan Leaf (ZE0). CC BY 2.0 by Michael Gil from Calgary, AB, Canada."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-01",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-01.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-01-sm.webp",
+    "width": 1600,
+    "height": 853,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Nissan_Skyline_GT-R_in_Gun_Grey_Metallic,_Front_Left,_06-17-2022.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_(R32)_GT-R",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1991 Nissan Skyline GT-R in Gun Grey Metallic, Front Left, 06-17-2022.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Nissan_Skyline_GT-R_in_Gun_Grey_Metallic,_Front_Left,_06-17-2022.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/1991_Nissan_Skyline_GT-R_in_Gun_Grey_Metallic%2C_Front_Left%2C_06-17-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1991 Nissan Skyline GT-R in Gun Grey Metallic, Front Left, 06-17-2022.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #0); Commons category: Nissan Skyline (R32) GT-R. CC BY-SA 4.0 by Elise240SX."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-02",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-02.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-02-sm.webp",
+    "width": 1600,
+    "height": 1001,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Nissan_Skyline_GT-R_V-Spec_II_N1_no.10,_front_left.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_GT-R_V-spec_Ⅱ_(R32)",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1994 Nissan Skyline GT-R V-Spec II N1 no.10, front left.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Nissan_Skyline_GT-R_V-Spec_II_N1_no.10,_front_left.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/1994_Nissan_Skyline_GT-R_V-Spec_II_N1_no.10%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1994 Nissan Skyline GT-R V-Spec II N1 no.10, front left.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #1); Commons category: Nissan Skyline GT-R V-spec Ⅱ (R32). CC BY-SA 3.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-03",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-03.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:The_frontview_of_Nissan_SKYLINE_GT-R_(E-BNR32).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_GT-R_(1993,_Japan)",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:The frontview of Nissan SKYLINE GT-R (E-BNR32).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_frontview_of_Nissan_SKYLINE_GT-R_(E-BNR32).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_frontview_of_Nissan_SKYLINE_GT-R_%28E-BNR32%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“The frontview of Nissan SKYLINE GT-R (E-BNR32).jpg” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #2); Commons category: Nissan Skyline GT-R (1993, Japan). CC0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-05",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-05.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-05-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Nissan_Skyline_R32_GTR_(15817370285).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_(R32)_GT-R",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1991 Nissan Skyline R32 GTR (15817370285).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Nissan_Skyline_R32_GTR_(15817370285).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1991_Nissan_Skyline_R32_GTR_%2815817370285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1991 Nissan Skyline R32 GTR (15817370285).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1991 Nissan Skyline R32 GTR)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #4); Commons category: Nissan Skyline (R32) GT-R. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-06",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-06.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Nissan_Skyline_R32_GTR_Coupe_(25946466035).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_(R32)_GT-R",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1991 Nissan Skyline R32 GTR Coupe (25946466035).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Nissan_Skyline_R32_GTR_Coupe_(25946466035).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/1991_Nissan_Skyline_R32_GTR_Coupe_%2825946466035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1991 Nissan Skyline R32 GTR Coupe (25946466035).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1991 Nissan Skyline R32 GTR Coupe)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #5); Commons category: Nissan Skyline (R32) GT-R. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-07",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-07.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-07-sm.webp",
+    "width": 1600,
+    "height": 1054,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1992_Nissan_Skyline_GT-R_4.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_GT-R_(R32,_facelift)",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1992 Nissan Skyline GT-R 4.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1992_Nissan_Skyline_GT-R_4.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1992_Nissan_Skyline_GT-R_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1992 Nissan Skyline GT-R 4.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #6); Commons category: Nissan Skyline GT-R (R32, facelift). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-08",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-08.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-08-sm.webp",
+    "width": 1600,
+    "height": 1050,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1992_Nissan_Skyline_GT-R_5.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_(R32)_GT-R",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1992 Nissan Skyline GT-R 5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1992_Nissan_Skyline_GT-R_5.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/1992_Nissan_Skyline_GT-R_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1992 Nissan Skyline GT-R 5.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #7); Commons category: Nissan Skyline (R32) GT-R. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-09",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-09.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-09-sm.webp",
+    "width": 1600,
+    "height": 987,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Nissan_Skyline_GT-R.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_(R32)_GT-R",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1993 Nissan Skyline GT-R.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Nissan_Skyline_GT-R.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/1993_Nissan_Skyline_GT-R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1993 Nissan Skyline GT-R.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #10); Commons category: Nissan Skyline (R32) GT-R. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-10",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-10.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-10-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Nissan_Skyline_R32_V-Spec_(38052997136).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_GT-R_V-spec_(R32)",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1993 Nissan Skyline R32 V-Spec (38052997136).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Nissan_Skyline_R32_V-Spec_(38052997136).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/1993_Nissan_Skyline_R32_V-Spec_%2838052997136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1993 Nissan Skyline R32 V-Spec (38052997136).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1993 Nissan Skyline R32 V-Spec)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #11); Commons category: Nissan Skyline GT-R V-spec (R32). CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "nissan-skyline-r32-gtr-11",
+    "vehicleId": "nissan-skyline-r32-gtr",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r32-gtr-11.webp",
+    "imageSmall": "photos/nissan-skyline-r32-gtr-11-sm.webp",
+    "width": 1600,
+    "height": 1100,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1989–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Nissan_Skyline_R32_GT-R_--_Shanghai_Automobile_Museum_--_01_2023-10-31.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_Skyline_(R32)_GT-R",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    ],
+    "source": {
+      "title": "File:1989 Nissan Skyline R32 GT-R -- Shanghai Automobile Museum -- 01 2023-10-31.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Nissan_Skyline_R32_GT-R_--_Shanghai_Automobile_Museum_--_01_2023-10-31.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1989_Nissan_Skyline_R32_GT-R_--_Shanghai_Automobile_Museum_--_01_2023-10-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "JamesYoung8167",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Nissan Skyline R32 GT-R -- Shanghai Automobile Museum -- 01 2023-10-31.jpg” by JamesYoung8167, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r32 #14); Commons category: Nissan Skyline (R32) GT-R. CC BY-SA 4.0 by JamesYoung8167."
     }
   },
   {
@@ -20359,6 +23644,411 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (t1b #14); Commons category: Volkswagen T1 buses. CC BY-SA 4.0 by JoachimKohler-HB."
+    }
+  },
+  {
+    "id": "vw-type2-t2-01",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-01.webp",
+    "imageSmall": "photos/vw-type2-t2-01-sm.webp",
+    "width": 1600,
+    "height": 1069,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1976_Volkswagen_T2B_(14997006586).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2_campers",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:1976 Volkswagen T2B (14997006586).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1976_Volkswagen_T2B_(14997006586).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1976_Volkswagen_T2B_%2814997006586%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Niels de Wit from Lunteren, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1976 Volkswagen T2B (14997006586).jpg” by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0, via Wikimedia Commons (1976 Volkswagen T2B)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #0); Commons category: Volkswagen T2 campers. CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+    }
+  },
+  {
+    "id": "vw-type2-t2-02",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-02.webp",
+    "imageSmall": "photos/vw-type2-t2-02-sm.webp",
+    "width": 1600,
+    "height": 1248,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_T2_campers_Classic-Days_2022_DSC_0071.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2_campers",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen T2 campers Classic-Days 2022 DSC 0071.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_T2_campers_Classic-Days_2022_DSC_0071.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Volkswagen_T2_campers_Classic-Days_2022_DSC_0071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Volkswagen T2 campers Classic-Days 2022 DSC 0071.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #2); Commons category: Volkswagen T2 campers. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "vw-type2-t2-03",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-03.webp",
+    "imageSmall": "photos/vw-type2-t2-03-sm.webp",
+    "width": 1600,
+    "height": 1065,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_T2_electric_(1972)_Classic-Days_2022_IMG_7043.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2_electric",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen T2 electric (1972) Classic-Days 2022 IMG 7043.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_T2_electric_(1972)_Classic-Days_2022_IMG_7043.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Volkswagen_T2_electric_%281972%29_Classic-Days_2022_IMG_7043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Volkswagen T2 electric (1972) Classic-Days 2022 IMG 7043.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #3); Commons category: Volkswagen T2 electric. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "vw-type2-t2-04",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-04.webp",
+    "imageSmall": "photos/vw-type2-t2-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:VW_Bus_T2_ADAC_Deutschland_Klassik_2018_6290513.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:VW Bus T2 ADAC Deutschland Klassik 2018 6290513.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VW_Bus_T2_ADAC_Deutschland_Klassik_2018_6290513.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/VW_Bus_T2_ADAC_Deutschland_Klassik_2018_6290513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“VW Bus T2 ADAC Deutschland Klassik 2018 6290513.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #4); Commons category: Volkswagen T2. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "vw-type2-t2-05",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-05.webp",
+    "imageSmall": "photos/vw-type2-t2-05-sm.webp",
+    "width": 1600,
+    "height": 1329,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:VW_Bus_T2_ADAC_Deutschland_Klassik_2018_P6280073.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:VW Bus T2 ADAC Deutschland Klassik 2018 P6280073.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VW_Bus_T2_ADAC_Deutschland_Klassik_2018_P6280073.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/VW_Bus_T2_ADAC_Deutschland_Klassik_2018_P6280073.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“VW Bus T2 ADAC Deutschland Klassik 2018 P6280073.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #7); Commons category: Volkswagen T2. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "vw-type2-t2-06",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-06.webp",
+    "imageSmall": "photos/vw-type2-t2-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_Kombi_(16116131681).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2_Kombi",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen Kombi (16116131681).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Kombi_(16116131681).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Volkswagen_Kombi_%2816116131681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Volkswagen Kombi (16116131681).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (Volkswagen Kombi)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #9); Commons category: Volkswagen T2 Kombi. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "vw-type2-t2-07",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-07.webp",
+    "imageSmall": "photos/vw-type2-t2-07-sm.webp",
+    "width": 1600,
+    "height": 1063,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_T2_IMG_2501.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen T2 IMG 2501.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_T2_IMG_2501.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Volkswagen_T2_IMG_2501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Volkswagen T2 IMG 2501.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #10); Commons category: Volkswagen T2. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "vw-type2-t2-08",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-08.webp",
+    "imageSmall": "photos/vw-type2-t2-08-sm.webp",
+    "width": 1600,
+    "height": 899,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1974_Volkswagen_Type_2_1HGY497_@_Matheson_Road,Ascot.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:1974 Volkswagen Type 2 1HGY497 @ Matheson Road,Ascot.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1974_Volkswagen_Type_2_1HGY497_@_Matheson_Road,Ascot.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/1974_Volkswagen_Type_2_1HGY497_%40_Matheson_Road%2CAscot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "ZidaneHartono",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1974 Volkswagen Type 2 1HGY497 @ Matheson Road,Ascot.jpg” by ZidaneHartono, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #11); Commons category: Volkswagen T2. CC BY-SA 4.0 by ZidaneHartono."
+    }
+  },
+  {
+    "id": "vw-type2-t2-09",
+    "vehicleId": "vw-type2-t2",
+    "kind": "full",
+    "image": "photos/vw-type2-t2-09.webp",
+    "imageSmall": "photos/vw-type2-t2-09-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1979,
+      "basis": "No feature visible in the photo separates years within the 1967–1979 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:VW_T2b_Pritsche_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T2_pickup",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:VW T2b Pritsche Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VW_T2b_Pritsche_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/VW_T2b_Pritsche_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Robotriot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“VW T2b Pritsche Front.jpg” by Robotriot, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t2 #13); Commons category: Volkswagen T2 pickup. CC BY-SA 3.0 by Robotriot."
     }
   }
 ]
