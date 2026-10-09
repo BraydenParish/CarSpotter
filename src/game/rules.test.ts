@@ -26,9 +26,21 @@ describe('multiple-choice distractors', () => {
         expect(choices).toHaveLength(4);
         expect(choices.filter((c) => c.correct)).toHaveLength(1);
         expect(new Set(choices.map((c) => compact(c.label))).size).toBe(4);
+        // No two options may be the same car under different badges (e.g. Acura/Honda Integra).
+        expect(new Set(choices.map((c) => compact(c.model))).size).toBe(4);
         for (const c of choices.filter((x) => !x.correct)) {
           expect(conflictsWithAnswer(c, vehicle), `${c.label} conflicts with ${vehicle.id}`).toBe(false);
         }
+      }
+    }
+  });
+
+  it('offers vans, not sports cars, for a van', () => {
+    const t1 = v('vw-type2-t1');
+    for (let seed = 0; seed < 30; seed++) {
+      for (const c of buildChoices(t1, VEHICLES, LEXICON, mulberry32(seed)).filter((x) => !x.correct)) {
+        const meta = [...VEHICLES, ...LEXICON].find((x) => x.make === c.make && x.model === c.model)!;
+        expect(['van', 'suv', 'pickup'], `${c.label} offered for a VW T1`).toContain(meta.bodyStyle);
       }
     }
   });

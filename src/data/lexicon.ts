@@ -93,6 +93,8 @@ export const MAKE_ALIASES: Record<string, string[]> = {
   Hummer: [],
   Rover: [],
   Bentley: [],
+  DKW: [],
+  Bedford: [],
 };
 
 export interface LexiconCar {
@@ -308,6 +310,11 @@ const ROWS: Row[] = [
   ['Austin', 'Metro', 'hatchback', 1980, 1990, 'United Kingdom', ['classic', 'european', 'everyday']],
   ['Volkswagen', 'Golf', 'hatchback', 1974, 1983, 'Germany', ['classic', 'european', 'everyday']],
   ['Volkswagen', 'Type 2', 'van', 1950, 1967, 'Germany', ['classic', 'european']],
+  ['Citroën', 'H Van', 'van', 1947, 1981, 'France', ['classic', 'european']],
+  ['Fiat', '600 Multipla', 'van', 1956, 1969, 'Italy', ['classic', 'european']],
+  ['DKW', 'Schnellaster', 'van', 1949, 1962, 'Germany', ['classic', 'european']],
+  ['Bedford', 'CA', 'van', 1952, 1969, 'United Kingdom', ['classic', 'european']],
+  ['Ford', 'Transit', 'van', 1965, 1978, 'United Kingdom', ['classic', 'european']],
   ['Volkswagen', 'Karmann Ghia', 'coupe', 1955, 1974, 'Germany', ['classic', 'european', 'sports']],
   ['Wartburg', '353', 'sedan', 1966, 1988, 'East Germany', ['classic', 'european']],
   ['Lada', 'Riva', 'sedan', 1970, 2012, 'Soviet Union', ['classic', 'european']],

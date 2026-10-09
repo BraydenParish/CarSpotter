@@ -642,7 +642,7 @@ function Reveal({ s, last, autoMs, onNext, onChoice }: { s: RunState; last: Roun
         </details>
       </div>
 
-      <div className="sticky bottom-3 mt-auto">
+      <div className="sticky bottom-0 -mx-1 mt-auto rounded-t-2xl bg-ink/95 px-1 pb-3 pt-2 backdrop-blur">
         <button ref={nextRef} type="button" className="btn btn-primary relative w-full overflow-hidden text-lg shadow-xl" onClick={onNext}>
           {autoMs > 0 && (
             <span

@@ -113,17 +113,21 @@ export function buildChoices(
   const band = scored.slice(0, Math.max(count + 3, 8));
   const picked: Candidate[] = [];
   const makesUsed = new Map<string, number>();
+  // Two options naming the same car under different badges (Acura/Honda Integra) would let a
+  // player discard both at once, so a model name is only offered once.
+  const modelUsed = (c: Candidate) => picked.some((p) => compact(p.model) === compact(c.model));
   for (const { c } of shuffle(band, rng)) {
     if (picked.length >= count - 1) break;
     const n = makesUsed.get(c.make) ?? 0;
     if (n >= 2) continue; // avoid three of the same make
+    if (modelUsed(c)) continue;
     picked.push(c);
     makesUsed.set(c.make, n + 1);
   }
   // Fallback for tiny pools: fill from anything remaining.
   for (const { c } of scored) {
     if (picked.length >= count - 1) break;
-    if (!picked.includes(c)) picked.push(c);
+    if (!picked.includes(c) && !modelUsed(c)) picked.push(c);
   }
   const choices: Choice[] = [
     { key: `a:${answer.id}`, make: answer.make, model: answer.model, label: choiceLabel(answer.make, answer.model), correct: true },

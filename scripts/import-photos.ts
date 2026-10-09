@@ -180,8 +180,17 @@ for (const c of todo) {
     if (!allowed) break;
     const crop = `photos/${k.id}.webp`;
     if (force || !existsSync(join(root, 'public', crop))) {
-      original ??= await download(info.url);
-      await sharp(original).rotate().extract(k.crop).resize({ width: DETAIL_WIDTH, withoutEnlargement: true }).webp({ quality: 80 }).toFile(join(root, 'public', crop));
+      original ??= await download(info.thumbUrl && info.width > 1920 ? info.thumbUrl : info.url);
+      // Crop rectangles are in original-file pixels; scale them to the rendition actually downloaded.
+      const got = (await sharp(original).rotate().metadata()).width ?? info.width;
+      const f = got / info.width;
+      const box = {
+        left: Math.round(k.crop.left * f),
+        top: Math.round(k.crop.top * f),
+        width: Math.round(k.crop.width * f),
+        height: Math.round(k.crop.height * f),
+      };
+      await sharp(original).rotate().extract(box).resize({ width: DETAIL_WIDTH, withoutEnlargement: true }).webp({ quality: 80 }).toFile(join(root, 'public', crop));
     }
     const meta = await sharp(join(root, 'public', crop)).metadata();
     upsert({

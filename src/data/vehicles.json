@@ -64,7 +64,7 @@
     "generation": { "name": "S30", "aliases": ["first generation", "1st generation", "1st gen", "first gen"] },
     "bodyStyle": "coupe",
     "country": "Japan",
-    "years": [1969, 1978],
+    "years": [1969, 1973],
     "categories": ["jdm", "sports", "classic"],
     "twins": ["Nissan Fairlady Z"],
     "tip": "Long-nose, short-tail fastback with headlights recessed into the front wings.",
@@ -80,7 +80,7 @@
     "country": "Germany",
     "years": [1938, 2003],
     "categories": ["classic", "european", "everyday"],
-    "tip": "Rounded body with separate running boards and no front grille: the air-cooled engine sits behind the rear axle.",
+    "tip": "Rounded 'bug' shape with no front grille: the air-cooled engine sits at the rear.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
   },
   {
@@ -93,7 +93,7 @@
     "country": "France",
     "years": [1948, 1990],
     "categories": ["classic", "european", "everyday"],
-    "tip": "Ribbed (corrugated) bonnet, round headlamps on a bar above the wings and a roll-back canvas roof.",
+    "tip": "Full-width canvas roll-back roof ('an umbrella on wheels'); the bonnet is finely corrugated on cars built before 1960 and has five ribs after.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
   },
   {
@@ -107,7 +107,7 @@
     "years": [1955, 1975],
     "categories": ["classic", "european"],
     "twins": ["Citroën ID"],
-    "tip": "Streamlined 'spaceship' body with rear indicators in roof-mounted trumpets; from 1967 the headlamps sit behind glass covers.",
+    "tip": "Streamlined 'spaceship' body riding on hydropneumatic suspension; from late 1967 (1968 model year) four headlamps sit under a smooth glass canopy, the inner pair turning with the steering.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
   },
   {
@@ -187,7 +187,7 @@
     "country": "United Kingdom",
     "years": [1961, 1975],
     "categories": ["classic", "european", "sports"],
-    "tip": "Enormously long bonnet (it tilts forward with the front wings) and a small oval air intake.",
+    "tip": "Very long bonnet over a small oval air intake; Series 1 cars (1961–1967) have glass-covered headlamps.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Jaguar_E-Type"
   },
   {
@@ -201,7 +201,7 @@
     "country": "Germany",
     "years": [1994, 1998],
     "categories": ["european", "sports"],
-    "tip": "The last air-cooled 911: smoother, wider rear haunches and lower, more sloped headlamps than earlier 911s.",
+    "tip": "The last air-cooled 911: much more flared wheel arches, smoother front and rear bumpers and teardrop-shaped mirrors compared with earlier 911s.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_993"
   },
   {
@@ -229,7 +229,7 @@
     "country": "Italy",
     "years": [2011, 2022],
     "categories": ["supercar", "european"],
-    "tip": "Y-shaped LED light signatures front and rear, scissor doors and a sharply faceted wedge.",
+    "tip": "Low, sharply faceted V12 wedge that replaced the Murciélago in 2011; the 2017-on Aventador S has a reworked front bumper.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Aventador"
   },
   {

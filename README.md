@@ -2,21 +2,23 @@
 
 A car-identification game built on **real photographs**. A photo appears, you name the car, you see the answer with a spotting tip, and you go again. Built with React 19, TypeScript, Vite and Tailwind CSS 4. No backend: everything runs in the browser and progress is stored in `localStorage`.
 
-## ⚠️ Current status: the photo collection is empty
+## Current status
 
-**This build ships with 0 verified photographs and 0 playable cars.** The game, every mode, the answer checker, the import pipeline and the validators are finished and tested, but the curated photo manifest (`src/data/photos.json`) is still `[]`.
+**75 verified photographs of 28 distinct cars**, all from Wikimedia Commons under CC0, public domain, CC BY or CC BY-SA, each viewed at full size before approval. Every mode is playable.
 
-Why: the photo import needs Wikimedia Commons (`commons.wikimedia.org` for the MediaWiki API and `upload.wikimedia.org` for files). The sandbox this was built in blocked both hosts at its network egress proxy (HTTP 403 on CONNECT, recorded in the proxy log), so no photograph could be fetched, license-checked or visually verified. Nothing was substituted: there are no placeholder images, no AI-generated cars, no guessed URLs and no unverified labels in the production build.
+| | Target | Actual |
+| --- | --- | --- |
+| Verified photographs (approved, full) | ≥ 30 | **75** |
+| Distinct cars | ≥ 20 | **28** (of 30 vehicle records) |
+| Street photos | favoured | **34 street**, 41 other (car shows, museums, rallies, dealer forecourts), 0 studio |
+| Expert-eligible photos | — | **58** photos of 21 cars (15 ask for a model year, the rest for the generation) |
+| Detail-challenge crops | ≥ 3 cars to unlock | **5** headlight crops (MX-5, Supra, Jimny, Model 3, Golf), so Detail mode is unlocked |
 
-What a player sees today: a clear "photo collection is being verified" screen instead of a quiz. Once photos are imported (below) every mode lights up automatically, and modes that need more data stay locked with the reason shown.
+How the set was built: 105 candidates were picked from Commons contact sheets, and each was checked against its Commons file page (license, category, description). Every imported photo was then viewed at full size, with zoomed crops of badges and scripts. **29 candidates were rejected**, almost all because a legible model name (a grille script, fender badge, boot lettering, decal or show placard) would give the answer away. They stay in `data/candidates.json` with the reason, but they are never imported or shipped. One approved candidate (`honda-nsx-na-02`) could not be downloaded: Wikimedia returned HTTP 429 for that file throughout the session. Re-running `npm run import-photos` will pick it up.
 
-| Target from the brief | Actual |
-| --- | --- |
-| ≥ 30 verified photographs | **0** |
-| ≥ 20 distinct cars | **0** (28 vehicle records are defined and ready, with tips and aliases, awaiting photos) |
-| Street photos favoured | n/a |
+Photos per car: MX-5, Skyline R34 and Supra have 5 each; 240Z, Fiat 500 and Golf have 4; most others have 2–3. **Camaro, Challenger, E-Type and Land Cruiser have 1 each**, because nearly every Commons photo of them shows the model script. **Dodge Charger and Ford F-150 have no approved photo**: every candidate has "Charger" in the grille or "F150" on the fender, so both records stay unused until clean photos are found.
 
-**To finish the collection**, run the import in an environment that can reach Wikimedia (see [Adding verified photos](#adding-verified-photos)). `npm run validate` prints the live shortfall against the targets.
+Themes on offer (each needs ≥ 4 cars): Everyday (10), Classics (15), JDM (7), Supercars (5), European (15) and Off-Road (4: Defender, Wrangler, Land Cruiser J40, Jimny). **Muscle is hidden**: only 3 muscle cars have usable photos (Mustang, Camaro, Challenger). The game reports this rather than padding the theme.
 
 ## Quick start
 
@@ -84,7 +86,7 @@ Also: garage (cars you identified), 25 achievements (each hidden until the photo
 
 ### Data model
 
-`src/data/types.ts` (schema), `src/data/vehicles.json` (**28 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (photo records, currently empty). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
+`src/data/types.ts` (schema), `src/data/vehicles.json` (**30 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (80 approved records: 75 photos plus 5 detail crops). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
 
 ### Adding verified photos
 
@@ -111,7 +113,7 @@ Also: garage (cars you identified), 25 achievements (each hidden until the photo
    }
    ```
 
-4. **Import**: `NODE_USE_ENV_PROXY=1 npm run import-photos` (`-- --dry-run` checks licensing only, `-- --only <id>` imports one, `-- --force` re-downloads). It fetches license metadata, **rejects disallowed licenses**, downloads and optimises images into `public/photos/`, and writes `src/data/photos.json`.
+4. **Import**: `NODE_USE_ENV_PROXY=1 npm run import-photos` (`-- --dry-run` checks licensing only, `-- --only <id>` imports one, `-- --force` re-downloads). It fetches license metadata, **rejects disallowed licenses**, downloads a 1920 px rendition (or the original if smaller), optimises it into `public/photos/`, and writes `src/data/photos.json`. Candidates marked `rejected` in review are removed from the manifest and `public/` on every run. A download that hits a Wikimedia rate limit is skipped and reported; run the command again to retry. Crop rectangles are in original-file pixels and are scaled to the downloaded rendition.
 5. **Validate**: `npm run validate` checks schema, ids, license allow-list, attribution fields, year-evidence rules, file existence, crop provenance and prints coverage vs. the 30-photo/20-car targets. `npm run build` runs it first.
 
 ## Accessibility and reliability
@@ -120,15 +122,34 @@ Dark theme with high-contrast text, 44 px+ touch targets (48 px on primary butto
 
 ## Testing
 
-- **Automated (73 tests, `npm test`)**: answer matching, aliases, typo guards, combined entry, Expert eligibility/requirements, distractor validity/plausibility/shuffling, scoring and bests, repeat prevention, deterministic daily selection, the run engine for every mode (Survival lives, Time Attack clock, failed photos, double submit), progress/garage/practice, achievements, spoiler-free sharing, license rules, and UI smoke tests.
-- **Manual playtesting (Chromium, mobile 390×780 and desktop 1280×800, fixture mode only)**: all of Session, Free Play, Hard, Expert, Time Attack, Survival, Daily, Themed, Detail and Practice were played through in a browser with scripted answers, including wrong answers, skips, hints, a simulated image failure, double clicks, keyboard play, reload persistence, reduced motion and a short-viewport "keyboard open" layout. This validated flow and layout, **not** the quality of real photographs or answer fairness against real photos, which can't be assessed until real photos exist.
+- **Automated (76 tests, `npm test`)**: answer matching, aliases, typo guards (now including regressions found by probing real answers: `260Z`/`280Z` are not a 240Z, `Prius c`/`Prius v` are not an XW30 Prius, `300 SLR` is not a 300 SL; `Golf 7`, `993` and `NSX-R` are accepted), combined entry, Expert eligibility/requirements, distractor validity (exactly one correct option, no two options naming the same model under different badges, vans offered for vans), scoring and bests, repeat prevention, deterministic daily selection, the run engine for every mode, progress/garage/practice, achievements, spoiler-free sharing, license rules and UI smoke tests.
+- **Answer-checker probe**: 154 real-world inputs across all 28 cars (right names, common misspellings, nicknames and *different real models*). All 154 behave correctly.
+- **Playtested with the real photos** in Chromium (Playwright driving `npm run dev`), at 390×780 (phone) and 1280×800 (desktop):
+  - Played: 10-Round Session (Normal/Hard/Expert), Free Play (Normal/Expert), Time Attack (Normal/Hard), Survival (Normal/Expert), Daily (Normal/Hard/Expert), Themed (Everyday, JDM, Off-Road on Normal/Hard/Expert), Detail (Normal/Hard) and Practice (Normal/Hard).
+  - Inputs: correct, wrong and partial answers.
+  - What was checked: no page errors; each Normal round had exactly one correct option; Expert showed its year or generation requirement before submission and accepted any year in the documented range; the reveal, credits and results screens rendered correctly.
+- **Fixed during playtesting**:
+  - Acura Integra and Honda Integra could both appear as distractors.
+  - The VW T1 was offered sports-car distractors (the lexicon had no other vans).
+  - The reveal screen's "Press Enter" hint overlapped the photo-credit link on phones.
+  - Rejected photos were still being shipped in `public/`.
+  - Detail crops broke once the importer switched to 1920 px renditions; crop rectangles are now scaled.
 
 ## Known limitations
 
-- **No real photographs yet** (see top). Quality of Normal distractors, Expert year rules and daily variety on a real collection is unverified.
+- **Coverage is uneven**: 4 cars have a single photo and 2 vehicle records (Charger, F-150) have none, because their badges are part of the design. The Muscle theme stays hidden until a fourth muscle car has clean photos.
+- **More show photos than street photos** (41 vs 34). On Commons, classics and supercars are mostly photographed at shows.
+- Expert asks for the generation on most photos. Only 15 photos can prove a year range, and only one (a 1969 Camaro) proves an exact year.
+- Tips and year ranges were re-checked against each vehicle's reference article. Fixes made:
+  - Citroën DS: glass-covered headlamps arrived in late 1967, for the 1968 model year.
+  - Citroën 2CV: the bonnet ribbing changed in 1960.
+  - Tesla Model 3: the chrome trim was dropped in November 2020.
+  - Datsun 240Z: the export name changed to 260Z in 1974, so the record now covers 1969–1973.
+  - Porsche 993: the tip is now worded as the reference describes it.
+  - Lamborghini Aventador: the 2017 Aventador S front.
+  - Two references (Ferrari F40, Fiat 500) could not be re-fetched because of Wikipedia rate limits, so those tips are unchanged.
 - Sound effects are synthesized beeps (Web Audio); there are no recorded sounds.
 - Progress is per-browser; the daily "one attempt" rule is honour-system (no server).
-- Vehicle tips and year-range facts were written from general knowledge with reference URLs; each should be re-confirmed against its reference when its photos are reviewed.
 - The reference lexicon used for distractors and the typo guard is hand-written and incomplete.
 
 ## Future features (not implemented)

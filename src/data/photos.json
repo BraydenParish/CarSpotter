@@ -1,50 +1,5 @@
 [
   {
-    "id": "chevrolet-camaro-1g-01",
-    "vehicleId": "chevrolet-camaro-1g",
-    "kind": "full",
-    "image": "photos/chevrolet-camaro-1g-01.webp",
-    "imageSmall": "photos/chevrolet-camaro-1g-01-sm.webp",
-    "width": 1600,
-    "height": 1067,
-    "setting": "other",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1969,
-      "to": 1969,
-      "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": true,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_327_(17301802463).jpg",
-      "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
-      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
-    ],
-    "source": {
-      "title": "File:1969 Chevrolet Camaro 327 (17301802463).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_327_(17301802463).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/1969_Chevrolet_Camaro_327_%2817301802463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Sicnag",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“1969 Chevrolet Camaro 327 (17301802463).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1969 Chevrolet Camaro 327)",
-      "attributionRequired": true,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "pending",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Tiny \"Camaro\" script by the bonnet edge may be readable in the zoom view; held for a second look."
-    }
-  },
-  {
     "id": "chevrolet-camaro-1g-03",
     "vehicleId": "chevrolet-camaro-1g",
     "kind": "full",
@@ -87,51 +42,6 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: faded blue daily-driver 1969 Camaro in a lot."
-    }
-  },
-  {
-    "id": "chevrolet-camaro-1g-04",
-    "vehicleId": "chevrolet-camaro-1g",
-    "kind": "full",
-    "image": "photos/chevrolet-camaro-1g-04.webp",
-    "imageSmall": "photos/chevrolet-camaro-1g-04-sm.webp",
-    "width": 1600,
-    "height": 949,
-    "setting": "other",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1969,
-      "to": 1969,
-      "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": true,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:'69_Chevrolet_Camaro_Coupe_(Orange_Julep_'10).jpg",
-      "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
-      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
-    ],
-    "source": {
-      "title": "File:'69 Chevrolet Camaro Coupe (Orange Julep '10).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2769_Chevrolet_Camaro_Coupe_(Orange_Julep_%2710).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/%2769_Chevrolet_Camaro_Coupe_%28Orange_Julep_%2710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Bull-Doser",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "credit": "“'69 Chevrolet Camaro Coupe (Orange Julep '10).jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
-      "attributionRequired": false,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "pending",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Tiny script near the bonnet edge may read \"Camaro\" in the zoom view; held for a second look."
     }
   },
   {
@@ -282,7 +192,7 @@
     "modelYear": {
       "from": 1968,
       "to": 1975,
-      "basis": "Faired-in swivelling headlamps behind a glass cover, fitted from the 1968 model year; earlier DS cars have four exposed round headlamps."
+      "basis": "Four headlamps under a smooth glass canopy: the Series 3 nose introduced in late 1967 for the 1968 model year; earlier cars have uncovered headlamps."
     },
     "supports": {
       "make": true,
@@ -327,7 +237,7 @@
     "modelYear": {
       "from": 1968,
       "to": 1975,
-      "basis": "Faired-in swivelling headlamps behind a glass cover, fitted from the 1968 model year; earlier DS cars have four exposed round headlamps."
+      "basis": "Four headlamps under a smooth glass canopy: the Series 3 nose introduced in late 1967 for the 1968 model year; earlier cars have uncovered headlamps."
     },
     "supports": {
       "make": true,
@@ -372,7 +282,7 @@
     "modelYear": {
       "from": 1968,
       "to": 1975,
-      "basis": "Faired-in swivelling headlamps behind a glass cover, fitted from the 1968 model year; earlier DS cars have four exposed round headlamps."
+      "basis": "Four headlamps under a smooth glass canopy: the Series 3 nose introduced in late 1967 for the 1968 model year; earlier cars have uncovered headlamps."
     },
     "supports": {
       "make": true,
@@ -416,8 +326,8 @@
     "angle": "front-quarter",
     "modelYear": {
       "from": 1969,
-      "to": 1978,
-      "basis": "No feature visible in the photo separates years within the 1969–1978 production run, so the full documented range is used."
+      "to": 1973,
+      "basis": "240Z-badged S30 (export cars were renamed 260Z in 1974); no visible feature narrows the 1969–1973 run."
     },
     "supports": {
       "make": true,
@@ -447,6 +357,186 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: S30 Z coupe at a car show; category Datsun 240Z."
+    }
+  },
+  {
+    "id": "datsun-240z-02",
+    "vehicleId": "datsun-240z",
+    "kind": "full",
+    "image": "photos/datsun-240z-02.webp",
+    "imageSmall": "photos/datsun-240z-02-sm.webp",
+    "width": 1600,
+    "height": 1000,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1973,
+      "basis": "240Z-badged S30 (export cars were renamed 260Z in 1974); no visible feature narrows the 1969–1973 run."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1971_Datsun_240-Z_coupe_-_green_-_fvl.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Datsun_240Z",
+      "https://en.wikipedia.org/wiki/Nissan_S30"
+    ],
+    "source": {
+      "title": "File:1971 Datsun 240-Z coupe - green - fvl.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1971_Datsun_240-Z_coupe_-_green_-_fvl.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1971_Datsun_240-Z_coupe_-_green_-_fvl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Paddyspig",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1971 Datsun 240-Z coupe - green - fvl.jpg” by Paddyspig, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green 240Z parked under trees."
+    }
+  },
+  {
+    "id": "datsun-240z-03",
+    "vehicleId": "datsun-240z",
+    "kind": "full",
+    "image": "photos/datsun-240z-03.webp",
+    "imageSmall": "photos/datsun-240z-03-sm.webp",
+    "width": 1600,
+    "height": 1118,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1973,
+      "basis": "240Z-badged S30 (export cars were renamed 260Z in 1974); no visible feature narrows the 1969–1973 run."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1971_Datsun_240Z_(15637726316).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Datsun_240Z",
+      "https://en.wikipedia.org/wiki/Nissan_S30"
+    ],
+    "source": {
+      "title": "File:1971 Datsun 240Z (15637726316).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1971_Datsun_240Z_(15637726316).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/1971_Datsun_240Z_%2815637726316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "GPS 56 from New Zealand",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1971 Datsun 240Z (15637726316).jpg” by GPS 56 from New Zealand, CC BY 2.0, via Wikimedia Commons (1971 Datsun 240Z)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green 240Z in a car park; NZ plate GK 1422 carries no model name."
+    }
+  },
+  {
+    "id": "datsun-240z-04",
+    "vehicleId": "datsun-240z",
+    "kind": "full",
+    "image": "photos/datsun-240z-04.webp",
+    "imageSmall": "photos/datsun-240z-04-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1973,
+      "basis": "240Z-badged S30 (export cars were renamed 260Z in 1974); no visible feature narrows the 1969–1973 run."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1972_Datsun_240Z_Coupe_(12942903204).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Datsun_240Z",
+      "https://en.wikipedia.org/wiki/Nissan_S30"
+    ],
+    "source": {
+      "title": "File:1972 Datsun 240Z Coupe (12942903204).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1972_Datsun_240Z_Coupe_(12942903204).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/1972_Datsun_240Z_Coupe_%2812942903204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1972 Datsun 240Z Coupe (12942903204).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1972 Datsun 240Z Coupe)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver 240Z at a show field."
+    }
+  },
+  {
+    "id": "dodge-challenger-1g-03",
+    "vehicleId": "dodge-challenger-1g",
+    "kind": "full",
+    "image": "photos/dodge-challenger-1g-03.webp",
+    "imageSmall": "photos/dodge-challenger-1g-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_(3017095803).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:1970 Dodge Challenger (3017095803).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_(3017095803).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1970_Dodge_Challenger_%283017095803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Dodge Challenger (3017095803).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1970 Dodge Challenger)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed at full size: close-up of the quad headlamps and mesh grille of a weathered white Challenger on a city street; no model script in frame."
     }
   },
   {
@@ -1575,6 +1665,239 @@
     }
   },
   {
+    "id": "mx5-na-03",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "full",
+    "image": "photos/mx5-na-03.webp",
+    "imageSmall": "photos/mx5-na-03-sm.webp",
+    "width": 1600,
+    "height": 1047,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX_5_Miata_1.8_(8066696559).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1990 Mazda MX 5 Miata 1.8 (8066696559).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX_5_Miata_1.8_(8066696559).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1990_Mazda_MX_5_Miata_1.8_%288066696559%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "free photos & art",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1990 Mazda MX 5 Miata 1.8 (8066696559).jpg” by free photos & art, CC BY 2.0, via Wikimedia Commons (1990 Mazda MX 5 Miata 1.8)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red NA with soft top up, parked."
+    }
+  },
+  {
+    "id": "mx5-na-04",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "full",
+    "image": "photos/mx5-na-04.webp",
+    "imageSmall": "photos/mx5-na-04-sm.webp",
+    "width": 1600,
+    "height": 838,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_1.6_(1).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1990 Mazda MX-5 1.6 (1).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_1.6_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/1990_Mazda_MX-5_1.6_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1990 Mazda MX-5 1.6 (1).jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red NA in a museum car park."
+    }
+  },
+  {
+    "id": "mx5-na-05",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "full",
+    "image": "photos/mx5-na-05.webp",
+    "imageSmall": "photos/mx5-na-05-sm.webp",
+    "width": 1600,
+    "height": 893,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_Miata,_Front_Left,_10-09-2021.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1990 Mazda MX-5 Miata, Front Left, 10-09-2021.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_Miata,_Front_Left,_10-09-2021.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/1990_Mazda_MX-5_Miata%2C_Front_Left%2C_10-09-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1990 Mazda MX-5 Miata, Front Left, 10-09-2021.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue NA, hood up, parked."
+    }
+  },
+  {
+    "id": "mx5-na-06",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "full",
+    "image": "photos/mx5-na-06.webp",
+    "imageSmall": "photos/mx5-na-06-sm.webp",
+    "width": 1600,
+    "height": 1071,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Miata_in_Classic_Red,_Front_Right,_05-29-2022.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1991 Mazda MX-5 Miata in Classic Red, Front Right, 05-29-2022.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Miata_in_Classic_Red,_Front_Right,_05-29-2022.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/1991_Mazda_MX-5_Miata_in_Classic_Red%2C_Front_Right%2C_05-29-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1991 Mazda MX-5 Miata in Classic Red, Front Right, 05-29-2022.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red NA with headlamps raised."
+    }
+  },
+  {
+    "id": "mx5-na-06-headlight",
+    "vehicleId": "mazda-mx5-na",
+    "kind": "detail",
+    "image": "photos/mx5-na-06-headlight.webp",
+    "imageSmall": "photos/mx5-na-06-headlight.webp",
+    "width": 614,
+    "height": 437,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1989,
+      "to": 1997,
+      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Miata_in_Classic_Red,_Front_Right,_05-29-2022.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
+      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    ],
+    "source": {
+      "title": "File:1991 Mazda MX-5 Miata in Classic Red, Front Right, 05-29-2022.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Miata_in_Classic_Red,_Front_Right,_05-29-2022.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/1991_Mazda_MX-5_Miata_in_Classic_Red%2C_Front_Right%2C_05-29-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1991 Mazda MX-5 Miata in Classic Red, Front Right, 05-29-2022.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "mx5-na-06",
+    "crop": {
+      "left": 1693,
+      "top": 705,
+      "width": 1204,
+      "height": 856
+    }
+  },
+  {
     "id": "nissan-skyline-r34-01",
     "vehicleId": "nissan-skyline-r34",
     "kind": "full",
@@ -1980,6 +2303,239 @@
     }
   },
   {
+    "id": "supra-a80-04",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-04.webp",
+    "imageSmall": "photos/supra-a80-04-sm.webp",
+    "width": 1600,
+    "height": 1130,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_(7328848890).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1994 Toyota Supra (7328848890).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_(7328848890).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/1994_Toyota_Supra_%287328848890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "free photos & art",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1994 Toyota Supra (7328848890).jpg” by free photos & art, CC BY 2.0, via Wikimedia Commons (1994 Toyota Supra)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed at full size: black A80 parked on a brick pavement; only the Toyota emblem area is visible, no Supra script."
+    }
+  },
+  {
+    "id": "supra-a80-05",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-05.webp",
+    "imageSmall": "photos/supra-a80-05-sm.webp",
+    "width": 1600,
+    "height": 875,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1995_Toyota_Supra_3.0.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1995 Toyota Supra 3.0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1995_Toyota_Supra_3.0.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1995_Toyota_Supra_3.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1995 Toyota Supra 3.0.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver A80 at Salon Privé."
+    }
+  },
+  {
+    "id": "supra-a80-06",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-06.webp",
+    "imageSmall": "photos/supra-a80-06-sm.webp",
+    "width": 1600,
+    "height": 1168,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1995_Toyota_Supra_Auto.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1995 Toyota Supra Auto.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1995_Toyota_Supra_Auto.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1995_Toyota_Supra_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1995 Toyota Supra Auto.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-blue A80 nose-on at Goodwood."
+    }
+  },
+  {
+    "id": "supra-a80-06-headlight",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "detail",
+    "image": "photos/supra-a80-06-headlight.webp",
+    "imageSmall": "photos/supra-a80-06-headlight.webp",
+    "width": 326,
+    "height": 280,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1995_Toyota_Supra_Auto.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1995 Toyota Supra Auto.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1995_Toyota_Supra_Auto.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1995_Toyota_Supra_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1995 Toyota Supra Auto.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "supra-a80-06",
+    "crop": {
+      "left": 805,
+      "top": 4211,
+      "width": 2281,
+      "height": 1958
+    }
+  },
+  {
+    "id": "supra-a80-07",
+    "vehicleId": "toyota-supra-a80",
+    "kind": "full",
+    "image": "photos/supra-a80-07.webp",
+    "imageSmall": "photos/supra-a80-07-sm.webp",
+    "width": 1600,
+    "height": 1015,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1993,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Toyota_Supra_(58764).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
+      "https://en.wikipedia.org/wiki/Toyota_Supra"
+    ],
+    "source": {
+      "title": "File:1993 Toyota Supra (58764).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Toyota_Supra_(58764).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1993_Toyota_Supra_%2858764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1993 Toyota Supra (58764).jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver A80 at Goodwood."
+    }
+  },
+  {
     "id": "suzuki-jimny-jb64-01",
     "vehicleId": "suzuki-jimny-jb64",
     "kind": "full",
@@ -2070,6 +2626,59 @@
     }
   },
   {
+    "id": "suzuki-jimny-jb64-02-headlight",
+    "vehicleId": "suzuki-jimny-jb64",
+    "kind": "detail",
+    "image": "photos/suzuki-jimny-jb64-02-headlight.webp",
+    "imageSmall": "photos/suzuki-jimny-jb64-02-headlight.webp",
+    "width": 480,
+    "height": 360,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCU-J).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Suzuki_Jimny_(JB64)",
+      "https://en.wikipedia.org/wiki/Suzuki_Jimny"
+    ],
+    "source": {
+      "title": "File:Suzuki Jimny XC (3BA-JB64W-JXCU-J).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCU-J).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Suzuki_Jimny_XC_%283BA-JB64W-JXCU-J%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Suzuki Jimny XC (3BA-JB64W-JXCU-J).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "suzuki-jimny-jb64-02",
+    "crop": {
+      "left": 128,
+      "top": 574,
+      "width": 639,
+      "height": 479
+    }
+  },
+  {
     "id": "tesla-model-3-01",
     "vehicleId": "tesla-model-3",
     "kind": "full",
@@ -2081,8 +2690,8 @@
     "angle": "front-quarter",
     "modelYear": {
       "from": 2017,
-      "to": 2021,
-      "basis": "Chrome window surrounds and original-style wheels: the Model 3 lost its chrome trim from late 2021, so a chrome-trimmed car is a 2017–2021 build."
+      "to": 2020,
+      "basis": "Chrome window trim, door handles and mirror trim: Tesla switched these to black in the November 2020 update, so a chrome-trimmed car is a 2017–2020 build."
     },
     "supports": {
       "make": true,
@@ -2115,6 +2724,59 @@
     }
   },
   {
+    "id": "tesla-model-3-01-headlight",
+    "vehicleId": "tesla-model-3",
+    "kind": "detail",
+    "image": "photos/tesla-model-3-01-headlight.webp",
+    "imageSmall": "photos/tesla-model-3-01-headlight.webp",
+    "width": 461,
+    "height": 192,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 2017,
+      "to": 2020,
+      "basis": "Chrome window trim, door handles and mirror trim: Tesla switched these to black in the November 2020 update, so a chrome-trimmed car is a 2017–2020 build."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Long_Range_AWD_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_3_(2017–2023)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_3"
+    ],
+    "source": {
+      "title": "File:2019 Tesla Model 3 Long Range AWD Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Tesla_Model_3_Long_Range_AWD_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/2019_Tesla_Model_3_Long_Range_AWD_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Tesla Model 3 Long Range AWD Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "tesla-model-3-01",
+    "crop": {
+      "left": 1137,
+      "top": 1168,
+      "width": 1011,
+      "height": 422
+    }
+  },
+  {
     "id": "tesla-model-3-02",
     "vehicleId": "tesla-model-3",
     "kind": "full",
@@ -2126,8 +2788,8 @@
     "angle": "front-quarter",
     "modelYear": {
       "from": 2017,
-      "to": 2021,
-      "basis": "Chrome window surrounds and original-style wheels: the Model 3 lost its chrome trim from late 2021, so a chrome-trimmed car is a 2017–2021 build."
+      "to": 2020,
+      "basis": "Chrome window trim, door handles and mirror trim: Tesla switched these to black in the November 2020 update, so a chrome-trimmed car is a 2017–2020 build."
     },
     "supports": {
       "make": true,
@@ -2171,8 +2833,8 @@
     "angle": "front-quarter",
     "modelYear": {
       "from": 2017,
-      "to": 2021,
-      "basis": "Chrome window surrounds and original-style wheels: the Model 3 lost its chrome trim from late 2021, so a chrome-trimmed car is a 2017–2021 build."
+      "to": 2020,
+      "basis": "Chrome window trim, door handles and mirror trim: Tesla switched these to black in the November 2020 update, so a chrome-trimmed car is a 2017–2020 build."
     },
     "supports": {
       "make": true,
@@ -2247,51 +2909,6 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: beige FJ40 head-on at the kerb; grille reads TOYOTA (make only); cowl script out of view."
-    }
-  },
-  {
-    "id": "toyota-land-cruiser-j40-06",
-    "vehicleId": "toyota-land-cruiser-j40",
-    "kind": "full",
-    "image": "photos/toyota-land-cruiser-j40-06.webp",
-    "imageSmall": "photos/toyota-land-cruiser-j40-06-sm.webp",
-    "width": 1600,
-    "height": 1071,
-    "setting": "other",
-    "angle": "front",
-    "modelYear": {
-      "from": 1960,
-      "to": 1984,
-      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "1969 Dodge ChargerFile:1969_Toyota_FJ40_Land_Cruiser_2.jpg",
-      "1969 Dodge ChargerCategory:Toyota_Land_Cruiser_(J40)",
-      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
-    ],
-    "source": {
-      "title": "File:1969 Toyota FJ40 Land Cruiser 2.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Toyota_FJ40_Land_Cruiser_2.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/1969_Toyota_FJ40_Land_Cruiser_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "User:Buickid",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "credit": "“1969 Toyota FJ40 Land Cruiser 2.jpg” by User:Buickid, CC0, via Wikimedia Commons",
-      "attributionRequired": false,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "pending",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Weathered \"TOYOTA Land Cruiser\" cowl badge: the model script is not clearly legible but the badge shape is recognisable; held for a second look."
     }
   },
   {
@@ -2877,6 +3494,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: white Mk7 at the kerb."
+    }
+  },
+  {
+    "id": "vw-golf-mk7-04-headlight",
+    "vehicleId": "vw-golf-mk7",
+    "kind": "detail",
+    "image": "photos/vw-golf-mk7-04-headlight.webp",
+    "imageSmall": "photos/vw-golf-mk7-04-headlight.webp",
+    "width": 461,
+    "height": 205,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G_MY13)_103TSI_Highline_5-door_hatchback_(2015-07-24)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+    ],
+    "source": {
+      "title": "File:2013 Volkswagen Golf (5G MY13) 103TSI Highline 5-door hatchback (2015-07-24) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G_MY13)_103TSI_Highline_5-door_hatchback_(2015-07-24)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2013_Volkswagen_Golf_%285G_MY13%29_103TSI_Highline_5-door_hatchback_%282015-07-24%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2013 Volkswagen Golf (5G MY13) 103TSI Highline 5-door hatchback (2015-07-24) 01.jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "vw-golf-mk7-04",
+    "crop": {
+      "left": 1794,
+      "top": 1285,
+      "width": 1025,
+      "height": 457
     }
   },
   {
