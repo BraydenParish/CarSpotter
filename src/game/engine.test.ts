@@ -399,3 +399,25 @@ describe('learning feedback', () => {
     expect(p.confusions).toEqual({});
   });
 });
+
+describe('focus mode', () => {
+  it('pays more for answering while the photo is still blurred', () => {
+    let s = start({ mode: 'focus' });
+    expect(s.totalRounds).toBe(10);
+    s = photoLoaded(s, 0);
+    s = submitChoice(s, correctKey(s), 0);
+    const early = s.results.at(-1)!;
+    expect(early.points).toBe(100);
+    s = next(ctx, s, rng);
+    s = photoLoaded(s, 1000);
+    s = submitChoice(s, correctKey(s), 1000 + 6000);
+    const mid = s.results.at(-1)!;
+    // Half-way through the focus: 65% of the points, plus the 10% streak bonus.
+    expect(mid.breakdown!.focusMultiplier).toBeCloseTo(0.65, 5);
+    expect(mid.points).toBe(Math.round(100 * 0.65 * 1.1));
+    s = next(ctx, s, rng);
+    s = photoLoaded(s, 20_000);
+    s = submitChoice(s, correctKey(s), 60_000);
+    expect(s.results.at(-1)!.breakdown!.focusMultiplier).toBeCloseTo(0.3, 5);
+  });
+});

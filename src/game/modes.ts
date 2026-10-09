@@ -15,7 +15,8 @@ export type ModeId =
   | 'theme'
   | 'detail'
   | 'practice'
-  | 'party';
+  | 'party'
+  | 'focus';
 
 export interface ModeInfo {
   id: ModeId;
@@ -178,6 +179,22 @@ export const MODES: Record<ModeId, ModeInfo> = {
     ranked: false,
     usesFilters: false,
     difficulties: ['normal', 'hard', 'expert'],
+  },
+  focus: {
+    id: 'focus',
+    name: 'Focus',
+    tagline: 'The photo starts blurred. Answer early for more.',
+    rules: [
+      'Ten cars. Each photo starts heavily blurred and sharpens over 12 seconds.',
+      'Points fall from 100% to 30% as the picture comes into focus.',
+      'No clock pressure: answer whenever you’re sure.',
+    ],
+    rounds: SESSION_ROUNDS,
+    timed: false,
+    lives: null,
+    ranked: true,
+    usesFilters: true,
+    difficulties: ['normal', 'hard'],
   },
   party: {
     id: 'party',

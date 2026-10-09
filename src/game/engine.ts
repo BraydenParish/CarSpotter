@@ -306,6 +306,7 @@ function settle(s: RunState, check: CheckResult | null, skipped: boolean, now: n
         streakAfter,
         answerMs: answerMs ?? undefined,
         timed: mode.timed,
+        focus: s.config.mode === 'focus',
       })
     : null;
   const points = breakdown?.points ?? 0;

@@ -22,6 +22,7 @@ const MODE_ICONS: Record<ModeId, string> = {
   detail: 'zoom',
   practice: 'repeat',
   party: 'users',
+  focus: 'eye',
 };
 
 export const DIFF_LABEL: Record<Difficulty, string> = { normal: 'Normal', hard: 'Hard', expert: 'Expert' };
@@ -85,7 +86,7 @@ export function Home({ go, onStart }: { go: (r: Route) => void; onStart: (c: Run
   const last = profile.lastSetup;
   const quickPool = setupPoolSize(ctx, last.mode === 'daily' || last.mode === 'practice' ? 'session' : last.mode, last.difficulty, last.filters, last.themeId, practice);
 
-  const modes: ModeId[] = ['session', 'classic', 'timeattack', 'survival', 'theme', 'detail', 'party', 'practice'];
+  const modes: ModeId[] = ['session', 'classic', 'timeattack', 'survival', 'focus', 'theme', 'detail', 'party', 'practice'];
 
   return (
     <div className="mx-auto max-w-5xl px-4 pb-16 pt-4 sm:px-6">

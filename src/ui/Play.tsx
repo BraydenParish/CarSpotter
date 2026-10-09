@@ -24,7 +24,7 @@ import { hintsFor } from '../game/hints';
 import { formatYearRange } from '../game/matching';
 import { MODES, SURVIVAL, THEMES, type RunConfig } from '../game/modes';
 import { applyRound, applyRunEnd, confusedWith, type RunOutcome } from '../game/progress';
-import { availablePoints, MAX_HINTS } from '../game/scoring';
+import { availablePoints, FOCUS, focusMultiplier, focusProgress, MAX_HINTS } from '../game/scoring';
 import { buzz, play } from '../lib/sound';
 import { Icon, Modal } from './components';
 import { PhotoCredit, PhotoCreditShort } from './Credit';
@@ -156,6 +156,16 @@ export function Play({
     img.decoding = 'async';
     img.src = upcomingSrc;
   }, [upcomingSrc]);
+
+  /* --- Focus mode: re-render while the photo sharpens -------------- */
+  const focusMode = s.config.mode === 'focus';
+  useEffect(() => {
+    if (!focusMode || s.phase !== 'question') return;
+    const t = window.setInterval(() => setNow(Date.now()), 100);
+    return () => window.clearInterval(t);
+  }, [focusMode, s.phase]);
+  const focusElapsed = focusMode && s.phase === 'question' && s.shownAt !== null ? Math.max(0, now - s.shownAt) : 0;
+  const blurPx = focusMode && s.phase !== 'reveal' ? FOCUS.maxBlurPx * (1 - focusProgress(focusElapsed)) : 0;
 
   /* --- Time Attack clock ------------------------------------------ */
   const timed = s.clockMs !== null;
@@ -316,6 +326,7 @@ export function Play({
             onLoad={onImageLoad}
             onError={onImageError}
             decoding="async"
+            style={blurPx > 0 ? { filter: `blur(${blurPx.toFixed(1)}px)`, transform: 'scale(1.06)' } : undefined}
             className={`block h-auto max-h-[44dvh] w-auto max-w-full object-contain transition-opacity duration-200 sm:max-h-[50dvh] ${s.phase === 'loading' ? 'opacity-0' : 'opacity-100'}`}
           />
           {s.phase === 'loading' && (
@@ -345,14 +356,14 @@ export function Play({
               </div>
             </div>
           )}
-          <button
+          {!(focusMode && !revealed) && <button
             type="button"
             onClick={() => setExpanded(true)}
             className="absolute right-3 top-3 grid h-11 w-11 place-items-center rounded-full bg-black/60 text-text backdrop-blur hover:bg-black/80"
             aria-label="View photo larger"
           >
             <Icon name="expand" size={18} />
-          </button>
+          </button>}
           {q.photo.kind === 'detail' && !revealed && (
             <figcaption className="absolute bottom-3 left-3 rounded-full bg-black/65 px-3 py-1 text-xs font-semibold capitalize backdrop-blur">
               Detail · {q.photo.detailPart}
@@ -369,6 +380,14 @@ export function Play({
       {/* Question / reveal */}
       {q && s.phase !== 'reveal' && !handoff && (
         <section className="mt-3 flex flex-1 flex-col gap-3" aria-label="Your answer">
+          {focusMode && s.phase === 'question' && (
+            <div className="flex items-center gap-3" aria-live="off">
+              <div className="h-2 flex-1 overflow-hidden rounded-full bg-line" role="meter" aria-label="Focus bonus" aria-valuemin={30} aria-valuemax={100} aria-valuenow={Math.round(focusMultiplier(focusElapsed) * 100)}>
+                <div className="h-full rounded-full bg-accent" style={{ width: `${focusMultiplier(focusElapsed) * 100}%` }} />
+              </div>
+              <span className="w-28 text-right text-sm font-semibold tabular">{Math.round(focusMultiplier(focusElapsed) * 100)}% points</span>
+            </div>
+          )}
           {s.config.hintsEnabled && s.phase === 'question' && <HintBar s={s} onHint={onHint} />}
           {q.choices ? (
             <Choices key={q.photo.id} choices={q.choices} disabled={s.phase !== 'question'} onPick={onChoice} />
@@ -642,6 +661,7 @@ function Reveal({ s, last, autoMs, onNext, onChoice }: { s: RunState; last: Roun
             Base {b.base}
             {b.fieldFraction < 1 ? ` × ${Math.round(b.fieldFraction * 100)}% of fields` : ''}
             {b.hintMultiplier < 1 ? ` × ${Math.round(b.hintMultiplier * 100)}% (hints)` : ''}
+            {b.focusMultiplier < 1 ? ` × ${Math.round(b.focusMultiplier * 100)}% (focus)` : ''}
             {b.streakBonus > 0 ? ` + ${Math.round(b.streakBonus * 100)}% streak` : ''}
             {b.speedBonus > 0 ? ` + ${Math.round(b.speedBonus * 100)}% speed` : ''}
           </p>
