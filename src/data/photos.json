@@ -855,6 +855,141 @@
     }
   },
   {
+    "id": "bmw-isetta-07",
+    "vehicleId": "bmw-isetta",
+    "kind": "full",
+    "image": "photos/bmw-isetta-07.webp",
+    "imageSmall": "photos/bmw-isetta-07-sm.webp",
+    "width": 1600,
+    "height": 1065,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1962,
+      "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:57_BMW_Isetta_300_(9127466330).jpg",
+      "https://commons.wikimedia.org/wiki/Category:BMW_Isetta_(United_States)",
+      "https://en.wikipedia.org/wiki/BMW_Isetta"
+    ],
+    "source": {
+      "title": "File:57 BMW Isetta 300 (9127466330).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:57_BMW_Isetta_300_(9127466330).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/57_BMW_Isetta_300_%289127466330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“57 BMW Isetta 300 (9127466330).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (57 BMW Isetta 300)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (isetta #7); Commons category: BMW Isetta (United States). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "bmw-isetta-11",
+    "vehicleId": "bmw-isetta",
+    "kind": "full",
+    "image": "photos/bmw-isetta-11.webp",
+    "imageSmall": "photos/bmw-isetta-11-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1962,
+      "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:BMW_Isetta_-_Bad_Wörishofen_(2015-08-29_3164_b).jpg",
+      "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+      "https://en.wikipedia.org/wiki/BMW_Isetta"
+    ],
+    "source": {
+      "title": "File:BMW Isetta - Bad Wörishofen (2015-08-29 3164 b).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:BMW_Isetta_-_Bad_W%C3%B6rishofen_(2015-08-29_3164_b).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/BMW_Isetta_-_Bad_W%C3%B6rishofen_%282015-08-29_3164_b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Lothar Spurzem",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "credit": "“BMW Isetta - Bad Wörishofen (2015-08-29 3164 b).jpg” by Lothar Spurzem, CC BY-SA 2.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (isetta #12); Commons category: BMW Isetta. CC BY-SA 2.0 de by Lothar Spurzem."
+    }
+  },
+  {
+    "id": "bmw-isetta-13",
+    "vehicleId": "bmw-isetta",
+    "kind": "full",
+    "image": "photos/bmw-isetta-13.webp",
+    "imageSmall": "photos/bmw-isetta-13-sm.webp",
+    "width": 1600,
+    "height": 1139,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1955,
+      "to": 1962,
+      "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:BMW_Isetta_300_shot_in_Bad_Tölz,_Germany_circa_1987_sideview.jpg",
+      "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+      "https://en.wikipedia.org/wiki/BMW_Isetta"
+    ],
+    "source": {
+      "title": "File:BMW Isetta 300 shot in Bad Tölz, Germany circa 1987 sideview.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:BMW_Isetta_300_shot_in_Bad_T%C3%B6lz,_Germany_circa_1987_sideview.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/BMW_Isetta_300_shot_in_Bad_T%C3%B6lz%2C_Germany_circa_1987_sideview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dcsutherland",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“BMW Isetta 300 shot in Bad Tölz, Germany circa 1987 sideview.jpg” by Dcsutherland, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (isetta #14); Commons category: BMW Isetta. CC BY-SA 4.0 by Dcsutherland."
+    }
+  },
+  {
     "id": "bugatti-veyron-01",
     "vehicleId": "bugatti-veyron",
     "kind": "full",
@@ -1392,51 +1527,6 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (belair57 #11); Commons category: 1957 Chevrolet Bel Air Sport Coupe. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
-    }
-  },
-  {
-    "id": "chevrolet-bel-air-1957-08",
-    "vehicleId": "chevrolet-bel-air-1957",
-    "kind": "full",
-    "image": "photos/chevrolet-bel-air-1957-08.webp",
-    "imageSmall": "photos/chevrolet-bel-air-1957-08-sm.webp",
-    "width": 1600,
-    "height": 1067,
-    "setting": "other",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1955,
-      "to": 1957,
-      "basis": "No feature visible in the photo separates years within the 1955–1957 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Belair_4_door_Hardtop_(23204355454).jpg",
-      "https://commons.wikimedia.org/wiki/Category:1957_Chevrolet_Bel_Air_Sport_Sedan",
-      "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
-    ],
-    "source": {
-      "title": "File:1957 Chevrolet Belair 4 door Hardtop (23204355454).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Belair_4_door_Hardtop_(23204355454).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/1957_Chevrolet_Belair_4_door_Hardtop_%2823204355454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Sicnag",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“1957 Chevrolet Belair 4 door Hardtop (23204355454).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1957 Chevrolet Belair 4 door Hardtop)",
-      "attributionRequired": true,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Viewed on review sheet (belair57 #13); Commons category: 1957 Chevrolet Bel Air Sport Sedan. CC BY 2.0 by Sicnag."
     }
   },
   {
@@ -2938,6 +3028,51 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (viper2 #4); Commons category: Dodge Viper GTS (SR II). CC BY 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "dodge-viper-sr2-03",
+    "vehicleId": "dodge-viper-sr2",
+    "kind": "full",
+    "image": "photos/dodge-viper-sr2-03.webp",
+    "imageSmall": "photos/dodge-viper-sr2-03-sm.webp",
+    "width": 1280,
+    "height": 865,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1996,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Dodge_Viper_GTS_(15946954044).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_GTS_(SR_II)",
+      "https://en.wikipedia.org/wiki/Dodge_Viper"
+    ],
+    "source": {
+      "title": "File:Dodge Viper GTS (15946954044).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dodge_Viper_GTS_(15946954044).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dodge_Viper_GTS_%2815946954044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Dodge Viper GTS (15946954044).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (Dodge Viper GTS)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (viper2 #11); Commons category: Dodge Viper GTS (SR II). CC BY 2.0 by Jeremy from Sydney, Australia."
     }
   },
   {
@@ -5019,6 +5154,276 @@
     }
   },
   {
+    "id": "jeep-cherokee-xj-04",
+    "vehicleId": "jeep-cherokee-xj",
+    "kind": "full",
+    "image": "photos/jeep-cherokee-xj-04.webp",
+    "imageSmall": "photos/jeep-cherokee-xj-04-sm.webp",
+    "width": 1600,
+    "height": 894,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2001,
+      "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'99-'01_Jeep_Cherokee_Sport.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+      "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    ],
+    "source": {
+      "title": "File:'99-'01 Jeep Cherokee Sport.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2799-%2701_Jeep_Cherokee_Sport.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/%2799-%2701_Jeep_Cherokee_Sport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'99-'01 Jeep Cherokee Sport.JPG” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (xj #3); Commons category: Jeep Cherokee (XJ). Public domain by Bull-Doser at English Wikipedia."
+    }
+  },
+  {
+    "id": "jeep-cherokee-xj-06",
+    "vehicleId": "jeep-cherokee-xj",
+    "kind": "full",
+    "image": "photos/jeep-cherokee-xj-06.webp",
+    "imageSmall": "photos/jeep-cherokee-xj-06-sm.webp",
+    "width": 1600,
+    "height": 943,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2001,
+      "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Jeep_Cherokee_Limited_Auto.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+      "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    ],
+    "source": {
+      "title": "File:1993 Jeep Cherokee Limited Auto.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Jeep_Cherokee_Limited_Auto.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/1993_Jeep_Cherokee_Limited_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1993 Jeep Cherokee Limited Auto.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (xj #6); Commons category: Jeep Cherokee (XJ). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "jeep-cherokee-xj-07",
+    "vehicleId": "jeep-cherokee-xj",
+    "kind": "full",
+    "image": "photos/jeep-cherokee-xj-07.webp",
+    "imageSmall": "photos/jeep-cherokee-xj-07-sm.webp",
+    "width": 1600,
+    "height": 1000,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2001,
+      "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_4.0L_SE_1994_(35963518110).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ,_2-door)",
+      "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    ],
+    "source": {
+      "title": "File:Jeep Cherokee 4.0L SE 1994 (35963518110).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_4.0L_SE_1994_(35963518110).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jeep_Cherokee_4.0L_SE_1994_%2835963518110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "RL GNZLZ from Chile",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Jeep Cherokee 4.0L SE 1994 (35963518110).jpg” by RL GNZLZ from Chile, CC BY-SA 2.0, via Wikimedia Commons (Jeep Cherokee 4.0L SE 1994)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (xj #8); Commons category: Jeep Cherokee (XJ, 2-door). CC BY-SA 2.0 by RL GNZLZ from Chile."
+    }
+  },
+  {
+    "id": "jeep-cherokee-xj-09",
+    "vehicleId": "jeep-cherokee-xj",
+    "kind": "full",
+    "image": "photos/jeep-cherokee-xj-09.webp",
+    "imageSmall": "photos/jeep-cherokee-xj-09-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2001,
+      "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2819397785).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+      "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    ],
+    "source": {
+      "title": "File:Jeep Cherokee (2819397785).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2819397785).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jeep_Cherokee_%282819397785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Jeep Cherokee (2819397785).jpg” by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, via Wikimedia Commons (Jeep Cherokee)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (xj #12); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+    }
+  },
+  {
+    "id": "jeep-cherokee-xj-10",
+    "vehicleId": "jeep-cherokee-xj",
+    "kind": "full",
+    "image": "photos/jeep-cherokee-xj-10.webp",
+    "imageSmall": "photos/jeep-cherokee-xj-10-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2001,
+      "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2820241970).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+      "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    ],
+    "source": {
+      "title": "File:Jeep Cherokee (2820241970).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2820241970).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jeep_Cherokee_%282820241970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Jeep Cherokee (2820241970).jpg” by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, via Wikimedia Commons (Jeep Cherokee)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (xj #13); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+    }
+  },
+  {
+    "id": "jeep-cherokee-xj-11",
+    "vehicleId": "jeep-cherokee-xj",
+    "kind": "full",
+    "image": "photos/jeep-cherokee-xj-11.webp",
+    "imageSmall": "photos/jeep-cherokee-xj-11-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2001,
+      "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2820263474).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+      "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    ],
+    "source": {
+      "title": "File:Jeep Cherokee (2820263474).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2820263474).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jeep_Cherokee_%282820263474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Jeep Cherokee (2820263474).jpg” by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, via Wikimedia Commons (Jeep Cherokee)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (xj #14); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+    }
+  },
+  {
     "id": "jeep-wrangler-jk-05",
     "vehicleId": "jeep-wrangler-jk",
     "kind": "full",
@@ -5845,51 +6250,6 @@
     }
   },
   {
-    "id": "lancia-delta-01",
-    "vehicleId": "lancia-delta",
-    "kind": "full",
-    "image": "photos/lancia-delta-01.webp",
-    "imageSmall": "photos/lancia-delta-01-sm.webp",
-    "width": 1600,
-    "height": 1193,
-    "setting": "street",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1979,
-      "to": 1994,
-      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:Lancia_DELTA_HF_Integrale_8v_(E-L31D5)_front.jpg",
-      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_16v",
-      "https://en.wikipedia.org/wiki/Lancia_Delta"
-    ],
-    "source": {
-      "title": "File:Lancia DELTA HF Integrale 8v (E-L31D5) front.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lancia_DELTA_HF_Integrale_8v_(E-L31D5)_front.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lancia_DELTA_HF_Integrale_8v_%28E-L31D5%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Tokumeigakarinoaoshima",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "credit": "“Lancia DELTA HF Integrale 8v (E-L31D5) front.jpg” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
-      "attributionRequired": false,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Viewed on review sheet (delta #0); Commons category: Lancia Delta HF Integrale 16v. CC0 by Tokumeigakarinoaoshima."
-    }
-  },
-  {
     "id": "lancia-delta-02",
     "vehicleId": "lancia-delta",
     "kind": "full",
@@ -5932,51 +6292,6 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (delta #1); Commons category: Lancia Delta HF Integrale 16v. CC BY-SA 4.0 by Calreyn88."
-    }
-  },
-  {
-    "id": "lancia-delta-03",
-    "vehicleId": "lancia-delta",
-    "kind": "full",
-    "image": "photos/lancia-delta-03.webp",
-    "imageSmall": "photos/lancia-delta-03-sm.webp",
-    "width": 1600,
-    "height": 1095,
-    "setting": "other",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1979,
-      "to": 1994,
-      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1989_Lancia_Delta_Integrale_8v.jpg",
-      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_8v",
-      "https://en.wikipedia.org/wiki/Lancia_Delta"
-    ],
-    "source": {
-      "title": "File:1989 Lancia Delta Integrale 8v.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Lancia_Delta_Integrale_8v.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/1989_Lancia_Delta_Integrale_8v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Calreyn88",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "credit": "“1989 Lancia Delta Integrale 8v.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
-      "attributionRequired": true,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Viewed on review sheet (delta #2); Commons category: Lancia Delta HF Integrale 8v. CC BY 4.0 by Calreyn88."
     }
   },
   {
@@ -6067,51 +6382,6 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (delta #8); Commons category: Lancia Delta HF Integrale. CC BY-SA 4.0 by Matti Blume."
-    }
-  },
-  {
-    "id": "lancia-delta-06",
-    "vehicleId": "lancia-delta",
-    "kind": "full",
-    "image": "photos/lancia-delta-06.webp",
-    "imageSmall": "photos/lancia-delta-06-sm.webp",
-    "width": 1600,
-    "height": 1067,
-    "setting": "street",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1979,
-      "to": 1994,
-      "basis": "No feature visible in the photo separates years within the 1979–1994 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1988_Lancia_Delta_HF_Integrale_(14137376252).jpg",
-      "https://commons.wikimedia.org/wiki/Category:Lancia_Delta_HF_Integrale_8v",
-      "https://en.wikipedia.org/wiki/Lancia_Delta"
-    ],
-    "source": {
-      "title": "File:1988 Lancia Delta HF Integrale (14137376252).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Lancia_Delta_HF_Integrale_(14137376252).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1988_Lancia_Delta_HF_Integrale_%2814137376252%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "davocano",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“1988 Lancia Delta HF Integrale (14137376252).jpg” by davocano, CC BY 2.0, via Wikimedia Commons (1988 Lancia Delta HF Integrale)",
-      "attributionRequired": true,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-09",
-      "notes": "Viewed on review sheet (delta #12); Commons category: Lancia Delta HF Integrale 8v. CC BY 2.0 by davocano."
     }
   },
   {
@@ -7605,6 +7875,51 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (minif56 #2); Commons category: Mini Hatch (F56). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "mini-hatch-f56-03",
+    "vehicleId": "mini-hatch-f56",
+    "kind": "full",
+    "image": "photos/mini-hatch-f56-03.webp",
+    "imageSmall": "photos/mini-hatch-f56-03-sm.webp",
+    "width": 1280,
+    "height": 736,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2014,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2020_Mini_Hatch_JCW_Auto.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mini_Hatch_(F56)_John_Cooper_Works",
+      "https://en.wikipedia.org/wiki/Mini_Hatch"
+    ],
+    "source": {
+      "title": "File:2020 Mini Hatch JCW Auto.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2020_Mini_Hatch_JCW_Auto.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/2020_Mini_Hatch_JCW_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2020 Mini Hatch JCW Auto.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (minif56 #3); Commons category: Mini Hatch (F56) John Cooper Works. CC BY-SA 4.0 by Calreyn88."
     }
   },
   {
@@ -9821,6 +10136,51 @@
     }
   },
   {
+    "id": "range-rover-classic-04",
+    "vehicleId": "range-rover-classic",
+    "kind": "full",
+    "image": "photos/range-rover-classic-04.webp",
+    "imageSmall": "photos/range-rover-classic-04-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1996,
+      "basis": "No feature visible in the photo separates years within the 1970–1996 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1988_Land_Rover_Range_Rover_5-door_wagon_(24013744622).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Range_Rover_Classic_(1986–1996)",
+      "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+    ],
+    "source": {
+      "title": "File:1988 Land Rover Range Rover 5-door wagon (24013744622).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Land_Rover_Range_Rover_5-door_wagon_(24013744622).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/1988_Land_Rover_Range_Rover_5-door_wagon_%2824013744622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1988 Land Rover Range Rover 5-door wagon (24013744622).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1988 Range Rover)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (rrclassic #14); Commons category: Range Rover Classic (1986–1996). CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
     "id": "range-rover-evoque-l538-01",
     "vehicleId": "range-rover-evoque-l538",
     "kind": "full",
@@ -10676,6 +11036,141 @@
     }
   },
   {
+    "id": "smart-fortwo-w450-01",
+    "vehicleId": "smart-fortwo-w450",
+    "kind": "full",
+    "image": "photos/smart-fortwo-w450-01.webp",
+    "imageSmall": "photos/smart-fortwo-w450-01-sm.webp",
+    "width": 1280,
+    "height": 1007,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1998,
+      "to": 2007,
+      "basis": "No feature visible in the photo separates years within the 1998–2007 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'05_Smart_Fortwo_Coupe.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Smart_Fortwo_Cabrio_(1st_gen)",
+      "https://en.wikipedia.org/wiki/Smart_Fortwo"
+    ],
+    "source": {
+      "title": "File:'05 Smart Fortwo Coupe.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2705_Smart_Fortwo_Coupe.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%2705_Smart_Fortwo_Coupe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'05 Smart Fortwo Coupe.JPG” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (smart1 #3); Commons category: Smart Fortwo Cabrio (1st gen). Public domain by Bull-Doser."
+    }
+  },
+  {
+    "id": "smart-fortwo-w450-02",
+    "vehicleId": "smart-fortwo-w450",
+    "kind": "full",
+    "image": "photos/smart-fortwo-w450-02.webp",
+    "imageSmall": "photos/smart-fortwo-w450-02-sm.webp",
+    "width": 1600,
+    "height": 1071,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1998,
+      "to": 2007,
+      "basis": "No feature visible in the photo separates years within the 1998–2007 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Erfurt_-_Fürthmühlgasse_-_201203_-_2.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Smart_Fortwo_Cabrio_(1st_gen)",
+      "https://en.wikipedia.org/wiki/Smart_Fortwo"
+    ],
+    "source": {
+      "title": "File:Erfurt - Fürthmühlgasse - 201203 - 2.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Erfurt_-_F%C3%BCrthm%C3%BChlgasse_-_201203_-_2.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Erfurt_-_F%C3%BCrthm%C3%BChlgasse_-_201203_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "TOMMES-WIKI",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Erfurt - Fürthmühlgasse - 201203 - 2.JPG” by TOMMES-WIKI, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (smart1 #8); Commons category: Smart Fortwo Cabrio (1st gen). CC BY-SA 3.0 by TOMMES-WIKI."
+    }
+  },
+  {
+    "id": "smart-fortwo-w450-03",
+    "vehicleId": "smart-fortwo-w450",
+    "kind": "full",
+    "image": "photos/smart-fortwo-w450-03.webp",
+    "imageSmall": "photos/smart-fortwo-w450-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1998,
+      "to": 2007,
+      "basis": "No feature visible in the photo separates years within the 1998–2007 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Rua_do_Lago,_11_March_2016_(4).JPG",
+      "https://commons.wikimedia.org/wiki/Category:Smart_Fortwo_Cabrio_(1st_gen)",
+      "https://en.wikipedia.org/wiki/Smart_Fortwo"
+    ],
+    "source": {
+      "title": "File:Rua do Lago, 11 March 2016 (4).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rua_do_Lago,_11_March_2016_(4).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rua_do_Lago%2C_11_March_2016_%284%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kolforn (Kolforn)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Rua do Lago, 11 March 2016 (4).JPG” by Kolforn (Kolforn), CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (smart1 #11); Commons category: Smart Fortwo Cabrio (1st gen). CC BY-SA 4.0 by Kolforn (Kolforn) I'd appreciate if you could mail me (Kolfo."
+    }
+  },
+  {
     "id": "supra-a80-01",
     "vehicleId": "toyota-supra-a80",
     "kind": "full",
@@ -11507,6 +12002,141 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: beige FJ40 head-on at the kerb; grille reads TOYOTA (make only); cowl script out of view."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j70-01",
+    "vehicleId": "toyota-land-cruiser-j70",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j70-01.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j70-01-sm.webp",
+    "width": 1600,
+    "height": 1110,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1996_Toyota_Land_Cruiser_4.2_FRP-Top_Van.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_1990–1999)",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+    ],
+    "source": {
+      "title": "File:1996 Toyota Land Cruiser 4.2 FRP-Top Van.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1996_Toyota_Land_Cruiser_4.2_FRP-Top_Van.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/1996_Toyota_Land_Cruiser_4.2_FRP-Top_Van.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1996 Toyota Land Cruiser 4.2 FRP-Top Van.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/47980935926/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (lc70 #0); Commons category: Toyota Land Cruiser (J70, 1990–1999). CC BY 2.0 by Rutger van der Maar."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j70-04",
+    "vehicleId": "toyota-land-cruiser-j70",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j70-04.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j70-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:The_rearview_of_Toyota_LAND_CRUISER_AX_(3DA-GDJ76W-RKTNY).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_AX_(J70,_2023)",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+    ],
+    "source": {
+      "title": "File:The rearview of Toyota LAND CRUISER AX (3DA-GDJ76W-RKTNY).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_rearview_of_Toyota_LAND_CRUISER_AX_(3DA-GDJ76W-RKTNY).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_rearview_of_Toyota_LAND_CRUISER_AX_%283DA-GDJ76W-RKTNY%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“The rearview of Toyota LAND CRUISER AX (3DA-GDJ76W-RKTNY).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (lc70 #7); Commons category: Toyota Land Cruiser AX (J70, 2023). CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j70-05",
+    "vehicleId": "toyota-land-cruiser-j70",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j70-05.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j70-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_ZX_J70_Black_(4).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_1999–2007)",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+    ],
+    "source": {
+      "title": "File:Toyota Land Cruiser ZX J70 Black (4).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_ZX_J70_Black_(4).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Toyota_Land_Cruiser_ZX_J70_Black_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Toyota Land Cruiser ZX J70 Black (4).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (lc70 #9); Commons category: Toyota Land Cruiser (J70, 1999–2007). CC BY-SA 4.0 by Damian B Oh."
     }
   },
   {

@@ -384,8 +384,8 @@ export const EXTRA_MODEL_NAMES: string[] = [
   'Mini', 'Cooper', 'Clubman', 'Countryman', 'Paceman', 'Moke', 'Seven', 'Mini-Minor', 'Allegro', 'Maxi', 'Princess',
   'Defender', 'Discovery Sport', 'Freelander', 'Evoque', 'Velar', '90', '110', '127', 'Series I', 'Series II',
   'Wrangler', 'Grand Cherokee', 'Compass', 'Renegade', 'Liberty', 'CJ', 'Commander', 'Patriot', 'Willys',
-  'Model 3', 'Model S', 'Model X', 'Model Y', 'Roadster', 'Cybertruck',
-  '601', '600', '500', 'P50', 'P70', '1.1',
+  'Model 3', 'Model S', 'Model X', 'Model Y', 'Cybertruck',
+  '601', '500', 'P50', 'P70', '1.1',
   '240Z', '260Z', '280Z', '280ZX', 'Z', '370Z', '510', '1600', 'Bluebird',
   'Lancer Evolution', 'Evo', 'Evolution', 'Lancer Evolution VI', 'Lancer Evolution X',
   'Model 3', 'Hilux', 'Land Cruiser', 'FJ Cruiser', 'Prado',
@@ -396,4 +396,5 @@ export const EXTRA_MODEL_NAMES: string[] = [
   '350Z', 'Gallardo', 'F430', '488', '488 GTB', 'F8', 'Chiron', 'Divo', 'EB110', 'Viper SRT-10', 'Corvette C4', 'Corvette C5', 'Mustang II', 'Mach-E', 'Mustang Mach-E', 'Camaro Z28',
   'Impala', 'Biscayne', 'Nomad', 'Chevelle', '210', '150', '9000', '99', '9-3', '9-5', '96', 'Prisma', 'Thema', 'Stratos', 'Fulvia', 'Ypsilon', 'Musa', 'Thesis', 'Delta S4',
   'DB4', 'DB6', 'DB7', 'DB9', 'DB11', 'DBS', 'Vantage', 'Vanquish', 'Rapide', 'Lagonda',
+  'Comanche', 'Wagoneer', 'Grand Wagoneer', 'Isetta 600', 'BMW 600', 'BMW 700', 'Crossblade', 'Forfour',
 ];

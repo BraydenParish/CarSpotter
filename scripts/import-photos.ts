@@ -23,6 +23,21 @@ import type { Angle, DetailPart, Photo, PhotoReview, PhotoSupports, Setting, Veh
 import { download, imageInfo, plain } from './lib/commons';
 import { licenseAllowed } from './lib/rules';
 
+// Prefer CDN-cached renditions: upload.wikimedia.org rate-limits original downloads far more aggressively than thumbnails.
+function renditionUrl(info: { url: string; thumbUrl?: string; width: number }): string {
+  if (info.thumbUrl && info.width > 1920) return info.thumbUrl;
+  const m = info.url.match(/^(https:\/\/upload\.wikimedia\.org\/wikipedia\/commons)\/([0-9a-f]\/[0-9a-f]{2})\/([^?]+)/);
+  if (m && info.width > 1280) return `${m[1]}/thumb/${m[2]}/${m[3]}/1280px-${m[3]}`;
+  return info.url;
+}
+
+// Some authors put a whole licence notice in the Artist field; keep the name part only.
+function shortArtist(s: string): string {
+  if (s.length <= 80) return s;
+  const cut = s.search(/\s(?:I|I'd|I'm|This|Please|You|If|Licen[cs]e)\b/);
+  return (cut > 0 ? s.slice(0, cut) : s.slice(0, 80)).replace(/[\s,;:–-]+$/, '');
+}
+
 interface CropSpec {
   id: string;
   part: DetailPart;
@@ -96,7 +111,7 @@ for (const c of todo) {
   const m = info.extmetadata;
   const license = plain(m.LicenseShortName?.value) || plain(m.License?.value);
   const licenseUrl = plain(m.LicenseUrl?.value) || null;
-  const artist = plain(m.Artist?.value) || 'Unknown author';
+  const artist = shortArtist(plain(m.Artist?.value)) || 'Unknown author';
   const credit = plain(m.Credit?.value);
   const attributionRequired = plain(m.AttributionRequired?.value) !== 'false';
   const restrictions = plain(m.Restrictions?.value);
@@ -126,7 +141,7 @@ for (const c of todo) {
     if (force || !existsSync(join(root, 'public', image))) {
       try {
         // A 1920 px rendition (a standard CDN-cached size) is plenty for the 1600 px output and far lighter than multi-megabyte originals.
-        original = await download(info.thumbUrl && info.width > 1920 ? info.thumbUrl : info.url);
+        original = await download(renditionUrl(info));
       } catch (e) {
         console.error(`${tag} download failed (${(e as Error).message.slice(0, 60)}) — skipped, re-run to retry`);
         failed++;
@@ -180,7 +195,7 @@ for (const c of todo) {
     if (!allowed) break;
     const crop = `photos/${k.id}.webp`;
     if (force || !existsSync(join(root, 'public', crop))) {
-      original ??= await download(info.thumbUrl && info.width > 1920 ? info.thumbUrl : info.url);
+      original ??= await download(renditionUrl(info));
       // Crop rectangles are in original-file pixels; scale them to the rendition actually downloaded.
       const got = (await sharp(original).rotate().metadata()).width ?? info.width;
       const f = got / info.width;

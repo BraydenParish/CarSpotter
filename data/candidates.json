@@ -9702,6 +9702,1146 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (db5 #10); Commons category: Aston Martin DB5 Convertible. CC BY-SA 4.0 by Calreyn88."
       }
+    },
+    {
+      "id": "range-rover-classic-01",
+      "file": "File:1983 Range Rover (15019640022).jpg",
+      "vehicleId": "range-rover-classic",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1996,
+        "basis": "No feature visible in the photo separates years within the 1970–1996 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1983_Range_Rover_(15019640022).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Classic",
+        "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"RANGE ROVER\" lettering on the tailgate is legible and spells the answer."
+      }
+    },
+    {
+      "id": "range-rover-classic-02",
+      "file": "File:1986 Land Rover Range Rover 3.5 V8 (52052967325).jpg",
+      "vehicleId": "range-rover-classic",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1996,
+        "basis": "No feature visible in the photo separates years within the 1970–1996 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_Land_Rover_Range_Rover_3.5_V8_(52052967325).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Classic",
+        "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"RANGE ROVER\" lettering on the tailgate is legible and spells the answer."
+      }
+    },
+    {
+      "id": "range-rover-classic-03",
+      "file": "File:1988 Land Rover Range Rover 5-door wagon (23628494810).jpg",
+      "vehicleId": "range-rover-classic",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1996,
+        "basis": "No feature visible in the photo separates years within the 1970–1996 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_Land_Rover_Range_Rover_5-door_wagon_(23628494810).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Classic_(1986–1996)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"RANGE ROVER\" lettering on the tailgate is legible and spells the answer."
+      }
+    },
+    {
+      "id": "range-rover-classic-04",
+      "file": "File:1988 Land Rover Range Rover 5-door wagon (24013744622).jpg",
+      "vehicleId": "range-rover-classic",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1996,
+        "basis": "No feature visible in the photo separates years within the 1970–1996 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_Land_Rover_Range_Rover_5-door_wagon_(24013744622).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Classic_(1986–1996)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (rrclassic #14); Commons category: Range Rover Classic (1986–1996). CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-01",
+      "file": "File:1996 Toyota Land Cruiser 4.2 FRP-Top Van.jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1996_Toyota_Land_Cruiser_4.2_FRP-Top_Van.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_1990–1999)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (lc70 #0); Commons category: Toyota Land Cruiser (J70, 1990–1999). CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-02",
+      "file": "File:1996 Toyota Land Cruiser 4.2 FRP-Top Van (52171281222).jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1996_Toyota_Land_Cruiser_4.2_FRP-Top_Van_(52171281222).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_1990–1999)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the door is legible."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-03",
+      "file": "File:Land Cruiser, West Gonja (P1100488).jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Land_Cruiser,_West_Gonja_(P1100488).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70)_pickup_trucks",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The snorkel reads \"LANDCRUISER\"."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-04",
+      "file": "File:The rearview of Toyota LAND CRUISER AX (3DA-GDJ76W-RKTNY).jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:The_rearview_of_Toyota_LAND_CRUISER_AX_(3DA-GDJ76W-RKTNY).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_AX_(J70,_2023)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (lc70 #7); Commons category: Toyota Land Cruiser AX (J70, 2023). CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-05",
+      "file": "File:Toyota Land Cruiser ZX J70 Black (4).jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_ZX_J70_Black_(4).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_1999–2007)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (lc70 #9); Commons category: Toyota Land Cruiser (J70, 1999–2007). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-06",
+      "file": "File:Tarangire 2012 05 28 1840 (7468546230).jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tarangire_2012_05_28_1840_(7468546230).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_1999–2007)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The snorkel carries \"LANDCRUISER\" lettering that is readable at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j70-07",
+      "file": "File:The 44th Tokyo Motor Show 2015 53 (22708169266).jpg",
+      "vehicleId": "toyota-land-cruiser-j70",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 1984–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:The_44th_Tokyo_Motor_Show_2015_53_(22708169266).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J70,_2007–2023)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the front wing is legible."
+      }
+    },
+    {
+      "id": "smart-fortwo-w450-01",
+      "file": "File:'05 Smart Fortwo Coupe.JPG",
+      "vehicleId": "smart-fortwo-w450",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2007,
+        "basis": "No feature visible in the photo separates years within the 1998–2007 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'05_Smart_Fortwo_Coupe.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Fortwo_Cabrio_(1st_gen)",
+        "https://en.wikipedia.org/wiki/Smart_Fortwo"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (smart1 #3); Commons category: Smart Fortwo Cabrio (1st gen). Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "smart-fortwo-w450-02",
+      "file": "File:Erfurt - Fürthmühlgasse - 201203 - 2.JPG",
+      "vehicleId": "smart-fortwo-w450",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2007,
+        "basis": "No feature visible in the photo separates years within the 1998–2007 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Erfurt_-_Fürthmühlgasse_-_201203_-_2.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Fortwo_Cabrio_(1st_gen)",
+        "https://en.wikipedia.org/wiki/Smart_Fortwo"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (smart1 #8); Commons category: Smart Fortwo Cabrio (1st gen). CC BY-SA 3.0 by TOMMES-WIKI."
+      }
+    },
+    {
+      "id": "smart-fortwo-w450-03",
+      "file": "File:Rua do Lago, 11 March 2016 (4).JPG",
+      "vehicleId": "smart-fortwo-w450",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2007,
+        "basis": "No feature visible in the photo separates years within the 1998–2007 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Rua_do_Lago,_11_March_2016_(4).JPG",
+        "https://commons.wikimedia.org/wiki/Category:Smart_Fortwo_Cabrio_(1st_gen)",
+        "https://en.wikipedia.org/wiki/Smart_Fortwo"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (smart1 #11); Commons category: Smart Fortwo Cabrio (1st gen). CC BY-SA 4.0 by Kolforn (Kolforn) I'd appreciate if you could mail me (Kolfo."
+      }
+    },
+    {
+      "id": "bmw-isetta-01",
+      "file": "File:1957 BMW Isetta 300 (5892323769).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1957_BMW_Isetta_300_(5892323769).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"ISETTA\" lettering under the roundel is readable at full size."
+      }
+    },
+    {
+      "id": "bmw-isetta-02",
+      "file": "File:1958 BMW Isetta (14177460820).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1958_BMW_Isetta_(14177460820).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta_(United_States)",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-03",
+      "file": "File:1958 BMW Isetta (14177609359).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1958_BMW_Isetta_(14177609359).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta_(United_States)",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-04",
+      "file": "File:BMW Isetta 300 Classic-Gala 2021 1X7A0183.jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Isetta_300_Classic-Gala_2021_1X7A0183.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-05",
+      "file": "File:BMW Isetta Kulmbach 2022-20220626-RM-150807.jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Isetta_Kulmbach_2022-20220626-RM-150807.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-06",
+      "file": "File:Classic Days 2019, Berlin (CDB90129).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Classic_Days_2019,_Berlin_(CDB90129).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-07",
+      "file": "File:57 BMW Isetta 300 (9127466330).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:57_BMW_Isetta_300_(9127466330).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta_(United_States)",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (isetta #7); Commons category: BMW Isetta (United States). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "bmw-isetta-08",
+      "file": "File:BMW Isetta 6170609.jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Isetta_6170609.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-09",
+      "file": "File:1960 BMW Isetta at the Maxey Classic Car Show, August 2018 (geograph 5875086).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1960_BMW_Isetta_at_the_Maxey_Classic_Car_Show,_August_2018_(geograph_5875086).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta_(Isetta_of_Great_Britain)",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"ISETTA\" lettering under the roundel is readable at full size."
+      }
+    },
+    {
+      "id": "bmw-isetta-10",
+      "file": "File:1962 BMW Isetta 300 (5957040849).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1962_BMW_Isetta_300_(5957040849).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta_in_the_National_Motor_Museum,_Beaulieu",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-11",
+      "file": "File:BMW Isetta - Bad Wörishofen (2015-08-29 3164 b).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Isetta_-_Bad_Wörishofen_(2015-08-29_3164_b).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (isetta #12); Commons category: BMW Isetta. CC BY-SA 2.0 de by Lothar Spurzem."
+      }
+    },
+    {
+      "id": "bmw-isetta-12",
+      "file": "File:BMW Isetta 300 (2015-08-26 3004 b).jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Isetta_300_(2015-08-26_3004_b).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: The door script reading \"Isetta\" (with 250/300) is legible at full size and spells the answer."
+      }
+    },
+    {
+      "id": "bmw-isetta-13",
+      "file": "File:BMW Isetta 300 shot in Bad Tölz, Germany circa 1987 sideview.jpg",
+      "vehicleId": "bmw-isetta",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1955,
+        "to": 1962,
+        "basis": "No feature visible in the photo separates years within the 1955–1962 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_Isetta_300_shot_in_Bad_Tölz,_Germany_circa_1987_sideview.jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_Isetta",
+        "https://en.wikipedia.org/wiki/BMW_Isetta"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (isetta #14); Commons category: BMW Isetta. CC BY-SA 4.0 by Dcsutherland."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-01",
+      "file": "File:1994-1997 Jeep Cherokee (XJ) Sport 01.jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1994-1997_Jeep_Cherokee_(XJ)_Sport_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A \"Cherokee\" decal on the door is legible and spells the answer."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-02",
+      "file": "File:1997 Jeep Cherokee Sport 2.5 Front.jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_Jeep_Cherokee_Sport_2.5_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A \"Cherokee\" decal on the door is legible and spells the answer."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-03",
+      "file": "File:'00-'01 Jeep Cherokee Sport 4-Door.JPG",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'00-'01_Jeep_Cherokee_Sport_4-Door.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A \"Cherokee\" decal on the door is legible and spells the answer."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-04",
+      "file": "File:'99-'01 Jeep Cherokee Sport.JPG",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'99-'01_Jeep_Cherokee_Sport.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xj #3); Commons category: Jeep Cherokee (XJ). Public domain by Bull-Doser at English Wikipedia."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-05",
+      "file": "File:1987 Jeep Cherokee (14177749500).jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Jeep_Cherokee_(14177749500).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A \"Cherokee\" decal on the door is legible and spells the answer."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-06",
+      "file": "File:1993 Jeep Cherokee Limited Auto.jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1993_Jeep_Cherokee_Limited_Auto.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xj #6); Commons category: Jeep Cherokee (XJ). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-07",
+      "file": "File:Jeep Cherokee 4.0L SE 1994 (35963518110).jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_4.0L_SE_1994_(35963518110).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ,_2-door)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xj #8); Commons category: Jeep Cherokee (XJ, 2-door). CC BY-SA 2.0 by RL GNZLZ from Chile."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-08",
+      "file": "File:Tuning World Bodensee 2018, Friedrichshafen (OW1A0785).jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tuning_World_Bodensee_2018,_Friedrichshafen_(OW1A0785).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A \"Cherokee\" sticker on the front wing is legible."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-09",
+      "file": "File:Jeep Cherokee (2819397785).jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2819397785).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xj #12); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-10",
+      "file": "File:Jeep Cherokee (2820241970).jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2820241970).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xj #13); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "jeep-cherokee-xj-11",
+      "file": "File:Jeep Cherokee (2820263474).jpg",
+      "vehicleId": "jeep-cherokee-xj",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 2001,
+        "basis": "No feature visible in the photo separates years within the 1984–2001 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_(2820263474).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Cherokee_(XJ)",
+        "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (xj #14); Commons category: Jeep Cherokee (XJ). CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+      }
     }
   ]
 }

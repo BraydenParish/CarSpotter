@@ -127,7 +127,7 @@
     "id": "mini-classic",
     "make": "Austin",
     "model": "Mini",
-    "modelAliases": ["Mini Cooper", "Cooper", "Mini-Minor", "Mini Minor", "Seven", "Se7en", "Classic Mini"],
+    "modelAliases": ["Mini Cooper", "Cooper", "Mini-Minor", "Mini Minor", "Seven", "Se7en", "Classic Mini", "Cooper S"],
     "makeAliases": ["Morris", "Mini", "Rover", "BMC", "Leyland", "British Leyland", "Innocenti"],
     "generation": null,
     "bodyStyle": "sedan",
@@ -277,7 +277,7 @@
     "id": "chevrolet-camaro-1g",
     "make": "Chevrolet",
     "model": "Camaro",
-    "modelAliases": [],
+    "modelAliases": ["Camaro Z28", "Camaro Z/28"],
     "extraWords": ["SS", "RS", "Z/28", "Z28", "RS/SS"],
     "generation": { "name": "First generation", "aliases": ["1st generation", "first gen", "1st gen", "first-gen", "first", "1st"] },
     "bodyStyle": "coupe",
@@ -1947,5 +1947,270 @@
     ],
     "tip": "Touring Superleggera-designed grand tourer (1963–1965), an evolution of the last DB4: the classic Aston grille shape and faired-in headlamps; best known as James Bond's car.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+  },
+  {
+    "id": "range-rover-classic",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "modelAliases": [
+      "Range Rover Classic",
+      "Rangie",
+      "Range Rover V8",
+      "Range Rover 3.5"
+    ],
+    "makeAliases": [
+      
+      "Land-Rover",
+      "Leyland"
+    ],
+    "extraWords": [
+      "Classic",
+      "Vogue",
+      "V8",
+      "3.5",
+      "3.9",
+      "4.2",
+      "LSE",
+      "CSK",
+      "2-door",
+      "4-door"
+    ],
+    "generation": {
+      "name": "Classic",
+      "aliases": [
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1",
+        "Mk 1",
+        "original",
+        "Range Rover Classic"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [
+      1970,
+      1996
+    ],
+    "categories": [
+      "offroad",
+      "european",
+      "classic"
+    ],
+    "tip": "The first Range Rover (1970–1996): a tall, flat-sided box with a clamshell bonnet, a thin 'floating' roof over big glass and round headlamps; two-door only until a four-door joined in 1981, and from 1986 the grille gained horizontal plastic slats.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+  },
+{
+    "id": "toyota-land-cruiser-j70",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "modelAliases": [
+      "Landcruiser",
+      "Land Cruiser 70",
+      "Land Cruiser 76",
+      "Land Cruiser 78",
+      "Land Cruiser 79",
+      "Troop Carrier",
+      "Troopy",
+      "LC70",
+      "LC79",
+      "LC76",
+      "LC78"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Troop Carrier",
+      "Troopy",
+      "Pickup",
+      "Pick-up",
+      "Wagon",
+      "Van",
+      "Hardtop",
+      "GXL",
+      "LX",
+      "ZX",
+      "AX",
+      "Workmate"
+    ],
+    "generation": {
+      "name": "J70",
+      "aliases": [
+        "70 series",
+        "70-series",
+        "J 70",
+        "70",
+        "LC70",
+        "76",
+        "78",
+        "79",
+        "76 series",
+        "78 series",
+        "79 series"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [
+      1984,
+      2026
+    ],
+    "categories": [
+      "offroad",
+      "jdm"
+    ],
+    "tip": "Toyota's workhorse Land Cruiser since 1984, replacing the 40 Series: a more angular, slab-sided body with a flat bonnet and upright windscreen, sold as short and long wheelbase wagons, the Troop Carrier and the 79 pickup.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+  },
+{
+    "id": "smart-fortwo-w450",
+    "make": "Smart",
+    "model": "Fortwo",
+    "modelAliases": [
+      "ForTwo",
+      "For Two",
+      "City Coupe",
+      "City Coupé",
+      "City-Coupé",
+      "City Cabrio",
+      "Fortwo Cabrio",
+      "Fortwo Coupe",
+      "Smart Car",
+      "MCC Smart"
+    ],
+    "makeAliases": [
+      "MCC",
+      "Smart car"
+    ],
+    "extraWords": [
+      "Coupe",
+      "Coupé",
+      "Cabrio",
+      "Pulse",
+      "Passion",
+      "Pure",
+      "Brabus",
+      "cdi"
+    ],
+    "generation": {
+      "name": "W450",
+      "aliases": [
+        "W 450",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1",
+        "Mk 1",
+        "450"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1998,
+      2007
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "First-generation Smart (W450, 1998–2007), a two-seat, rear-engined one-box city car built at Hambach: a tiny tall body with the steel Tridion safety cell exposed in a contrasting colour and bolt-on plastic panels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Smart_Fortwo"
+  },
+{
+    "id": "bmw-isetta",
+    "make": "BMW",
+    "model": "Isetta",
+    "modelAliases": [
+      "Isetta 250",
+      "Isetta 300",
+      "Isetta Motocoupe",
+      "Isetta Moto Coupe",
+      "Bubble car"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "250",
+      "300",
+      "Motocoupe",
+      "Moto Coupé",
+      "Export",
+      "Standard",
+      "Cabrio",
+      "bubble"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1955,
+      1962
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "The egg-shaped bubble car: one door that is the whole front of the car (the steering wheel swings out with it), a single bench seat and a one-cylinder BMW motorcycle engine; BMW built it under licence from Iso from April 1955 to May 1962.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_Isetta"
+  },
+{
+    "id": "jeep-cherokee-xj",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "modelAliases": [
+      "Cherokee XJ",
+      "Cherokee Sport",
+      "Cherokee Limited",
+      "Cherokee Classic",
+      "Cherokee Laredo",
+      "Cherokee Pioneer",
+      "Cherokee Country",
+      "Cherokee Chief"
+    ],
+    "makeAliases": [
+      "AMC",
+      "Jeep Cherokee"
+    ],
+    "extraWords": [
+      "Sport",
+      "Limited",
+      "Classic",
+      "Laredo",
+      "Pioneer",
+      "Country",
+      "Chief",
+      "SE",
+      "Briarwood",
+      "Sportwagon",
+      "2-door",
+      "4-door"
+    ],
+    "generation": {
+      "name": "XJ",
+      "aliases": [
+        "X J",
+        "first-generation XJ",
+        "XJ Cherokee",
+        "1984 Cherokee",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      1984,
+      2001
+    ],
+    "categories": [
+      "offroad",
+      "american"
+    ],
+    "tip": "AMC-designed compact Jeep (1984–2001 in the US): a squared-off, flat-roof box that was the first unibody American off-roader, with a vertical-slot grille between rectangular headlamps and black lower cladding.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
   }
 ]

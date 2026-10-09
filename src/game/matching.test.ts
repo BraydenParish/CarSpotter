@@ -268,3 +268,26 @@ describe('generation names that contain the model name', () => {
     expect(gen('964', 'porsche-911-993')).toBe(false);
   });
 });
+
+describe('names of other cars that extend this one', () => {
+  const model = (input: string, id: string) => matchModel(input, v(id), ctx.index, MAKE_ALIASES).correct;
+  it('rejects a different real car whose name adds a trim-like word', () => {
+    expect(model('Range Rover', 'range-rover-classic')).toBe(true);
+    expect(model('Range Rover Classic', 'range-rover-classic')).toBe(true);
+    expect(model('Range Rover Sport', 'range-rover-classic')).toBe(false);
+    expect(model('Carrera GT', 'porsche-911-993')).toBe(false);
+    expect(model('3 Series', 'land-rover-series-3')).toBe(false);
+    expect(model('Series I', 'land-rover-series-3')).toBe(false);
+    expect(model('Grand Cherokee', 'jeep-cherokee-xj')).toBe(false);
+    expect(model('Land Cruiser Prado', 'toyota-land-cruiser-j70')).toBe(false);
+  });
+
+  it('still accepts trims and other generations of the same model', () => {
+    expect(model('Mustang GT', 'ford-mustang-s550')).toBe(true);
+    expect(model('Camaro SS', 'chevrolet-camaro-6g')).toBe(true);
+    expect(model('Cooper S', 'mini-classic')).toBe(true);
+    expect(model('Golf 7', 'vw-golf-mk7')).toBe(true);
+    expect(model('Cherokee Sport', 'jeep-cherokee-xj')).toBe(true);
+    expect(model('Land Cruiser 79', 'toyota-land-cruiser-j70')).toBe(true);
+  });
+});

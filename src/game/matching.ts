@@ -77,6 +77,8 @@ export interface NameIndex {
   makes: Map<string, string>;
   /** compact model names of every real car we know about */
   models: Set<string>;
+  /** compact name → compact base models of the dataset vehicles that accept it */
+  owners: Map<string, Set<string>>;
 }
 
 export function buildNameIndex(
@@ -92,14 +94,18 @@ export function buildNameIndex(
   }
   for (const m of extraMakes) if (!makes.has(compact(m))) makes.set(compact(m), m);
   const models = new Set<string>();
+  const owners = new Map<string, Set<string>>();
   for (const m of modelNames) models.add(compact(m));
   for (const v of vehicles) {
     if (!makes.has(compact(v.make))) makes.set(compact(v.make), v.make);
-    models.add(compact(v.model));
-    for (const a of v.modelAliases) models.add(compact(a));
+    for (const n of [v.model, ...v.modelAliases]) {
+      models.add(compact(n));
+      if (!owners.has(compact(n))) owners.set(compact(n), new Set());
+      owners.get(compact(n))!.add(compact(v.model));
+    }
   }
   models.delete('');
-  return { makes, models };
+  return { makes, models, owners };
 }
 
 /* ------------------------------------------------------------------ */
@@ -231,6 +237,22 @@ export function matchMake(
   return { correct: false, kind: 'wrong', input, expected };
 }
 
+/**
+ * True when the text is exactly the name of a different real car that merely
+ * extends one of this car's names with a trim-like word ("Range Rover Sport",
+ * "Carrera GT", "3 Series" for a Land Rover Series). Another generation of the
+ * same model ("Mustang GT", "Golf I") still counts as the right model.
+ */
+function namesOtherCar(toks: string[], vehicle: Vehicle, index: NameIndex): boolean {
+  const typed = toks.join('');
+  if (!index.models.has(typed)) return false;
+  if (acceptedModels(vehicle).some((n) => compact(n) === typed)) return false;
+  if (index.owners.get(typed)?.has(compact(vehicle.model))) return false;
+  const mt = tokens(vehicle.model);
+  if (toks.length > mt.length && mt.every((t, i) => toks[i] === t) && toks.slice(mt.length).every((t) => /^(?:[ivx]+|\d+)$/.test(t))) return false;
+  return true;
+}
+
 export function matchModel(
   input: string,
   vehicle: Vehicle,
@@ -254,6 +276,7 @@ export function matchModel(
     }
   }
   const typed = toks.join('');
+  if (namesOtherCar(toks, vehicle, index)) return { correct: false, kind: 'wrong', input, expected };
   if (typed === compact(vehicle.model) || spellsName(toks, vehicle.model, extras)) {
     return { correct: true, kind: 'exact', input, expected };
   }
