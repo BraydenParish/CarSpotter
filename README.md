@@ -107,6 +107,20 @@ Also: garage (cars you identified), 25 achievements (each hidden until the photo
 
 `src/data/types.ts` (schema), `src/data/vehicles.json` (**41 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (140 approved records: 126 photos plus 14 detail crops). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
 
+### Where good photo collections are on Commons
+
+Wikimedia Commons holds millions of car photos, but they're organised unevenly. These sources give the best yield:
+
+- **Generation-level model categories** such as `Category:Mazda MX-5 (ND)`, `Category:Porsche 991` or `Category:Jeep Cherokee (XJ)`. They name the exact car, so identity and generation come with the category. A `deepcat:"…" filetype:bitmap` search over one also reaches its subcategories (by colour, by country, by event).
+- **Prolific car photographers who upload under free licences.** OSX, IFCAR and Bull-Doser release into the **public domain**. Vauxford, Calreyn88, MrWalkr, Elise240SX, Kieran White, Matti Blume, Alexander Migl, Damian B Oh, Charles01, Sicnag, dave_7, Riley from Christchurch, Greg Gjerdingen and Niels de Wit use CC BY / CC BY-SA. Their uploads are typically sharp three-quarter views with careful categorisation.
+- **Car-show photo projects**: Wikimedia Deutschland-supported sets from Techno-Classica, Classic Days, IAA, GIMS, Essen Motor Show and Retro Classics. They are well-lit and well-labelled. Watch for placards and show signs, though.
+- **Flickr imports** (CC BY 2.0 / CC BY-SA 2.0) from enthusiasts in New Zealand, Australia and Canada: lots of everyday street parking and classic-car meets.
+- **Avoid**: categories for racing, autocross, tuning and replicas. Race numbers, liveries and body kits hide the car, and replicas aren't the real model.
+
+Finding the right category name is the slow part. `scripts/_catfind.ts`-style category searches (`list=search&srnamespace=14`) turn a free-text name like "Ford F-150 thirteenth generation" into the real category.
+
+**Yield.** Expect 4–8 approved photos per 15-image contact sheet. Most rejections are a legible model name: grille or boot scripts, door decals, model-name plates, snorkel lettering, etched glass ("quattro") or show placards. Others are rejected because a second car from the game is prominent in the frame. Some cars almost always wear their name (a Range Rover's bonnet lettering, the Challenger's grille script), so they end up with few photos.
+
 ### Adding verified photos
 
 1. **Find** candidates on Commons (categories by model/generation work well). `npx tsx scripts/explore-category.ts "Category:Mazda MX-5 (NA)" tmp-explore` builds a numbered contact sheet.

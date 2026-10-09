@@ -12822,6 +12822,2496 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (p1800 #13); Commons category: Volvo P1800 ES. CC BY-SA 4.0 by Ermell."
       }
+    },
+    {
+      "id": "ford-f150-13g-03",
+      "file": "File:2018 Ford F-150 Raptor Super Crew Cab in Lead Foot, front right.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Ford_F-150_Raptor_Super_Crew_Cab_in_Lead_Foot,_front_right.jpg",
+        "https://commons.wikimedia.org/wiki/Category:2018_Ford_trucks",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f150b #0); Commons category: 2018 Ford trucks. CC BY-SA 3.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "ford-f150-13g-04",
+      "file": "File:2019 Ford F-150 Raptor 4x4 SuperCrew 5.5' Box in Ruby Red Metallic Tinted Clearcoat, Front Left, 2024-03-08.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Ford_F-150_Raptor_4x4_SuperCrew_5.5'_Box_in_Ruby_Red_Metallic_Tinted_Clearcoat,_Front_Left,_2024-03-08.jpg",
+        "https://commons.wikimedia.org/wiki/Category:2019_Ford_trucks",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f150b #1); Commons category: 2019 Ford trucks. CC BY-SA 4.0 by Elise240SX."
+      }
+    },
+    {
+      "id": "ford-f150-13g-05",
+      "file": "File:2019 Ford F-150 XLT 4X4 Supercrew in Ruby Red Metallic, front left, 2026-06-12.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Ford_F-150_XLT_4X4_Supercrew_in_Ruby_Red_Metallic,_front_left,_2026-06-12.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"F150\" fender badge is legible at full size."
+      }
+    },
+    {
+      "id": "ford-f150-13g-06",
+      "file": "File:2016 Ford F-150 XL.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Ford_F-150_XL.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"F150\" fender badge is legible at full size."
+      }
+    },
+    {
+      "id": "ford-f150-13g-07",
+      "file": "File:2018 Ford F-150 Limited au SIAM 2018.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Ford_F-150_Limited_au_SIAM_2018.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"F150\" fender badge is legible at full size."
+      }
+    },
+    {
+      "id": "ford-f150-13g-08",
+      "file": "File:2018-20 Ford F-150 Crew Cab.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018-20_Ford_F-150_Crew_Cab.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"F150\" fender badge is legible at full size."
+      }
+    },
+    {
+      "id": "ford-f150-13g-09",
+      "file": "File:Ford F-150 Lariat FX4 2018 (42974757621).jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ford_F-150_Lariat_FX4_2018_(42974757621).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"F150\" fender badge is legible at full size."
+      }
+    },
+    {
+      "id": "ford-f150-13g-10",
+      "file": "File:Ford F-150 Raptor 3.5T 2019.jpg",
+      "vehicleId": "ford-f150-13g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ford_F-150_Raptor_3.5T_2019.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_F-150_Raptor_(P552)",
+        "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f150b #11); Commons category: Ford F-150 Raptor (P552). CC BY-SA 2.0 by RL GNZLZ."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-06",
+      "file": "File:1967 Chevrolet Camaro Convertible.jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Chevrolet_Camaro_Convertible.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(1st_generation)_convertibles",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-07",
+      "file": "File:1968 Chevrolet Camaro Convertible (48746208773).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1968_Chevrolet_Camaro_Convertible_(48746208773).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1968_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-08",
+      "file": "File:1968 Chevrolet Camaro SS Coupe (23724127822).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1968_Chevrolet_Camaro_SS_Coupe_(23724127822).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1968_Chevrolet_Camaro_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-09",
+      "file": "File:1969 Chevrolet Camaro SS (24539015311).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_SS_(24539015311).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro1b #3); Commons category: 1969 Chevrolet Camaro SS. CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-10",
+      "file": "File:1969 Chevrolet Camaro SS 396 (8505739021).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_SS_396_(8505739021).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-11",
+      "file": "File:1969 Chevrolet Camaro SS 4.jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_SS_4.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-12",
+      "file": "File:1969 Chevrolet Camaro Z28 (4936124138).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_Z28_(4936124138).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Modified_1969_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-13",
+      "file": "File:Chevrolet Camaro SS (1st generation) Classic-Gala 2021 1X7A0266.jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_SS_(1st_generation)_Classic-Gala_2021_1X7A0266.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1967_Chevrolet_Camaro_RS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-14",
+      "file": "File:Chevrolet Camaro SS (1st generation) Classic-Gala 2021 1X7A0268.jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_SS_(1st_generation)_Classic-Gala_2021_1X7A0268.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1967_Chevrolet_Camaro_RS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-15",
+      "file": "File:'67 Chevrolet Camaro (Auto classique St-Constant '12).JPG",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'67_Chevrolet_Camaro_(Auto_classique_St-Constant_'12).JPG",
+        "https://commons.wikimedia.org/wiki/Category:1967_Chevrolet_Camaro_SS",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro1b #12); Commons category: 1967 Chevrolet Camaro SS. Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-16",
+      "file": "File:'67 Chevrolet Camaro Convertible (Orange Julep).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'67_Chevrolet_Camaro_Convertible_(Orange_Julep).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(1st_generation)_convertibles",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-17",
+      "file": "File:'68 Chevrolet Camaro SS Convertible (Centropolis Laval '10).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1967,
+        "to": 1969,
+        "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'68_Chevrolet_Camaro_SS_Convertible_(Centropolis_Laval_'10).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(1st_generation)_convertibles",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-05",
+      "file": "File:1970 Dodge Challenger 340 TA - Flickr - Sicnag.jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_340_TA_-_Flickr_-_Sicnag.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_T/A_(E-body)",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chall70 #3); Commons category: Dodge Challenger T/A (E-body). CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-06",
+      "file": "File:1970 Dodge Challenger Convertible (16422612476).jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_Convertible_(16422612476).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_Convertible",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the body is legible at full size."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-07",
+      "file": "File:1970 Dodge Challenger R T (21592565401).jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T_(21592565401).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the body is legible at full size."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-08",
+      "file": "File:1970 Dodge Challenger R T (28991598454).jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T_(28991598454).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (chall70 #6); Commons category: 1970 Dodge Challenger R/T. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-09",
+      "file": "File:1970 Dodge Challenger R T (6171234768).jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T_(6171234768).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T_Convertible",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the body is legible at full size."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-10",
+      "file": "File:1970 Dodge Challenger R T 440 6 Pack (39859008033).jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T_440_6_Pack_(39859008033).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the body is legible at full size."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-11",
+      "file": "File:1970 Dodge Challenger R-T (16800739947).jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R-T_(16800739947).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the body is legible at full size."
+      }
+    },
+    {
+      "id": "dodge-challenger-1g-12",
+      "file": "File:1970 Dodge Challenger RT 383 - Flickr - Sicnag.jpg",
+      "vehicleId": "dodge-challenger-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1970,
+        "to": 1974,
+        "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_RT_383_-_Flickr_-_Sicnag.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the body is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-07",
+      "file": "File:1982 Toyota Land Cruiser FJ40 in Freeborn Red, front right.jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1982_Toyota_Land_Cruiser_FJ40_in_Freeborn_Red,_front_right.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-08",
+      "file": "File:1966 Toyota Landcruiser FJ40 Hardtop (46452076825).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1966_Toyota_Landcruiser_FJ40_Hardtop_(46452076825).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-09",
+      "file": "File:1977 Toyota FJ40 (36350153406).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1977_Toyota_FJ40_(36350153406).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-11",
+      "file": "File:1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18266116703).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18266116703).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (j40b #5); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-12",
+      "file": "File:1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18698983468).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18698983468).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (j40b #6); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-13",
+      "file": "File:1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18886773465).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18886773465).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (j40b #7); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-14",
+      "file": "File:1985 Toyota FJ45 Land Cruiser Pick-Up (34693515756).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1985_Toyota_FJ45_Land_Cruiser_Pick-Up_(34693515756).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (j40b #8); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-15",
+      "file": "File:Toyota Land Cruiser (J40) Hirschaid 2022-20220709-RM-121124.jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_(J40)_Hirschaid_2022-20220709-RM-121124.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-16",
+      "file": "File:Toyota LandCruiser (2733495457).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_LandCruiser_(2733495457).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-17",
+      "file": "File:Toyota Land Cruiser - Flickr - dave 7 (1).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_-_Flickr_-_dave_7_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-18",
+      "file": "File:ToyotaLandCruiserTruck.jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:ToyotaLandCruiserTruck.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the bonnet side is legible at full size."
+      }
+    },
+    {
+      "id": "mercedes-300sl-03",
+      "file": "File:1955 Mercedes 300SL (58190).jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1955_Mercedes_300SL_(58190).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Concours placard in front names the car (300SL Gullwing)."
+      }
+    },
+    {
+      "id": "mercedes-300sl-04",
+      "file": "File:1955 Mercedes-Benz 300SL LC25.jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL_LC25.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Concours placard in front of the car names it."
+      }
+    },
+    {
+      "id": "mercedes-300sl-05",
+      "file": "File:1955 Mercedes-Benz 300SL SP21.jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL_SP21.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #3); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "mercedes-300sl-07",
+      "file": "File:GIMS 2024, Le Grand-Saconnex (GIMS0199).jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:GIMS_2024,_Le_Grand-Saconnex_(GIMS0199).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1955_Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #6); Commons category: 1955 Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "mercedes-300sl-08",
+      "file": "File:Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A4987.jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A4987.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #8); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "mercedes-300sl-09",
+      "file": "File:Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A5007.jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A5007.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #9); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "mercedes-300sl-10",
+      "file": "File:Mille Miglia, GIMS 2019, Le Grand-Saconnex (GIMS9902).jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mille_Miglia,_GIMS_2019,_Le_Grand-Saconnex_(GIMS9902).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #12); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "mercedes-300sl-11",
+      "file": "File:Techno-Classica 2018, Essen (IMG 9924).jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9924).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #13); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "mercedes-300sl-12",
+      "file": "File:Mercedes-Benz, TC 24, Essen (TCE42993).jpg",
+      "vehicleId": "mercedes-300sl",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1954,
+        "to": 1957,
+        "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz,_TC_24,_Essen_(TCE42993).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (sl300b #14); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "ferrari-f40-03",
+      "file": "File:1989 Ferrari F40 6.jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_6.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #1); Commons category: Ferrari F40. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-f40-04",
+      "file": "File:1989 Ferrari F40 fos 25.jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_fos_25.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #3); Commons category: Ferrari F40. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-f40-06",
+      "file": "File:1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9006.jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9006.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #5); Commons category: Ferrari F40. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "ferrari-f40-07",
+      "file": "File:1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9014.jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9014.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #6); Commons category: Ferrari F40. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "ferrari-f40-09",
+      "file": "File:Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0176).jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0176).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #9); Commons category: Ferrari F40. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "ferrari-f40-10",
+      "file": "File:Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0179).jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0179).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #10); Commons category: Ferrari F40. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "ferrari-f40-11",
+      "file": "File:1990 Ferrari F40 front.jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #11); Commons category: Ferrari F40. CC0 by TTTNIS."
+      }
+    },
+    {
+      "id": "ferrari-f40-12",
+      "file": "File:90 Ferrari F-40 (6251577417).jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:90_Ferrari_F-40_(6251577417).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #12); Commons category: Ferrari F40. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "ferrari-f40-13",
+      "file": "File:Ferrari F40, TC 24, Essen (TCE43319-RR).jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ferrari_F40,_TC_24,_Essen_(TCE43319-RR).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #13); Commons category: Ferrari F40. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "ferrari-f40-14",
+      "file": "File:Red Ferrari F40.jpg",
+      "vehicleId": "ferrari-f40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1987,
+        "to": 1993,
+        "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F40.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+        "https://en.wikipedia.org/wiki/Ferrari_F40"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f40b #14); Commons category: Ferrari F40. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "lamborghini-countach-04",
+      "file": "File:1986 Lamborghini Countach 5000 QV, Bianco Polo Park white, front right.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_Lamborghini_Countach_5000_QV,_Bianco_Polo_Park_white,_front_right.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #0); Commons category: Lamborghini Countach 5000QV. CC BY-SA 3.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "lamborghini-countach-05",
+      "file": "File:1985 Lamborghini Countach 3.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1985_Lamborghini_Countach_3.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #4); Commons category: Lamborghini Countach. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "lamborghini-countach-06",
+      "file": "File:1987 Lamborghini Countach 5000QV.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Lamborghini_Countach_5000QV.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #5); Commons category: Lamborghini Countach 5000QV. CC0 by Calreyn88."
+      }
+    },
+    {
+      "id": "lamborghini-countach-07",
+      "file": "File:1988 Lamborghini Countach LP5000 QV.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_Lamborghini_Countach_LP5000_QV.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #6); Commons category: Lamborghini Countach 5000QV. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "lamborghini-countach-08",
+      "file": "File:Lamborghini Countach LP400 Periscopio (1976) Auto Zuerich 2021 IMG 0460.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LP400_Periscopio_(1976)_Auto_Zuerich_2021_IMG_0460.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_LP400",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #9); Commons category: Lamborghini Countach LP400. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "lamborghini-countach-09",
+      "file": "File:1985–1988 Lamborghini Countach 5000QV, white, front right side, Golden Super Cruise 2026-07-04.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1985–1988_Lamborghini_Countach_5000QV,_white,_front_right_side,_Golden_Super_Cruise_2026-07-04.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #11); Commons category: Lamborghini Countach 5000QV. CC BY-SA 4.0 by Xnatedawgx."
+      }
+    },
+    {
+      "id": "lamborghini-countach-10",
+      "file": "File:85 Lamborghini Countach (6252112444).jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:85_Lamborghini_Countach_(6252112444).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A museum information placard is in frame."
+      }
+    },
+    {
+      "id": "lamborghini-countach-11",
+      "file": "File:Lamborghini Countach 25th Anniversary 2.JPG",
+      "vehicleId": "lamborghini-countach",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_25th_Anniversary_2.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_25th_Anniversary",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #13); Commons category: Lamborghini Countach 25th Anniversary. CC0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "lamborghini-countach-12",
+      "file": "File:Lamborghini Countach 25th Anniversary IMG 2994.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_25th_Anniversary_IMG_2994.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_25th_Anniversary",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (countach2 #14); Commons category: Lamborghini Countach 25th Anniversary. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-03",
+      "file": "File:The frontview of Ford Mustang MY1965 at night.JPG",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:The_frontview_of_Ford_Mustang_MY1965_at_night.JPG",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_hardtop",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mustang65 #0); Commons category: 1965 Ford Mustang hardtop. CC0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-04",
+      "file": "File:1965 Ford Mustang (17238101976).jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_(17238101976).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_hardtop",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mustang65 #1); Commons category: 1965 Ford Mustang hardtop. CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-05",
+      "file": "File:1965 Ford Mustang (37222551074).jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_(37222551074).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_hardtop",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mustang65 #2); Commons category: 1965 Ford Mustang hardtop. CC BY 2.0 by Riley from Christchurch, New Zealand."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-06",
+      "file": "File:1965 Ford Mustang 2.jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_fastback",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Mustang\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-07",
+      "file": "File:1965 Ford Mustang 4.7L V8 2.jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_4.7L_V8_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_fastback",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mustang65 #7); Commons category: 1965 Ford Mustang fastback. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-08",
+      "file": "File:1965 Ford Mustang 4.8L white.jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_4.8L_white.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (mustang65 #8); Commons category: 1965 Ford Mustang. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-09",
+      "file": "File:1965 Ford Mustang Convertible (15865180652).jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_Convertible_(15865180652).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_convertible",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Mustang\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "ford-mustang-1g-10",
+      "file": "File:1965 Ford Mustang Fastback (15595256971) (cropped).jpg",
+      "vehicleId": "ford-mustang-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1964,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_Fastback_(15595256971)_(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_fastback",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Mustang\" fender script is legible at full size."
+      }
+    },
+    {
+      "id": "vw-type2-t1-03",
+      "file": "File:VW Bus T1 ADAC Deutschland Klassik 2018 6290484.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:VW_Bus_T1_ADAC_Deutschland_Klassik_2018_6290484.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #1); Commons category: Volkswagen T1. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "vw-type2-t1-04",
+      "file": "File:Volkswagen T1 Kombi Kulmbch 2022-20220626-RM-114307.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Kombi_Kulmbch_2022-20220626-RM-114307.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_Kombi",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #6); Commons category: Volkswagen T1 Kombi. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "vw-type2-t1-05",
+      "file": "File:Volkswagen T1 Kombi Kulmbch 2022-20220626-RM-114310-2.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Kombi_Kulmbch_2022-20220626-RM-114310-2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_Kombi",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Near-duplicate of vw-type2-t1-04 (same van, same road, seconds apart)."
+      }
+    },
+    {
+      "id": "vw-type2-t1-06",
+      "file": "File:At Vienna 2025 157 - Volkswagen Type 2.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:At_Vienna_2025_157_-_Volkswagen_Type_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #9); Commons category: Volkswagen T1. CC BY-SA 4.0 by Photograph by Mike Peel (www.mikepeel.net).."
+      }
+    },
+    {
+      "id": "vw-type2-t1-07",
+      "file": "File:1961er (?) Volkswagen Transporter T bei der Rhodo 2023.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1961er_(?)_Volkswagen_Transporter_T_bei_der_Rhodo_2023.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_pickup",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #10); Commons category: Volkswagen T1 pickup. CC BY-SA 4.0 by JoachimKohler-HB."
+      }
+    },
+    {
+      "id": "vw-type2-t1-08",
+      "file": "File:At Brighton 2025 072 - Volkswagen T1.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:At_Brighton_2025_072_-_Volkswagen_T1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #12); Commons category: Volkswagen T1. CC BY-SA 4.0 by Photograph by Mike Peel (www.mikepeel.net).."
+      }
+    },
+    {
+      "id": "vw-type2-t1-09",
+      "file": "File:At Brighton 2025 073 - Volkswagen T1.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:At_Brighton_2025_073_-_Volkswagen_T1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #13); Commons category: Volkswagen T1. CC BY-SA 4.0 by Photograph by Mike Peel (www.mikepeel.net).."
+      }
+    },
+    {
+      "id": "vw-type2-t1-10",
+      "file": "File:Volkswagen T1 Bus in Leeuwarden (2023).jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Bus_in_Leeuwarden_(2023).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_buses",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (t1b #14); Commons category: Volkswagen T1 buses. CC BY-SA 4.0 by JoachimKohler-HB."
+      }
     }
   ]
 }

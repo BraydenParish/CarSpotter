@@ -1755,6 +1755,96 @@
     }
   },
   {
+    "id": "chevrolet-camaro-1g-09",
+    "vehicleId": "chevrolet-camaro-1g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-1g-09.webp",
+    "imageSmall": "photos/chevrolet-camaro-1g-09-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1969,
+      "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_SS_(24539015311).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1969 Chevrolet Camaro SS (24539015311).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_SS_(24539015311).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1969_Chevrolet_Camaro_SS_%2824539015311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1969 Chevrolet Camaro SS (24539015311).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1969 Chevrolet Camaro SS)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro1b #3); Commons category: 1969 Chevrolet Camaro SS. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-1g-15",
+    "vehicleId": "chevrolet-camaro-1g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-1g-15.webp",
+    "imageSmall": "photos/chevrolet-camaro-1g-15-sm.webp",
+    "width": 1600,
+    "height": 1063,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1967,
+      "to": 1969,
+      "basis": "No feature visible in the photo separates years within the 1967–1969 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'67_Chevrolet_Camaro_(Auto_classique_St-Constant_'12).JPG",
+      "https://commons.wikimedia.org/wiki/Category:1967_Chevrolet_Camaro_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+    ],
+    "source": {
+      "title": "File:'67 Chevrolet Camaro (Auto classique St-Constant '12).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2767_Chevrolet_Camaro_(Auto_classique_St-Constant_%2712).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/%2767_Chevrolet_Camaro_%28Auto_classique_St-Constant_%2712%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'67 Chevrolet Camaro (Auto classique St-Constant '12).JPG” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro1b #12); Commons category: 1967 Chevrolet Camaro SS. Public domain by Bull-Doser."
+    }
+  },
+  {
     "id": "chevrolet-camaro-6g-01",
     "vehicleId": "chevrolet-camaro-6g",
     "kind": "full",
@@ -3526,6 +3616,96 @@
     }
   },
   {
+    "id": "dodge-challenger-1g-05",
+    "vehicleId": "dodge-challenger-1g",
+    "kind": "full",
+    "image": "photos/dodge-challenger-1g-05.webp",
+    "imageSmall": "photos/dodge-challenger-1g-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_340_TA_-_Flickr_-_Sicnag.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_T/A_(E-body)",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:1970 Dodge Challenger 340 TA - Flickr - Sicnag.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_340_TA_-_Flickr_-_Sicnag.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/1970_Dodge_Challenger_340_TA_-_Flickr_-_Sicnag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Dodge Challenger 340 TA - Flickr - Sicnag.jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1970 Dodge Challenger 340 TA)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chall70 #3); Commons category: Dodge Challenger T/A (E-body). CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "dodge-challenger-1g-08",
+    "vehicleId": "dodge-challenger-1g",
+    "kind": "full",
+    "image": "photos/dodge-challenger-1g-08.webp",
+    "imageSmall": "photos/dodge-challenger-1g-08-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1970,
+      "to": 1974,
+      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T_(28991598454).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:1970 Dodge Challenger R T (28991598454).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_R_T_(28991598454).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/1970_Dodge_Challenger_R_T_%2828991598454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Dodge Challenger R T (28991598454).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1970 Dodge Challenger R/T)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chall70 #6); Commons category: 1970 Dodge Challenger R/T. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
     "id": "dodge-challenger-lc-01",
     "vehicleId": "dodge-challenger-lc",
     "kind": "full",
@@ -4246,6 +4426,456 @@
     }
   },
   {
+    "id": "ferrari-f40-03",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-03.webp",
+    "imageSmall": "photos/ferrari-f40-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_6.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1989 Ferrari F40 6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_6.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/1989_Ferrari_F40_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Ferrari F40 6.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #1); Commons category: Ferrari F40. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-f40-04",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-04.webp",
+    "imageSmall": "photos/ferrari-f40-04-sm.webp",
+    "width": 1600,
+    "height": 1030,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_fos_25.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1989 Ferrari F40 fos 25.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_fos_25.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/1989_Ferrari_F40_fos_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Ferrari F40 fos 25.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #3); Commons category: Ferrari F40. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-f40-06",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-06.webp",
+    "imageSmall": "photos/ferrari-f40-06-sm.webp",
+    "width": 1600,
+    "height": 1069,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9006.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9006.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9006.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9006.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #5); Commons category: Ferrari F40. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "ferrari-f40-07",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-07.webp",
+    "imageSmall": "photos/ferrari-f40-07-sm.webp",
+    "width": 1600,
+    "height": 827,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9014.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9014.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9014.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/1989_Ferrari_F40_Paul_Pietsch_Classic_2025_DSC_9014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9014.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #6); Commons category: Ferrari F40. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "ferrari-f40-09",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-09.webp",
+    "imageSmall": "photos/ferrari-f40-09-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0176).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0176).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0176).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Classic_Gallery%2C_GIMS_2024%2C_Le_Grand-Saconnex_%28GIMS0176%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0176).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #9); Commons category: Ferrari F40. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "ferrari-f40-10",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-10.webp",
+    "imageSmall": "photos/ferrari-f40-10-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0179).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0179).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0179).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Classic_Gallery%2C_GIMS_2024%2C_Le_Grand-Saconnex_%28GIMS0179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0179).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #10); Commons category: Ferrari F40. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "ferrari-f40-11",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-11.webp",
+    "imageSmall": "photos/ferrari-f40-11-sm.webp",
+    "width": 1600,
+    "height": 630,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:1990 Ferrari F40 front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/1990_Ferrari_F40_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "TTTNIS",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1990 Ferrari F40 front.jpg” by TTTNIS, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #11); Commons category: Ferrari F40. CC0 by TTTNIS."
+    }
+  },
+  {
+    "id": "ferrari-f40-12",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-12.webp",
+    "imageSmall": "photos/ferrari-f40-12-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:90_Ferrari_F-40_(6251577417).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:90 Ferrari F-40 (6251577417).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:90_Ferrari_F-40_(6251577417).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/90_Ferrari_F-40_%286251577417%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“90 Ferrari F-40 (6251577417).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (90 Ferrari F-40)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #12); Commons category: Ferrari F40. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "ferrari-f40-13",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-13.webp",
+    "imageSmall": "photos/ferrari-f40-13-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ferrari_F40,_TC_24,_Essen_(TCE43319-RR).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:Ferrari F40, TC 24, Essen (TCE43319-RR).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_F40,_TC_24,_Essen_(TCE43319-RR).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ferrari_F40%2C_TC_24%2C_Essen_%28TCE43319-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Ferrari F40, TC 24, Essen (TCE43319-RR).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #13); Commons category: Ferrari F40. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "ferrari-f40-14",
+    "vehicleId": "ferrari-f40",
+    "kind": "full",
+    "image": "photos/ferrari-f40-14.webp",
+    "imageSmall": "photos/ferrari-f40-14-sm.webp",
+    "width": 1600,
+    "height": 895,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1987,
+      "to": 1993,
+      "basis": "No feature visible in the photo separates years within the 1987–1993 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F40.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_F40",
+      "https://en.wikipedia.org/wiki/Ferrari_F40"
+    ],
+    "source": {
+      "title": "File:Red Ferrari F40.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Red_Ferrari_F40.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Red_Ferrari_F40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Red Ferrari F40.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f40b #14); Commons category: Ferrari F40. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
     "id": "ferrari-testarossa-01",
     "vehicleId": "ferrari-testarossa",
     "kind": "full",
@@ -4656,6 +5286,141 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: black 500 being driven, front."
+    }
+  },
+  {
+    "id": "ford-f150-13g-03",
+    "vehicleId": "ford-f150-13g",
+    "kind": "full",
+    "image": "photos/ford-f150-13g-03.webp",
+    "imageSmall": "photos/ford-f150-13g-03-sm.webp",
+    "width": 1600,
+    "height": 946,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Ford_F-150_Raptor_Super_Crew_Cab_in_Lead_Foot,_front_right.jpg",
+      "https://commons.wikimedia.org/wiki/Category:2018_Ford_trucks",
+      "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+    ],
+    "source": {
+      "title": "File:2018 Ford F-150 Raptor Super Crew Cab in Lead Foot, front right.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Ford_F-150_Raptor_Super_Crew_Cab_in_Lead_Foot,_front_right.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/2018_Ford_F-150_Raptor_Super_Crew_Cab_in_Lead_Foot%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“2018 Ford F-150 Raptor Super Crew Cab in Lead Foot, front right.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f150b #0); Commons category: 2018 Ford trucks. CC BY-SA 3.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "ford-f150-13g-04",
+    "vehicleId": "ford-f150-13g",
+    "kind": "full",
+    "image": "photos/ford-f150-13g-04.webp",
+    "imageSmall": "photos/ford-f150-13g-04-sm.webp",
+    "width": 1600,
+    "height": 968,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Ford_F-150_Raptor_4x4_SuperCrew_5.5'_Box_in_Ruby_Red_Metallic_Tinted_Clearcoat,_Front_Left,_2024-03-08.jpg",
+      "https://commons.wikimedia.org/wiki/Category:2019_Ford_trucks",
+      "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+    ],
+    "source": {
+      "title": "File:2019 Ford F-150 Raptor 4x4 SuperCrew 5.5' Box in Ruby Red Metallic Tinted Clearcoat, Front Left, 2024-03-08.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Ford_F-150_Raptor_4x4_SuperCrew_5.5%27_Box_in_Ruby_Red_Metallic_Tinted_Clearcoat,_Front_Left,_2024-03-08.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2019_Ford_F-150_Raptor_4x4_SuperCrew_5.5%27_Box_in_Ruby_Red_Metallic_Tinted_Clearcoat%2C_Front_Left%2C_2024-03-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Ford F-150 Raptor 4x4 SuperCrew 5.5' Box in Ruby Red Metallic Tinted Clearcoat, Front Left, 2024-03-08.jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f150b #1); Commons category: 2019 Ford trucks. CC BY-SA 4.0 by Elise240SX."
+    }
+  },
+  {
+    "id": "ford-f150-13g-10",
+    "vehicleId": "ford-f150-13g",
+    "kind": "full",
+    "image": "photos/ford-f150-13g-10.webp",
+    "imageSmall": "photos/ford-f150-13g-10-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2015–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_F-150_Raptor_3.5T_2019.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_F-150_Raptor_(P552)",
+      "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+    ],
+    "source": {
+      "title": "File:Ford F-150 Raptor 3.5T 2019.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_F-150_Raptor_3.5T_2019.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ford_F-150_Raptor_3.5T_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "RL GNZLZ",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Ford F-150 Raptor 3.5T 2019.jpg” by RL GNZLZ, CC BY-SA 2.0, via Wikimedia Commons (https://www.flickr.com/photos/juanelo242a/48458678996/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f150b #11); Commons category: Ford F-150 Raptor (P552). CC BY-SA 2.0 by RL GNZLZ."
     }
   },
   {
@@ -5286,6 +6051,231 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: convertible at a diner meet."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-03",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-03.webp",
+    "imageSmall": "photos/ford-mustang-1g-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:The_frontview_of_Ford_Mustang_MY1965_at_night.JPG",
+      "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_hardtop",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:The frontview of Ford Mustang MY1965 at night.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_frontview_of_Ford_Mustang_MY1965_at_night.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_frontview_of_Ford_Mustang_MY1965_at_night.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“The frontview of Ford Mustang MY1965 at night.JPG” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mustang65 #0); Commons category: 1965 Ford Mustang hardtop. CC0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-04",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-04.webp",
+    "imageSmall": "photos/ford-mustang-1g-04-sm.webp",
+    "width": 1600,
+    "height": 1057,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_(17238101976).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_hardtop",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1965 Ford Mustang (17238101976).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_(17238101976).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1965_Ford_Mustang_%2817238101976%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1965 Ford Mustang (17238101976).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1965 Ford Mustang)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mustang65 #1); Commons category: 1965 Ford Mustang hardtop. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-05",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-05.webp",
+    "imageSmall": "photos/ford-mustang-1g-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_(37222551074).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_hardtop",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1965 Ford Mustang (37222551074).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_(37222551074).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1965_Ford_Mustang_%2837222551074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Riley from Christchurch, New Zealand",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1965 Ford Mustang (37222551074).jpg” by Riley from Christchurch, New Zealand, CC BY 2.0, via Wikimedia Commons (1965 Ford Mustang)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mustang65 #2); Commons category: 1965 Ford Mustang hardtop. CC BY 2.0 by Riley from Christchurch, New Zealand."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-07",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-07.webp",
+    "imageSmall": "photos/ford-mustang-1g-07-sm.webp",
+    "width": 1600,
+    "height": 949,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_4.7L_V8_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang_fastback",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1965 Ford Mustang 4.7L V8 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_4.7L_V8_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/1965_Ford_Mustang_4.7L_V8_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1965 Ford Mustang 4.7L V8 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mustang65 #7); Commons category: 1965 Ford Mustang fastback. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ford-mustang-1g-08",
+    "vehicleId": "ford-mustang-1g",
+    "kind": "full",
+    "image": "photos/ford-mustang-1g-08.webp",
+    "imageSmall": "photos/ford-mustang-1g-08-sm.webp",
+    "width": 1600,
+    "height": 1088,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1964,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1964–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_4.8L_white.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1965_Ford_Mustang",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1965 Ford Mustang 4.8L white.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_4.8L_white.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/1965_Ford_Mustang_4.8L_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1965 Ford Mustang 4.8L white.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (mustang65 #8); Commons category: 1965 Ford Mustang. CC BY-SA 4.0 by Calreyn88."
     }
   },
   {
@@ -7007,6 +7997,366 @@
     }
   },
   {
+    "id": "lamborghini-countach-04",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-04.webp",
+    "imageSmall": "photos/lamborghini-countach-04-sm.webp",
+    "width": 1600,
+    "height": 968,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1986_Lamborghini_Countach_5000_QV,_Bianco_Polo_Park_white,_front_right.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1986 Lamborghini Countach 5000 QV, Bianco Polo Park white, front right.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1986_Lamborghini_Countach_5000_QV,_Bianco_Polo_Park_white,_front_right.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/1986_Lamborghini_Countach_5000_QV%2C_Bianco_Polo_Park_white%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1986 Lamborghini Countach 5000 QV, Bianco Polo Park white, front right.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #0); Commons category: Lamborghini Countach 5000QV. CC BY-SA 3.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "lamborghini-countach-05",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-05.webp",
+    "imageSmall": "photos/lamborghini-countach-05-sm.webp",
+    "width": 1600,
+    "height": 803,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1985_Lamborghini_Countach_3.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1985 Lamborghini Countach 3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1985_Lamborghini_Countach_3.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/1985_Lamborghini_Countach_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1985 Lamborghini Countach 3.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #4); Commons category: Lamborghini Countach. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lamborghini-countach-06",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-06.webp",
+    "imageSmall": "photos/lamborghini-countach-06-sm.webp",
+    "width": 1600,
+    "height": 982,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1987_Lamborghini_Countach_5000QV.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1987 Lamborghini Countach 5000QV.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1987_Lamborghini_Countach_5000QV.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1987_Lamborghini_Countach_5000QV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1987 Lamborghini Countach 5000QV.jpg” by Calreyn88, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #5); Commons category: Lamborghini Countach 5000QV. CC0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lamborghini-countach-07",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-07.webp",
+    "imageSmall": "photos/lamborghini-countach-07-sm.webp",
+    "width": 1600,
+    "height": 983,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1988_Lamborghini_Countach_LP5000_QV.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1988 Lamborghini Countach LP5000 QV.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Lamborghini_Countach_LP5000_QV.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1988_Lamborghini_Countach_LP5000_QV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1988 Lamborghini Countach LP5000 QV.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #6); Commons category: Lamborghini Countach 5000QV. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "lamborghini-countach-08",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-08.webp",
+    "imageSmall": "photos/lamborghini-countach-08-sm.webp",
+    "width": 1600,
+    "height": 798,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LP400_Periscopio_(1976)_Auto_Zuerich_2021_IMG_0460.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_LP400",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:Lamborghini Countach LP400 Periscopio (1976) Auto Zuerich 2021 IMG 0460.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LP400_Periscopio_(1976)_Auto_Zuerich_2021_IMG_0460.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lamborghini_Countach_LP400_Periscopio_%281976%29_Auto_Zuerich_2021_IMG_0460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Countach LP400 Periscopio (1976) Auto Zuerich 2021 IMG 0460.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #9); Commons category: Lamborghini Countach LP400. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "lamborghini-countach-09",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-09.webp",
+    "imageSmall": "photos/lamborghini-countach-09-sm.webp",
+    "width": 1600,
+    "height": 1053,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1985–1988_Lamborghini_Countach_5000QV,_white,_front_right_side,_Golden_Super_Cruise_2026-07-04.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_5000QV",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1985–1988 Lamborghini Countach 5000QV, white, front right side, Golden Super Cruise 2026-07-04.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1985%E2%80%931988_Lamborghini_Countach_5000QV,_white,_front_right_side,_Golden_Super_Cruise_2026-07-04.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/1985%E2%80%931988_Lamborghini_Countach_5000QV%2C_white%2C_front_right_side%2C_Golden_Super_Cruise_2026-07-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Xnatedawgx",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1985–1988 Lamborghini Countach 5000QV, white, front right side, Golden Super Cruise 2026-07-04.jpg” by Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #11); Commons category: Lamborghini Countach 5000QV. CC BY-SA 4.0 by Xnatedawgx."
+    }
+  },
+  {
+    "id": "lamborghini-countach-11",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-11.webp",
+    "imageSmall": "photos/lamborghini-countach-11-sm.webp",
+    "width": 1280,
+    "height": 960,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_25th_Anniversary_2.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_25th_Anniversary",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:Lamborghini Countach 25th Anniversary 2.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_25th_Anniversary_2.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lamborghini_Countach_25th_Anniversary_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Lamborghini Countach 25th Anniversary 2.JPG” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #13); Commons category: Lamborghini Countach 25th Anniversary. CC0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "lamborghini-countach-12",
+    "vehicleId": "lamborghini-countach",
+    "kind": "full",
+    "image": "photos/lamborghini-countach-12.webp",
+    "imageSmall": "photos/lamborghini-countach-12-sm.webp",
+    "width": 1600,
+    "height": 870,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_25th_Anniversary_IMG_2994.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach_25th_Anniversary",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:Lamborghini Countach 25th Anniversary IMG 2994.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_25th_Anniversary_IMG_2994.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lamborghini_Countach_25th_Anniversary_IMG_2994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Lamborghini Countach 25th Anniversary IMG 2994.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (countach2 #14); Commons category: Lamborghini Countach 25th Anniversary. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
     "id": "lamborghini-huracan-01",
     "vehicleId": "lamborghini-huracan",
     "kind": "full",
@@ -8632,6 +9982,321 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: gullwing doors raised."
+    }
+  },
+  {
+    "id": "mercedes-300sl-05",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-05.webp",
+    "imageSmall": "photos/mercedes-300sl-05-sm.webp",
+    "width": 1600,
+    "height": 775,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL_SP21.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:1955 Mercedes-Benz 300SL SP21.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1955_Mercedes-Benz_300SL_SP21.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/1955_Mercedes-Benz_300SL_SP21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1955 Mercedes-Benz 300SL SP21.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #3); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "mercedes-300sl-07",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-07.webp",
+    "imageSmall": "photos/mercedes-300sl-07-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:GIMS_2024,_Le_Grand-Saconnex_(GIMS0199).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1955_Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:GIMS 2024, Le Grand-Saconnex (GIMS0199).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:GIMS_2024,_Le_Grand-Saconnex_(GIMS0199).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/GIMS_2024%2C_Le_Grand-Saconnex_%28GIMS0199%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“GIMS 2024, Le Grand-Saconnex (GIMS0199).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #6); Commons category: 1955 Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "mercedes-300sl-08",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-08.webp",
+    "imageSmall": "photos/mercedes-300sl-08-sm.webp",
+    "width": 1600,
+    "height": 729,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A4987.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A4987.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A4987.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A4987.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A4987.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #8); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "mercedes-300sl-09",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-09.webp",
+    "imageSmall": "photos/mercedes-300sl-09-sm.webp",
+    "width": 1600,
+    "height": 775,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A5007.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A5007.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A5007.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A5007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A5007.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #9); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "mercedes-300sl-10",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-10.webp",
+    "imageSmall": "photos/mercedes-300sl-10-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mille_Miglia,_GIMS_2019,_Le_Grand-Saconnex_(GIMS9902).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:Mille Miglia, GIMS 2019, Le Grand-Saconnex (GIMS9902).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mille_Miglia,_GIMS_2019,_Le_Grand-Saconnex_(GIMS9902).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mille_Miglia%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS9902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Mille Miglia, GIMS 2019, Le Grand-Saconnex (GIMS9902).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #12); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "mercedes-300sl-11",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-11.webp",
+    "imageSmall": "photos/mercedes-300sl-11-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9924).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:Techno-Classica 2018, Essen (IMG 9924).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9924).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Techno-Classica_2018%2C_Essen_%28IMG_9924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Techno-Classica 2018, Essen (IMG 9924).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #13); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "mercedes-300sl-12",
+    "vehicleId": "mercedes-300sl",
+    "kind": "full",
+    "image": "photos/mercedes-300sl-12.webp",
+    "imageSmall": "photos/mercedes-300sl-12-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1954,
+      "to": 1957,
+      "basis": "No feature visible in the photo separates years within the 1954–1957 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mercedes-Benz,_TC_24,_Essen_(TCE42993).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W198_300_SL_Gullwing",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    ],
+    "source": {
+      "title": "File:Mercedes-Benz, TC 24, Essen (TCE42993).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz,_TC_24,_Essen_(TCE42993).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mercedes-Benz%2C_TC_24%2C_Essen_%28TCE42993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Mercedes-Benz, TC 24, Essen (TCE42993).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (sl300b #14); Commons category: Mercedes-Benz W198 300 SL Gullwing. CC BY-SA 4.0 by Matti Blume."
     }
   },
   {
@@ -14075,6 +15740,186 @@
     }
   },
   {
+    "id": "toyota-land-cruiser-j40-11",
+    "vehicleId": "toyota-land-cruiser-j40",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j40-11.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j40-11-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1960,
+      "to": 1984,
+      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18266116703).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    ],
+    "source": {
+      "title": "File:1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18266116703).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18266116703).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1983_Toyota_Land_Cruiser_%28FJ45_or_HJ47%29_utility_%2818266116703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18266116703).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1983 Toyota Landcruiser HJ47 (or FJ45!))",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (j40b #5); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j40-12",
+    "vehicleId": "toyota-land-cruiser-j40",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j40-12.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j40-12-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1960,
+      "to": 1984,
+      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18698983468).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    ],
+    "source": {
+      "title": "File:1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18698983468).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18698983468).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/1983_Toyota_Land_Cruiser_%28FJ45_or_HJ47%29_utility_%2818698983468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18698983468).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1983 Toyota Landcruiser HJ47 (or FJ45!))",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (j40b #6); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j40-13",
+    "vehicleId": "toyota-land-cruiser-j40",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j40-13.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j40-13-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1960,
+      "to": 1984,
+      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18886773465).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    ],
+    "source": {
+      "title": "File:1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18886773465).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1983_Toyota_Land_Cruiser_(FJ45_or_HJ47)_utility_(18886773465).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/1983_Toyota_Land_Cruiser_%28FJ45_or_HJ47%29_utility_%2818886773465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1983 Toyota Land Cruiser (FJ45 or HJ47) utility (18886773465).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (1983 Toyota Landcruiser HJ47 (or FJ45!))",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (j40b #7); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Jeremy from Sydney, Australia."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j40-14",
+    "vehicleId": "toyota-land-cruiser-j40",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j40-14.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j40-14-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1960,
+      "to": 1984,
+      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1985_Toyota_FJ45_Land_Cruiser_Pick-Up_(34693515756).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)_pickup_trucks",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    ],
+    "source": {
+      "title": "File:1985 Toyota FJ45 Land Cruiser Pick-Up (34693515756).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1985_Toyota_FJ45_Land_Cruiser_Pick-Up_(34693515756).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/1985_Toyota_FJ45_Land_Cruiser_Pick-Up_%2834693515756%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1985 Toyota FJ45 Land Cruiser Pick-Up (34693515756).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1985 Toyota FJ45 Land Cruiser Pick-Up)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (j40b #8); Commons category: Toyota Land Cruiser (J40) pickup trucks. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
     "id": "toyota-land-cruiser-j70-01",
     "vehicleId": "toyota-land-cruiser-j70",
     "kind": "full",
@@ -15949,6 +17794,321 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: yellow T1 panel van with split windscreen."
+    }
+  },
+  {
+    "id": "vw-type2-t1-03",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-03.webp",
+    "imageSmall": "photos/vw-type2-t1-03-sm.webp",
+    "width": 1600,
+    "height": 1241,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:VW_Bus_T1_ADAC_Deutschland_Klassik_2018_6290484.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:VW Bus T1 ADAC Deutschland Klassik 2018 6290484.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VW_Bus_T1_ADAC_Deutschland_Klassik_2018_6290484.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/VW_Bus_T1_ADAC_Deutschland_Klassik_2018_6290484.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“VW Bus T1 ADAC Deutschland Klassik 2018 6290484.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #1); Commons category: Volkswagen T1. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "vw-type2-t1-04",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-04.webp",
+    "imageSmall": "photos/vw-type2-t1-04-sm.webp",
+    "width": 1600,
+    "height": 1122,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Kombi_Kulmbch_2022-20220626-RM-114307.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_Kombi",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen T1 Kombi Kulmbch 2022-20220626-RM-114307.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Kombi_Kulmbch_2022-20220626-RM-114307.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Volkswagen_T1_Kombi_Kulmbch_2022-20220626-RM-114307.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Volkswagen T1 Kombi Kulmbch 2022-20220626-RM-114307.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #6); Commons category: Volkswagen T1 Kombi. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "vw-type2-t1-06",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-06.webp",
+    "imageSmall": "photos/vw-type2-t1-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:At_Vienna_2025_157_-_Volkswagen_Type_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:At Vienna 2025 157 - Volkswagen Type 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:At_Vienna_2025_157_-_Volkswagen_Type_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/At_Vienna_2025_157_-_Volkswagen_Type_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“At Vienna 2025 157 - Volkswagen Type 2.jpg” by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #9); Commons category: Volkswagen T1. CC BY-SA 4.0 by Photograph by Mike Peel (www.mikepeel.net).."
+    }
+  },
+  {
+    "id": "vw-type2-t1-07",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-07.webp",
+    "imageSmall": "photos/vw-type2-t1-07-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1961er_(?)_Volkswagen_Transporter_T_bei_der_Rhodo_2023.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_pickup",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:1961er (?) Volkswagen Transporter T bei der Rhodo 2023.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1961er_(%3F)_Volkswagen_Transporter_T_bei_der_Rhodo_2023.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1961er_%28%3F%29_Volkswagen_Transporter_T_bei_der_Rhodo_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "JoachimKohler-HB",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1961er (?) Volkswagen Transporter T bei der Rhodo 2023.jpg” by JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #10); Commons category: Volkswagen T1 pickup. CC BY-SA 4.0 by JoachimKohler-HB."
+    }
+  },
+  {
+    "id": "vw-type2-t1-08",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-08.webp",
+    "imageSmall": "photos/vw-type2-t1-08-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:At_Brighton_2025_072_-_Volkswagen_T1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:At Brighton 2025 072 - Volkswagen T1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:At_Brighton_2025_072_-_Volkswagen_T1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/At_Brighton_2025_072_-_Volkswagen_T1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“At Brighton 2025 072 - Volkswagen T1.jpg” by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #12); Commons category: Volkswagen T1. CC BY-SA 4.0 by Photograph by Mike Peel (www.mikepeel.net).."
+    }
+  },
+  {
+    "id": "vw-type2-t1-09",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-09.webp",
+    "imageSmall": "photos/vw-type2-t1-09-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:At_Brighton_2025_073_-_Volkswagen_T1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:At Brighton 2025 073 - Volkswagen T1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:At_Brighton_2025_073_-_Volkswagen_T1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/At_Brighton_2025_073_-_Volkswagen_T1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“At Brighton 2025 073 - Volkswagen T1.jpg” by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #13); Commons category: Volkswagen T1. CC BY-SA 4.0 by Photograph by Mike Peel (www.mikepeel.net).."
+    }
+  },
+  {
+    "id": "vw-type2-t1-10",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-10.webp",
+    "imageSmall": "photos/vw-type2-t1-10-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Bus_in_Leeuwarden_(2023).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_T1_buses",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen T1 Bus in Leeuwarden (2023).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Bus_in_Leeuwarden_(2023).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Volkswagen_T1_Bus_in_Leeuwarden_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "JoachimKohler-HB",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Volkswagen T1 Bus in Leeuwarden (2023).jpg” by JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (t1b #14); Commons category: Volkswagen T1 buses. CC BY-SA 4.0 by JoachimKohler-HB."
     }
   }
 ]
