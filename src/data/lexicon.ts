@@ -401,4 +401,5 @@ export const EXTRA_MODEL_NAMES: string[] = [
   'Type 34', 'Karmann Ghia Type 34', 'XK140', 'XK150', 'XK 140', 'XK 150', 'TR4', 'TR5', 'TR7', 'TR250', '100-6', 'Sprite', 'Z4', 'Z1', 'Z8', 'P1800',
   'Elise', 'Exige', 'Evora', 'Europa', '650S', '570S', '600LT', '750S', 'P1', 'Senna', 'LM002', 'Bentayga', 'Q7', 'Q8', 'R8 LMS', 'e-tron', 'Rosalie', 'T3', 'T4', 'Vanagon',
   '300ZX', '400Z', 'R33', 'R35', 'GT-R R35', 'Skyline R33', 'RX-7', 'MX-30',
+  '86', 'GT86', 'GR86', 'FR-S', 'Scion FR-S', 'Toyota 86',
 ];

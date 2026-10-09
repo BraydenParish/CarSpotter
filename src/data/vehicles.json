@@ -3283,5 +3283,126 @@
     ],
     "tip": "Rotary-engined successor to the RX-7 (2003–2012): a four-seat coupé with rear-hinged 'freestyle' back doors and no B-pillar, flared front wings with a vertical side vent, and pentagonal grille.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_RX-8"
+  },
+  {
+    "id": "subaru-brz",
+    "make": "Subaru",
+    "model": "BRZ",
+    "modelAliases": [
+      "BRZ tS",
+      "BRZ STI"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "tS",
+      "STI",
+      "Sport",
+      "Limited",
+      "Premium",
+      "S",
+      "R",
+      "GT",
+      "Eyesight"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2012,
+      2026
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Subaru's half of the jointly developed Toyota 86 twin, a front-engined 2+2 fastback built at Ōta, Gunma with a low flat-four boxer: a long bonnet with a low hexagonal Subaru grille, swept headlamps and a short tail; the second generation (ZD8) arrived for 2021–22.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_86"
+  },
+{
+    "id": "toyota-supra-a90",
+    "make": "Toyota",
+    "model": "Supra",
+    "modelAliases": [
+      "GR Supra",
+      "Supra GR",
+      "A90 Supra"
+    ],
+    "makeAliases": [
+      "Toyota Gazoo Racing",
+      "GR"
+    ],
+    "extraWords": [
+      "GR",
+      "3.0",
+      "2.0",
+      "Premium",
+      "Pro",
+      "RZ",
+      "SZ",
+      "SZ-R",
+      "A91",
+      "MT"
+    ],
+    "generation": {
+      "name": "A90",
+      "aliases": [
+        "A91",
+        "J29",
+        "J29/DB",
+        "DB",
+        "fifth generation",
+        "5th generation",
+        "5th gen",
+        "Mk5",
+        "Mk V",
+        "Mark V"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2019,
+      2026
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Fifth-generation GR Supra (2019 on), co-developed with BMW alongside the Z4 and built by Magna Steyr in Graz: a short, wide double-bubble-roof coupé with a pointed nose, slim headlamps above deep corner intakes and a ducktail.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+  },
+{
+    "id": "tesla-model-x",
+    "make": "Tesla",
+    "model": "Model X",
+    "modelAliases": [
+      "ModelX",
+      "Model X Plaid"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "P90D",
+      "P100D",
+      "90D",
+      "100D",
+      "75D",
+      "Long Range",
+      "Plaid",
+      "Dual Motor",
+      "AWD"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      2015,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "american"
+    ],
+    "tip": "Tesla's Model S-based crossover (2015–2026) with falcon-wing rear doors: a smooth, grille-less nose with a small T badge, a huge windscreen sweeping back over the front seats and a rounded, tall fastback rear.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Model_X"
   }
 ]

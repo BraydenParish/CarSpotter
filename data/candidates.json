@@ -20082,6 +20082,636 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (rx8 #13); Commons category: Mazda RX-8 (facelift). CC BY 2.0 by Michael Gil from Calgary, AB, Canada."
       }
+    },
+    {
+      "id": "subaru-brz-01",
+      "file": "File:Tuned Subaru BRZ S (ZC6) front.JPG",
+      "vehicleId": "subaru-brz",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2012–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tuned_Subaru_BRZ_S_(ZC6)_front.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Subaru_BRZ_(tuning)",
+        "https://en.wikipedia.org/wiki/Toyota_86"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (brz #2); Commons category: Subaru BRZ (tuning). CC0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "subaru-brz-02",
+      "file": "File:2023 Subaru BRZ (52808973660).jpg",
+      "vehicleId": "subaru-brz",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2012–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2023_Subaru_BRZ_(52808973660).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Subaru_BRZ_(ZD8)",
+        "https://en.wikipedia.org/wiki/Toyota_86"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (brz #3); Commons category: Subaru BRZ (ZD8). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "subaru-brz-03",
+      "file": "File:Subaru BRZ (ZD8) DSC 8496.jpg",
+      "vehicleId": "subaru-brz",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2012–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Subaru_BRZ_(ZD8)_DSC_8496.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Subaru_BRZ_(ZD8)",
+        "https://en.wikipedia.org/wiki/Toyota_86"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (brz #10); Commons category: Subaru BRZ (ZD8). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "subaru-brz-04",
+      "file": "File:2013 Subaru BRZ.jpg",
+      "vehicleId": "subaru-brz",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2012–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Subaru_BRZ.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Subaru_BRZ_(ZC6,_pre-facelift)",
+        "https://en.wikipedia.org/wiki/Toyota_86"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (brz #13); Commons category: Subaru BRZ (ZC6, pre-facelift). CC BY-SA 2.0 by Hugh Llewelyn."
+      }
+    },
+    {
+      "id": "subaru-brz-05",
+      "file": "File:Subaru BRZ 2.4 'Eyesight' 2023 (2).jpg",
+      "vehicleId": "subaru-brz",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2012–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Subaru_BRZ_2.4_'Eyesight'_2023_(2).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Subaru_BRZ_(ZD8)",
+        "https://en.wikipedia.org/wiki/Toyota_86"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (brz #14); Commons category: Subaru BRZ (ZD8). CC BY-SA 4.0 by Ethan Llamas."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-01",
+      "file": "File:Toyota GR Supra SZ (3BA-DB82-ZSRW) front.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_GR_Supra_SZ_(3BA-DB82-ZSRW)_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #0); Commons category: Toyota Supra (J29). CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-02",
+      "file": "File:2019 Toyota Supra A90 Pro Auto 1.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Toyota_Supra_A90_Pro_Auto_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #1); Commons category: Toyota Supra (J29). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-03",
+      "file": "File:Toyota Supra (J29) Leonberg 2022 1X7A0415.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Supra_(J29)_Leonberg_2022_1X7A0415.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #3); Commons category: Toyota Supra (J29). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-04",
+      "file": "File:Toyota Supra Monrepos 2019 IMG 1898.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Supra_Monrepos_2019_IMG_1898.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #4); Commons category: Toyota Supra (J29). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-05",
+      "file": "File:Toyota Supra (A90) IMG 4387.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Supra_(A90)_IMG_4387.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #9); Commons category: Toyota Supra (J29). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-06",
+      "file": "File:Toyota Supra 3.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Supra_3.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #10); Commons category: Toyota Supra (J29). CC0 by Calreyn88."
+      }
+    },
+    {
+      "id": "toyota-supra-a90-07",
+      "file": "File:2022 Toyota GR Supra 3.0 Premium Las Vegas Fall 2025.jpg",
+      "vehicleId": "toyota-supra-a90",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2019,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2019–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2022_Toyota_GR_Supra_3.0_Premium_Las_Vegas_Fall_2025.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(J29)",
+        "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (a90 #11); Commons category: Toyota Supra (J29). CC BY-SA 4.0 by TaurusEmerald."
+      }
+    },
+    {
+      "id": "tesla-model-x-01",
+      "file": "File:2017 Tesla Model X 100D in Catalina White, Front Left, 04-30-2023.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2017_Tesla_Model_X_100D_in_Catalina_White,_Front_Left,_04-30-2023.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #0); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Elise240SX."
+      }
+    },
+    {
+      "id": "tesla-model-x-02",
+      "file": "File:The frontview of Tesla MODEL X P90D.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:The_frontview_of_Tesla_MODEL_X_P90D.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #1); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "tesla-model-x-03",
+      "file": "File:2017 Tesla Model X 90D.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2017_Tesla_Model_X_90D.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #2); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "tesla-model-x-04",
+      "file": "File:Tesla Model X 100D 1X7A6736.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_100D_1X7A6736.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #6); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "tesla-model-x-05",
+      "file": "File:Tesla Model X black (2).jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_black_(2).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #8); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "tesla-model-x-06",
+      "file": "File:Tesla Model X IMG 3173.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_IMG_3173.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #9); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "tesla-model-x-07",
+      "file": "File:Tesla Model X 90D Frontansicht.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_90D_Frontansicht.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #10); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by JoachimKohler-HB."
+      }
+    },
+    {
+      "id": "tesla-model-x-08",
+      "file": "File:Tesla Model X Dual Motor AWD Pearl White Multi-Coat 01.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_Dual_Motor_AWD_Pearl_White_Multi-Coat_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #11); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Ethan Llamas."
+      }
+    },
+    {
+      "id": "tesla-model-x-09",
+      "file": "File:0 Tesla Model X (2016) 1.jpg",
+      "vehicleId": "tesla-model-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2015–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:0_Tesla_Model_X_(2016)_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Tesla_Model_X_(2016)",
+        "https://en.wikipedia.org/wiki/Tesla_Model_X"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (modelx #14); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Benespit."
+      }
     }
   ]
 }
