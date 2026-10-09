@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import type { Vehicle } from '../data/types';
 import { formatYearRange } from '../game/matching';
-import { practiceList } from '../game/progress';
+import { practiceList, topConfusions } from '../game/progress';
 import { EmptyState, Icon, Modal, PageHeader } from './components';
 import { PhotoCredit } from './Credit';
 import { CATEGORY_LABEL, DIFF_LABEL } from './Home';
@@ -78,6 +78,8 @@ export function Garage({ go }: { go: (r: Route) => void }) {
 function GarageDetail({ v, onClose }: { v: Vehicle; onClose: () => void }) {
   const { ctx, profile } = useStore();
   const g = profile.garage[v.id]!;
+  const record = profile.carStats[v.id];
+  const mixups = topConfusions(profile, ctx, v.id, 3);
   const photos = ctx.ds.photos.filter((p) => g.photos.includes(p.id));
   const first = photos[0];
   return (
@@ -106,7 +108,13 @@ function GarageDetail({ v, onClose }: { v: Vehicle; onClose: () => void }) {
       </div>
       <p className="mt-3 text-sm text-soft">
         Identified {g.count} time{g.count > 1 ? 's' : ''} · first on {new Date(g.firstAt).toLocaleDateString()} · best difficulty {DIFF_LABEL[g.best]}.
+        {record ? ` Your record: ${record.correct} of ${record.answered} right.` : ''}
       </p>
+      {mixups.length > 0 && (
+        <p className="mt-1 text-sm text-soft">
+          You’ve mistaken it for {mixups.map((m) => `${m.other}${m.times > 1 ? ` (×${m.times})` : ''}`).join(', ')}.
+        </p>
+      )}
       {v.tip && (
         <div className="mt-3 rounded-2xl bg-raised p-3.5">
           <div className="label !text-accent">Spotting tip</div>

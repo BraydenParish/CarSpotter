@@ -2,11 +2,12 @@
  * Player profile: settings, statistics, personal bests, garage, mistakes and
  * daily results. Pure update functions; persistence lives in lib/storage.
  */
-import type { Category } from '../data/types';
+import type { Category, Vehicle } from '../data/types';
 import type { GameContext } from './context';
 import { emptySeen, type SeenState } from './deck';
 import type { RoundResult, RunState } from './engine';
 import { summarize } from './engine';
+import { compact } from './matching';
 import { bestKey, DEFAULT_FILTERS, MODES, type Filters, type ModeId } from './modes';
 import type { Difficulty } from './scoring';
 
@@ -110,6 +111,10 @@ export interface Profile {
   daily: Record<string, DailyRecord>;
   dailyStreak: { current: number; best: number; lastDate: string | null };
   history: RunRecord[];
+  /** Per-car record outside practice and party: vehicle id → tally. */
+  carStats: Record<string, { answered: number; correct: number }>;
+  /** What a car was mistaken for: vehicle id → other car's "Make Model" → times. */
+  confusions: Record<string, Record<string, number>>;
 }
 
 const emptyTally = (): Tally => ({ answered: 0, correct: 0, skipped: 0, points: 0 });
@@ -142,6 +147,8 @@ export function newProfile(now: Date = new Date()): Profile {
     daily: {},
     dailyStreak: { current: 0, best: 0, lastDate: null },
     history: [],
+    carStats: {},
+    confusions: {},
   };
 }
 
@@ -164,6 +171,8 @@ export function hydrateProfile(raw: unknown): Profile {
       bestStreak: { ...base.stats.bestStreak, ...(r.stats?.bestStreak ?? {}) },
     },
     dailyStreak: { ...base.dailyStreak, ...(r.dailyStreak ?? {}) },
+    carStats: { ...(r.carStats ?? {}) },
+    confusions: { ...(r.confusions ?? {}) },
   };
 }
 
@@ -252,6 +261,15 @@ export function applyRound(p: Profile, ctx: GameContext, run: RunState, round: R
   }
   if (!correct) {
     next.mistakes = { ...p.mistakes, [vehicle.id]: { misses: (m?.misses ?? 0) + 1, lastAt: iso, practiceCorrect: 0 } };
+  }
+
+  // Per-car record and confusions (not affected by practice).
+  const cs = p.carStats[vehicle.id] ?? { answered: 0, correct: 0 };
+  next.carStats = { ...p.carStats, [vehicle.id]: { answered: cs.answered + 1, correct: cs.correct + (correct ? 1 : 0) } };
+  const mistakenFor = !correct && round.outcome !== 'skipped' ? confusedWith(ctx, vehicle, round) : null;
+  if (mistakenFor) {
+    const cur = p.confusions[vehicle.id] ?? {};
+    next.confusions = { ...p.confusions, [vehicle.id]: { ...cur, [mistakenFor]: (cur[mistakenFor] ?? 0) + 1 } };
   }
 
   // Main statistics (not affected by practice).
@@ -369,4 +387,61 @@ export function practiceList(p: Profile, ctx: GameContext): string[] {
     .filter(([id]) => ctx.ds.photos.some((ph) => ph.vehicleId === id && ph.kind === 'full'))
     .sort((a, b) => b[1].misses - a[1].misses || b[1].lastAt.localeCompare(a[1].lastAt))
     .map(([id]) => id);
+}
+
+/* ------------------------------------------------------------------ */
+/* Learning feedback: per-car record and confusions                     */
+/* ------------------------------------------------------------------ */
+
+/**
+ * The other real car a wrong answer named, as "Make Model": the picked option
+ * on Normal, or a typed make + model that exactly names another known car.
+ */
+export function confusedWith(ctx: GameContext, vehicle: Vehicle, round: RoundResult): string | null {
+  const f = round.fields;
+  if (!f) return null;
+  if (f.choice) return f.choice.correct ? null : f.choice.input || null;
+  if (!f.make || !f.model || (f.make.correct && f.model.correct)) return null;
+  const typed = compact(`${f.make.input} ${f.model.input}`);
+  if (!typed) return null;
+  const self = compact(`${vehicle.make} ${vehicle.model}`);
+  const known = [...ctx.ds.vehicles, ...ctx.lexicon].find((c) => {
+    const name = compact(`${c.make} ${c.model}`);
+    return name === typed && name !== self;
+  });
+  return known ? `${known.make} ${known.model}` : null;
+}
+
+export interface CarRecord {
+  vehicle: Vehicle;
+  answered: number;
+  correct: number;
+  accuracy: number;
+}
+
+/** Cars answered at least `min` times, lowest accuracy first. */
+export function toughestCars(p: Profile, ctx: GameContext, min = 2, limit = 5): CarRecord[] {
+  return Object.entries(p.carStats)
+    .map(([id, t]) => ({ vehicle: ctx.ds.vehicleById.get(id), ...t, accuracy: t.answered ? t.correct / t.answered : 0 }))
+    .filter((r): r is CarRecord => !!r.vehicle && r.answered >= min && r.accuracy < 1)
+    .sort((a, b) => a.accuracy - b.accuracy || b.answered - a.answered)
+    .slice(0, limit);
+}
+
+export interface Confusion {
+  vehicle: Vehicle;
+  other: string;
+  times: number;
+}
+
+/** Most frequent mix-ups across all cars (or for one car). */
+export function topConfusions(p: Profile, ctx: GameContext, vehicleId?: string, limit = 5): Confusion[] {
+  const out: Confusion[] = [];
+  for (const [id, others] of Object.entries(p.confusions)) {
+    if (vehicleId && id !== vehicleId) continue;
+    const vehicle = ctx.ds.vehicleById.get(id);
+    if (!vehicle) continue;
+    for (const [other, times] of Object.entries(others)) out.push({ vehicle, other, times });
+  }
+  return out.sort((a, b) => b.times - a.times || a.other.localeCompare(b.other)).slice(0, limit);
 }

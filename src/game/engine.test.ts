@@ -18,7 +18,7 @@ import {
   type RunState,
 } from './engine';
 import { DEFAULT_FILTERS, type RunConfig } from './modes';
-import { applyRound, applyRunEnd, newProfile, practiceList } from './progress';
+import { applyRound, applyRunEnd, hydrateProfile, newProfile, practiceList, toughestCars, topConfusions } from './progress';
 import { mulberry32 } from './rng';
 import { shareText } from './share';
 
@@ -352,5 +352,50 @@ describe('party (pass & play)', () => {
     expect(out.profile.garage).toEqual({});
     expect(out.profile.bests).toEqual({});
     expect(out.newBest).toBe(false);
+  });
+});
+
+describe('learning feedback', () => {
+  it('records each car’s record and what it was mistaken for', () => {
+    let s = start();
+    let p = newProfile();
+    s = photoLoaded(s, 10);
+    const v = s.question!.vehicle;
+    const wrong = s.question!.choices!.find((c) => !c.correct)!;
+    s = submitChoice(s, wrong.key, 500);
+    p = applyRound(p, ctx, s, s.results.at(-1)!);
+    expect(p.carStats[v.id]).toEqual({ answered: 1, correct: 0 });
+    expect(p.confusions[v.id]).toEqual({ [wrong.label]: 1 });
+    expect(topConfusions(p, ctx)[0]).toMatchObject({ other: wrong.label, times: 1 });
+    // A second, correct attempt on the same car.
+    const r2 = { ...s.results.at(-1)!, outcome: 'correct' as const, fields: { choice: { correct: true, kind: 'exact' as const, input: `${v.make} ${v.model}`, expected: '' } } };
+    p = applyRound(p, ctx, s, r2);
+    expect(p.carStats[v.id]).toEqual({ answered: 2, correct: 1 });
+    expect(toughestCars(p, ctx)[0]).toMatchObject({ answered: 2, correct: 1 });
+  });
+
+  it('records a typed answer only when it names another known car', () => {
+    let s = start({ difficulty: 'hard' });
+    let p = newProfile();
+    s = photoLoaded(s, 10);
+    const v = s.question!.vehicle;
+    const other = VEHICLES.find((x) => x.id !== v.id && x.make !== v.make)!;
+    s = submitTyped(ctx, s, { make: other.make, model: other.model }, 500);
+    p = applyRound(p, ctx, s, s.results.at(-1)!);
+    expect(p.confusions[v.id]).toEqual({ [`${other.make} ${other.model}`]: 1 });
+    let s2 = start({ difficulty: 'hard' });
+    s2 = photoLoaded(s2, 10);
+    s2 = submitTyped(ctx, s2, { make: 'Banana', model: 'Rocket' }, 500);
+    const p2 = applyRound(newProfile(), ctx, s2, s2.results.at(-1)!);
+    expect(p2.confusions).toEqual({});
+  });
+
+  it('loads older saved profiles without the new fields', () => {
+    const old = { ...newProfile() } as Record<string, unknown>;
+    delete old.carStats;
+    delete old.confusions;
+    const p = hydrateProfile(JSON.parse(JSON.stringify(old)));
+    expect(p.carStats).toEqual({});
+    expect(p.confusions).toEqual({});
   });
 });

@@ -1,5 +1,5 @@
 import { MODES, THEMES, type ModeId } from '../game/modes';
-import { dailyRecordKey, levelInfo } from '../game/progress';
+import { dailyRecordKey, levelInfo, toughestCars, topConfusions } from '../game/progress';
 import type { Difficulty } from '../game/scoring';
 import { EmptyState, PageHeader, Stat, pct } from './components';
 import { CATEGORY_LABEL, DIFF_LABEL } from './Home';
@@ -14,7 +14,9 @@ function describeBestKey(key: string) {
 }
 
 export function Stats({ go }: { go: (r: Route) => void }) {
-  const { profile } = useStore();
+  const { profile, ctx } = useStore();
+  const tough = toughestCars(profile, ctx);
+  const mixups = topConfusions(profile, ctx);
   const diffs = ['normal', 'hard', 'expert'] as Difficulty[];
   const totals = diffs.reduce(
     (a, d) => {
@@ -105,6 +107,49 @@ export function Stats({ go }: { go: (r: Route) => void }) {
                 ))}
               </div>
             </>
+          )}
+
+          {(tough.length > 0 || mixups.length > 0) && (
+            <div className="mt-8 grid gap-4 sm:grid-cols-2">
+              {tough.length > 0 && (
+                <section aria-labelledby="tough-h">
+                  <h2 id="tough-h" className="label mb-2">
+                    Toughest cars
+                  </h2>
+                  <ul className="card divide-y divide-line">
+                    {tough.map((r) => (
+                      <li key={r.vehicle.id} className="flex items-center justify-between gap-3 px-4 py-3">
+                        <span className="font-semibold">
+                          {r.vehicle.make} {r.vehicle.model}
+                        </span>
+                        <span className="text-sm text-muted tabular">
+                          {r.correct}/{r.answered} · {pct(r.accuracy)}
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                </section>
+              )}
+              {mixups.length > 0 && (
+                <section aria-labelledby="mix-h">
+                  <h2 id="mix-h" className="label mb-2">
+                    Cars you mix up
+                  </h2>
+                  <ul className="card divide-y divide-line">
+                    {mixups.map((m) => (
+                      <li key={`${m.vehicle.id}|${m.other}`} className="px-4 py-3">
+                        <div className="font-semibold">
+                          {m.vehicle.make} {m.vehicle.model}
+                        </div>
+                        <div className="text-sm text-muted">
+                          taken for {m.other} ×{m.times}
+                        </div>
+                      </li>
+                    ))}
+                  </ul>
+                </section>
+              )}
+            </div>
           )}
 
           <h2 className="label mb-2 mt-8">Personal bests</h2>
