@@ -1384,5 +1384,371 @@
     ],
     "tip": "First-generation TT (Type 8N, 1998–2006): a rounded, arch-on-arch coupé or roadster designed by J Mays and Freeman Thomas, built on the Golf Mk4 platform.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Audi_TT"
+  },
+  {
+    "id": "honda-s2000",
+    "make": "Honda",
+    "model": "S2000",
+    "modelAliases": [
+      "S 2000",
+      "S2K"
+    ],
+    "extraWords": [
+      "CR",
+      "Type S",
+      "AP1",
+      "AP2"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "Japan",
+    "years": [
+      1999,
+      2009
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Front-mid-engined two-seat roadster launched in 1999 for Honda's 50th anniversary: long bonnet, short tail and swept-back headlamps; the facelifted AP2 looks almost the same as the AP1.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Honda_S2000"
+  },
+{
+    "id": "nissan-300zx-z32",
+    "make": "Nissan",
+    "model": "300ZX",
+    "modelAliases": [
+      "300 ZX",
+      "Fairlady Z",
+      "Z32",
+      "300ZX Twin Turbo"
+    ],
+    "makeAliases": [
+      "Datsun"
+    ],
+    "extraWords": [
+      "Twin Turbo",
+      "TT",
+      "Turbo",
+      "2+2",
+      "Convertible"
+    ],
+    "generation": {
+      "name": "Z32",
+      "aliases": [
+        "Z 32",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      1989,
+      2000
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Second-generation 300ZX (Z32), driven up-market from the Z31: wide, low wedge with steeply raked, fixed headlamps and a full-width tail-light bar; sold in the US until 1996 and as the Fairlady Z in Japan.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_300ZX"
+  },
+{
+    "id": "lamborghini-huracan",
+    "make": "Lamborghini",
+    "model": "Huracán",
+    "modelAliases": [
+      "Huracan",
+      "Huracán EVO",
+      "Huracan EVO"
+    ],
+    "extraWords": [
+      "EVO",
+      "Spyder",
+      "Performante",
+      "STO",
+      "Tecnica",
+      "Sterrato",
+      "LP 610-4",
+      "LP 580-2"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2014,
+      2024
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "V10 successor to the Gallardo (2014–2024): a low, faceted wedge with hexagonal themes and Y-shaped daytime lamps, smaller and lower than the V12 Aventador.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+  },
+{
+    "id": "ferrari-458",
+    "make": "Ferrari",
+    "model": "458",
+    "modelAliases": [
+      "458 Italia",
+      "458 Spider",
+      "458 Speciale"
+    ],
+    "extraWords": [
+      "Italia",
+      "Spider",
+      "Speciale",
+      "Aperta"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2009,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Mid-engined V8 Ferrari (2009–2015) that replaced the F430: long, swept headlamps reaching back along the wings and a wide mouth with small winglets; succeeded by the 488.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_458"
+  },
+{
+    "id": "bugatti-veyron",
+    "make": "Bugatti",
+    "model": "Veyron",
+    "modelAliases": [
+      "Veyron 16.4",
+      "Veyron Grand Sport",
+      "Veyron Super Sport"
+    ],
+    "extraWords": [
+      "16.4",
+      "Grand Sport",
+      "Super Sport",
+      "Vitesse"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "France",
+    "years": [
+      2005,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Volkswagen-era Bugatti hypercar (2005–2015): rounded body, often two-tone, with the horseshoe grille and a big air scoop behind the cabin.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+  },
+{
+    "id": "dodge-viper-sr2",
+    "make": "Dodge",
+    "model": "Viper",
+    "modelAliases": [
+      "Viper GTS",
+      "Viper RT/10",
+      "Viper R/T 10"
+    ],
+    "makeAliases": [
+      "Chrysler"
+    ],
+    "extraWords": [
+      "GTS",
+      "RT/10",
+      "ACR"
+    ],
+    "generation": {
+      "name": "SR II",
+      "aliases": [
+        "SRII",
+        "SR2",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1996,
+      2002
+    ],
+    "categories": [
+      "american",
+      "sports",
+      "supercar"
+    ],
+    "tip": "Second-generation Viper (SR II, 1996–2002): long, curvy V10 sports car, sold as the double-bubble GTS coupé and the RT/10 roadster, often with twin stripes over the top.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Dodge_Viper"
+  },
+{
+    "id": "chevrolet-corvette-c3",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "modelAliases": [
+      "Corvette Stingray",
+      "Stingray",
+      "Vette"
+    ],
+    "extraWords": [
+      "Stingray",
+      "L82",
+      "L88",
+      "T-Top",
+      "Pace Car"
+    ],
+    "generation": {
+      "name": "C3",
+      "aliases": [
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "Shark"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1968,
+      1982
+    ],
+    "categories": [
+      "american",
+      "sports",
+      "classic"
+    ],
+    "tip": "Third-generation Corvette (1968–1982), patterned on the Mako Shark II concept: long, pinched 'coke-bottle' waist, pop-up headlamps and high, curved front wings.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+  },
+{
+    "id": "ford-mustang-s550",
+    "make": "Ford",
+    "model": "Mustang",
+    "modelAliases": [
+      "Mustang GT",
+      "Mustang EcoBoost"
+    ],
+    "extraWords": [
+      "GT",
+      "EcoBoost",
+      "Bullitt",
+      "Mach 1",
+      "GT350",
+      "GT500",
+      "Convertible",
+      "Fastback",
+      "5.0"
+    ],
+    "generation": {
+      "name": "Sixth generation",
+      "aliases": [
+        "S550",
+        "6th generation",
+        "6th gen",
+        "sixth gen",
+        "Mk6",
+        "S-550"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      2015,
+      2023
+    ],
+    "categories": [
+      "muscle",
+      "american"
+    ],
+    "tip": "Sixth-generation Mustang (S550, 2015–2023), the first sold globally: a wide trapezoidal grille with the running-horse badge, slim swept headlamps and three-bar tail lamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+  },
+{
+    "id": "chevrolet-camaro-6g",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "modelAliases": [
+      "Camaro SS",
+      "Camaro ZL1"
+    ],
+    "extraWords": [
+      "SS",
+      "ZL1",
+      "LT",
+      "RS",
+      "1LE",
+      "50th"
+    ],
+    "generation": {
+      "name": "Sixth generation",
+      "aliases": [
+        "6th generation",
+        "6th gen",
+        "sixth gen",
+        "Mk6",
+        "Alpha"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      2016,
+      2024
+    ],
+    "categories": [
+      "muscle",
+      "american"
+    ],
+    "tip": "Sixth-generation Camaro (2016 model year until production ended in December 2023), on GM's Alpha platform: low, slit-like glasshouse and a thin upper grille over a big lower intake.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+  },
+{
+    "id": "dodge-challenger-lc",
+    "make": "Dodge",
+    "model": "Challenger",
+    "modelAliases": [
+      "Challenger SRT",
+      "Challenger Hellcat",
+      "Hellcat"
+    ],
+    "extraWords": [
+      "SRT",
+      "SRT8",
+      "Hellcat",
+      "Scat Pack",
+      "R/T",
+      "SXT",
+      "Demon",
+      "Widebody",
+      "392"
+    ],
+    "generation": {
+      "name": "Third generation",
+      "aliases": [
+        "LC",
+        "LA",
+        "3rd generation",
+        "3rd gen",
+        "third gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      2008,
+      2023
+    ],
+    "categories": [
+      "muscle",
+      "american"
+    ],
+    "tip": "Retro full-size muscle car (2008–2023) styled after the 1970 Challenger R/T: quad round headlamps set in a wide, recessed grille, built on a shortened LX platform.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Dodge_Challenger"
   }
 ]

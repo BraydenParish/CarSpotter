@@ -393,4 +393,5 @@ export const EXTRA_MODEL_NAMES: string[] = [
   'Auris', 'Yaris', 'Camry', 'Fiesta', 'Up',
   'Range Rover Sport', 'Range Rover Velar', 'X7', 'Ariya',
   'Carisma', 'Evolution IX', 'Evo IX', 'Evolution VIII', '206', '306', '405', '309', '104', '106', '2 Series', '5 Series', 'M5', 'E36', 'E46', 'E21', 'W210', 'W201', 'A4', 'A3', 'R8', 'TT RS',
+  '350Z', 'Gallardo', 'F430', '488', '488 GTB', 'F8', 'Chiron', 'Divo', 'EB110', 'Viper SRT-10', 'Corvette C4', 'Corvette C5', 'Mustang II', 'Mach-E', 'Mustang Mach-E', 'Camaro Z28',
 ];

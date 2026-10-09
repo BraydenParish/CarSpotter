@@ -540,6 +540,231 @@
     }
   },
   {
+    "id": "bugatti-veyron-01",
+    "vehicleId": "bugatti-veyron",
+    "kind": "full",
+    "image": "photos/bugatti-veyron-01.webp",
+    "imageSmall": "photos/bugatti-veyron-01-sm.webp",
+    "width": 1600,
+    "height": 852,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2005,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_–_Frontansicht_(2),_5._April_2012,_Düsseldorf.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron_16.4_(2005–2008)",
+      "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+    ],
+    "source": {
+      "title": "File:Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(2),_5._April_2012,_D%C3%BCsseldorf.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "credit": "“Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg” by M 93, CC BY-SA 3.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (veyron #0); Commons category: Bugatti Veyron 16.4 (2005–2008). CC BY-SA 3.0 de by M 93."
+    }
+  },
+  {
+    "id": "bugatti-veyron-02",
+    "vehicleId": "bugatti-veyron",
+    "kind": "full",
+    "image": "photos/bugatti-veyron-02.webp",
+    "imageSmall": "photos/bugatti-veyron-02-sm.webp",
+    "width": 1600,
+    "height": 915,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2005,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2006_Bugatti_Veyron_Low_LC23.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron_16.4_(2005–2008)",
+      "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+    ],
+    "source": {
+      "title": "File:2006 Bugatti Veyron Low LC23.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2006_Bugatti_Veyron_Low_LC23.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/2006_Bugatti_Veyron_Low_LC23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2006 Bugatti Veyron Low LC23.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (veyron #4); Commons category: Bugatti Veyron 16.4 (2005–2008). CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "bugatti-veyron-03",
+    "vehicleId": "bugatti-veyron",
+    "kind": "full",
+    "image": "photos/bugatti-veyron-03.webp",
+    "imageSmall": "photos/bugatti-veyron-03-sm.webp",
+    "width": 1600,
+    "height": 783,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2005,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_Centenaire_Malcolm_Campbell_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron",
+      "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+    ],
+    "source": {
+      "title": "File:2009 Bugatti Veyron Centenaire Malcolm Campbell 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_Centenaire_Malcolm_Campbell_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2009_Bugatti_Veyron_Centenaire_Malcolm_Campbell_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2009 Bugatti Veyron Centenaire Malcolm Campbell 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (veyron #6); Commons category: Bugatti Veyron. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "bugatti-veyron-04",
+    "vehicleId": "bugatti-veyron",
+    "kind": "full",
+    "image": "photos/bugatti-veyron-04.webp",
+    "imageSmall": "photos/bugatti-veyron-04-sm.webp",
+    "width": 1600,
+    "height": 918,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2005,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2026_Bugatti_FKP_Hommage_USG26.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron",
+      "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+    ],
+    "source": {
+      "title": "File:2026 Bugatti FKP Hommage USG26.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2026_Bugatti_FKP_Hommage_USG26.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/2026_Bugatti_FKP_Hommage_USG26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2026 Bugatti FKP Hommage USG26.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (veyron #8); Commons category: Bugatti Veyron. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "bugatti-veyron-05",
+    "vehicleId": "bugatti-veyron",
+    "kind": "full",
+    "image": "photos/bugatti-veyron-05.webp",
+    "imageSmall": "photos/bugatti-veyron-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2005,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1221.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron_Grand_Sport",
+      "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+    ],
+    "source": {
+      "title": "File:2011-03-04 Autosalon Genf 1221.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1221.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2011-03-04_Autosalon_Genf_1221.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Norbert Aepli, Switzerland (User:Noebu)",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "credit": "“2011-03-04 Autosalon Genf 1221.JPG” by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (veyron #13); Commons category: Bugatti Veyron Grand Sport. CC BY 3.0 by Norbert Aepli, Switzerland (User:Noebu)."
+    }
+  },
+  {
     "id": "chevrolet-camaro-1g-03",
     "vehicleId": "chevrolet-camaro-1g",
     "kind": "full",
@@ -582,6 +807,231 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: faded blue daily-driver 1969 Camaro in a lot."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-6g-01",
+    "vehicleId": "chevrolet-camaro-6g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-6g-01.webp",
+    "imageSmall": "photos/chevrolet-camaro-6g-01-sm.webp",
+    "width": 1600,
+    "height": 1065,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2016,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2016_Twin_Cities_Auto_Show_(25469588640).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_RS_(6th_generation)",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:2016 Twin Cities Auto Show (25469588640).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2016_Twin_Cities_Auto_Show_(25469588640).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/2016_Twin_Cities_Auto_Show_%2825469588640%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2016 Twin Cities Auto Show (25469588640).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (DSC07537)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro6 #0); Commons category: Chevrolet Camaro RS (6th generation). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-6g-02",
+    "vehicleId": "chevrolet-camaro-6g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-6g-02.webp",
+    "imageSmall": "photos/chevrolet-camaro-6g-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2016,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_SS_Alpha_Tuxedo_Black_(42).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_SS_(6th_generation)",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Chevrolet Camaro SS Alpha Tuxedo Black (42).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_SS_Alpha_Tuxedo_Black_(42).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chevrolet_Camaro_SS_Alpha_Tuxedo_Black_%2842%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Chevrolet Camaro SS Alpha Tuxedo Black (42).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro6 #1); Commons category: Chevrolet Camaro SS (6th generation). CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-6g-03",
+    "vehicleId": "chevrolet-camaro-6g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-6g-03.webp",
+    "imageSmall": "photos/chevrolet-camaro-6g-03-sm.webp",
+    "width": 1600,
+    "height": 961,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2016,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_ZL1_1LE_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_ZL1_(6th_generation)",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Chevrolet Camaro ZL1 1LE 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_ZL1_1LE_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Chevrolet_Camaro_ZL1_1LE_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Chevrolet Camaro ZL1 1LE 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro6 #3); Commons category: Chevrolet Camaro ZL1 (6th generation). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-6g-04",
+    "vehicleId": "chevrolet-camaro-6g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-6g-04.webp",
+    "imageSmall": "photos/chevrolet-camaro-6g-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2016,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Fifth-generation_Chevrolet_Camaro_Leimershof_-20190907-RM-165919.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(2016–2024)",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Fifth-generation Chevrolet Camaro Leimershof -20190907-RM-165919.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fifth-generation_Chevrolet_Camaro_Leimershof_-20190907-RM-165919.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Fifth-generation_Chevrolet_Camaro_Leimershof_-20190907-RM-165919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Fifth-generation Chevrolet Camaro Leimershof -20190907-RM-165919.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro6 #4); Commons category: Chevrolet Camaro (2016–2024). CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-6g-05",
+    "vehicleId": "chevrolet-camaro-6g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-6g-05.webp",
+    "imageSmall": "photos/chevrolet-camaro-6g-05-sm.webp",
+    "width": 1600,
+    "height": 1057,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2016,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Leimershof_7._US-Car-Treffen_Chevrolet_Camaro-20230909-RM-165430.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(2016–2024)",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Leimershof 7. US-Car-Treffen Chevrolet Camaro-20230909-RM-165430.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Leimershof_7._US-Car-Treffen_Chevrolet_Camaro-20230909-RM-165430.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Leimershof_7._US-Car-Treffen_Chevrolet_Camaro-20230909-RM-165430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Leimershof 7. US-Car-Treffen Chevrolet Camaro-20230909-RM-165430.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camaro6 #5); Commons category: Chevrolet Camaro (2016–2024). CC BY-SA 4.0 by Ermell."
     }
   },
   {
@@ -762,6 +1212,141 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: grey C2 at Goodwood Revival."
+    }
+  },
+  {
+    "id": "chevrolet-corvette-c3-01",
+    "vehicleId": "chevrolet-corvette-c3",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c3-01.webp",
+    "imageSmall": "photos/chevrolet-corvette-c3-01-sm.webp",
+    "width": 1600,
+    "height": 1002,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1982,
+      "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1974_Chevrolet_Corvette_C3_5.7_V8.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1974_Chevrolet_Corvette",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+    ],
+    "source": {
+      "title": "File:1974 Chevrolet Corvette C3 5.7 V8.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1974_Chevrolet_Corvette_C3_5.7_V8.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/1974_Chevrolet_Corvette_C3_5.7_V8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1974 Chevrolet Corvette C3 5.7 V8.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (c3 #1); Commons category: 1974 Chevrolet Corvette. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "chevrolet-corvette-c3-03",
+    "vehicleId": "chevrolet-corvette-c3",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c3-03.webp",
+    "imageSmall": "photos/chevrolet-corvette-c3-03-sm.webp",
+    "width": 1600,
+    "height": 997,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1982,
+      "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C3_Kulmbach_Oldtimertreffen_2018_6170004.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Corvette_Stingray_C3",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+    ],
+    "source": {
+      "title": "File:Chevrolet Corvette C3 Kulmbach Oldtimertreffen 2018 6170004.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C3_Kulmbach_Oldtimertreffen_2018_6170004.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chevrolet_Corvette_C3_Kulmbach_Oldtimertreffen_2018_6170004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Chevrolet Corvette C3 Kulmbach Oldtimertreffen 2018 6170004.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (c3 #5); Commons category: Chevrolet Corvette Stingray C3. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "chevrolet-corvette-c3-04",
+    "vehicleId": "chevrolet-corvette-c3",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c3-04.webp",
+    "imageSmall": "photos/chevrolet-corvette-c3-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1982,
+      "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Corvette_C3_Oldtimertreffen_Ebern_2019_6200099.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Chevrolet_Corvette_Stingray_C3",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+    ],
+    "source": {
+      "title": "File:Corvette C3 Oldtimertreffen Ebern 2019 6200099.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Corvette_C3_Oldtimertreffen_Ebern_2019_6200099.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Corvette_C3_Oldtimertreffen_Ebern_2019_6200099.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Corvette C3 Oldtimertreffen Ebern 2019 6200099.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (c3 #7); Commons category: Chevrolet Corvette Stingray C3. CC BY-SA 4.0 by Ermell."
     }
   },
   {
@@ -1363,6 +1948,591 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed at full size: close-up of the quad headlamps and mesh grille of a weathered white Challenger on a city street; no model script in frame."
+    }
+  },
+  {
+    "id": "dodge-challenger-lc-01",
+    "vehicleId": "dodge-challenger-lc",
+    "kind": "full",
+    "image": "photos/dodge-challenger-lc-01.webp",
+    "imageSmall": "photos/dodge-challenger-lc-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2016_Dodge_Challenger_Hellcat_(28456827004).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT_Hellcat",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:2016 Dodge Challenger Hellcat (28456827004).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2016_Dodge_Challenger_Hellcat_(28456827004).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/2016_Dodge_Challenger_Hellcat_%2828456827004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2016 Dodge Challenger Hellcat (28456827004).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (2016 Dodge Challenger Hellcat)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (challlc #5); Commons category: Dodge Challenger SRT Hellcat. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "dodge-challenger-lc-02",
+    "vehicleId": "dodge-challenger-lc",
+    "kind": "full",
+    "image": "photos/dodge-challenger-lc-02.webp",
+    "imageSmall": "photos/dodge-challenger-lc-02-sm.webp",
+    "width": 1600,
+    "height": 982,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Dodge_Challenger_Hellcat.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT_Hellcat",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:2018 Dodge Challenger Hellcat.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Dodge_Challenger_Hellcat.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/2018_Dodge_Challenger_Hellcat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Dodge Challenger Hellcat.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (challlc #8); Commons category: Dodge Challenger SRT Hellcat. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "dodge-challenger-lc-03",
+    "vehicleId": "dodge-challenger-lc",
+    "kind": "full",
+    "image": "photos/dodge-challenger-lc-03.webp",
+    "imageSmall": "photos/dodge-challenger-lc-03-sm.webp",
+    "width": 1600,
+    "height": 1094,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Dodge_Challenger_SRT_Hellcat_FOS21.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT_Hellcat",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:2019 Dodge Challenger SRT Hellcat FOS21.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Dodge_Challenger_SRT_Hellcat_FOS21.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/2019_Dodge_Challenger_SRT_Hellcat_FOS21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Dodge Challenger SRT Hellcat FOS21.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (challlc #9); Commons category: Dodge Challenger SRT Hellcat. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "dodge-challenger-lc-04",
+    "vehicleId": "dodge-challenger-lc",
+    "kind": "full",
+    "image": "photos/dodge-challenger-lc-04.webp",
+    "imageSmall": "photos/dodge-challenger-lc-04-sm.webp",
+    "width": 1600,
+    "height": 1020,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171851.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT8_(2015)",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:Dodge Challenger SRT Hellcat 2015-20180909-RM-171851.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171851.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Dodge Challenger SRT Hellcat 2015-20180909-RM-171851.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (challlc #12); Commons category: Dodge Challenger SRT8 (2015). CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "dodge-challenger-lc-05",
+    "vehicleId": "dodge-challenger-lc",
+    "kind": "full",
+    "image": "photos/dodge-challenger-lc-05.webp",
+    "imageSmall": "photos/dodge-challenger-lc-05-sm.webp",
+    "width": 1600,
+    "height": 954,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2008,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171853.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT8_(2015)",
+      "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    ],
+    "source": {
+      "title": "File:Dodge Challenger SRT Hellcat 2015-20180909-RM-171853.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171853.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171853.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Dodge Challenger SRT Hellcat 2015-20180909-RM-171853.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (challlc #13); Commons category: Dodge Challenger SRT8 (2015). CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "dodge-viper-sr2-01",
+    "vehicleId": "dodge-viper-sr2",
+    "kind": "full",
+    "image": "photos/dodge-viper-sr2-01.webp",
+    "imageSmall": "photos/dodge-viper-sr2-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1996,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1997_Dodge_Viper_(34313435483).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_GTS_(SR_II)",
+      "https://en.wikipedia.org/wiki/Dodge_Viper"
+    ],
+    "source": {
+      "title": "File:1997 Dodge Viper (34313435483).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1997_Dodge_Viper_(34313435483).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1997_Dodge_Viper_%2834313435483%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1997 Dodge Viper (34313435483).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1997 Dodge Viper)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (viper2 #1); Commons category: Dodge Viper GTS (SR II). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "dodge-viper-sr2-02",
+    "vehicleId": "dodge-viper-sr2",
+    "kind": "full",
+    "image": "photos/dodge-viper-sr2-02.webp",
+    "imageSmall": "photos/dodge-viper-sr2-02-sm.webp",
+    "width": 1600,
+    "height": 946,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1996,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1999_Dodge_Viper_GTS_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_GTS_(SR_II)",
+      "https://en.wikipedia.org/wiki/Dodge_Viper"
+    ],
+    "source": {
+      "title": "File:1999 Dodge Viper GTS 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1999_Dodge_Viper_GTS_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/1999_Dodge_Viper_GTS_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“1999 Dodge Viper GTS 2.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (viper2 #4); Commons category: Dodge Viper GTS (SR II). CC BY 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "dodge-viper-sr2-04",
+    "vehicleId": "dodge-viper-sr2",
+    "kind": "full",
+    "image": "photos/dodge-viper-sr2-04.webp",
+    "imageSmall": "photos/dodge-viper-sr2-04-sm.webp",
+    "width": 1600,
+    "height": 986,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1996,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Dodge_Viper_R-T10_(Les_chauds_vendredis_'13).JPG",
+      "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_RT/10_(SR_II)",
+      "https://en.wikipedia.org/wiki/Dodge_Viper"
+    ],
+    "source": {
+      "title": "File:Dodge Viper R-T10 (Les chauds vendredis '13).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dodge_Viper_R-T10_(Les_chauds_vendredis_%2713).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Dodge_Viper_R-T10_%28Les_chauds_vendredis_%2713%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“Dodge Viper R-T10 (Les chauds vendredis '13).JPG” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (viper2 #12); Commons category: Dodge Viper RT/10 (SR II). Public domain by Bull-Doser."
+    }
+  },
+  {
+    "id": "ferrari-458-01",
+    "vehicleId": "ferrari-458",
+    "kind": "full",
+    "image": "photos/ferrari-458-01.webp",
+    "imageSmall": "photos/ferrari-458-01-sm.webp",
+    "width": 1600,
+    "height": 893,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2012_Ferrari_458_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+      "https://en.wikipedia.org/wiki/Ferrari_458"
+    ],
+    "source": {
+      "title": "File:2012 Ferrari 458 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2012_Ferrari_458_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/2012_Ferrari_458_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2012 Ferrari 458 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f458 #1); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-458-02",
+    "vehicleId": "ferrari-458",
+    "kind": "full",
+    "image": "photos/ferrari-458-02.webp",
+    "imageSmall": "photos/ferrari-458-02-sm.webp",
+    "width": 1600,
+    "height": 1048,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ferrari_458_2.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+      "https://en.wikipedia.org/wiki/Ferrari_458"
+    ],
+    "source": {
+      "title": "File:Ferrari 458 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_458_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ferrari_458_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ferrari 458 2.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f458 #6); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-458-03",
+    "vehicleId": "ferrari-458",
+    "kind": "full",
+    "image": "photos/ferrari-458-03.webp",
+    "imageSmall": "photos/ferrari-458-03-sm.webp",
+    "width": 1600,
+    "height": 817,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ferrari_458_6.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+      "https://en.wikipedia.org/wiki/Ferrari_458"
+    ],
+    "source": {
+      "title": "File:Ferrari 458 6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_458_6.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ferrari_458_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“Ferrari 458 6.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f458 #7); Commons category: Ferrari 458 Italia. CC BY 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-458-04",
+    "vehicleId": "ferrari-458",
+    "kind": "full",
+    "image": "photos/ferrari-458-04.webp",
+    "imageSmall": "photos/ferrari-458-04-sm.webp",
+    "width": 1600,
+    "height": 748,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+      "https://en.wikipedia.org/wiki/Ferrari_458"
+    ],
+    "source": {
+      "title": "File:Ferrari 458 Italia 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ferrari_458_Italia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ferrari 458 Italia 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f458 #8); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ferrari-458-05",
+    "vehicleId": "ferrari-458",
+    "kind": "full",
+    "image": "photos/ferrari-458-05.webp",
+    "imageSmall": "photos/ferrari-458-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2009,
+      "to": 2015,
+      "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2011_Rolling_Sculpture_Car_Show_44.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+      "https://en.wikipedia.org/wiki/Ferrari_458"
+    ],
+    "source": {
+      "title": "File:2011 Rolling Sculpture Car Show 44.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2011_Rolling_Sculpture_Car_Show_44.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2011_Rolling_Sculpture_Car_Show_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Michael Barera",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2011 Rolling Sculpture Car Show 44.jpg” by Michael Barera, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (f458 #10); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Michael Barera."
     }
   },
   {
@@ -2139,6 +3309,276 @@
     }
   },
   {
+    "id": "ford-mustang-s550-01",
+    "vehicleId": "ford-mustang-s550",
+    "kind": "full",
+    "image": "photos/ford-mustang-s550-01.webp",
+    "imageSmall": "photos/ford-mustang-s550-01-sm.webp",
+    "width": 1600,
+    "height": 848,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_5.0_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_GT",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:2018 Ford Mustang GT 5.0 Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_5.0_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2018_Ford_Mustang_GT_5.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Ford Mustang GT 5.0 Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s550 #0); Commons category: Ford Mustang VI GT. CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "ford-mustang-s550-02",
+    "vehicleId": "ford-mustang-s550",
+    "kind": "full",
+    "image": "photos/ford-mustang-s550-02.webp",
+    "imageSmall": "photos/ford-mustang-s550-02-sm.webp",
+    "width": 1600,
+    "height": 1108,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_GT",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:2018 Ford Mustang GT 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2018_Ford_Mustang_GT_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Ford Mustang GT 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s550 #2); Commons category: Ford Mustang VI GT. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "ford-mustang-s550-03",
+    "vehicleId": "ford-mustang-s550",
+    "kind": "full",
+    "image": "photos/ford-mustang-s550-03.webp",
+    "imageSmall": "photos/ford-mustang-s550-03-sm.webp",
+    "width": 1600,
+    "height": 954,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Leimershof_7._US-Car-Treffen_1937_Ford_Mustang-20230910-RM-161811.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_Convertible",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Leimershof 7. US-Car-Treffen 1937 Ford Mustang-20230910-RM-161811.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Leimershof_7._US-Car-Treffen_1937_Ford_Mustang-20230910-RM-161811.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Leimershof_7._US-Car-Treffen_1937_Ford_Mustang-20230910-RM-161811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Leimershof 7. US-Car-Treffen 1937 Ford Mustang-20230910-RM-161811.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s550 #7); Commons category: Ford Mustang VI Convertible. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "ford-mustang-s550-04",
+    "vehicleId": "ford-mustang-s550",
+    "kind": "full",
+    "image": "photos/ford-mustang-s550-04.webp",
+    "imageSmall": "photos/ford-mustang-s550-04-sm.webp",
+    "width": 1600,
+    "height": 903,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang_Bamberg-20210129-RM-153114.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Shelby_Mustang_GT350_(S550)",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Ford GT Mustang Bamberg-20210129-RM-153114.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang_Bamberg-20210129-RM-153114.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ford_GT_Mustang_Bamberg-20210129-RM-153114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ford GT Mustang Bamberg-20210129-RM-153114.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s550 #12); Commons category: Shelby Mustang GT350 (S550). CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "ford-mustang-s550-05",
+    "vehicleId": "ford-mustang-s550",
+    "kind": "full",
+    "image": "photos/ford-mustang-s550-05.webp",
+    "imageSmall": "photos/ford-mustang-s550-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang_P5201092.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_GT",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Ford GT Mustang P5201092.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang_P5201092.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ford_GT_Mustang_P5201092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ford GT Mustang P5201092.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s550 #13); Commons category: Ford Mustang VI GT. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "ford-mustang-s550-06",
+    "vehicleId": "ford-mustang-s550",
+    "kind": "full",
+    "image": "photos/ford-mustang-s550-06.webp",
+    "imageSmall": "photos/ford-mustang-s550-06-sm.webp",
+    "width": 1600,
+    "height": 923,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2015,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang-20210225-RM-170121.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_Convertible",
+      "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    ],
+    "source": {
+      "title": "File:Ford GT Mustang-20210225-RM-170121.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang-20210225-RM-170121.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ford_GT_Mustang-20210225-RM-170121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Ford GT Mustang-20210225-RM-170121.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s550 #14); Commons category: Ford Mustang VI Convertible. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
     "id": "honda-nsx-na-01",
     "vehicleId": "honda-nsx-na",
     "kind": "full",
@@ -2316,6 +3756,186 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: black NSX front-quarter at a seaside meet."
+    }
+  },
+  {
+    "id": "honda-s2000-03",
+    "vehicleId": "honda-s2000",
+    "kind": "full",
+    "image": "photos/honda-s2000-03.webp",
+    "imageSmall": "photos/honda-s2000-03-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1999,
+      "to": 2009,
+      "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2005_Honda_S2000_GT_Euro_3_(38014573102).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+      "https://en.wikipedia.org/wiki/Honda_S2000"
+    ],
+    "source": {
+      "title": "File:2005 Honda S2000 GT Euro 3 (38014573102).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2005_Honda_S2000_GT_Euro_3_(38014573102).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/2005_Honda_S2000_GT_Euro_3_%2838014573102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“2005 Honda S2000 GT Euro 3 (38014573102).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (2005 Honda S2000 GT Euro 3)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s2000 #5); Commons category: Honda S2000 (AP2). CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "honda-s2000-04",
+    "vehicleId": "honda-s2000",
+    "kind": "full",
+    "image": "photos/honda-s2000-04.webp",
+    "imageSmall": "photos/honda-s2000-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1999,
+      "to": 2009,
+      "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Honda_S2000_AP2_Suzuka_Blue_Metallic_(1).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+      "https://en.wikipedia.org/wiki/Honda_S2000"
+    ],
+    "source": {
+      "title": "File:Honda S2000 AP2 Suzuka Blue Metallic (1).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Honda_S2000_AP2_Suzuka_Blue_Metallic_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Honda_S2000_AP2_Suzuka_Blue_Metallic_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Honda S2000 AP2 Suzuka Blue Metallic (1).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s2000 #10); Commons category: Honda S2000 (AP2). CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "honda-s2000-05",
+    "vehicleId": "honda-s2000",
+    "kind": "full",
+    "image": "photos/honda-s2000-05.webp",
+    "imageSmall": "photos/honda-s2000-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1999,
+      "to": 2009,
+      "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Honda_S2000_AP2_Suzuka_Blue_Metallic_(4).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+      "https://en.wikipedia.org/wiki/Honda_S2000"
+    ],
+    "source": {
+      "title": "File:Honda S2000 AP2 Suzuka Blue Metallic (4).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Honda_S2000_AP2_Suzuka_Blue_Metallic_(4).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Honda_S2000_AP2_Suzuka_Blue_Metallic_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Honda S2000 AP2 Suzuka Blue Metallic (4).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s2000 #12); Commons category: Honda S2000 (AP2). CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "honda-s2000-06",
+    "vehicleId": "honda-s2000",
+    "kind": "full",
+    "image": "photos/honda-s2000-06.webp",
+    "imageSmall": "photos/honda-s2000-06-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1999,
+      "to": 2009,
+      "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:ASA_ASA_WinterX_1_01_(8095321559).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP1)",
+      "https://en.wikipedia.org/wiki/Honda_S2000"
+    ],
+    "source": {
+      "title": "File:ASA ASA WinterX 1 01 (8095321559).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:ASA_ASA_WinterX_1_01_(8095321559).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/ASA_ASA_WinterX_1_01_%288095321559%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Grant.C",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“ASA ASA WinterX 1 01 (8095321559).jpg” by Grant.C, CC BY 2.0, via Wikimedia Commons (ASA_WinterX_1_01)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (s2000 #13); Commons category: Honda S2000 (AP1). CC BY 2.0 by Grant.C."
     }
   },
   {
@@ -2684,6 +4304,231 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: 25th Anniversary Countach at Salon Privé."
+    }
+  },
+  {
+    "id": "lamborghini-huracan-01",
+    "vehicleId": "lamborghini-huracan",
+    "kind": "full",
+    "image": "photos/lamborghini-huracan-01.webp",
+    "imageSmall": "photos/lamborghini-huracan-01-sm.webp",
+    "width": 1600,
+    "height": 897,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2014,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_Tecnica_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_Tecnica",
+      "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+    ],
+    "source": {
+      "title": "File:2022 Lamborghini Huracan Tecnica Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_Tecnica_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/2022_Lamborghini_Huracan_Tecnica_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2022 Lamborghini Huracan Tecnica Front.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (huracan #0); Commons category: Lamborghini Huracán Tecnica. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "lamborghini-huracan-02",
+    "vehicleId": "lamborghini-huracan",
+    "kind": "full",
+    "image": "photos/lamborghini-huracan-02.webp",
+    "imageSmall": "photos/lamborghini-huracan-02-sm.webp",
+    "width": 1600,
+    "height": 1021,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2014,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_STO_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_STO",
+      "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+    ],
+    "source": {
+      "title": "File:2022 Lamborghini Huracan STO 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_STO_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/2022_Lamborghini_Huracan_STO_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2022 Lamborghini Huracan STO 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (huracan #3); Commons category: Lamborghini Huracán STO. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "lamborghini-huracan-03",
+    "vehicleId": "lamborghini-huracan",
+    "kind": "full",
+    "image": "photos/lamborghini-huracan-03.webp",
+    "imageSmall": "photos/lamborghini-huracan-03-sm.webp",
+    "width": 1600,
+    "height": 798,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2014,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2024_Lamborghini_Huracan_Tecnica_SCD_24.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_Tecnica",
+      "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+    ],
+    "source": {
+      "title": "File:2024 Lamborghini Huracan Tecnica SCD 24.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2024_Lamborghini_Huracan_Tecnica_SCD_24.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2024_Lamborghini_Huracan_Tecnica_SCD_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2024 Lamborghini Huracan Tecnica SCD 24.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (huracan #5); Commons category: Lamborghini Huracán Tecnica. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "lamborghini-huracan-04",
+    "vehicleId": "lamborghini-huracan",
+    "kind": "full",
+    "image": "photos/lamborghini-huracan-04.webp",
+    "imageSmall": "photos/lamborghini-huracan-04-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2014,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:IAA_2017,_Frankfurt_(1Y7A2081).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_LP_640-4_Performante_coupé",
+      "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+    ],
+    "source": {
+      "title": "File:IAA 2017, Frankfurt (1Y7A2081).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:IAA_2017,_Frankfurt_(1Y7A2081).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/IAA_2017%2C_Frankfurt_%281Y7A2081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“IAA 2017, Frankfurt (1Y7A2081).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (huracan #8); Commons category: Lamborghini Huracán LP 640-4 Performante coupé. CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "lamborghini-huracan-05",
+    "vehicleId": "lamborghini-huracan",
+    "kind": "full",
+    "image": "photos/lamborghini-huracan-05.webp",
+    "imageSmall": "photos/lamborghini-huracan-05-sm.webp",
+    "width": 1600,
+    "height": 904,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2014,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Huracan_11.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán",
+      "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+    ],
+    "source": {
+      "title": "File:Lamborghini Huracan 11.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Huracan_11.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lamborghini_Huracan_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“Lamborghini Huracan 11.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (huracan #13); Commons category: Lamborghini Huracán. CC BY 4.0 by Calreyn88."
     }
   },
   {
@@ -5138,6 +6983,321 @@
       "top": 705,
       "width": 1204,
       "height": 856
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-01",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-01.webp",
+    "imageSmall": "photos/nissan-300zx-z32-01-sm.webp",
+    "width": 1600,
+    "height": 925,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Nissan_300ZX_(Z32)_coupe_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:1990 Nissan 300ZX (Z32) coupe 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Nissan_300ZX_(Z32)_coupe_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1990_Nissan_300ZX_%28Z32%29_coupe_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“1990 Nissan 300ZX (Z32) coupe 01.jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #0); Commons category: Nissan 300ZX (Z32). Public domain by OSX."
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-02",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-02.webp",
+    "imageSmall": "photos/nissan-300zx-z32-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1990_Nissan_300ZX_Z32_(23706944325).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:1990 Nissan 300ZX Z32 (23706944325).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Nissan_300ZX_Z32_(23706944325).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/1990_Nissan_300ZX_Z32_%2823706944325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1990 Nissan 300ZX Z32 (23706944325).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1990 Nissan 300ZX Z32)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #5); Commons category: Nissan 300ZX (Z32). CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-03",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-03.webp",
+    "imageSmall": "photos/nissan-300zx-z32-03-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1991_Nissan_300ZX_3.0_V6_(28640156302).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:1991 Nissan 300ZX 3.0 V6 (28640156302).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1991_Nissan_300ZX_3.0_V6_(28640156302).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/1991_Nissan_300ZX_3.0_V6_%2828640156302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1991 Nissan 300ZX 3.0 V6 (28640156302).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1991 Nissan 300ZX 3.0 V6)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #6); Commons category: Nissan 300ZX (Z32). CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-04",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-04.webp",
+    "imageSmall": "photos/nissan-300zx-z32-04-sm.webp",
+    "width": 1600,
+    "height": 1071,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1992_Nissan_300ZX_Turbo.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:1992 Nissan 300ZX Turbo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1992_Nissan_300ZX_Turbo.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/1992_Nissan_300ZX_Turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1992 Nissan 300ZX Turbo.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #7); Commons category: Nissan 300ZX (Z32). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-05",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-05.webp",
+    "imageSmall": "photos/nissan-300zx-z32-05-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_(19077338194).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:1995 Nissan 300ZX (19077338194).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_(19077338194).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/1995_Nissan_300ZX_%2819077338194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kieran White from Manchester, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1995 Nissan 300ZX (19077338194).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1995 Nissan 300ZX)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #11); Commons category: Nissan 300ZX (Z32). CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-06",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-06.webp",
+    "imageSmall": "photos/nissan-300zx-z32-06-sm.webp",
+    "width": 1600,
+    "height": 1048,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_Twin_Turbo.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:1995 Nissan 300ZX Twin Turbo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_Twin_Turbo.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/1995_Nissan_300ZX_Twin_Turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1995 Nissan 300ZX Twin Turbo.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #12); Commons category: Nissan 300ZX (Z32). CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "nissan-300zx-z32-07",
+    "vehicleId": "nissan-300zx-z32",
+    "kind": "full",
+    "image": "photos/nissan-300zx-z32-07.webp",
+    "imageSmall": "photos/nissan-300zx-z32-07-sm.webp",
+    "width": 1600,
+    "height": 955,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1989,
+      "to": 2000,
+      "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Nissan_300ZX_2960cc_registered_August_1993.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+      "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    ],
+    "source": {
+      "title": "File:Nissan 300ZX 2960cc registered August 1993.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nissan_300ZX_2960cc_registered_August_1993.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nissan_300ZX_2960cc_registered_August_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Charles01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Nissan 300ZX 2960cc registered August 1993.jpg” by Charles01, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (z32 #13); Commons category: Nissan 300ZX (Z32). CC BY-SA 4.0 by Charles01."
     }
   },
   {

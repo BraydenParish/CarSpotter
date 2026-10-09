@@ -6972,6 +6972,1626 @@
         "date": "2026-10-09",
         "notes": "Viewed on review sheet (tt8n #12); Commons category: Audi TT 8N quattro. CC BY-SA 4.0 by Calreyn88."
       }
+    },
+    {
+      "id": "honda-s2000-01",
+      "file": "File:2001 Honda S2000 2.jpg",
+      "vehicleId": "honda-s2000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1999,
+        "to": 2009,
+        "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2001_Honda_S2000_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP1)",
+        "https://en.wikipedia.org/wiki/Honda_S2000"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"S2000\" fender badge is legible."
+      }
+    },
+    {
+      "id": "honda-s2000-02",
+      "file": "File:2005 Honda S2000 2.jpg",
+      "vehicleId": "honda-s2000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1999,
+        "to": 2009,
+        "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2005_Honda_S2000_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+        "https://en.wikipedia.org/wiki/Honda_S2000"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"S2000\" fender badge is legible."
+      }
+    },
+    {
+      "id": "honda-s2000-03",
+      "file": "File:2005 Honda S2000 GT Euro 3 (38014573102).jpg",
+      "vehicleId": "honda-s2000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1999,
+        "to": 2009,
+        "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2005_Honda_S2000_GT_Euro_3_(38014573102).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+        "https://en.wikipedia.org/wiki/Honda_S2000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s2000 #5); Commons category: Honda S2000 (AP2). CC BY 2.0 by Kieran White from Manchester, England."
+      }
+    },
+    {
+      "id": "honda-s2000-04",
+      "file": "File:Honda S2000 AP2 Suzuka Blue Metallic (1).jpg",
+      "vehicleId": "honda-s2000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1999,
+        "to": 2009,
+        "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Honda_S2000_AP2_Suzuka_Blue_Metallic_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+        "https://en.wikipedia.org/wiki/Honda_S2000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s2000 #10); Commons category: Honda S2000 (AP2). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "honda-s2000-05",
+      "file": "File:Honda S2000 AP2 Suzuka Blue Metallic (4).jpg",
+      "vehicleId": "honda-s2000",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1999,
+        "to": 2009,
+        "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Honda_S2000_AP2_Suzuka_Blue_Metallic_(4).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP2)",
+        "https://en.wikipedia.org/wiki/Honda_S2000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s2000 #12); Commons category: Honda S2000 (AP2). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "honda-s2000-06",
+      "file": "File:ASA ASA WinterX 1 01 (8095321559).jpg",
+      "vehicleId": "honda-s2000",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1999,
+        "to": 2009,
+        "basis": "No feature visible in the photo separates years within the 1999–2009 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:ASA_ASA_WinterX_1_01_(8095321559).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Honda_S2000_(AP1)",
+        "https://en.wikipedia.org/wiki/Honda_S2000"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s2000 #13); Commons category: Honda S2000 (AP1). CC BY 2.0 by Grant.C."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-01",
+      "file": "File:1990 Nissan 300ZX (Z32) coupe 01.jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1990_Nissan_300ZX_(Z32)_coupe_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #0); Commons category: Nissan 300ZX (Z32). Public domain by OSX."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-02",
+      "file": "File:1990 Nissan 300ZX Z32 (23706944325).jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1990_Nissan_300ZX_Z32_(23706944325).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #5); Commons category: Nissan 300ZX (Z32). CC BY 2.0 by Sicnag."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-03",
+      "file": "File:1991 Nissan 300ZX 3.0 V6 (28640156302).jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1991_Nissan_300ZX_3.0_V6_(28640156302).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #6); Commons category: Nissan 300ZX (Z32). CC BY 2.0 by Kieran White from Manchester, England."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-04",
+      "file": "File:1992 Nissan 300ZX Turbo.jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1992_Nissan_300ZX_Turbo.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #7); Commons category: Nissan 300ZX (Z32). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-05",
+      "file": "File:1995 Nissan 300ZX (19077338194).jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_(19077338194).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #11); Commons category: Nissan 300ZX (Z32). CC BY 2.0 by Kieran White from Manchester, England."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-06",
+      "file": "File:1995 Nissan 300ZX Twin Turbo.jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_Twin_Turbo.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #12); Commons category: Nissan 300ZX (Z32). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "nissan-300zx-z32-07",
+      "file": "File:Nissan 300ZX 2960cc registered August 1993.jpg",
+      "vehicleId": "nissan-300zx-z32",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1989,
+        "to": 2000,
+        "basis": "No feature visible in the photo separates years within the 1989–2000 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Nissan_300ZX_2960cc_registered_August_1993.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_300ZX_(Z32)",
+        "https://en.wikipedia.org/wiki/Nissan_300ZX"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (z32 #13); Commons category: Nissan 300ZX (Z32). CC BY-SA 4.0 by Charles01."
+      }
+    },
+    {
+      "id": "lamborghini-huracan-01",
+      "file": "File:2022 Lamborghini Huracan Tecnica Front.jpg",
+      "vehicleId": "lamborghini-huracan",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_Tecnica_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_Tecnica",
+        "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (huracan #0); Commons category: Lamborghini Huracán Tecnica. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "lamborghini-huracan-02",
+      "file": "File:2022 Lamborghini Huracan STO 1.jpg",
+      "vehicleId": "lamborghini-huracan",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Huracan_STO_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_STO",
+        "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (huracan #3); Commons category: Lamborghini Huracán STO. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "lamborghini-huracan-03",
+      "file": "File:2024 Lamborghini Huracan Tecnica SCD 24.jpg",
+      "vehicleId": "lamborghini-huracan",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2024_Lamborghini_Huracan_Tecnica_SCD_24.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_Tecnica",
+        "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (huracan #5); Commons category: Lamborghini Huracán Tecnica. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "lamborghini-huracan-04",
+      "file": "File:IAA 2017, Frankfurt (1Y7A2081).jpg",
+      "vehicleId": "lamborghini-huracan",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:IAA_2017,_Frankfurt_(1Y7A2081).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán_LP_640-4_Performante_coupé",
+        "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (huracan #8); Commons category: Lamborghini Huracán LP 640-4 Performante coupé. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "lamborghini-huracan-05",
+      "file": "File:Lamborghini Huracan 11.jpg",
+      "vehicleId": "lamborghini-huracan",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lamborghini_Huracan_11.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Huracán",
+        "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (huracan #13); Commons category: Lamborghini Huracán. CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-458-01",
+      "file": "File:2012 Ferrari 458 2.jpg",
+      "vehicleId": "ferrari-458",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2012_Ferrari_458_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+        "https://en.wikipedia.org/wiki/Ferrari_458"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f458 #1); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-458-02",
+      "file": "File:Ferrari 458 2.jpg",
+      "vehicleId": "ferrari-458",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ferrari_458_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+        "https://en.wikipedia.org/wiki/Ferrari_458"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f458 #6); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-458-03",
+      "file": "File:Ferrari 458 6.jpg",
+      "vehicleId": "ferrari-458",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ferrari_458_6.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+        "https://en.wikipedia.org/wiki/Ferrari_458"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f458 #7); Commons category: Ferrari 458 Italia. CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-458-04",
+      "file": "File:Ferrari 458 Italia 1.jpg",
+      "vehicleId": "ferrari-458",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+        "https://en.wikipedia.org/wiki/Ferrari_458"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f458 #8); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ferrari-458-05",
+      "file": "File:2011 Rolling Sculpture Car Show 44.jpg",
+      "vehicleId": "ferrari-458",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2009–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2011_Rolling_Sculpture_Car_Show_44.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_458_Italia",
+        "https://en.wikipedia.org/wiki/Ferrari_458"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (f458 #10); Commons category: Ferrari 458 Italia. CC BY-SA 4.0 by Michael Barera."
+      }
+    },
+    {
+      "id": "bugatti-veyron-01",
+      "file": "File:Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg",
+      "vehicleId": "bugatti-veyron",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2005,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_–_Frontansicht_(2),_5._April_2012,_Düsseldorf.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron_16.4_(2005–2008)",
+        "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (veyron #0); Commons category: Bugatti Veyron 16.4 (2005–2008). CC BY-SA 3.0 de by M 93."
+      }
+    },
+    {
+      "id": "bugatti-veyron-02",
+      "file": "File:2006 Bugatti Veyron Low LC23.jpg",
+      "vehicleId": "bugatti-veyron",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2005,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2006_Bugatti_Veyron_Low_LC23.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron_16.4_(2005–2008)",
+        "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (veyron #4); Commons category: Bugatti Veyron 16.4 (2005–2008). CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "bugatti-veyron-03",
+      "file": "File:2009 Bugatti Veyron Centenaire Malcolm Campbell 2.jpg",
+      "vehicleId": "bugatti-veyron",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2005,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_Centenaire_Malcolm_Campbell_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron",
+        "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (veyron #6); Commons category: Bugatti Veyron. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "bugatti-veyron-04",
+      "file": "File:2026 Bugatti FKP Hommage USG26.jpg",
+      "vehicleId": "bugatti-veyron",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2005,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2026_Bugatti_FKP_Hommage_USG26.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron",
+        "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (veyron #8); Commons category: Bugatti Veyron. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "bugatti-veyron-05",
+      "file": "File:2011-03-04 Autosalon Genf 1221.JPG",
+      "vehicleId": "bugatti-veyron",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2005,
+        "to": 2015,
+        "basis": "No feature visible in the photo separates years within the 2005–2015 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1221.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Bugatti_Veyron_Grand_Sport",
+        "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (veyron #13); Commons category: Bugatti Veyron Grand Sport. CC BY 3.0 by Norbert Aepli, Switzerland (User:Noebu)."
+      }
+    },
+    {
+      "id": "dodge-viper-sr2-01",
+      "file": "File:1997 Dodge Viper (34313435483).jpg",
+      "vehicleId": "dodge-viper-sr2",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_Dodge_Viper_(34313435483).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_GTS_(SR_II)",
+        "https://en.wikipedia.org/wiki/Dodge_Viper"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (viper2 #1); Commons category: Dodge Viper GTS (SR II). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "dodge-viper-sr2-02",
+      "file": "File:1999 Dodge Viper GTS 2.jpg",
+      "vehicleId": "dodge-viper-sr2",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1999_Dodge_Viper_GTS_2.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_GTS_(SR_II)",
+        "https://en.wikipedia.org/wiki/Dodge_Viper"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (viper2 #4); Commons category: Dodge Viper GTS (SR II). CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "dodge-viper-sr2-03",
+      "file": "File:Dodge Viper GTS (15946954044).jpg",
+      "vehicleId": "dodge-viper-sr2",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Dodge_Viper_GTS_(15946954044).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_GTS_(SR_II)",
+        "https://en.wikipedia.org/wiki/Dodge_Viper"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (viper2 #11); Commons category: Dodge Viper GTS (SR II). CC BY 2.0 by Jeremy from Sydney, Australia."
+      }
+    },
+    {
+      "id": "dodge-viper-sr2-04",
+      "file": "File:Dodge Viper R-T10 (Les chauds vendredis '13).JPG",
+      "vehicleId": "dodge-viper-sr2",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1996,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1996–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Dodge_Viper_R-T10_(Les_chauds_vendredis_'13).JPG",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Viper_RT/10_(SR_II)",
+        "https://en.wikipedia.org/wiki/Dodge_Viper"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (viper2 #12); Commons category: Dodge Viper RT/10 (SR II). Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c3-01",
+      "file": "File:1974 Chevrolet Corvette C3 5.7 V8.jpg",
+      "vehicleId": "chevrolet-corvette-c3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1982,
+        "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1974_Chevrolet_Corvette_C3_5.7_V8.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1974_Chevrolet_Corvette",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (c3 #1); Commons category: 1974 Chevrolet Corvette. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c3-02",
+      "file": "File:1975 Chevrolet Corvette C3 Targa.jpg",
+      "vehicleId": "chevrolet-corvette-c3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1982,
+        "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1975_Chevrolet_Corvette_C3_Targa.jpg",
+        "https://commons.wikimedia.org/wiki/Category:1975_Chevrolet_Corvette",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Stingray\" fender script (an accepted answer) is legible."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c3-03",
+      "file": "File:Chevrolet Corvette C3 Kulmbach Oldtimertreffen 2018 6170004.jpg",
+      "vehicleId": "chevrolet-corvette-c3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1982,
+        "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C3_Kulmbach_Oldtimertreffen_2018_6170004.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Corvette_Stingray_C3",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (c3 #5); Commons category: Chevrolet Corvette Stingray C3. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c3-04",
+      "file": "File:Corvette C3 Oldtimertreffen Ebern 2019 6200099.jpg",
+      "vehicleId": "chevrolet-corvette-c3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1982,
+        "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Corvette_C3_Oldtimertreffen_Ebern_2019_6200099.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Corvette_Stingray_C3",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (c3 #7); Commons category: Chevrolet Corvette Stingray C3. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c3-05",
+      "file": "File:Chevrolet Corvette C3 Stingray IMG 3199.jpg",
+      "vehicleId": "chevrolet-corvette-c3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1982,
+        "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Corvette_Stingray_C3",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Stingray\" fender script (an accepted answer) is legible."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c3-06",
+      "file": "File:2012 NRMA Motorfest - Flickr - NRMA New Cars (38).jpg",
+      "vehicleId": "chevrolet-corvette-c3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1982,
+        "basis": "No feature visible in the photo separates years within the 1968–1982 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2012_NRMA_Motorfest_-_Flickr_-_NRMA_New_Cars_(38).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1973_Chevrolet_Corvette",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Stingray\" fender script and a placard are visible."
+      }
+    },
+    {
+      "id": "ford-mustang-s550-01",
+      "file": "File:2018 Ford Mustang GT 5.0 Front.jpg",
+      "vehicleId": "ford-mustang-s550",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_5.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_GT",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s550 #0); Commons category: Ford Mustang VI GT. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "ford-mustang-s550-02",
+      "file": "File:2018 Ford Mustang GT 1.jpg",
+      "vehicleId": "ford-mustang-s550",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_GT",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s550 #2); Commons category: Ford Mustang VI GT. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "ford-mustang-s550-03",
+      "file": "File:Leimershof 7. US-Car-Treffen 1937 Ford Mustang-20230910-RM-161811.jpg",
+      "vehicleId": "ford-mustang-s550",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Leimershof_7._US-Car-Treffen_1937_Ford_Mustang-20230910-RM-161811.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_Convertible",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s550 #7); Commons category: Ford Mustang VI Convertible. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "ford-mustang-s550-04",
+      "file": "File:Ford GT Mustang Bamberg-20210129-RM-153114.jpg",
+      "vehicleId": "ford-mustang-s550",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang_Bamberg-20210129-RM-153114.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Shelby_Mustang_GT350_(S550)",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s550 #12); Commons category: Shelby Mustang GT350 (S550). CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "ford-mustang-s550-05",
+      "file": "File:Ford GT Mustang P5201092.jpg",
+      "vehicleId": "ford-mustang-s550",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang_P5201092.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_GT",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s550 #13); Commons category: Ford Mustang VI GT. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "ford-mustang-s550-06",
+      "file": "File:Ford GT Mustang-20210225-RM-170121.jpg",
+      "vehicleId": "ford-mustang-s550",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2015,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2015–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ford_GT_Mustang-20210225-RM-170121.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Mustang_VI_Convertible",
+        "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (s550 #14); Commons category: Ford Mustang VI Convertible. CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-6g-01",
+      "file": "File:2016 Twin Cities Auto Show (25469588640).jpg",
+      "vehicleId": "chevrolet-camaro-6g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2016,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Twin_Cities_Auto_Show_(25469588640).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_RS_(6th_generation)",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro6 #0); Commons category: Chevrolet Camaro RS (6th generation). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-6g-02",
+      "file": "File:Chevrolet Camaro SS Alpha Tuxedo Black (42).jpg",
+      "vehicleId": "chevrolet-camaro-6g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2016,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_SS_Alpha_Tuxedo_Black_(42).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_SS_(6th_generation)",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro6 #1); Commons category: Chevrolet Camaro SS (6th generation). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-6g-03",
+      "file": "File:Chevrolet Camaro ZL1 1LE 1.jpg",
+      "vehicleId": "chevrolet-camaro-6g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2016,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_ZL1_1LE_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_ZL1_(6th_generation)",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro6 #3); Commons category: Chevrolet Camaro ZL1 (6th generation). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-6g-04",
+      "file": "File:Fifth-generation Chevrolet Camaro Leimershof -20190907-RM-165919.jpg",
+      "vehicleId": "chevrolet-camaro-6g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2016,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Fifth-generation_Chevrolet_Camaro_Leimershof_-20190907-RM-165919.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(2016–2024)",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro6 #4); Commons category: Chevrolet Camaro (2016–2024). CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-6g-05",
+      "file": "File:Leimershof 7. US-Car-Treffen Chevrolet Camaro-20230909-RM-165430.jpg",
+      "vehicleId": "chevrolet-camaro-6g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2016,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2016–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Leimershof_7._US-Car-Treffen_Chevrolet_Camaro-20230909-RM-165430.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Chevrolet_Camaro_(2016–2024)",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (camaro6 #5); Commons category: Chevrolet Camaro (2016–2024). CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "dodge-challenger-lc-01",
+      "file": "File:2016 Dodge Challenger Hellcat (28456827004).jpg",
+      "vehicleId": "dodge-challenger-lc",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2008,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Dodge_Challenger_Hellcat_(28456827004).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT_Hellcat",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (challlc #5); Commons category: Dodge Challenger SRT Hellcat. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "dodge-challenger-lc-02",
+      "file": "File:2018 Dodge Challenger Hellcat.jpg",
+      "vehicleId": "dodge-challenger-lc",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2008,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Dodge_Challenger_Hellcat.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT_Hellcat",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (challlc #8); Commons category: Dodge Challenger SRT Hellcat. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "dodge-challenger-lc-03",
+      "file": "File:2019 Dodge Challenger SRT Hellcat FOS21.jpg",
+      "vehicleId": "dodge-challenger-lc",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2008,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Dodge_Challenger_SRT_Hellcat_FOS21.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT_Hellcat",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (challlc #9); Commons category: Dodge Challenger SRT Hellcat. CC BY-SA 4.0 by MrWalkr."
+      }
+    },
+    {
+      "id": "dodge-challenger-lc-04",
+      "file": "File:Dodge Challenger SRT Hellcat 2015-20180909-RM-171851.jpg",
+      "vehicleId": "dodge-challenger-lc",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2008,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171851.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT8_(2015)",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (challlc #12); Commons category: Dodge Challenger SRT8 (2015). CC BY-SA 4.0 by Ermell."
+      }
+    },
+    {
+      "id": "dodge-challenger-lc-05",
+      "file": "File:Dodge Challenger SRT Hellcat 2015-20180909-RM-171853.jpg",
+      "vehicleId": "dodge-challenger-lc",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2008,
+        "to": 2023,
+        "basis": "No feature visible in the photo separates years within the 2008–2023 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171853.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Dodge_Challenger_SRT8_(2015)",
+        "https://en.wikipedia.org/wiki/Dodge_Challenger"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (challlc #13); Commons category: Dodge Challenger SRT8 (2015). CC BY-SA 4.0 by Ermell."
+      }
     }
   ]
 }
