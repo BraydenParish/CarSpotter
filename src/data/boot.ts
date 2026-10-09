@@ -1,5 +1,5 @@
 import type { GameContext } from '../game/context';
-import { createContext, VEHICLES } from './dataset';
+import { createContext, loadPhotos, VEHICLES } from './dataset';
 
 /**
  * Builds the game context. The synthetic test fixtures are available ONLY on the
@@ -11,5 +11,5 @@ export async function bootContext(): Promise<{ ctx: GameContext; fixtures: boole
     const { fixturePhotos, fixtureDetails } = await import('../dev/fixtures');
     return { ctx: createContext(VEHICLES, [...fixturePhotos(VEHICLES), ...fixtureDetails(VEHICLES)]), fixtures: true };
   }
-  return { ctx: createContext(), fixtures: false };
+  return { ctx: createContext(VEHICLES, await loadPhotos()), fixtures: false };
 }

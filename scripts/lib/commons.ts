@@ -3,8 +3,9 @@
  * import tooling. See https://www.mediawiki.org/wiki/API:Imageinfo
  */
 export const API = 'https://commons.wikimedia.org/w/api.php';
+// Wikimedia's API etiquette asks for a descriptive User-Agent with a way to reach the operator.
 export const USER_AGENT =
-  'CarSpotter-asset-importer/1.0 (open-source car quiz; local build tooling)';
+  'CarSpotter-asset-importer/1.1 (https://github.com/BraydenParish/CarSpotter; open-source car quiz build tooling)';
 
 export interface ExtMeta {
   [key: string]: { value: string; source?: string } | undefined;

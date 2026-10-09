@@ -831,5 +831,558 @@
     ],
     "tip": "Flat-panelled utility 4×4 with headlamps in the front wings and a plastic grille (earlier Series cars had a metal one); the most common Series Land Rover, built 1971–1985 before the coil-sprung 90/110 (later Defender).",
     "referenceUrl": "https://en.wikipedia.org/wiki/Land_Rover_Series"
+  },
+  {
+    "id": "toyota-corolla-e210",
+    "make": "Toyota",
+    "model": "Corolla",
+    "modelAliases": [
+      "Corolla Sport",
+      "Corolla Hatchback",
+      "Corolla Touring Sports",
+      "Corolla Hybrid",
+      "Auris"
+    ],
+    "extraWords": [
+      "Hybrid",
+      "Touring",
+      "Sports",
+      "Sport",
+      "Trek",
+      "GR",
+      "Levin"
+    ],
+    "generation": {
+      "name": "E210",
+      "aliases": [
+        "E 210",
+        "twelfth generation",
+        "12th generation",
+        "12th gen",
+        "Corolla 12"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Japan",
+    "years": [
+      2018,
+      2026
+    ],
+    "categories": [
+      "everyday"
+    ],
+    "tip": "Twelfth-generation Corolla (2018 on), sold as a hatchback (Corolla Sport, or Auris in some early markets), saloon and Touring Sports estate; some markets get a different 'Prestige' saloon front borrowed from the Camry.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+  },
+{
+    "id": "ford-focus-mk3",
+    "make": "Ford",
+    "model": "Focus",
+    "modelAliases": [],
+    "extraWords": [
+      "ST",
+      "RS",
+      "Titanium",
+      "Zetec",
+      "Estate",
+      "Wagon",
+      "Turnier",
+      "Sedan",
+      "Electric"
+    ],
+    "generation": {
+      "name": "Mk3",
+      "aliases": [
+        "Mk 3",
+        "Mk III",
+        "Focus 3",
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "C346",
+        "Mk3.5",
+        "Mk 3.5"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "United States",
+    "years": [
+      2010,
+      2018
+    ],
+    "categories": [
+      "everyday",
+      "american",
+      "european"
+    ],
+    "tip": "Kinetic-design Focus with a trapezoidal grille; the 2014 facelift (Mk 3.5) brought thinner, sharper headlamps and the wide Aston-style grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)"
+  },
+{
+    "id": "vw-polo-mk5",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "modelAliases": [
+      "Polo Sedan",
+      "Vento",
+      "Polo Vivo"
+    ],
+    "extraWords": [
+      "GTI",
+      "R",
+      "WRC",
+      "BlueGT",
+      "TSI",
+      "TDI",
+      "Cross"
+    ],
+    "generation": {
+      "name": "Mk5",
+      "aliases": [
+        "Mk 5",
+        "Mk V",
+        "Polo 5",
+        "Polo V",
+        "fifth generation",
+        "5th generation",
+        "5th gen",
+        "6R",
+        "6C"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      2009,
+      2017
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Fifth-generation Polo (2009–2017 in Europe; still built in South Africa as the Polo Vivo); a long-wheelbase saloon was sold in emerging markets as the Vento or Polo Sedan.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk5"
+  },
+{
+    "id": "mini-hatch-f56",
+    "make": "Mini",
+    "model": "Hatch",
+    "modelAliases": [
+      "Cooper",
+      "Mini Cooper",
+      "Hardtop",
+      "Mini Hatch",
+      "Cooper S",
+      "One",
+      "John Cooper Works",
+      "JCW",
+      "Cooper SE",
+      "Mini Electric"
+    ],
+    "makeAliases": [
+      "MINI",
+      "BMW Mini"
+    ],
+    "extraWords": [
+      "S",
+      "SE",
+      "D",
+      "JCW",
+      "Works",
+      "3-door",
+      "5-door"
+    ],
+    "generation": {
+      "name": "F56",
+      "aliases": [
+        "F 56",
+        "F55",
+        "third generation",
+        "3rd generation",
+        "3rd gen"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "United Kingdom",
+    "years": [
+      2014,
+      2024
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "BMW-era Mini Hatch, third generation (2014–2024, built at Oxford), with big oval headlamps and a hexagonal grille; renamed Mini Cooper for the 2024 fourth generation.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mini_Hatch"
+  },
+  {
+    "id": "nissan-leaf-ze0",
+    "make": "Nissan",
+    "model": "Leaf",
+    "modelAliases": [
+      "LEAF"
+    ],
+    "extraWords": [
+      "SV",
+      "SL",
+      "S",
+      "Acenta",
+      "Tekna",
+      "Visia",
+      "e+"
+    ],
+    "generation": {
+      "name": "ZE0",
+      "aliases": [
+        "ZE 0",
+        "AZE0",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Japan",
+    "years": [
+      2010,
+      2017
+    ],
+    "categories": [
+      "everyday",
+      "electric"
+    ],
+    "tip": "First-generation Leaf (2010–2017), the world's first series-produced battery-electric car: rounded hatchback with tall, swept-back headlamps and the charging port under a flap in the nose.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_Leaf"
+  },
+{
+    "id": "toyota-rav4-xa50",
+    "make": "Toyota",
+    "model": "RAV4",
+    "modelAliases": [
+      "RAV 4",
+      "Rav-4",
+      "Wildlander",
+      "RAV4 Hybrid",
+      "RAV4 Prime"
+    ],
+    "extraWords": [
+      "Hybrid",
+      "Prime",
+      "Plug-in",
+      "Adventure",
+      "TRD",
+      "XLE",
+      "Limited",
+      "Off-Road"
+    ],
+    "generation": {
+      "name": "XA50",
+      "aliases": [
+        "XA 50",
+        "fifth generation",
+        "5th generation",
+        "5th gen",
+        "Mk5",
+        "RAV4 5"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [
+      2018,
+      2025
+    ],
+    "categories": [
+      "everyday",
+      "offroad"
+    ],
+    "tip": "Fifth-generation RAV4 (unveiled 2018), styled after the FT-AC concept: angular, truck-like front with an octagonal grille, on the TNGA-K platform shared with the Camry.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4"
+  },
+{
+    "id": "range-rover-evoque-l538",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "modelAliases": [
+      "Range Rover Evoque",
+      "Evoque Convertible",
+      "Range Rover Evoque Convertible"
+    ],
+    "makeAliases": [
+      "Range Rover",
+      "Land-Rover"
+    ],
+    "extraWords": [
+      "Convertible",
+      "Coupe",
+      "Pure",
+      "Prestige",
+      "Dynamic",
+      "HSE"
+    ],
+    "generation": {
+      "name": "L538",
+      "aliases": [
+        "L 538",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [
+      2011,
+      2018
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "offroad"
+    ],
+    "tip": "First-generation Evoque (L538, 2011–2018), developed from the LRX concept, sold as three- and five-door SUVs and later a convertible; China's Landwind X7 copied its design so closely that a court banned it in 2019.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+  },
+  {
+    "id": "mitsubishi-lancer-evo-x",
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "modelAliases": [
+      "Evo",
+      "Evolution",
+      "Lancer Evo",
+      "Evo X",
+      "Evo 10",
+      "Lancer Evolution X",
+      "Evolution X"
+    ],
+    "extraWords": [
+      "X",
+      "10",
+      "GSR",
+      "MR",
+      "FQ-300",
+      "FQ-330",
+      "FQ-360",
+      "FQ-400",
+      "Final Edition"
+    ],
+    "generation": {
+      "name": "Evolution X",
+      "aliases": [
+        "X",
+        "Evo X",
+        "Evo 10",
+        "Evolution 10",
+        "tenth generation",
+        "10th generation",
+        "10th gen",
+        "CZ4A"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Japan",
+    "years": [
+      2007,
+      2016
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Tenth and final Lancer Evolution (2007–2016): a four-door saloon with a big trapezoidal 'jet fighter' grille mouth, bonnet vents and four-wheel drive with a 2-litre turbo.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+  },
+{
+    "id": "peugeot-205",
+    "make": "Peugeot",
+    "model": "205",
+    "modelAliases": [
+      "205 GTI",
+      "205 GT"
+    ],
+    "extraWords": [
+      "GTI",
+      "GT",
+      "GR",
+      "GL",
+      "GLD",
+      "XS",
+      "SR",
+      "Junior",
+      "CTI",
+      "Rallye",
+      "Lacoste",
+      "Roland Garros",
+      "1.6",
+      "1.9"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      1983,
+      1998
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Crisp, small hatchback launched in 1983 to replace the 104 and Talbot Samba; CAR magazine named it 'car of the decade' in 1990. The front has a slatted grille between square headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Peugeot_205"
+  },
+{
+    "id": "bmw-3-series-e30",
+    "make": "BMW",
+    "model": "3 Series",
+    "modelAliases": [
+      "E30",
+      "3er",
+      "316i",
+      "318i",
+      "320i",
+      "323i",
+      "325i",
+      "325e",
+      "324d",
+      "Touring",
+      "M3"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "316",
+      "318",
+      "320",
+      "323",
+      "325",
+      "i",
+      "is",
+      "iX",
+      "e",
+      "d",
+      "Touring",
+      "Cabrio",
+      "Convertible",
+      "Baur",
+      "Alpina"
+    ],
+    "generation": {
+      "name": "E30",
+      "aliases": [
+        "E 30",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [
+      1982,
+      1994
+    ],
+    "categories": [
+      "european",
+      "classic",
+      "sports"
+    ],
+    "tip": "Second-generation 3 Series (1982–1994), very like the twin-headlight E21 it replaced; the first 3 Series offered as a four-door and an estate (Touring).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+  },
+{
+    "id": "mercedes-w124",
+    "make": "Mercedes-Benz",
+    "model": "W124",
+    "modelAliases": [
+      "124",
+      "W 124",
+      "E-Class",
+      "E Class",
+      "200",
+      "230E",
+      "260E",
+      "300E",
+      "300D",
+      "250D",
+      "E220",
+      "E280",
+      "E320",
+      "500E",
+      "E500",
+      "300 E",
+      "230 E"
+    ],
+    "extraWords": [
+      "E",
+      "D",
+      "TE",
+      "CE",
+      "Diesel",
+      "Turbodiesel"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [
+      1984,
+      1997
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Upright executive saloon (also estate, coupé and cabriolet) built 1984–1997, marketed as the E-Class from 1993; it followed the W123 and was replaced by the W210.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+  },
+{
+    "id": "audi-tt-8n",
+    "make": "Audi",
+    "model": "TT",
+    "modelAliases": [
+      "TT Coupe",
+      "TT Roadster",
+      "TTS"
+    ],
+    "extraWords": [
+      "Coupe",
+      "Coupé",
+      "Roadster",
+      "quattro",
+      "3.2",
+      "1.8T",
+      "225",
+      "180",
+      "V6"
+    ],
+    "generation": {
+      "name": "8N",
+      "aliases": [
+        "Type 8N",
+        "Mk1",
+        "Mk 1",
+        "first generation",
+        "1st generation",
+        "1st gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1998,
+      2006
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "First-generation TT (Type 8N, 1998–2006): a rounded, arch-on-arch coupé or roadster designed by J Mays and Freeman Thomas, built on the Golf Mk4 platform.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Audi_TT"
   }
 ]

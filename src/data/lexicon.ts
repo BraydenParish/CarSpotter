@@ -375,4 +375,7 @@ export const EXTRA_MODEL_NAMES: string[] = [
   'Lancer Evolution', 'Evo', 'Evolution', 'Lancer Evolution VI', 'Lancer Evolution X',
   'Model 3', 'Hilux', 'Land Cruiser', 'FJ Cruiser', 'Prado',
   'Prius c', 'Prius v', 'Prius Prime', 'Series I', 'Series II', 'Series IIA', 'Ninety', 'One Ten', '90', '110', 'Valiant', 'Duster', 'Road Runner', 'Satellite', 'Fury', '5', 'R5', '6', 'R6', '16', 'Dauphine', 'W124', 'W114', 'W115', 'W126', 'W116', '190', '190E', 'E-Class', 'S-Class', 'GL-Class', 'GLS', 'GLE', 'GLC', 'GLA', 'GLB', 'ML', 'M-Class', 'RX-8', 'RX-3', '512 TR', 'F512 M', 'Espada', 'Jarama', 'Urraco', '550 Spyder', '912', 'Corvair', 'Scirocco', 'Jimny Wide', 'Samurai', 'Land Cruiser Prado', 'Bandeirante', 'Aqua', '300 SLR', 'Golf Plus', 'Golf Sportsvan',
+  'Auris', 'Yaris', 'Camry', 'Fiesta', 'Up',
+  'Range Rover Sport', 'Range Rover Velar', 'X7', 'Ariya',
+  'Carisma', 'Evolution IX', 'Evo IX', 'Evolution VIII', '206', '306', '405', '309', '104', '106', '2 Series', '5 Series', 'M5', 'E36', 'E46', 'E21', 'W210', 'W201', 'A4', 'A3', 'R8', 'TT RS',
 ];

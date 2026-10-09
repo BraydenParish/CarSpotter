@@ -5022,6 +5022,1956 @@
         "date": "2026-10-09",
         "notes": "Full-size review: a Land Rover Defender (another car in the game) is prominent beside it, which makes the intended answer ambiguous."
       }
+    },
+    {
+      "id": "toyota-corolla-e210-01",
+      "file": "File:2019 Toyota Corolla Hatchback SE in silver, front left.jpg",
+      "vehicleId": "toyota-corolla-e210",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Toyota_Corolla_Hatchback_SE_in_silver,_front_left.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Corolla_(E210,_North_America)_hatchback",
+        "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (corolla #0); Commons category: Toyota Corolla (E210, North America) hatchback. CC BY-SA 3.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "toyota-corolla-e210-02",
+      "file": "File:Toyota COROLLA Sport G\"X\"2WD・MT (3BA-NRE210H-BHFNZ-S) front.jpg",
+      "vehicleId": "toyota-corolla-e210",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_COROLLA_Sport_G\"X\"2WD・MT_(3BA-NRE210H-BHFNZ-S)_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Corolla_Sport",
+        "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (corolla #1); Commons category: Toyota Corolla Sport. CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "toyota-corolla-e210-03",
+      "file": "File:2022 Toyota Corolla GR Sport HEV CVT.jpg",
+      "vehicleId": "toyota-corolla-e210",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2022_Toyota_Corolla_GR_Sport_HEV_CVT.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Corolla_Hybrid_GR_Sport_(Europe)_hatchback",
+        "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (corolla #4); Commons category: Toyota Corolla Hybrid GR Sport (Europe) hatchback. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "toyota-corolla-e210-04",
+      "file": "File:2018 Toyota Corolla (ZWE211R) ZR hybrid hatchback (2018-10-30) 01.jpg",
+      "vehicleId": "toyota-corolla-e210",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Toyota_Corolla_(ZWE211R)_ZR_hybrid_hatchback_(2018-10-30)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Corolla_Hybrid_(E210,_Australia)_hatchback",
+        "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (corolla #14); Commons category: Toyota Corolla Hybrid (E210, Australia) hatchback. CC BY-SA 4.0 by EurovisionNim."
+      }
+    },
+    {
+      "id": "ford-focus-mk3-01",
+      "file": "File:2016 Ford Focus Titanium EcoBoost facelift 1.0 Front.jpg",
+      "vehicleId": "ford-focus-mk3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2010–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Ford_Focus_Titanium_EcoBoost_facelift_1.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Focus_Mk_III_(Facelift)",
+        "https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (focus3 #0); Commons category: Ford Focus Mk III (Facelift). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "ford-focus-mk3-02",
+      "file": "File:2011 Ford Focus Edge 1.6.jpg",
+      "vehicleId": "ford-focus-mk3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2010–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2011_Ford_Focus_Edge_1.6.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Focus_Mk_III",
+        "https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (focus3 #2); Commons category: Ford Focus Mk III. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "ford-focus-mk3-03",
+      "file": "File:Ford Focus estate diesel registered May 2017 1499cc.jpg",
+      "vehicleId": "ford-focus-mk3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2010–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ford_Focus_estate_diesel_registered_May_2017_1499cc.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Focus_Mk_III_station_wagon_(facelift)",
+        "https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (focus3 #9); Commons category: Ford Focus Mk III station wagon (facelift). CC BY-SA 4.0 by Charles01."
+      }
+    },
+    {
+      "id": "ford-focus-mk3-04",
+      "file": "File:2017 Ford Focus Titanium EcoBoost 1.0 Front.jpg",
+      "vehicleId": "ford-focus-mk3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2010–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2017_Ford_Focus_Titanium_EcoBoost_1.0_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ford_Focus_Mk_III_(Facelift)",
+        "https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (focus3 #14); Commons category: Ford Focus Mk III (Facelift). CC BY-SA 4.0 by Makizox."
+      }
+    },
+    {
+      "id": "vw-polo-mk5-01",
+      "file": "File:2011 Volkswagen Polo S 60 1.2 Front.jpg",
+      "vehicleId": "vw-polo-mk5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2009–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2011_Volkswagen_Polo_S_60_1.2_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Polo_V_(2009)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (polo5 #0); Commons category: Volkswagen Polo V (2009). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "vw-polo-mk5-02",
+      "file": "File:2012 Volkswagen Polo (6R MY13) 77TSI Comfortline 5-door hatchback (2015-06-18) 01.jpg",
+      "vehicleId": "vw-polo-mk5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2009–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2012_Volkswagen_Polo_(6R_MY13)_77TSI_Comfortline_5-door_hatchback_(2015-06-18)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Polo_V_(2009)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (polo5 #1); Commons category: Volkswagen Polo V (2009). Public domain by OSX."
+      }
+    },
+    {
+      "id": "vw-polo-mk5-03",
+      "file": "File:2015 VW Polo Sedan (1).jpg",
+      "vehicleId": "vw-polo-mk5",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2009,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2009–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2015_VW_Polo_Sedan_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Polo_V_Sedan",
+        "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk5"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (polo5 #7); Commons category: Volkswagen Polo V Sedan. CC BY-SA 4.0 by Nick.Pr."
+      }
+    },
+    {
+      "id": "mini-hatch-f56-01",
+      "file": "File:2018 Mini Hatch (F56) Cooper S IMG 4393.jpg",
+      "vehicleId": "mini-hatch-f56",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2018_Mini_Hatch_(F56)_Cooper_S_IMG_4393.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mini_Hatch_(F56)_Cooper_S",
+        "https://en.wikipedia.org/wiki/Mini_Hatch"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (minif56 #1); Commons category: Mini Hatch (F56) Cooper S. CC BY-SA 4.0 by Alexander Migl."
+      }
+    },
+    {
+      "id": "mini-hatch-f56-02",
+      "file": "File:2019 Mini Cooper Sport Auto.jpg",
+      "vehicleId": "mini-hatch-f56",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Mini_Cooper_Sport_Auto.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mini_Hatch_(F56)",
+        "https://en.wikipedia.org/wiki/Mini_Hatch"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (minif56 #2); Commons category: Mini Hatch (F56). CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "mini-hatch-f56-03",
+      "file": "File:2020 Mini Hatch JCW Auto.jpg",
+      "vehicleId": "mini-hatch-f56",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2020_Mini_Hatch_JCW_Auto.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mini_Hatch_(F56)_John_Cooper_Works",
+        "https://en.wikipedia.org/wiki/Mini_Hatch"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (minif56 #3); Commons category: Mini Hatch (F56) John Cooper Works. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "mini-hatch-f56-04",
+      "file": "File:MINI COOPER 3 DOOR (F55) China (11).jpg",
+      "vehicleId": "mini-hatch-f56",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:MINI_COOPER_3_DOOR_(F55)_China_(11).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mini_Hatch_(F56)",
+        "https://en.wikipedia.org/wiki/Mini_Hatch"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (minif56 #11); Commons category: Mini Hatch (F56). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "mini-hatch-f56-05",
+      "file": "File:MINI COOPER 3 DOOR (F55) China (12).jpg",
+      "vehicleId": "mini-hatch-f56",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:MINI_COOPER_3_DOOR_(F55)_China_(12).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mini_Hatch_(F56)",
+        "https://en.wikipedia.org/wiki/Mini_Hatch"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (minif56 #12); Commons category: Mini Hatch (F56). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "mini-hatch-f56-06",
+      "file": "File:MINI F56 Hatch Cooper Blazing Red (12).jpg",
+      "vehicleId": "mini-hatch-f56",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2014,
+        "to": 2024,
+        "basis": "No feature visible in the photo separates years within the 2014–2024 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:MINI_F56_Hatch_Cooper_Blazing_Red_(12).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mini_Cooper_(F56)",
+        "https://en.wikipedia.org/wiki/Mini_Hatch"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (minif56 #14); Commons category: Mini Cooper (F56). CC BY-SA 4.0 by Damian B Oh."
+      }
+    },
+    {
+      "id": "nissan-leaf-ze0-01",
+      "file": "File:2017 Nissan LEAF (ZE0 MY17) hatchback (2018-11-02) 01.jpg",
+      "vehicleId": "nissan-leaf-ze0",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2010–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2017_Nissan_LEAF_(ZE0_MY17)_hatchback_(2018-11-02)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_Leaf_(ZE0)",
+        "https://en.wikipedia.org/wiki/Nissan_Leaf"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (leaf #1); Commons category: Nissan Leaf (ZE0). CC BY-SA 4.0 by EurovisionNim."
+      }
+    },
+    {
+      "id": "nissan-leaf-ze0-02",
+      "file": "File:Electric vehicle charging station Ladestasjon for elbil Nissan VW e-golf Storgaten Tønsberg kommune Norway 2017-09-20 01.jpg",
+      "vehicleId": "nissan-leaf-ze0",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2010–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Electric_vehicle_charging_station_Ladestasjon_for_elbil_Nissan_VW_e-golf_Storgaten_Tønsberg_kommune_Norway_2017-09-20_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_Leaf_(ZE0)",
+        "https://en.wikipedia.org/wiki/Nissan_Leaf"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A Volkswagen Golf Mk7 (another car in the game) is prominent beside it."
+      }
+    },
+    {
+      "id": "nissan-leaf-ze0-03",
+      "file": "File:Nissan Leaf Montréal St-Léonard.jpg",
+      "vehicleId": "nissan-leaf-ze0",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2010–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_Montréal_St-Léonard.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_Leaf_(ZE0)",
+        "https://en.wikipedia.org/wiki/Nissan_Leaf"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (leaf #6); Commons category: Nissan Leaf (ZE0). Public domain by Bull-Doser."
+      }
+    },
+    {
+      "id": "nissan-leaf-ze0-04",
+      "file": "File:2011 Nissan LEAF (5482989263).jpg",
+      "vehicleId": "nissan-leaf-ze0",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2010,
+        "to": 2017,
+        "basis": "No feature visible in the photo separates years within the 2010–2017 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2011_Nissan_LEAF_(5482989263).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Nissan_Leaf_(ZE0)",
+        "https://en.wikipedia.org/wiki/Nissan_Leaf"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (leaf #9); Commons category: Nissan Leaf (ZE0). CC BY 2.0 by Michael Gil from Calgary, AB, Canada."
+      }
+    },
+    {
+      "id": "toyota-rav4-xa50-01",
+      "file": "File:2019 Toyota RAV4 Excel HEV CVT 2.5 Front.jpg",
+      "vehicleId": "toyota-rav4-xa50",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2025,
+        "basis": "No feature visible in the photo separates years within the 2018–2025 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Toyota_RAV4_Excel_HEV_CVT_2.5_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_RAV4_Hybrid_(XA50)",
+        "https://en.wikipedia.org/wiki/Toyota_RAV4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (rav4 #0); Commons category: Toyota RAV4 Hybrid (XA50). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "toyota-rav4-xa50-02",
+      "file": "File:2024 Toyota RAV4 Prime XSE Premium in Silver Sky with Midnight Black roof, front left.jpg",
+      "vehicleId": "toyota-rav4-xa50",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2025,
+        "basis": "No feature visible in the photo separates years within the 2018–2025 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2024_Toyota_RAV4_Prime_XSE_Premium_in_Silver_Sky_with_Midnight_Black_roof,_front_left.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_RAV4_Plug-in_Hybrid_(XA50)",
+        "https://en.wikipedia.org/wiki/Toyota_RAV4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (rav4 #1); Commons category: Toyota RAV4 Plug-in Hybrid (XA50). CC BY-SA 4.0 by Mr.choppers."
+      }
+    },
+    {
+      "id": "toyota-rav4-xa50-03",
+      "file": "File:Toyota RAV4 PHV G \"Z\" (6LA-AXAP54-ANXMB(A)) front.jpg",
+      "vehicleId": "toyota-rav4-xa50",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2025,
+        "basis": "No feature visible in the photo separates years within the 2018–2025 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_PHV_G_\"Z\"_(6LA-AXAP54-ANXMB(A))_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_RAV4_Plug-in_Hybrid_(XA50)",
+        "https://en.wikipedia.org/wiki/Toyota_RAV4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (rav4 #5); Commons category: Toyota RAV4 Plug-in Hybrid (XA50). CC BY-SA 4.0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "toyota-rav4-xa50-04",
+      "file": "File:Toyota Rav4 2.0 LE 2019 (48491792606).jpg",
+      "vehicleId": "toyota-rav4-xa50",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2025,
+        "basis": "No feature visible in the photo separates years within the 2018–2025 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Toyota_Rav4_2.0_LE_2019_(48491792606).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_RAV4_(XA50)",
+        "https://en.wikipedia.org/wiki/Toyota_RAV4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (rav4 #9); Commons category: Toyota RAV4 (XA50). CC BY-SA 2.0 by RL GNZLZ from Chile."
+      }
+    },
+    {
+      "id": "toyota-rav4-xa50-05",
+      "file": "File:2019 Toyota RAV4 XLE AWD front red 3.20.19.jpg",
+      "vehicleId": "toyota-rav4-xa50",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2025,
+        "basis": "No feature visible in the photo separates years within the 2018–2025 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2019_Toyota_RAV4_XLE_AWD_front_red_3.20.19.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_RAV4_(XA50)",
+        "https://en.wikipedia.org/wiki/Toyota_RAV4"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (rav4 #14); Commons category: Toyota RAV4 (XA50). CC BY-SA 4.0 by Kevauto."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-01",
+      "file": "File:RAND ROVER RANGE ROVER EVOQUE 3door front.JPG",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:RAND_ROVER_RANGE_ROVER_EVOQUE_3door_front.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_(L538)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #0); Commons category: Range Rover Evoque (L538). CC0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-02",
+      "file": "File:2012 Land Rover Range Rover Evoque (L538 MY12) Prestige 4WD 5-door wagon (2012-07-14).jpg",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2012_Land_Rover_Range_Rover_Evoque_(L538_MY12)_Prestige_4WD_5-door_wagon_(2012-07-14).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_(L538)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #1); Commons category: Range Rover Evoque (L538). Public domain by OSX."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-03",
+      "file": "File:Range Rover Evoque SD4 Pure SE 2013 (44792083285).jpg",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Range_Rover_Evoque_SD4_Pure_SE_2013_(44792083285).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_(L538)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #5); Commons category: Range Rover Evoque (L538). CC BY-SA 2.0 by RL GNZLZ from Chile."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-04",
+      "file": "File:LAND ROVER RANGE ROVER EVOQUE (L538) China (3).jpg",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:LAND_ROVER_RANGE_ROVER_EVOQUE_(L538)_China_(3).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_(L538)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #8); Commons category: Range Rover Evoque (L538). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-05",
+      "file": "File:LAND ROVER RANGE ROVER EVOQUE (L538) China (5).jpg",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:LAND_ROVER_RANGE_ROVER_EVOQUE_(L538)_China_(5).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_(L538)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #9); Commons category: Range Rover Evoque (L538). CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-06",
+      "file": "File:Range Rover Evoque Convertible, Vienna (P1060221).jpg",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Range_Rover_Evoque_Convertible,_Vienna_(P1060221).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_Convertible",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #13); Commons category: Range Rover Evoque Convertible. CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "range-rover-evoque-l538-07",
+      "file": "File:Range Rover mit Werbung Heimort Mönchengladbach.jpg",
+      "vehicleId": "range-rover-evoque-l538",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2011–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Range_Rover_mit_Werbung_Heimort_Mönchengladbach.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Range_Rover_Evoque_(L538)",
+        "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evoque #14); Commons category: Range Rover Evoque (L538). CC BY-SA 4.0 by Charles01."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-01",
+      "file": "File:Mitsubishi LANCER EVOLUTION X GSR (CZ4A) front.JPG",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mitsubishi_LANCER_EVOLUTION_X_GSR_(CZ4A)_front.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_Ⅹ_GSR-Premium",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A Toyota Prius (another car in the game) is prominent beside it."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-02",
+      "file": "File:2008 Mitsubishi EVO X GSR FQ300.jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2008_Mitsubishi_EVO_X_GSR_FQ300.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_Ⅹ_GSR",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #1); Commons category: Mitsubishi Lancer Evolution Ⅹ GSR. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-03",
+      "file": "File:2008 Mitsubishi Lancer Evolution X 1.jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2008_Mitsubishi_Lancer_Evolution_X_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_X",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #3); Commons category: Mitsubishi Lancer Evolution X. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-04",
+      "file": "File:2011 Mitsubishi EVO X GS RFQ360.jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2011_Mitsubishi_EVO_X_GS_RFQ360.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_X",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #4); Commons category: Mitsubishi Lancer Evolution X. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-05",
+      "file": "File:2016 Twin Cities Auto Show (25675083481).jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2016_Twin_Cities_Auto_Show_(25675083481).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_X",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #5); Commons category: Mitsubishi Lancer Evolution X. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-06",
+      "file": "File:MITSUBISHI LANCER EVOLUTION FINAL EDITION China.jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:MITSUBISHI_LANCER_EVOLUTION_FINAL_EDITION_China.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_Final_Edition",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #9); Commons category: Mitsubishi Lancer Evolution Final Edition. CC BY-SA 4.0 by Dinkun Chen."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-07",
+      "file": "File:Lancer Evo X Final Edition front.jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lancer_Evo_X_Final_Edition_front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_Final_Edition",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #12); Commons category: Mitsubishi Lancer Evolution Final Edition. CC BY-SA 4.0 by ChromeGames923."
+      }
+    },
+    {
+      "id": "mitsubishi-lancer-evo-x-08",
+      "file": "File:2013 ASA AutoX IMG 4410 edited (9331820502).jpg",
+      "vehicleId": "mitsubishi-lancer-evo-x",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2016,
+        "basis": "No feature visible in the photo separates years within the 2007–2016 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_ASA_AutoX_IMG_4410_edited_(9331820502).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mitsubishi_Lancer_Evolution_X_in_competition",
+        "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (evo10 #14); Commons category: Mitsubishi Lancer Evolution X in competition. CC BY 2.0 by Grant.C."
+      }
+    },
+    {
+      "id": "peugeot-205-01",
+      "file": "File:1986 Peugeot 205 GL 1.1 Front.jpg",
+      "vehicleId": "peugeot-205",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1983,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1983–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_Peugeot_205_GL_1.1_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Peugeot_205_GL",
+        "https://en.wikipedia.org/wiki/Peugeot_205"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p205 #0); Commons category: Peugeot 205 GL. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "peugeot-205-02",
+      "file": "File:1985 Peugeot 205 XR Lacoste (15331240975).jpg",
+      "vehicleId": "peugeot-205",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1983,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1983–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1985_Peugeot_205_XR_Lacoste_(15331240975).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Peugeot_205_Lacoste",
+        "https://en.wikipedia.org/wiki/Peugeot_205"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p205 #4); Commons category: Peugeot 205 Lacoste. CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "peugeot-205-03",
+      "file": "File:1986 Peugeot 205 XE.jpg",
+      "vehicleId": "peugeot-205",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1983,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1983–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_Peugeot_205_XE.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Peugeot_205",
+        "https://en.wikipedia.org/wiki/Peugeot_205"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p205 #9); Commons category: Peugeot 205. CC BY 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "peugeot-205-04",
+      "file": "File:1988 Peugeot 205 GTi (34981013263).jpg",
+      "vehicleId": "peugeot-205",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1983,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1983–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_Peugeot_205_GTi_(34981013263).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Peugeot_205_GTI",
+        "https://en.wikipedia.org/wiki/Peugeot_205"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p205 #12); Commons category: Peugeot 205 GTI. CC BY 2.0 by Riley from Christchurch, New Zealand."
+      }
+    },
+    {
+      "id": "peugeot-205-05",
+      "file": "File:1990 Peugeot 205 Roland Garros (6267606142).jpg",
+      "vehicleId": "peugeot-205",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1983,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1983–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1990_Peugeot_205_Roland_Garros_(6267606142).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Peugeot_205_Roland_Garros",
+        "https://en.wikipedia.org/wiki/Peugeot_205"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (p205 #14); Commons category: Peugeot 205 Roland Garros. CC BY 2.0 by Spanish Coches."
+      }
+    },
+    {
+      "id": "bmw-3-series-e30-01",
+      "file": "File:1986 BMW 325iX (E30).jpg",
+      "vehicleId": "bmw-3-series-e30",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1982,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1982–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_BMW_325iX_(E30).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_325_E30",
+        "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (e30 #0); Commons category: BMW 325 E30. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "bmw-3-series-e30-02",
+      "file": "File:1988 BMW 320i Convertible Auto (26860764912).jpg",
+      "vehicleId": "bmw-3-series-e30",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1982,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1982–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_BMW_320i_Convertible_Auto_(26860764912).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_320i_(E30)",
+        "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (e30 #2); Commons category: BMW 320i (E30). CC BY 2.0 by Kieran White from Manchester, England."
+      }
+    },
+    {
+      "id": "bmw-3-series-e30-03",
+      "file": "File:1990 BMW 320i Touring (9525773110).jpg",
+      "vehicleId": "bmw-3-series-e30",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1982,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1982–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1990_BMW_320i_Touring_(9525773110).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_320i_(E30)",
+        "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (e30 #3); Commons category: BMW 320i (E30). CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "bmw-3-series-e30-04",
+      "file": "File:BMW 3 Series (E30) (Germany).jpg",
+      "vehicleId": "bmw-3-series-e30",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1982,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1982–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_3_Series_(E30)_(Germany).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E30/2",
+        "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (e30 #13); Commons category: BMW E30/2. CC BY 2.0 by Rutger van der Maar."
+      }
+    },
+    {
+      "id": "bmw-3-series-e30-05",
+      "file": "File:BMW 3-series (5016840314).jpg",
+      "vehicleId": "bmw-3-series-e30",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1982,
+        "to": 1994,
+        "basis": "No feature visible in the photo separates years within the 1982–1994 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:BMW_3-series_(5016840314).jpg",
+        "https://commons.wikimedia.org/wiki/Category:BMW_E30_Facelift",
+        "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (e30 #14); Commons category: BMW E30 Facelift. CC BY 2.0 by dave_7 from Lethbridge, Canada."
+      }
+    },
+    {
+      "id": "mercedes-w124-01",
+      "file": "File:1992 Mercedes-Benz 230E Automatic 2.3 Front.jpg",
+      "vehicleId": "mercedes-w124",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1997,
+        "basis": "No feature visible in the photo separates years within the 1984–1997 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1992_Mercedes-Benz_230E_Automatic_2.3_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W124_(1989)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (w124 #0); Commons category: Mercedes-Benz W124 (1989). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "mercedes-w124-02",
+      "file": "File:1995 Mercedes-Benz E220 Automatic 2.2 Front (1).jpg",
+      "vehicleId": "mercedes-w124",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1997,
+        "basis": "No feature visible in the photo separates years within the 1984–1997 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1995_Mercedes-Benz_E220_Automatic_2.2_Front_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W124_(1993)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (w124 #1); Commons category: Mercedes-Benz W124 (1993). CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "mercedes-w124-03",
+      "file": "File:1986 Mercedes-Benz 260 E (15144655458).jpg",
+      "vehicleId": "mercedes-w124",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1997,
+        "basis": "No feature visible in the photo separates years within the 1984–1997 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_Mercedes-Benz_260_E_(15144655458).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W124_(1984)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (w124 #2); Commons category: Mercedes-Benz W124 (1984). CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+      }
+    },
+    {
+      "id": "mercedes-w124-04",
+      "file": "File:1994 Mercedes-Benz E500 HCC23.jpg",
+      "vehicleId": "mercedes-w124",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1997,
+        "basis": "No feature visible in the photo separates years within the 1984–1997 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1994_Mercedes-Benz_E500_HCC23.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_E_500_(W124)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A Mini (another car in the game) is prominent beside it."
+      }
+    },
+    {
+      "id": "mercedes-w124-05",
+      "file": "File:Mercedes-Benz E 500 LTD, Techno-Classica 2018, Essen (IMG 9804).jpg",
+      "vehicleId": "mercedes-w124",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1997,
+        "basis": "No feature visible in the photo separates years within the 1984–1997 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_E_500_LTD,_Techno-Classica_2018,_Essen_(IMG_9804).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_E_500_(W124)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (w124 #8); Commons category: Mercedes-Benz E 500 (W124). CC BY-SA 4.0 by Matti Blume."
+      }
+    },
+    {
+      "id": "mercedes-w124-06",
+      "file": "File:Techno-Classica 2025, Essen (P1045574).jpg",
+      "vehicleId": "mercedes-w124",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1997,
+        "basis": "No feature visible in the photo separates years within the 1984–1997 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Techno-Classica_2025,_Essen_(P1045574).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W124_(1993)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Number plate \"E OB124H\" contains 124."
+      }
+    },
+    {
+      "id": "audi-tt-8n-01",
+      "file": "File:Audi TT Roadster 1.8 T quattro (8N, Facelift) – Frontansicht, 27. April 2011, Velbert.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Audi_TT_Roadster_1.8_T_quattro_(8N,_Facelift)_–_Frontansicht,_27._April_2011,_Velbert.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #0); Commons category: Audi TT 8N quattro. CC BY-SA 3.0 de by M 93."
+      }
+    },
+    {
+      "id": "audi-tt-8n-02",
+      "file": "File:2000 Audi TT 1.8 Front.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2000_Audi_TT_1.8_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #1); Commons category: Audi TT 8N quattro. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "audi-tt-8n-03",
+      "file": "File:2000 Audi TT Quattro 1.8 Front.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2000_Audi_TT_Quattro_1.8_Front.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #2); Commons category: Audi TT 8N quattro. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "audi-tt-8n-04",
+      "file": "File:Audi TT coupé (8N) front.JPG",
+      "vehicleId": "audi-tt-8n",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Audi_TT_coupé_(8N)_front.JPG",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #4); Commons category: Audi TT 8N quattro. CC0 by Tokumeigakarinoaoshima."
+      }
+    },
+    {
+      "id": "audi-tt-8n-05",
+      "file": "File:2002 Audi TT Quattro 1.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2002_Audi_TT_Quattro_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #9); Commons category: Audi TT 8N quattro. CC BY-SA 4.0 by Calreyn88."
+      }
+    },
+    {
+      "id": "audi-tt-8n-06",
+      "file": "File:2003 Audi TT Quattro.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2003_Audi_TT_Quattro.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Number plate \"S17 TTV\" spells out TT."
+      }
+    },
+    {
+      "id": "audi-tt-8n-07",
+      "file": "File:2005 Audi TT 1.8.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2005_Audi_TT_1.8.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #11); Commons category: Audi TT 8N. CC BY-SA 4.0 by Vauxford."
+      }
+    },
+    {
+      "id": "audi-tt-8n-08",
+      "file": "File:2005 Audi TT Quattro Sport 1.jpg",
+      "vehicleId": "audi-tt-8n",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2006,
+        "basis": "No feature visible in the photo separates years within the 1998–2006 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2005_Audi_TT_Quattro_Sport_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Audi_TT_8N_quattro",
+        "https://en.wikipedia.org/wiki/Audi_TT"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (tt8n #12); Commons category: Audi TT 8N quattro. CC BY-SA 4.0 by Calreyn88."
+      }
     }
   ]
 }
