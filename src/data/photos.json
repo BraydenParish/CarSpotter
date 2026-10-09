@@ -2070,6 +2070,231 @@
     }
   },
   {
+    "id": "land-rover-series-3-01",
+    "vehicleId": "land-rover-series-3",
+    "kind": "full",
+    "image": "photos/land-rover-series-3-01.webp",
+    "imageSmall": "photos/land-rover-series-3-01-sm.webp",
+    "width": 1600,
+    "height": 1138,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1971,
+      "to": 1985,
+      "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Land_Rover_HDM866N.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+      "https://en.wikipedia.org/wiki/Land_Rover_Series"
+    ],
+    "source": {
+      "title": "File:Land Rover HDM866N.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Land_Rover_HDM866N.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Land_Rover_HDM866N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Duncan Harris",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Land Rover HDM866N.jpg” by Duncan Harris, CC BY-SA 2.0, via Wikimedia Commons (Land Rover Uploaded by oxyman)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green Series III head-on; grille badge reads LAND-ROVER (make only)."
+    }
+  },
+  {
+    "id": "land-rover-series-3-02",
+    "vehicleId": "land-rover-series-3",
+    "kind": "full",
+    "image": "photos/land-rover-series-3-02.webp",
+    "imageSmall": "photos/land-rover-series-3-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1971,
+      "to": 1985,
+      "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Land_Rover_(1935067310).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+      "https://en.wikipedia.org/wiki/Land_Rover_Series"
+    ],
+    "source": {
+      "title": "File:Land Rover (1935067310).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Land_Rover_(1935067310).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Land_Rover_%281935067310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "allen watkin from London, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Land Rover (1935067310).jpg” by allen watkin from London, UK, CC BY-SA 2.0, via Wikimedia Commons (Land Rover)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white Series III station wagon parked by a garage."
+    }
+  },
+  {
+    "id": "land-rover-series-3-03",
+    "vehicleId": "land-rover-series-3",
+    "kind": "full",
+    "image": "photos/land-rover-series-3-03.webp",
+    "imageSmall": "photos/land-rover-series-3-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1971,
+      "to": 1985,
+      "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1973_Land_Rover_Series_3_88\"_(5983483992).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+      "https://en.wikipedia.org/wiki/Land_Rover_Series"
+    ],
+    "source": {
+      "title": "File:1973 Land Rover Series 3 88\" (5983483992).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1973_Land_Rover_Series_3_88%22_(5983483992).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1973_Land_Rover_Series_3_88%22_%285983483992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1973 Land Rover Series 3 88\" (5983483992).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1973 Land Rover Series 3 88\")",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue Series III 88 at a classic meet."
+    }
+  },
+  {
+    "id": "land-rover-series-3-04",
+    "vehicleId": "land-rover-series-3",
+    "kind": "full",
+    "image": "photos/land-rover-series-3-04.webp",
+    "imageSmall": "photos/land-rover-series-3-04-sm.webp",
+    "width": 1600,
+    "height": 1044,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1971,
+      "to": 1985,
+      "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1975_Land_Rover_88\"_Pick-Up_(14179788013).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+      "https://en.wikipedia.org/wiki/Land_Rover_Series"
+    ],
+    "source": {
+      "title": "File:1975 Land Rover 88\" Pick-Up (14179788013).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1975_Land_Rover_88%22_Pick-Up_(14179788013).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1975_Land_Rover_88%22_Pick-Up_%2814179788013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Niels de Wit from Lunteren, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1975 Land Rover 88\" Pick-Up (14179788013).jpg” by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0, via Wikimedia Commons (1975 Land Rover 88\" Pick-Up)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: teal Series III pick-up in a car park."
+    }
+  },
+  {
+    "id": "land-rover-series-3-05",
+    "vehicleId": "land-rover-series-3",
+    "kind": "full",
+    "image": "photos/land-rover-series-3-05.webp",
+    "imageSmall": "photos/land-rover-series-3-05-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1971,
+      "to": 1985,
+      "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1975_Land_Rover_88\"_Series_III_(8971021825).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+      "https://en.wikipedia.org/wiki/Land_Rover_Series"
+    ],
+    "source": {
+      "title": "File:1975 Land Rover 88\" Series III (8971021825).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1975_Land_Rover_88%22_Series_III_(8971021825).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/1975_Land_Rover_88%22_Series_III_%288971021825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Niels de Wit from Lunteren, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1975 Land Rover 88\" Series III (8971021825).jpg” by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0, via Wikimedia Commons (1975 Land Rover 88\" Series III)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: olive Series III driving on a road with passengers."
+    }
+  },
+  {
     "id": "mazda-rx7-fd-01",
     "vehicleId": "mazda-rx7-fd",
     "kind": "full",

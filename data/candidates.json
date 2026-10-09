@@ -4680,6 +4680,186 @@
         "date": "2026-10-04",
         "notes": "Viewed: orange 1970 Cuda in a museum."
       }
+    },
+    {
+      "id": "land-rover-series-3-01",
+      "file": "File:Land Rover HDM866N.jpg",
+      "vehicleId": "land-rover-series-3",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1971,
+        "to": 1985,
+        "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Land_Rover_HDM866N.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+        "https://en.wikipedia.org/wiki/Land_Rover_Series"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: green Series III head-on; grille badge reads LAND-ROVER (make only)."
+      }
+    },
+    {
+      "id": "land-rover-series-3-02",
+      "file": "File:Land Rover (1935067310).jpg",
+      "vehicleId": "land-rover-series-3",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1971,
+        "to": 1985,
+        "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Land_Rover_(1935067310).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+        "https://en.wikipedia.org/wiki/Land_Rover_Series"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white Series III station wagon parked by a garage."
+      }
+    },
+    {
+      "id": "land-rover-series-3-03",
+      "file": "File:1973 Land Rover Series 3 88\" (5983483992).jpg",
+      "vehicleId": "land-rover-series-3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1971,
+        "to": 1985,
+        "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1973_Land_Rover_Series_3_88\"_(5983483992).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+        "https://en.wikipedia.org/wiki/Land_Rover_Series"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: blue Series III 88 at a classic meet."
+      }
+    },
+    {
+      "id": "land-rover-series-3-04",
+      "file": "File:1975 Land Rover 88\" Pick-Up (14179788013).jpg",
+      "vehicleId": "land-rover-series-3",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1971,
+        "to": 1985,
+        "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1975_Land_Rover_88\"_Pick-Up_(14179788013).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+        "https://en.wikipedia.org/wiki/Land_Rover_Series"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: teal Series III pick-up in a car park."
+      }
+    },
+    {
+      "id": "land-rover-series-3-05",
+      "file": "File:1975 Land Rover 88\" Series III (8971021825).jpg",
+      "vehicleId": "land-rover-series-3",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1971,
+        "to": 1985,
+        "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1975_Land_Rover_88\"_Series_III_(8971021825).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+        "https://en.wikipedia.org/wiki/Land_Rover_Series"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: olive Series III driving on a road with passengers."
+      }
+    },
+    {
+      "id": "land-rover-series-3-06",
+      "file": "File:1976 Land Rover Series III (21977920892).jpg",
+      "vehicleId": "land-rover-series-3",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1971,
+        "to": 1985,
+        "basis": "Plastic grille and wing-mounted headlamps of the Series III (1971–1985); no visible feature narrows it further."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1976_Land_Rover_Series_III_(21977920892).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Land_Rover_Series_III",
+        "https://en.wikipedia.org/wiki/Land_Rover_Series"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: a Land Rover Defender (another car in the game) is prominent beside it, which makes the intended answer ambiguous."
+      }
     }
   ]
 }

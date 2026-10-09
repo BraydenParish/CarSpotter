@@ -793,5 +793,43 @@
     ],
     "tip": "Short, wide E-body pony car that shares its platform but no sheet metal with the Dodge Challenger: two headlamps instead of the Challenger's four (only the 1971 Barracuda had four).",
     "referenceUrl": "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+  },
+  {
+    "id": "land-rover-series-3",
+    "make": "Land Rover",
+    "model": "Series III",
+    "modelAliases": [
+      "Series 3",
+      "SIII",
+      "Series",
+      "88",
+      "109",
+      "Land Rover 88",
+      "Land Rover 109"
+    ],
+    "makeAliases": [
+      "Land-Rover"
+    ],
+    "extraWords": [
+      "88",
+      "109",
+      "Station Wagon",
+      "Pick-Up",
+      "Hardtop"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [
+      1971,
+      1985
+    ],
+    "categories": [
+      "offroad",
+      "european",
+      "classic"
+    ],
+    "tip": "Flat-panelled utility 4×4 with headlamps in the front wings and a plastic grille (earlier Series cars had a metal one); the most common Series Land Rover, built 1971–1985 before the coil-sprung 90/110 (later Defender).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Land_Rover_Series"
   }
 ]
