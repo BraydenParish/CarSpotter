@@ -14,6 +14,7 @@ import {
   summarize,
   tick,
   useHint,
+  partyStandings,
   type RunState,
 } from './engine';
 import { DEFAULT_FILTERS, type RunConfig } from './modes';
@@ -301,5 +302,55 @@ describe('sharing', () => {
     expect(text).toContain('CarSpotter Daily 2026-10-03');
     expect(text).toContain('🟩🟩🟩🟩🟩');
     for (const n of names) expect(text.toLowerCase()).not.toContain(` ${n.toLowerCase()} `);
+  });
+});
+
+describe('party (pass & play)', () => {
+  it('rotates turns, keeps per-player streaks and ranks the players', () => {
+    let s = start({ mode: 'party', players: ['Ana', 'Ben', 'Cy'] });
+    expect(s.totalRounds).toBe(15);
+    let t = 0;
+    const vehicles: string[] = [];
+    while (s.phase !== 'finished') {
+      s = photoLoaded(s, (t += 100));
+      vehicles.push(s.question!.vehicle.id);
+      const player = (s.question!.n - 1) % 3;
+      // Ana always right, Ben always wrong, Cy right only on odd turns of hers.
+      const right = player === 0 || (player === 2 && s.question!.n % 2 === 1);
+      s = submitChoice(s, right ? correctKey(s) : wrongKey(s), (t += 1000));
+      expect(s.results.at(-1)!.player).toBe(player);
+      s = next(ctx, s, rng);
+    }
+    expect(new Set(vehicles).size).toBe(15);
+    // Ana's streak runs over her own five turns despite Ben's misses in between.
+    expect(s.results.filter((r) => r.player === 0).map((r) => r.streakAfter)).toEqual([1, 2, 3, 4, 5]);
+    const table = partyStandings(s);
+    expect(table.map((r) => r.name)).toEqual(['Ana', 'Cy', 'Ben']);
+    expect(table[0]).toMatchObject({ rank: 1, correct: 5, answered: 5 });
+    expect(table[2]).toMatchObject({ score: 0, correct: 0 });
+    expect(table.reduce((t2, r) => t2 + r.score, 0)).toBe(s.score);
+  });
+
+  it('gives everyone the same number of turns when cars are scarce', () => {
+    const r = createRun(ctx, cfg({ mode: 'party', players: ['A', 'B', 'C', 'D'], filters: { setting: 'all', categories: ['supercar'] } }), { now: 0, rng });
+    if (!r.ok) return; // fixture set may have too few supercars for four players
+    expect(r.state.totalRounds! % 4).toBe(0);
+  });
+
+  it('never changes the owner’s stats, garage or bests', () => {
+    let s = start({ mode: 'party', players: ['A', 'B'] });
+    let p = newProfile();
+    let t = 0;
+    while (s.phase !== 'finished') {
+      s = photoLoaded(s, (t += 100));
+      s = submitChoice(s, correctKey(s), (t += 500));
+      p = applyRound(p, ctx, s, s.results.at(-1)!);
+      s = next(ctx, s, rng);
+    }
+    const out = applyRunEnd(p, s);
+    expect(out.profile.stats).toEqual(newProfile().stats);
+    expect(out.profile.garage).toEqual({});
+    expect(out.profile.bests).toEqual({});
+    expect(out.newBest).toBe(false);
   });
 });

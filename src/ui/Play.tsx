@@ -11,6 +11,10 @@ import {
   submitTyped,
   tick,
   useHint,
+  partyPlayers,
+  partyPlayerIndex,
+  partyStandings,
+  partyStreak,
   type RoundResult,
   type RunState,
 } from '../game/engine';
@@ -39,7 +43,12 @@ export function Play({
   onExit: () => void;
   onAgain: (config: RunConfig) => void;
 }) {
-  const { ctx, settings, updateAndCheck, pushToast } = useStore();
+  const { ctx, settings, update, updateAndCheck, pushToast } = useStore();
+  const party = initial.config.mode === 'party';
+  /** Party: the round number whose player has confirmed they hold the phone. */
+  const [readyFor, setReadyFor] = useState(0);
+  const readyRef = useRef(0);
+  readyRef.current = readyFor;
   const [s, setS] = useState<RunState>(initial);
   const sRef = useRef(s);
   const [now, setNow] = useState(() => Date.now());
@@ -60,7 +69,7 @@ export function Play({
     (prev: RunState, n: RunState) => {
       if (n.results.length <= prev.results.length) return;
       const round: RoundResult = n.results[n.results.length - 1];
-      const fresh = updateAndCheck((p) => applyRound(p, ctx, n, round), n);
+      const fresh = n.config.mode === 'party' ? [] : updateAndCheck((p) => applyRound(p, ctx, n, round), n);
       if (fresh.length) {
         setUnlocked((u) => [...u, ...fresh]);
         play('unlock', settings.sound);
@@ -176,6 +185,12 @@ export function Play({
   useEffect(() => {
     if (s.phase !== 'finished' || finalized.current) return;
     finalized.current = true;
+    if (s.config.mode === 'party') {
+      // Keep the deck rotation so the next game starts with fresh cars; nothing else is recorded.
+      update((p) => applyRunEnd(p, s).profile);
+      play('best', settings.sound);
+      return;
+    }
     let out: RunOutcome | null = null;
     const fresh = updateAndCheck((p) => {
       out = applyRunEnd(p, s);
@@ -191,7 +206,7 @@ export function Play({
       play('best', settings.sound);
       buzz([40, 40, 40, 40, 90], settings.haptics);
     }
-  }, [s, updateAndCheck, pushToast, settings.sound, settings.haptics]);
+  }, [s, update, updateAndCheck, pushToast, settings.sound, settings.haptics]);
 
   /* --- Keyboard shortcuts ------------------------------------------ */
   useEffect(() => {
@@ -204,6 +219,7 @@ export function Play({
         e.preventDefault();
         onNext();
       }
+      if (cur.config.mode === 'party' && cur.question && readyRef.current !== cur.question.n) return;
       if (cur.phase === 'question' && !typing && cur.question?.choices && /^[1-4]$/.test(e.key)) {
         const choice = cur.question.choices[Number(e.key) - 1];
         if (choice) onChoice(choice.key);
@@ -233,6 +249,11 @@ export function Play({
     s.config.mode === 'theme' ? (THEMES.find((t) => t.id === s.config.themeId)?.name ?? mode.name) : mode.name;
   const roundLabel = s.totalRounds ? `${Math.min(s.results.length + (s.phase === 'reveal' ? 0 : 1), s.totalRounds)} / ${s.totalRounds}` : `Round ${(q?.n ?? 1)}`;
   const revealed = s.phase === 'reveal';
+  const playerIdx = party && q ? partyPlayerIndex(s.config, q.n) : null;
+  const playerName = playerIdx !== null ? partyPlayers(s.config)[playerIdx] : null;
+  const playerScore = playerIdx !== null ? (partyStandings(s).find((r) => r.player === playerIdx)?.score ?? 0) : null;
+  const handoff = party && !!q && !revealed && readyFor !== q.n;
+  const shownStreak = playerIdx !== null ? (revealed ? s.streak : partyStreak(s, playerIdx)) : s.streak;
 
   return (
     <div className="mx-auto flex min-h-dvh max-w-4xl flex-col px-3 pb-4 pt-2 sm:px-6">
@@ -244,6 +265,7 @@ export function Play({
         <div className="min-w-0 flex-1">
           <div className="truncate text-sm font-semibold">{title}</div>
           <div className="text-xs text-muted">
+            {playerName ? <span className="font-semibold text-accent">{playerName}’s turn · </span> : null}
             {DIFF_LABEL[s.config.difficulty]} · {roundLabel}
           </div>
         </div>
@@ -265,16 +287,16 @@ export function Play({
             {(remaining / 1000).toFixed(1)}s
           </div>
         )}
-        <div className="flex items-center gap-1 rounded-xl border border-line px-2.5 py-1 text-sm" aria-label={`Streak ${s.streak}`}>
-          <span className={`text-accent ${s.streak >= 3 ? 'anim-flame' : ''}`}>
+        <div className="flex items-center gap-1 rounded-xl border border-line px-2.5 py-1 text-sm" aria-label={`Streak ${shownStreak}`}>
+          <span className={`text-accent ${shownStreak >= 3 ? 'anim-flame' : ''}`}>
             <Icon name="flame" size={16} />
           </span>
-          <span className="font-bold tabular">{s.streak}</span>
+          <span className="font-bold tabular">{shownStreak}</span>
         </div>
         <div className="text-right">
-          <div className="label !text-[10px]">Score</div>
+          <div className="label !text-[10px]">{playerName ? 'Their score' : 'Score'}</div>
           <div className="font-display text-xl font-extrabold leading-none tabular" aria-live="polite">
-            {s.score.toLocaleString('en-US')}
+            {(playerScore ?? s.score).toLocaleString('en-US')}
           </div>
         </div>
       </header>
@@ -309,6 +331,20 @@ export function Play({
               </div>
             </div>
           )}
+          {handoff && (
+            <div className="absolute inset-0 z-10 grid place-items-center bg-surface p-4 text-center">
+              <div className="anim-pop">
+                <div className="mx-auto grid h-14 w-14 place-items-center rounded-full bg-raised text-accent">
+                  <Icon name="users" size={28} />
+                </div>
+                <p className="mt-3 text-sm text-muted">Pass the phone to</p>
+                <p className="font-display text-3xl font-extrabold">{playerName}</p>
+                <button type="button" className="btn btn-primary mt-4" onClick={() => setReadyFor(q.n)} autoFocus>
+                  I’m ready — show the car
+                </button>
+              </div>
+            </div>
+          )}
           <button
             type="button"
             onClick={() => setExpanded(true)}
@@ -331,7 +367,7 @@ export function Play({
       )}
 
       {/* Question / reveal */}
-      {q && s.phase !== 'reveal' && (
+      {q && s.phase !== 'reveal' && !handoff && (
         <section className="mt-3 flex flex-1 flex-col gap-3" aria-label="Your answer">
           {s.config.hintsEnabled && s.phase === 'question' && <HintBar s={s} onHint={onHint} />}
           {q.choices ? (
@@ -366,7 +402,7 @@ export function Play({
         <div className="p-6">
           <h2 className="font-display text-xl font-bold">Leave this run?</h2>
           <p className="mt-2 text-soft">
-            Your answers so far are already saved to your stats and garage.
+            {s.config.mode === 'party' ? 'Party games aren’t recorded; the scoreboard so far will be shown.' : 'Your answers so far are already saved to your stats and garage.'}
             {mode.ranked ? ' A run you leave early doesn’t set a personal best.' : ''}
             {s.config.mode === 'daily' ? ' Leaving today’s challenge early counts as your attempt.' : ''}
           </p>

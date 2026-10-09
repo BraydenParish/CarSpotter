@@ -15,7 +15,7 @@ import { buildChoices, type Choice } from './distractors';
 import { expertField, type ExpertField } from './expert';
 import { checkChoice, checkTyped, type CheckResult, type TypedAnswer } from './check';
 import type { FieldResult } from './matching';
-import { MODES, SURVIVAL, TIME_ATTACK, type RunConfig } from './modes';
+import { MODES, PARTY, SURVIVAL, TIME_ATTACK, type RunConfig } from './modes';
 import { dailyPhotos, poolFor } from './pool';
 import type { Rng } from './rng';
 import { MAX_HINTS, scoreRound, type ScoreBreakdown } from './scoring';
@@ -49,6 +49,8 @@ export interface RoundResult {
   clockDelta: number;
   /** Survival lives change. */
   lifeDelta: number;
+  /** Party mode: index of the player who answered. */
+  player?: number;
 }
 
 export interface RunState {
@@ -154,7 +156,14 @@ export function createRun(ctx: GameContext, config: RunConfig, opts: CreateRunOp
     pool = poolFor(ctx.ds, config, opts.practiceVehicles);
   }
   if (!pool.length) return { ok: false, reason: 'empty-pool' };
-  const totalRounds = fixed ? fixed.length : mode.rounds === null ? null : Math.min(mode.rounds, distinctVehicles(pool));
+  let totalRounds = fixed ? fixed.length : mode.rounds === null ? null : Math.min(mode.rounds, distinctVehicles(pool));
+  if (config.mode === 'party') {
+    // Everyone gets the same number of turns, and no car repeats within the game.
+    const players = partyPlayers(config).length;
+    const each = Math.min(PARTY.roundsEach, Math.floor(distinctVehicles(pool) / players));
+    if (each < 1) return { ok: false, reason: 'empty-pool' };
+    totalRounds = each * players;
+  }
 
   const base: RunState = {
     config,
@@ -284,7 +293,10 @@ function settle(s: RunState, check: CheckResult | null, skipped: boolean, now: n
   const q = s.question!;
   const answerMs = s.shownAt !== null ? now - s.shownAt : null;
   const fully = !skipped && !!check?.fullyCorrect;
-  const streakAfter = fully ? s.streak + 1 : 0;
+  const player = s.config.mode === 'party' ? partyPlayerIndex(s.config, q.n) : undefined;
+  // Party streaks are per player: continue from that player's previous turn.
+  const streakBefore = player === undefined ? s.streak : (lastResultOf(s, player)?.streakAfter ?? 0);
+  const streakAfter = fully ? streakBefore + 1 : 0;
   const mode = MODES[s.config.mode];
   const breakdown = check
     ? scoreRound({
@@ -328,6 +340,7 @@ function settle(s: RunState, check: CheckResult | null, skipped: boolean, now: n
     streakAfter,
     clockDelta,
     lifeDelta,
+    ...(player === undefined ? {} : { player }),
   };
   return {
     ...next,
@@ -421,4 +434,63 @@ export function summarize(s: RunState): RunSummary {
     perfect: answered > 0 && correct === answered && (s.totalRounds === null || answered >= s.totalRounds),
     assisted: s.assisted,
   };
+}
+
+/* ------------------------------------------------------------------ */
+/* Party (pass & play)                                                  */
+/* ------------------------------------------------------------------ */
+
+/** Player names for a party config, defaulting to two players. */
+export function partyPlayers(config: RunConfig): string[] {
+  const names = (config.players ?? []).map((n) => n.trim()).filter(Boolean).slice(0, PARTY.maxPlayers);
+  while (names.length < PARTY.minPlayers) names.push(`Player ${names.length + 1}`);
+  return names;
+}
+
+/** Whose turn round n (1-based) is. */
+export function partyPlayerIndex(config: RunConfig, n: number): number {
+  return (n - 1) % partyPlayers(config).length;
+}
+
+function lastResultOf(s: RunState, player: number): RoundResult | undefined {
+  for (let i = s.results.length - 1; i >= 0; i--) if (s.results[i].player === player) return s.results[i];
+  return undefined;
+}
+
+/** Current streak of a party player (for the HUD). */
+export function partyStreak(s: RunState, player: number): number {
+  return lastResultOf(s, player)?.streakAfter ?? 0;
+}
+
+export interface PartyStanding {
+  player: number;
+  name: string;
+  score: number;
+  correct: number;
+  answered: number;
+  bestStreak: number;
+  rank: number;
+}
+
+/** Scoreboard, highest score first; ties share a rank (and are broken by correct answers). */
+export function partyStandings(s: RunState): PartyStanding[] {
+  const names = partyPlayers(s.config);
+  const rows = names.map((name, player) => {
+    const mine = s.results.filter((r) => r.player === player);
+    return {
+      player,
+      name,
+      score: mine.reduce((t, r) => t + r.points, 0),
+      correct: mine.filter((r) => r.outcome === 'correct').length,
+      answered: mine.length,
+      bestStreak: mine.reduce((m, r) => Math.max(m, r.streakAfter), 0),
+      rank: 0,
+    };
+  });
+  rows.sort((a, b) => b.score - a.score || b.correct - a.correct || a.player - b.player);
+  rows.forEach((r, i) => {
+    const prev = rows[i - 1];
+    r.rank = prev && prev.score === r.score && prev.correct === r.correct ? prev.rank : i + 1;
+  });
+  return rows;
 }

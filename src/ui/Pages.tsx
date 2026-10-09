@@ -10,6 +10,7 @@ import { PhotoCredit } from './Credit';
 import type { Route } from './router';
 import { useStore } from './store';
 import { storageKey } from '../lib/storage';
+import { OfflineCard } from './Offline';
 
 /* ------------------------------------------------------------------ */
 /* Awards                                                              */
@@ -171,6 +172,8 @@ export function SettingsPage({ go }: { go: (r: Route) => void }) {
           />
         </div>
       </div>
+
+      <OfflineCard />
 
       <h2 className="label mb-2 mt-8">Your data</h2>
       <div className="card space-y-3 p-4">

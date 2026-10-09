@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import type { Category } from '../data/types';
 import { filterOptions, modeAvailability, setupPoolSize } from '../game/availability';
 import { distinctVehicles } from '../game/deck';
-import { DAILY_ROUNDS, MODES, THEMES, type Filters, type ModeId, type RunConfig } from '../game/modes';
+import { DAILY_ROUNDS, MODES, PARTY, THEMES, type Filters, type ModeId, type RunConfig } from '../game/modes';
 import { availableThemes, dailyKey, fullPhotos, msUntilDailyReset } from '../game/pool';
 import { dailyRecordKey, practiceList } from '../game/progress';
 import { BASE_POINTS, type Difficulty } from '../game/scoring';
@@ -21,6 +21,7 @@ const MODE_ICONS: Record<ModeId, string> = {
   theme: 'layers',
   detail: 'zoom',
   practice: 'repeat',
+  party: 'users',
 };
 
 export const DIFF_LABEL: Record<Difficulty, string> = { normal: 'Normal', hard: 'Hard', expert: 'Expert' };
@@ -84,7 +85,7 @@ export function Home({ go, onStart }: { go: (r: Route) => void; onStart: (c: Run
   const last = profile.lastSetup;
   const quickPool = setupPoolSize(ctx, last.mode === 'daily' || last.mode === 'practice' ? 'session' : last.mode, last.difficulty, last.filters, last.themeId, practice);
 
-  const modes: ModeId[] = ['session', 'classic', 'timeattack', 'survival', 'theme', 'detail', 'practice'];
+  const modes: ModeId[] = ['session', 'classic', 'timeattack', 'survival', 'theme', 'detail', 'party', 'practice'];
 
   return (
     <div className="mx-auto max-w-5xl px-4 pb-16 pt-4 sm:px-6">
@@ -265,7 +266,7 @@ export function Home({ go, onStart }: { go: (r: Route) => void; onStart: (c: Run
           mode={setupMode}
           onClose={() => setSetupMode(null)}
           onStart={(config) => {
-            if (config.mode !== 'daily' && config.mode !== 'practice') {
+            if (config.mode !== 'daily' && config.mode !== 'practice' && config.mode !== 'party') {
               update((p) => ({ ...p, lastSetup: { mode: config.mode, difficulty: config.difficulty, filters: config.filters, themeId: config.themeId } }));
             }
             setSetupMode(null);
@@ -291,9 +292,13 @@ function SetupSheet({ mode, onClose, onStart }: { mode: ModeId; onClose: () => v
     mode === 'theme' ? (themes.find((t) => t.theme.id === profile.lastSetup.themeId)?.theme.id ?? themes[0]?.theme.id) : undefined,
   );
 
+  const [players, setPlayers] = useState<string[]>(() => (mode === 'party' ? loadPartyNames() : []));
   const poolSize = setupPoolSize(ctx, mode, difficulty, filters, themeId, practice);
   const dailyDone = mode === 'daily' && !!profile.daily[dailyRecordKey(today, difficulty)];
-  const rounds = info.rounds === null ? null : mode === 'daily' ? DAILY_ROUNDS : Math.min(info.rounds, poolSize);
+  const partyEach = Math.min(PARTY.roundsEach, Math.floor(poolSize / Math.max(players.length, 1)));
+  const rounds =
+    info.rounds === null ? null : mode === 'daily' ? DAILY_ROUNDS : mode === 'party' ? partyEach * players.length : Math.min(info.rounds, poolSize);
+  const startable = poolSize > 0 && !dailyDone && (mode !== 'party' || partyEach > 0);
 
   const toggleCategory = (c: Category) =>
     setFilters((f) => ({ ...f, categories: f.categories.includes(c) ? f.categories.filter((x) => x !== c) : [...f.categories, c] }));
@@ -351,6 +356,37 @@ function SetupSheet({ mode, onClose, onStart }: { mode: ModeId; onClose: () => v
                 </button>
               ))}
             </div>
+          </fieldset>
+        )}
+
+        {mode === 'party' && (
+          <fieldset className="mt-5">
+            <legend className="label mb-2">Players</legend>
+            <ol className="space-y-2">
+              {players.map((name, i) => (
+                <li key={i} className="flex items-center gap-2">
+                  <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-raised font-bold text-accent">{i + 1}</span>
+                  <input
+                    className="field"
+                    value={name}
+                    maxLength={16}
+                    aria-label={`Player ${i + 1} name`}
+                    onChange={(e) => setPlayers((ps) => ps.map((p, j) => (j === i ? e.target.value : p)))}
+                    autoComplete="off"
+                  />
+                  {players.length > PARTY.minPlayers && (
+                    <button type="button" className="btn btn-ghost h-11 w-11 shrink-0 p-0" aria-label={`Remove player ${i + 1}`} onClick={() => setPlayers((ps) => ps.filter((_, j) => j !== i))}>
+                      <Icon name="close" size={18} />
+                    </button>
+                  )}
+                </li>
+              ))}
+            </ol>
+            {players.length < PARTY.maxPlayers && (
+              <button type="button" className="btn btn-ghost mt-2" onClick={() => setPlayers((ps) => [...ps, `Player ${ps.length + 1}`])}>
+                <Icon name="plus" size={18} /> Add player
+              </button>
+            )}
           </fieldset>
         )}
 
@@ -416,7 +452,8 @@ function SetupSheet({ mode, onClose, onStart }: { mode: ModeId; onClose: () => v
             <p className="text-muted">
               {poolSize} car{poolSize === 1 ? '' : 's'} in the pool
               {rounds !== null ? ` · ${rounds} round${rounds === 1 ? '' : 's'}` : ''}
-              {rounds !== null && info.rounds !== null && rounds < info.rounds && mode !== 'daily' ? ' (shortened to avoid repeats)' : ''}
+              {mode === 'party' && partyEach > 0 ? ` (${partyEach} each)` : ''}
+              {rounds !== null && info.rounds !== null && mode !== 'daily' && (mode === 'party' ? partyEach < info.rounds : rounds < info.rounds) ? ' (shortened to avoid repeats)' : ''}
             </p>
           )}
         </div>
@@ -424,8 +461,10 @@ function SetupSheet({ mode, onClose, onStart }: { mode: ModeId; onClose: () => v
         <button
           type="button"
           className="btn btn-primary mt-4 w-full text-lg"
-          disabled={poolSize === 0 || dailyDone}
-          onClick={() =>
+          disabled={!startable}
+          onClick={() => {
+            const names = players.map((n, i) => n.trim() || `Player ${i + 1}`);
+            if (mode === 'party') saveParty(names);
             onStart({
               mode,
               difficulty,
@@ -433,12 +472,37 @@ function SetupSheet({ mode, onClose, onStart }: { mode: ModeId; onClose: () => v
               themeId,
               dailyKey: mode === 'daily' ? today : undefined,
               hintsEnabled: settings.hints,
-            })
-          }
+              ...(mode === 'party' ? { players: names } : {}),
+            });
+          }}
         >
           Start <Icon name="next" />
         </button>
       </div>
     </Modal>
   );
+}
+
+const PARTY_NAMES_KEY = 'carspotter.partyNames';
+
+/** Last party's player names (a per-device convenience; falls back to defaults). */
+function loadPartyNames(): string[] {
+  try {
+    const raw = JSON.parse(localStorage.getItem(PARTY_NAMES_KEY) ?? '[]');
+    if (Array.isArray(raw)) {
+      const names = raw.filter((n): n is string => typeof n === 'string').slice(0, PARTY.maxPlayers);
+      if (names.length >= PARTY.minPlayers) return names;
+    }
+  } catch {
+    /* storage unavailable */
+  }
+  return ['Player 1', 'Player 2'];
+}
+
+function saveParty(names: string[]) {
+  try {
+    localStorage.setItem(PARTY_NAMES_KEY, JSON.stringify(names));
+  } catch {
+    /* storage unavailable */
+  }
 }

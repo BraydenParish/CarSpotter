@@ -212,7 +212,8 @@ export function applyRound(p: Profile, ctx: GameContext, run: RunState, round: R
   const config = run.config;
   const vehicle = ctx.ds.vehicleById.get(round.vehicleId);
   const photo = ctx.ds.photos.find((ph) => ph.id === round.photoId);
-  if (!vehicle) return p;
+  // Party answers belong to whoever held the phone, not the profile owner.
+  if (!vehicle || config.mode === 'party') return p;
   const iso = now.toISOString();
   const practice = config.mode === 'practice';
   const correct = round.outcome === 'correct';
@@ -319,7 +320,8 @@ export function applyRunEnd(p: Profile, run: RunState, now: Date = new Date()): 
   const sum = summarize(run);
   const iso = now.toISOString();
   let profile: Profile = { ...p, seen: run.seen };
-  if (!sum.answered) return { profile, key: null, previousBest: null, newBest: false };
+  // Party games are shared between players, so they never touch the owner's stats or bests.
+  if (!sum.answered || config.mode === 'party') return { profile, key: null, previousBest: null, newBest: false };
 
   if (config.mode !== 'practice') {
     profile.stats = { ...profile.stats, runs: profile.stats.runs + 1 };

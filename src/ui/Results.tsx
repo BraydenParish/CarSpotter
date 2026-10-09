@@ -1,5 +1,5 @@
 import type { Achievement } from '../game/achievements';
-import { summarize, type RunState } from '../game/engine';
+import { partyPlayers, partyStandings, summarize, type RunState } from '../game/engine';
 import { formatYearRange } from '../game/matching';
 import { MODES, THEMES, type RunConfig } from '../game/modes';
 import type { RunOutcome } from '../game/progress';
@@ -56,6 +56,8 @@ export function Results({
       </div>
     );
   }
+
+  if (run.config.mode === 'party') return <PartyResults run={run} onExit={onExit} onAgain={onAgain} />;
 
   const headline =
     outcome?.newBest && sum.score > 0
@@ -172,6 +174,80 @@ export function Results({
         )}
         <button type="button" className="btn btn-ghost text-lg" onClick={onExit}>
           <Icon name="home" size={20} /> {canAgain ? 'Home & other modes' : 'Try another mode'}
+        </button>
+      </div>
+    </div>
+  );
+}
+
+const MEDAL = ['🥇', '🥈', '🥉', '4'];
+
+function PartyResults({ run, onExit, onAgain }: { run: RunState; onExit: () => void; onAgain: (c: RunConfig) => void }) {
+  const { ctx } = useStore();
+  const standings = partyStandings(run);
+  const names = partyPlayers(run.config);
+  const winners = standings.filter((r) => r.rank === 1);
+  const headline = winners.length > 1 ? `It’s a tie: ${winners.map((w) => w.name).join(' & ')}!` : `${winners[0].name} wins!`;
+  return (
+    <div className="mx-auto max-w-3xl px-4 pb-16 pt-6 sm:px-6">
+      <div className="text-center">
+        <div className="label">
+          {END_TEXT[run.endReason ?? 'complete']} · Party · {DIFF_LABEL[run.config.difficulty]}
+          {run.assisted ? ' · hints used' : ''}
+        </div>
+        <h1 className="anim-pop mt-2 font-display text-4xl font-extrabold tracking-tight text-accent sm:text-5xl">{headline}</h1>
+      </div>
+
+      <section className="card mt-6 p-4" aria-label="Scoreboard">
+        <div className="label mb-2">Scoreboard</div>
+        <ol className="divide-y divide-line">
+          {standings.map((r) => (
+            <li key={r.player} className="flex items-center gap-3 py-3">
+              <span className="w-8 text-center text-2xl" aria-label={`Place ${r.rank}`}>
+                {r.rank <= 3 ? MEDAL[r.rank - 1] : r.rank}
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="truncate font-display text-lg font-bold">{r.name}</div>
+                <div className="text-xs text-muted">
+                  {r.correct}/{r.answered} correct · best streak {r.bestStreak}
+                </div>
+              </div>
+              <span className="font-display text-2xl font-extrabold tabular">{r.score.toLocaleString('en-US')}</span>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      <section className="card mt-4 p-4" aria-label="Round by round">
+        <div className="label mb-2">Round by round</div>
+        <ol className="divide-y divide-line">
+          {run.results.map((r) => {
+            const v = ctx.ds.vehicleById.get(r.vehicleId)!;
+            const p = ctx.ds.photos.find((x) => x.id === r.photoId);
+            return (
+              <li key={r.n} className="flex items-center gap-3 py-2.5">
+                {p && <img src={p.imageSmall} alt="" loading="lazy" className="h-12 w-16 shrink-0 rounded-lg object-cover" />}
+                <div className="min-w-0 flex-1">
+                  <div className="font-semibold leading-snug">
+                    {v.make} {v.model}
+                  </div>
+                  <div className="text-xs text-muted">{names[r.player ?? 0]}</div>
+                </div>
+                <span aria-hidden="true">{OUTCOME_ICON[r.outcome]}</span>
+                <span className="w-14 text-right font-semibold tabular">+{r.points}</span>
+              </li>
+            );
+          })}
+        </ol>
+        <p className="mt-3 text-sm text-muted">Party games don’t change your own stats, garage or personal bests.</p>
+      </section>
+
+      <div className="mt-6 grid gap-3 sm:grid-cols-2">
+        <button type="button" className="btn btn-primary text-lg" onClick={() => onAgain(run.config)} data-autofocus>
+          <Icon name="replay" size={20} /> Rematch
+        </button>
+        <button type="button" className="btn btn-ghost text-lg" onClick={onExit}>
+          <Icon name="home" size={20} /> Home
         </button>
       </div>
     </div>

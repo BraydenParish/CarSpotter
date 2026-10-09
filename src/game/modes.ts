@@ -14,7 +14,8 @@ export type ModeId =
   | 'daily'
   | 'theme'
   | 'detail'
-  | 'practice';
+  | 'practice'
+  | 'party';
 
 export interface ModeInfo {
   id: ModeId;
@@ -46,6 +47,7 @@ export const DAILY_ROUNDS = 5;
 export const SESSION_ROUNDS = 10;
 export const DETAIL_ROUNDS = 8;
 export const PRACTICE_ROUNDS = 10;
+export const PARTY = { minPlayers: 2, maxPlayers: 4, roundsEach: 5 };
 
 export const MODES: Record<ModeId, ModeInfo> = {
   classic: {
@@ -177,6 +179,23 @@ export const MODES: Record<ModeId, ModeInfo> = {
     usesFilters: false,
     difficulties: ['normal', 'hard', 'expert'],
   },
+  party: {
+    id: 'party',
+    name: 'Party (pass & play)',
+    tagline: '2–4 players, one phone. Take turns.',
+    rules: [
+      'Each player gets five cars, taking turns on the same device.',
+      'Every player answers a different car; nobody sees the same photo twice.',
+      'Streak bonuses are per player. Highest score wins.',
+      'Party games don’t change your own stats, garage or bests.',
+    ],
+    rounds: PARTY.roundsEach,
+    timed: false,
+    lives: null,
+    ranked: false,
+    usesFilters: true,
+    difficulties: ['normal', 'hard', 'expert'],
+  },
 };
 
 export interface Theme {
@@ -215,6 +234,8 @@ export interface RunConfig {
   /** Daily date key (YYYY-MM-DD, UTC). */
   dailyKey?: string;
   hintsEnabled: boolean;
+  /** Party mode: player names in turn order (2–4). */
+  players?: string[];
 }
 
 /** Personal-best key: separate per mode, theme, difficulty and assistance. */
