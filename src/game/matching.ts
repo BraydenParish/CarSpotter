@@ -247,6 +247,9 @@ export function matchModel(
     for (const g of [vehicle.generation.name, ...vehicle.generation.aliases]) {
       const gt = tokens(g);
       if (gt.length === 1) extras.add(gt[0]);
+      // "Golf 7" / "Golf VII": a generation alias that repeats the model name adds its tail as an extra.
+      const mt = tokens(vehicle.model);
+      if (gt.length > mt.length && mt.every((t, i) => gt[i] === t)) for (const t of gt.slice(mt.length)) extras.add(t);
       extras.add(compact(g));
     }
   }

@@ -194,3 +194,25 @@ describe('Expert fields', () => {
     expect(res.scoreFields).toEqual({ make: true, model: false, detail: true });
   });
 });
+
+describe('answers found while playtesting with real photos', () => {
+  it('accepts names players actually type for these cars', () => {
+    expect(model('Golf 7', 'vw-golf-mk7').correct).toBe(true);
+    expect(model('Golf VII', 'vw-golf-mk7').correct).toBe(true);
+    expect(model('993', 'porsche-911-993').correct).toBe(true);
+    expect(model('NSX-R', 'honda-nsx-na').correct).toBe(true);
+    expect(model('FJ40', 'toyota-land-cruiser-j40').correct).toBe(true);
+    expect(model('Landcruiser', 'toyota-land-cruiser-j40').correct).toBe(true);
+    expect(model('Jimny', 'suzuki-jimny-jb64').correct).toBe(true);
+  });
+
+  it('never accepts a different real model as a typo or alias', () => {
+    expect(model('260Z', 'datsun-240z').correct).toBe(false);
+    expect(model('280Z', 'datsun-240z').correct).toBe(false);
+    expect(model('Prius c', 'toyota-prius-xw30').correct).toBe(false);
+    expect(model('Prius v', 'toyota-prius-xw30').correct).toBe(false);
+    expect(model('300 SLR', 'mercedes-300sl').correct).toBe(false);
+    expect(model('FJ Cruiser', 'toyota-land-cruiser-j40').correct).toBe(false);
+    expect(model('Samurai', 'suzuki-jimny-jb64').correct).toBe(false);
+  });
+});

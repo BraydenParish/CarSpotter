@@ -45,6 +45,7 @@
     "make": "Honda",
     "model": "NSX",
     "modelAliases": [],
+    "extraWords": ["R", "Type R", "Type S", "NSX-R"],
     "makeAliases": ["Acura"],
     "generation": { "name": "NA1/NA2", "aliases": ["NA1", "NA2", "NA", "first generation", "1st generation", "1st gen", "first gen", "Mk1"] },
     "bodyStyle": "coupe",
@@ -58,7 +59,7 @@
     "id": "datsun-240z",
     "make": "Datsun",
     "model": "240Z",
-    "modelAliases": ["Fairlady Z", "Fairlady", "260Z", "280Z", "S30", "Z"],
+    "modelAliases": ["Fairlady Z", "Fairlady", "S30", "Z"],
     "makeAliases": ["Nissan"],
     "generation": { "name": "S30", "aliases": ["first generation", "1st generation", "1st gen", "first gen"] },
     "bodyStyle": "coupe",
@@ -193,7 +194,7 @@
     "id": "porsche-911-993",
     "make": "Porsche",
     "model": "911",
-    "modelAliases": ["Carrera"],
+    "modelAliases": ["Carrera", "993"],
     "extraWords": ["Carrera", "Carrera 4", "4S", "Turbo"],
     "generation": { "name": "993", "aliases": ["type 993"] },
     "bodyStyle": "coupe",
@@ -382,5 +383,31 @@
     "categories": ["everyday", "american"],
     "tip": "Aluminium-bodied full-size pickup; many trims have C-clamp-shaped LED running lights in the headlamps.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+  },
+  {
+    "id": "toyota-land-cruiser-j40",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "modelAliases": ["Landcruiser", "FJ40", "BJ40", "FJ 40"],
+    "generation": { "name": "J40", "aliases": ["40 series", "40-series", "FJ40", "BJ40", "J 40", "40"] },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [1960, 1984],
+    "categories": ["offroad", "jdm", "classic"],
+    "tip": "Short, upright two-door body-on-frame 4×4, a little larger than a Jeep CJ, with round headlamps in a flat grille panel; replaced by the 70 Series in most markets in 1984.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+  },
+  {
+    "id": "suzuki-jimny-jb64",
+    "make": "Suzuki",
+    "model": "Jimny",
+    "modelAliases": ["Jimny Sierra"],
+    "generation": { "name": "JB64", "aliases": ["JB74", "fourth generation", "4th generation", "4th gen", "Gen 4"] },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [2018, 2026],
+    "categories": ["offroad", "jdm", "everyday"],
+    "tip": "Boxy mini 4×4 with upright A-pillars, a flat clamshell bonnet, side windows that dip at the front, roof drip rails and a simple black grille with round headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Suzuki_Jimny"
   }
 ]

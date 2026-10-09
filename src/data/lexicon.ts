@@ -173,6 +173,10 @@ const ROWS: Row[] = [
   ['Jeep', 'Cherokee', 'suv', 1984, 2001, 'United States', ['offroad', 'american']],
   ['Jeep', 'Gladiator', 'pickup', 2019, 2024, 'United States', ['offroad', 'american']],
   ['Isuzu', 'Trooper', 'suv', 1991, 2002, 'Japan', ['offroad']],
+  ['Jeep', 'CJ-5', 'suv', 1955, 1983, 'United States', ['offroad', 'american', 'classic']],
+  ['Toyota', 'FJ Cruiser', 'suv', 2006, 2018, 'Japan', ['offroad']],
+  ['Lada', 'Niva', 'suv', 1977, 2020, 'Soviet Union', ['offroad', 'classic']],
+  ['Daihatsu', 'Rocky', 'suv', 1984, 1997, 'Japan', ['offroad']],
   // JDM / Japanese sports
   ['Nissan', '300ZX', 'coupe', 1989, 2000, 'Japan', ['jdm', 'sports']],
   ['Nissan', 'Silvia', 'coupe', 1999, 2002, 'Japan', ['jdm', 'sports']],
@@ -363,4 +367,5 @@ export const EXTRA_MODEL_NAMES: string[] = [
   '240Z', '260Z', '280Z', '280ZX', 'Z', '370Z', '510', '1600', 'Bluebird',
   'Lancer Evolution', 'Evo', 'Evolution', 'Lancer Evolution VI', 'Lancer Evolution X',
   'Model 3', 'Hilux', 'Land Cruiser', 'FJ Cruiser', 'Prado',
+  'Prius c', 'Prius v', 'Prius Prime', 'Jimny Wide', 'Samurai', 'Land Cruiser Prado', 'Bandeirante', 'Aqua', '300 SLR', 'Golf Plus', 'Golf Sportsvan',
 ];

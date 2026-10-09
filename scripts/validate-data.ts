@@ -140,7 +140,14 @@ console.log(`  approved full photos:    ${full.length} (street ${street}, studio
 console.log(`  distinct approved cars:  ${cars.size}`);
 console.log(`  Expert-eligible photos:  ${expert.length} (${new Set(expert.map((p) => p.vehicleId)).size} cars)`);
 console.log(`  detail crops:            ${details.length}`);
-console.log(`  candidates awaiting import: ${candidates.candidates?.length ?? 0}`);
+{
+  const cands = (candidates.candidates ?? []) as { id: string; review?: { status?: string } }[];
+  const inManifest = new Set(photos.map((p) => p.id));
+  const by = (st: string) => cands.filter((c) => c.review?.status === st).length;
+  console.log(`  reviewed candidates:     ${cands.length} (${by('approved')} approved, ${by('pending')} pending, ${by('rejected')} rejected — rejected ones are never imported)`);
+  const waiting = cands.filter((c) => c.review?.status !== 'rejected' && !inManifest.has(c.id)).length;
+  console.log(`  candidates awaiting import: ${waiting}`);
+}
 for (const w of warnings) console.warn(`  warning  ${w}`);
 for (const e of errors) console.error(`  ERROR    ${e}`);
 if (errors.length) {

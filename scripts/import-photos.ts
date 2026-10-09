@@ -17,7 +17,7 @@
  *      recording attribution, license and modification notices.
  */
 import sharp from 'sharp';
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { Angle, DetailPart, Photo, PhotoReview, PhotoSupports, Setting, Vehicle, YearEvidence } from '../src/data/types';
 import { download, imageInfo, plain } from './lib/commons';
@@ -103,11 +103,19 @@ for (const c of todo) {
   const allowed = licenseAllowed(license);
   console.log(`${tag} ${info.width}×${info.height} · ${license || 'no license'} · ${artist}${restrictions ? ` · restrictions: ${restrictions}` : ''}`);
 
-  const review: PhotoReview = allowed
-    ? c.review
-    : { status: 'rejected', reviewedBy: 'import-photos', date: new Date().toISOString().slice(0, 10), notes: `License "${license}" is not allowed for reuse in the game.` };
+  const review: PhotoReview = c.review;
   if (!allowed) rejected++;
   if (dryRun) continue;
+
+  // Rejected photos (by license or by review) stay in candidates.json as an audit trail but are
+  // never written to the manifest or shipped: drop any earlier record and image files.
+  if (!allowed || c.review.status === 'rejected') {
+    const ids = [c.id, ...(c.crops ?? []).map((k) => k.id)];
+    for (let i = photos.length - 1; i >= 0; i--) if (ids.includes(photos[i].id)) photos.splice(i, 1);
+    for (const id of ids) for (const f of [`photos/${id}.webp`, `photos/${id}-sm.webp`]) rmSync(join(root, 'public', f), { force: true });
+    if (allowed) console.log(`${tag} rejected in review — not imported (${c.review.notes})`);
+    continue;
+  }
 
   const image = `photos/${c.id}.webp`;
   const imageSmall = `photos/${c.id}-sm.webp`;

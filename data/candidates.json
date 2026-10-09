@@ -55,10 +55,10 @@
         "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: NA rear with round tail lamps and soft top; category Mazda MX-5 (NA)."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"MX-5\" boot badge legible above the plate."
       }
     },
     {
@@ -115,10 +115,10 @@
         "https://en.wikipedia.org/wiki/Toyota_Supra"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: A80 rear with wing; no model name legible."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Supra\" script on the rear panel is legible."
       }
     },
     {
@@ -145,10 +145,10 @@
         "https://en.wikipedia.org/wiki/Toyota_Supra"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: A80 at a classic car show."
+        "date": "2026-10-09",
+        "notes": "Full-size review: Show placard in frame carries the Supra logo and car description."
       }
     },
     {
@@ -805,10 +805,10 @@
         "https://en.wikipedia.org/wiki/Dodge_Challenger"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: weathered Challenger parked on a city street; no model script legible at this size."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger\" script on the grille is legible at full size."
       }
     },
     {
@@ -835,10 +835,10 @@
         "https://en.wikipedia.org/wiki/Dodge_Challenger"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: Challenger with hood raised at a cruise night."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Challenger R/T\" grille script legible at full size."
       }
     },
     {
@@ -865,10 +865,10 @@
         "https://en.wikipedia.org/wiki/Land_Rover_Defender"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: grey Defender 90 on a residential road."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"DEFENDER\" lettering across the bonnet is legible."
       }
     },
     {
@@ -955,10 +955,10 @@
         "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: orange JK hardtop parked on a suburban street."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"WRANGLER\" cowl badge visible on the fender."
       }
     },
     {
@@ -985,10 +985,10 @@
         "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: lime-green JK in a car park."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"WRANGLER\" cowl badge visible on the fender."
       }
     },
     {
@@ -1105,10 +1105,10 @@
         "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: black F-150 SuperCrew in a lot."
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"F150\" fender badge legible at full size."
       }
     },
     {
@@ -1135,10 +1135,10 @@
         "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
-        "date": "2026-10-04",
-        "notes": "Viewed: white F-150 on a street."
+        "date": "2026-10-09",
+        "notes": "Full-size review: Rejected with -01 pending a full-size check of the same fender badge; not yet downloaded."
       }
     },
     {
@@ -1379,6 +1379,1386 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: orange NSX nose-on; plate carries no model name."
+      }
+    },
+    {
+      "id": "porsche-911-993-01",
+      "file": "File:Porsche Carrera 4 1.jpg",
+      "vehicleId": "porsche-911-993",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1994,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1994–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_4_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_4_(993)",
+        "https://en.wikipedia.org/wiki/Porsche_993"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: silver 993 nose-on in a car park; only the Porsche crest is visible."
+      }
+    },
+    {
+      "id": "porsche-911-993-02",
+      "file": "File:1996 Porsche 911 Carrera 4.jpg",
+      "vehicleId": "porsche-911-993",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1994,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1994–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1996_Porsche_911_Carrera_4.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_4_(993)",
+        "https://en.wikipedia.org/wiki/Porsche_993"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: silver 993 at Goodwood FoS; no script visible from the front."
+      }
+    },
+    {
+      "id": "porsche-911-993-03",
+      "file": "File:Porsche 911 (993) Carrera 4 (6857614399).jpg",
+      "vehicleId": "porsche-911-993",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1994,
+        "to": 1998,
+        "basis": "No feature visible in the photo separates years within the 1994–1998 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_911_(993)_Carrera_4_(6857614399).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_4_(993)",
+        "https://en.wikipedia.org/wiki/Porsche_993"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black 993 in a showroom."
+      }
+    },
+    {
+      "id": "jaguar-etype-01",
+      "file": "File:Jaguar E-Type at the 2025 Shannons Adelaide Rally (028A4657).jpg",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1967,
+        "basis": "Glass-covered headlamps, fitted only to Series 1 cars (1961–1967); later cars have open headlamps."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_at_the_2025_Shannons_Adelaide_Rally_(028A4657).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_E-Type",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red E-Type coupe at a rally; sponsor stickers name no model."
+      }
+    },
+    {
+      "id": "jaguar-etype-02",
+      "file": "File:Jaguar E-Type at the 2025 Shannons Adelaide Rally (028A4658).jpg",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "rear-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_at_the_2025_Shannons_Adelaide_Rally_(028A4658).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jaguar_E-Type",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"E TYPE\" badge on the boot lid is legible."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-01",
+      "file": "File:1969 Chevrolet Camaro 327 (17301802463).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1969,
+        "to": 1969,
+        "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_327_(17301802463).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "pending",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Tiny \"Camaro\" script by the bonnet edge may be readable in the zoom view; held for a second look."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-02",
+      "file": "File:1969 Chevrolet Camaro; Hastings, MN (42418774664).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1969,
+        "to": 1969,
+        "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro;_Hastings,_MN_(42418774664).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" script on the front fender is legible."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-03",
+      "file": "File:1969 Chevrolet Camaro (4799276776).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1969,
+        "to": 1969,
+        "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_(4799276776).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: faded blue daily-driver 1969 Camaro in a lot."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-04",
+      "file": "File:'69 Chevrolet Camaro Coupe (Orange Julep '10).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1969,
+        "to": 1969,
+        "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'69_Chevrolet_Camaro_Coupe_(Orange_Julep_'10).jpg",
+        "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "pending",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Tiny script near the bonnet edge may read \"Camaro\" in the zoom view; held for a second look."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-01",
+      "file": "File:1980 Toyota Land Cruiser (FJ40) hardtop (26042130985).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1980_Toyota_Land_Cruiser_(FJ40)_hardtop_(26042130985).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the cowl side is legible."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-02",
+      "file": "File:1977 Toyota FJ40 Land Cruiser (18580571716).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1977_Toyota_FJ40_Land_Cruiser_(18580571716).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the cowl side is visible."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-03",
+      "file": "File:1977 Toyota FJ40 (36187556401).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1977_Toyota_FJ40_(36187556401).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the cowl side is legible."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-04",
+      "file": "File:1977 Toyota Landcruiser FJ40 (12942481495).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1977_Toyota_Landcruiser_FJ40_(12942481495).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Land Cruiser\" script on the cowl side is visible."
+      }
+    },
+    {
+      "id": "suzuki-jimny-jb64-01",
+      "file": "File:Suzuki Jimny XC (3BA-JB64W-JXCR-J).jpg",
+      "vehicleId": "suzuki-jimny-jb64",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCR-J).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Suzuki_Jimny_(JB64)",
+        "https://en.wikipedia.org/wiki/Suzuki_Jimny"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow JB64 at a dealer forecourt."
+      }
+    },
+    {
+      "id": "suzuki-jimny-jb64-02",
+      "file": "File:Suzuki Jimny XC (3BA-JB64W-JXCU-J).jpg",
+      "vehicleId": "suzuki-jimny-jb64",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCU-J).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Suzuki_Jimny_(JB64)",
+        "https://en.wikipedia.org/wiki/Suzuki_Jimny"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black JB64 in a showroom."
+      }
+    },
+    {
+      "id": "suzuki-jimny-jb64-03",
+      "file": "File:Suzuki Jimny XC.jpg",
+      "vehicleId": "suzuki-jimny-jb64",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2018,
+        "to": 2026,
+        "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Suzuki_Jimny_(JB64)",
+        "https://en.wikipedia.org/wiki/Suzuki_Jimny"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Jimny\" badge on the front bumper is legible."
+      }
+    },
+    {
+      "id": "jeep-wrangler-jk-03",
+      "file": "File:2008 Wrangler JK Unlimited Sahara.jpg",
+      "vehicleId": "jeep-wrangler-jk",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2008_Wrangler_JK_Unlimited_Sahara.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Wrangler_Unlimited_(JK)",
+        "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"WRANGLER UNLIMITED\" fender decal is legible."
+      }
+    },
+    {
+      "id": "jeep-wrangler-jk-04",
+      "file": "File:2008 Jeep Wrangler (JK MY07) Unlimited Sport 5-door hardtop (2015-05-29).jpg",
+      "vehicleId": "jeep-wrangler-jk",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2007,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2008_Jeep_Wrangler_(JK_MY07)_Unlimited_Sport_5-door_hardtop_(2015-05-29).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Jeep_Wrangler_Unlimited_(JK)",
+        "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"WRANGLER UNLIMITED\" fender decal is legible."
+      }
+    },
+    {
+      "id": "fiat-500-nuova-01",
+      "file": "File:1971 Fiat 500 1.jpg",
+      "vehicleId": "fiat-500-nuova",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1957,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1971_Fiat_500_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+        "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: blue 500 on a show field."
+      }
+    },
+    {
+      "id": "fiat-500-nuova-02",
+      "file": "File:1973 Fiat 500 1.jpg",
+      "vehicleId": "fiat-500-nuova",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1957,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1973_Fiat_500_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+        "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black 500 at Goodwood Revival."
+      }
+    },
+    {
+      "id": "fiat-500-nuova-03",
+      "file": "File:1967 Fiat Bambina.jpg",
+      "vehicleId": "fiat-500-nuova",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1957,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1967_Fiat_Bambina.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+        "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: lilac 500 at a swap meet."
+      }
+    },
+    {
+      "id": "fiat-500-nuova-04",
+      "file": "File:Auto Italia Spring car day Brooklands May 2010 IMG 9044 (4570208699) (2).jpg",
+      "vehicleId": "fiat-500-nuova",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1957,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Auto_Italia_Spring_car_day_Brooklands_May_2010_IMG_9044_(4570208699)_(2).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+        "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black 500 being driven, front."
+      }
+    },
+    {
+      "id": "vw-golf-mk7-01",
+      "file": "File:0 Volkswagen Golf VII 1.jpg",
+      "vehicleId": "vw-golf-mk7",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:0_Volkswagen_Golf_VII_1.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white Mk7 in a car park; front shows only the VW roundel."
+      }
+    },
+    {
+      "id": "vw-golf-mk7-02",
+      "file": "File:0 Volkswagen Golf VII 3.jpg",
+      "vehicleId": "vw-golf-mk7",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:0_Volkswagen_Golf_VII_3.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: grey Mk7 in a car park."
+      }
+    },
+    {
+      "id": "vw-golf-mk7-03",
+      "file": "File:2013 Volkswagen Golf (5G) 110TDI Highline hatchback (2018-10-12) 01.jpg",
+      "vehicleId": "vw-golf-mk7",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G)_110TDI_Highline_hatchback_(2018-10-12)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: grey Mk7 parked on a street."
+      }
+    },
+    {
+      "id": "vw-golf-mk7-04",
+      "file": "File:2013 Volkswagen Golf (5G MY13) 103TSI Highline 5-door hatchback (2015-07-24) 01.jpg",
+      "vehicleId": "vw-golf-mk7",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2012,
+        "to": 2020,
+        "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G_MY13)_103TSI_Highline_5-door_hatchback_(2015-07-24)_01.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white Mk7 at the kerb."
+      }
+    },
+    {
+      "id": "dodge-charger-2g-01",
+      "file": "File:Charger photo4.JPG",
+      "vehicleId": "dodge-charger-2g",
+      "setting": "other",
+      "angle": "side",
+      "modelYear": {
+        "from": 1968,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1968–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Charger_photo4.JPG",
+        "1969 Dodge ChargerCategory:1969_Dodge_Charger",
+        "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Charger\" script on the C-pillar is legible."
+      }
+    },
+    {
+      "id": "dodge-charger-2g-02",
+      "file": "File:Charger photo5.JPG",
+      "vehicleId": "dodge-charger-2g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1968–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Charger_photo5.JPG",
+        "1969 Dodge ChargerCategory:1969_Dodge_Charger",
+        "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Charger\" script in the grille and on the C-pillar is legible."
+      }
+    },
+    {
+      "id": "dodge-charger-2g-03",
+      "file": "File:1969 Dodge Charger (2650508820).jpg",
+      "vehicleId": "dodge-charger-2g",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1968–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1969_Dodge_Charger_(2650508820).jpg",
+        "1969 Dodge ChargerCategory:1969_Dodge_Charger",
+        "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Charger\" script in the grille is legible."
+      }
+    },
+    {
+      "id": "dodge-charger-2g-04",
+      "file": "File:1969 Dodge Charger (2).jpg",
+      "vehicleId": "dodge-charger-2g",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1968,
+        "to": 1970,
+        "basis": "No feature visible in the photo separates years within the 1968–1970 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1969_Dodge_Charger_(2).jpg",
+        "1969 Dodge ChargerCategory:1969_Dodge_Charger",
+        "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Charger\" script in the grille is legible."
+      }
+    },
+    {
+      "id": "nissan-skyline-r34-01",
+      "file": "File:HK Yuen Long 元朗 Yuen Lung Street 元龍街 Sunday red motor car.jpg",
+      "vehicleId": "nissan-skyline-r34",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:HK_Yuen_Long_元朗_Yuen_Lung_Street_元龍街_Sunday_red_motor_car.jpg",
+        "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+        "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red R34 coupe parked on a Hong Kong street."
+      }
+    },
+    {
+      "id": "nissan-skyline-r34-02",
+      "file": "File:Nissan Skyline (39048774032).jpg",
+      "vehicleId": "nissan-skyline-r34",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Nissan_Skyline_(39048774032).jpg",
+        "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+        "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black R34 GT-T on a show field."
+      }
+    },
+    {
+      "id": "nissan-skyline-r34-03",
+      "file": "File:Nissan Skyline (45436909041).jpg",
+      "vehicleId": "nissan-skyline-r34",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Nissan_Skyline_(45436909041).jpg",
+        "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+        "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black R34 GT-T on gravel."
+      }
+    },
+    {
+      "id": "nissan-skyline-r34-04",
+      "file": "File:Nissan Skyline GT-T (29964127088).jpg",
+      "vehicleId": "nissan-skyline-r34",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1998,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Nissan_Skyline_GT-T_(29964127088).jpg",
+        "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+        "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black R34 GT-T, different car, front-quarter."
+      }
+    },
+    {
+      "id": "nissan-skyline-r34-05",
+      "file": "File:R34 - SKYLINE. (4142712845).jpg",
+      "vehicleId": "nissan-skyline-r34",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1998,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:R34_-_SKYLINE._(4142712845).jpg",
+        "1969 Dodge ChargerCategory:Nissan_Skyline_(R34,_facelift)",
+        "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: silver R34 nose-on in a car park (black-and-white photo)."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-05",
+      "file": "File:1980 Toyota Land Cruiser (FJ40) hardtop (25975777271).jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1980_Toyota_Land_Cruiser_(FJ40)_hardtop_(25975777271).jpg",
+        "1969 Dodge ChargerCategory:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: beige FJ40 head-on at the kerb; grille reads TOYOTA (make only); cowl script out of view."
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-j40-06",
+      "file": "File:1969 Toyota FJ40 Land Cruiser 2.jpg",
+      "vehicleId": "toyota-land-cruiser-j40",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1960,
+        "to": 1984,
+        "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1969_Toyota_FJ40_Land_Cruiser_2.jpg",
+        "1969 Dodge ChargerCategory:Toyota_Land_Cruiser_(J40)",
+        "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+      ],
+      "review": {
+        "status": "pending",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Weathered \"TOYOTA Land Cruiser\" cowl badge: the model script is not clearly legible but the badge shape is recognisable; held for a second look."
+      }
+    },
+    {
+      "id": "jeep-wrangler-jk-05",
+      "file": "File:'08 Jeep Wrangler 2-Door Convertible (Montreal).jpg",
+      "vehicleId": "jeep-wrangler-jk",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 2007,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:'08_Jeep_Wrangler_2-Door_Convertible_(Montreal).jpg",
+        "1969 Dodge ChargerCategory:Jeep_Wrangler_(JK)",
+        "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow JK head-on at an auto show; fender decals out of view."
+      }
+    },
+    {
+      "id": "jeep-wrangler-jk-06",
+      "file": "File:'16 Jeep Wrangler Unlimited (Carrefour Angrignon).jpg",
+      "vehicleId": "jeep-wrangler-jk",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 2007,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:'16_Jeep_Wrangler_Unlimited_(Carrefour_Angrignon).jpg",
+        "1969 Dodge ChargerCategory:Jeep_Wrangler_Unlimited_(JK)",
+        "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white JK Unlimited head-on at a mall show."
+      }
+    },
+    {
+      "id": "chevrolet-camaro-1g-05",
+      "file": "File:1969 Chevrolet Camaro (15963722231).jpg",
+      "vehicleId": "chevrolet-camaro-1g",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1969,
+        "to": 1969,
+        "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal; 1967–1968 cars have a flat grille and plain flanks."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1969_Chevrolet_Camaro_(15963722231).jpg",
+        "1969 Dodge ChargerCategory:1969_Chevrolet_Camaro",
+        "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Camaro\" script on the front fender is legible."
+      }
+    },
+    {
+      "id": "lamborghini-countach-02",
+      "file": "File:1984 Lamborghini Countach 5000 S.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1984_Lamborghini_Countach_5000_S.jpg",
+        "1969 Dodge ChargerCategory:Lamborghini_Countach",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"countach 5000\" badge on the tail panel is legible."
+      }
+    },
+    {
+      "id": "lamborghini-countach-03",
+      "file": "File:1988 Lamborghini Countach 25th Anniversario.jpg",
+      "vehicleId": "lamborghini-countach",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1990,
+        "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:1988_Lamborghini_Countach_25th_Anniversario.jpg",
+        "1969 Dodge ChargerCategory:Lamborghini_Countach",
+        "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: 25th Anniversary Countach at Salon Privé."
+      }
+    },
+    {
+      "id": "lamborghini-aventador-02",
+      "file": "File:2014 Lamborghini Aventador.jpg",
+      "vehicleId": "lamborghini-aventador",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 2011,
+        "to": 2016,
+        "basis": "Pre-\"S\" front bumper and lamp styling (LP 700-4 and LP 720-4 cars, built 2011–2016); the Aventador S, introduced for 2017, has a visibly different front bumper."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:2014_Lamborghini_Aventador.jpg",
+        "1969 Dodge ChargerCategory:Lamborghini_Aventador",
+        "https://en.wikipedia.org/wiki/Lamborghini_Aventador"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: Aventador at a show."
+      }
+    },
+    {
+      "id": "vw-type2-t1-02",
+      "file": "File:Volkswagen Type 2 (T1) panel van in yellow - annual 'Busjesdag' vintage VAG gathering at the Rijtuigenloods, Amersfoort, Netherlands.jpg",
+      "vehicleId": "vw-type2-t1",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1950,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Volkswagen_Type_2_(T1)_panel_van_in_yellow_-_annual_'Busjesdag'_vintage_VAG_gathering_at_the_Rijtuigenloods,_Amersfoort,_Netherlands.jpg",
+        "1969 Dodge ChargerCategory:Volkswagen_Type_2_(T1)",
+        "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow T1 panel van with split windscreen."
+      }
+    },
+    {
+      "id": "honda-nsx-na-03",
+      "file": "File:Bruxelles Autoworld Modern Cars 14.jpg",
+      "vehicleId": "honda-nsx-na",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1990,
+        "to": 2001,
+        "basis": "Smooth nose with the pop-up headlamps retracted: the NSX kept pop-ups until the 2002 facelift replaced them with fixed headlamps, so this is a 1990–2001 car."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Bruxelles_Autoworld_Modern_Cars_14.jpg",
+        "1969 Dodge ChargerCategory:Honda_NSX_(1st_generation)",
+        "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red NSX in a museum hall."
+      }
+    },
+    {
+      "id": "honda-nsx-na-04",
+      "file": "File:Dieppe, France (3495873349).jpg",
+      "vehicleId": "honda-nsx-na",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1990,
+        "to": 2001,
+        "basis": "Smooth nose with the pop-up headlamps retracted: the NSX kept pop-ups until the 2002 facelift replaced them with fixed headlamps, so this is a 1990–2001 car."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": true,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "1969 Dodge ChargerFile:Dieppe,_France_(3495873349).jpg",
+        "1969 Dodge ChargerCategory:Honda_NSX_(1st_generation)",
+        "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black NSX front-quarter at a seaside meet."
       }
     }
   ]

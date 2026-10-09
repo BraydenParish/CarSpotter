@@ -1,5 +1,140 @@
 [
   {
+    "id": "chevrolet-camaro-1g-01",
+    "vehicleId": "chevrolet-camaro-1g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-1g-01.webp",
+    "imageSmall": "photos/chevrolet-camaro-1g-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1969,
+      "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_327_(17301802463).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1969 Chevrolet Camaro 327 (17301802463).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_327_(17301802463).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/1969_Chevrolet_Camaro_327_%2817301802463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1969 Chevrolet Camaro 327 (17301802463).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1969 Chevrolet Camaro 327)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "pending",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Tiny \"Camaro\" script by the bonnet edge may be readable in the zoom view; held for a second look."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-1g-03",
+    "vehicleId": "chevrolet-camaro-1g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-1g-03.webp",
+    "imageSmall": "photos/chevrolet-camaro-1g-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1969,
+      "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_(4799276776).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+    ],
+    "source": {
+      "title": "File:1969 Chevrolet Camaro (4799276776).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_(4799276776).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1969_Chevrolet_Camaro_%284799276776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1969 Chevrolet Camaro (4799276776).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1969 Chevrolet Camaro)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: faded blue daily-driver 1969 Camaro in a lot."
+    }
+  },
+  {
+    "id": "chevrolet-camaro-1g-04",
+    "vehicleId": "chevrolet-camaro-1g",
+    "kind": "full",
+    "image": "photos/chevrolet-camaro-1g-04.webp",
+    "imageSmall": "photos/chevrolet-camaro-1g-04-sm.webp",
+    "width": 1600,
+    "height": 949,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1969,
+      "to": 1969,
+      "basis": "1969-only styling: V-shaped grille with inset headlamps and the restyled sheet metal with creases over the wheel arches; 1967–1968 cars have a flat grille and plain flanks."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'69_Chevrolet_Camaro_Coupe_(Orange_Julep_'10).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1969_Chevrolet_Camaro",
+      "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+    ],
+    "source": {
+      "title": "File:'69 Chevrolet Camaro Coupe (Orange Julep '10).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2769_Chevrolet_Camaro_Coupe_(Orange_Julep_%2710).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/%2769_Chevrolet_Camaro_Coupe_%28Orange_Julep_%2710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'69 Chevrolet Camaro Coupe (Orange Julep '10).jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "pending",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Tiny script near the bonnet edge may read \"Camaro\" in the zoom view; held for a second look."
+    }
+  },
+  {
     "id": "citroen-2cv-01",
     "vehicleId": "citroen-2cv",
     "kind": "full",
@@ -315,96 +450,6 @@
     }
   },
   {
-    "id": "dodge-challenger-1g-01",
-    "vehicleId": "dodge-challenger-1g",
-    "kind": "full",
-    "image": "photos/dodge-challenger-1g-01.webp",
-    "imageSmall": "photos/dodge-challenger-1g-01-sm.webp",
-    "width": 1600,
-    "height": 1067,
-    "setting": "street",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1970,
-      "to": 1974,
-      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_(3017918370).jpg",
-      "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger",
-      "https://en.wikipedia.org/wiki/Dodge_Challenger"
-    ],
-    "source": {
-      "title": "File:1970 Dodge Challenger (3017918370).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Dodge_Challenger_(3017918370).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/1970_Dodge_Challenger_%283017918370%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "dave_7 from Lethbridge, Canada",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“1970 Dodge Challenger (3017918370).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1970 Dodge Challenger)",
-      "attributionRequired": true,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-04",
-      "notes": "Viewed: weathered Challenger parked on a city street; no model script legible at this size."
-    }
-  },
-  {
-    "id": "dodge-challenger-1g-02",
-    "vehicleId": "dodge-challenger-1g",
-    "kind": "full",
-    "image": "photos/dodge-challenger-1g-02.webp",
-    "imageSmall": "photos/dodge-challenger-1g-02-sm.webp",
-    "width": 1600,
-    "height": 1221,
-    "setting": "other",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 1970,
-      "to": 1974,
-      "basis": "No feature visible in the photo separates years within the 1970–1974 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:'70_Dodge_Challenger_R-T_(Les_chauds_vendredis_'12).JPG",
-      "https://commons.wikimedia.org/wiki/Category:1970_Dodge_Challenger_R/T",
-      "https://en.wikipedia.org/wiki/Dodge_Challenger"
-    ],
-    "source": {
-      "title": "File:'70 Dodge Challenger R-T (Les chauds vendredis '12).JPG",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Dodge_Challenger_R-T_(Les_chauds_vendredis_%2712).JPG",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%2770_Dodge_Challenger_R-T_%28Les_chauds_vendredis_%2712%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Bull-Doser at English Wikipedia",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "credit": "“'70 Dodge Challenger R-T (Les chauds vendredis '12).JPG” by Bull-Doser at English Wikipedia, Public domain, via Wikimedia Commons (Own work.)",
-      "attributionRequired": false,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-04",
-      "notes": "Viewed: Challenger with hood raised at a cruise night."
-    }
-  },
-  {
     "id": "ferrari-f40-01",
     "vehicleId": "ferrari-f40",
     "kind": "full",
@@ -495,48 +540,183 @@
     }
   },
   {
-    "id": "ford-f150-13g-01",
-    "vehicleId": "ford-f150-13g",
+    "id": "fiat-500-nuova-01",
+    "vehicleId": "fiat-500-nuova",
     "kind": "full",
-    "image": "photos/ford-f150-13g-01.webp",
-    "imageSmall": "photos/ford-f150-13g-01-sm.webp",
+    "image": "photos/fiat-500-nuova-01.webp",
+    "imageSmall": "photos/fiat-500-nuova-01-sm.webp",
     "width": 1600,
-    "height": 1201,
-    "setting": "street",
+    "height": 1082,
+    "setting": "other",
     "angle": "front-quarter",
     "modelYear": {
-      "from": 2015,
-      "to": 2017,
-      "basis": "Pre-2018 front end of the thirteenth-generation F-150 (original-style headlamps and grille); the 2018 refresh changed both."
+      "from": 1957,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
     },
     "supports": {
       "make": true,
       "model": true,
-      "year": true,
+      "year": false,
       "generation": true,
       "trim": false
     },
     "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:'17_Ford_F-150_Crew_Cab.jpg",
-      "https://commons.wikimedia.org/wiki/Category:Ford_F-150_(thirteenth_generation)",
-      "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+      "https://commons.wikimedia.org/wiki/File:1971_Fiat_500_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+      "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
     ],
     "source": {
-      "title": "File:'17 Ford F-150 Crew Cab.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2717_Ford_F-150_Crew_Cab.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%2717_Ford_F-150_Crew_Cab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Bull-Doser",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "credit": "“'17 Ford F-150 Crew Cab.jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
-      "attributionRequired": false,
+      "title": "File:1971 Fiat 500 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1971_Fiat_500_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1971_Fiat_500_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1971 Fiat 500 1.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
       "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
     },
     "review": {
       "status": "approved",
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
-      "notes": "Viewed: black F-150 SuperCrew in a lot."
+      "notes": "Viewed: blue 500 on a show field."
+    }
+  },
+  {
+    "id": "fiat-500-nuova-02",
+    "vehicleId": "fiat-500-nuova",
+    "kind": "full",
+    "image": "photos/fiat-500-nuova-02.webp",
+    "imageSmall": "photos/fiat-500-nuova-02-sm.webp",
+    "width": 1600,
+    "height": 1370,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1957,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1973_Fiat_500_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+      "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+    ],
+    "source": {
+      "title": "File:1973 Fiat 500 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1973_Fiat_500_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/1973_Fiat_500_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“1973 Fiat 500 1.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black 500 at Goodwood Revival."
+    }
+  },
+  {
+    "id": "fiat-500-nuova-03",
+    "vehicleId": "fiat-500-nuova",
+    "kind": "full",
+    "image": "photos/fiat-500-nuova-03.webp",
+    "imageSmall": "photos/fiat-500-nuova-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1957,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1967_Fiat_Bambina.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+      "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+    ],
+    "source": {
+      "title": "File:1967 Fiat Bambina.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1967_Fiat_Bambina.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/1967_Fiat_Bambina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "NZ Car Freak",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1967 Fiat Bambina.jpg” by NZ Car Freak, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/64583732@N04/50631371941/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: lilac 500 at a swap meet."
+    }
+  },
+  {
+    "id": "fiat-500-nuova-04",
+    "vehicleId": "fiat-500-nuova",
+    "kind": "full",
+    "image": "photos/fiat-500-nuova-04.webp",
+    "imageSmall": "photos/fiat-500-nuova-04-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1957,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1957–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Auto_Italia_Spring_car_day_Brooklands_May_2010_IMG_9044_(4570208699)_(2).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_500_(1957-1975)",
+      "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+    ],
+    "source": {
+      "title": "File:Auto Italia Spring car day Brooklands May 2010 IMG 9044 (4570208699) (2).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Auto_Italia_Spring_car_day_Brooklands_May_2010_IMG_9044_(4570208699)_(2).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Auto_Italia_Spring_car_day_Brooklands_May_2010_IMG_9044_%284570208699%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tony Harrison from Farnborough, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Auto Italia Spring car day Brooklands May 2010 IMG 9044 (4570208699) (2).jpg” by Tony Harrison from Farnborough, UK, CC BY-SA 2.0, via Wikimedia Commons (Auto Italia Spring car day Brooklands May 2010 IMG_9044 Uploaded by AlbertHerring)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black 500 being driven, front."
     }
   },
   {
@@ -675,85 +855,40 @@
     }
   },
   {
-    "id": "jeep-wrangler-jk-01",
-    "vehicleId": "jeep-wrangler-jk",
+    "id": "honda-nsx-na-03",
+    "vehicleId": "honda-nsx-na",
     "kind": "full",
-    "image": "photos/jeep-wrangler-jk-01.webp",
-    "imageSmall": "photos/jeep-wrangler-jk-01-sm.webp",
+    "image": "photos/honda-nsx-na-03.webp",
+    "imageSmall": "photos/honda-nsx-na-03-sm.webp",
     "width": 1600,
-    "height": 1070,
-    "setting": "street",
+    "height": 968,
+    "setting": "other",
     "angle": "front-quarter",
     "modelYear": {
-      "from": 2007,
-      "to": 2018,
-      "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+      "from": 1990,
+      "to": 2001,
+      "basis": "Smooth nose with the pop-up headlamps retracted: the NSX kept pop-ups until the 2002 facelift replaced them with fixed headlamps, so this is a 1990–2001 car."
     },
     "supports": {
       "make": true,
       "model": true,
-      "year": false,
+      "year": true,
       "generation": true,
       "trim": false
     },
     "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK_MY13)_Overland_3-door_hardtop_(2015-08-07).jpg",
-      "https://commons.wikimedia.org/wiki/Category:Jeep_Wrangler_(JK)",
-      "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+      "1969 Dodge ChargerFile:Bruxelles_Autoworld_Modern_Cars_14.jpg",
+      "1969 Dodge ChargerCategory:Honda_NSX_(1st_generation)",
+      "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
     ],
     "source": {
-      "title": "File:2013 Jeep Wrangler (JK MY13) Overland 3-door hardtop (2015-08-07).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK_MY13)_Overland_3-door_hardtop_(2015-08-07).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/2013_Jeep_Wrangler_%28JK_MY13%29_Overland_3-door_hardtop_%282015-08-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "OSX",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "credit": "“2013 Jeep Wrangler (JK MY13) Overland 3-door hardtop (2015-08-07).jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
-      "attributionRequired": false,
-      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
-    },
-    "review": {
-      "status": "approved",
-      "reviewedBy": "claude-session",
-      "date": "2026-10-04",
-      "notes": "Viewed: orange JK hardtop parked on a suburban street."
-    }
-  },
-  {
-    "id": "jeep-wrangler-jk-02",
-    "vehicleId": "jeep-wrangler-jk",
-    "kind": "full",
-    "image": "photos/jeep-wrangler-jk-02.webp",
-    "imageSmall": "photos/jeep-wrangler-jk-02-sm.webp",
-    "width": 1600,
-    "height": 1067,
-    "setting": "street",
-    "angle": "front-quarter",
-    "modelYear": {
-      "from": 2007,
-      "to": 2018,
-      "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
-    },
-    "supports": {
-      "make": true,
-      "model": true,
-      "year": false,
-      "generation": true,
-      "trim": false
-    },
-    "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK)_Overland_3-door_hardtop_(17401901935).jpg",
-      "https://commons.wikimedia.org/wiki/Category:Jeep_Wrangler_(JK)",
-      "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
-    ],
-    "source": {
-      "title": "File:2013 Jeep Wrangler (JK) Overland 3-door hardtop (17401901935).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Jeep_Wrangler_(JK)_Overland_3-door_hardtop_(17401901935).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/2013_Jeep_Wrangler_%28JK%29_Overland_3-door_hardtop_%2817401901935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Jeremy from Sydney, Australia",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“2013 Jeep Wrangler (JK) Overland 3-door hardtop (17401901935).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (Jeep Wrangler JK)",
+      "title": "File:Bruxelles Autoworld Modern Cars 14.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bruxelles_Autoworld_Modern_Cars_14.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bruxelles_Autoworld_Modern_Cars_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Bruxelles Autoworld Modern Cars 14.jpg” by Zairon, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
       "attributionRequired": true,
       "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
     },
@@ -761,7 +896,187 @@
       "status": "approved",
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
-      "notes": "Viewed: lime-green JK in a car park."
+      "notes": "Viewed: red NSX in a museum hall."
+    }
+  },
+  {
+    "id": "honda-nsx-na-04",
+    "vehicleId": "honda-nsx-na",
+    "kind": "full",
+    "image": "photos/honda-nsx-na-04.webp",
+    "imageSmall": "photos/honda-nsx-na-04-sm.webp",
+    "width": 1600,
+    "height": 1134,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1990,
+      "to": 2001,
+      "basis": "Smooth nose with the pop-up headlamps retracted: the NSX kept pop-ups until the 2002 facelift replaced them with fixed headlamps, so this is a 1990–2001 car."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:Dieppe,_France_(3495873349).jpg",
+      "1969 Dodge ChargerCategory:Honda_NSX_(1st_generation)",
+      "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+    ],
+    "source": {
+      "title": "File:Dieppe, France (3495873349).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dieppe,_France_(3495873349).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dieppe%2C_France_%283495873349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mic from Reading - Berkshire, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Dieppe, France (3495873349).jpg” by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, via Wikimedia Commons (Dieppe, France)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black NSX front-quarter at a seaside meet."
+    }
+  },
+  {
+    "id": "jaguar-etype-01",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-01.webp",
+    "imageSmall": "photos/jaguar-etype-01-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1967,
+      "basis": "Glass-covered headlamps, fitted only to Series 1 cars (1961–1967); later cars have open headlamps."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_at_the_2025_Shannons_Adelaide_Rally_(028A4657).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Jaguar_E-Type",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "File:Jaguar E-Type at the 2025 Shannons Adelaide Rally (028A4657).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_at_the_2025_Shannons_Adelaide_Rally_(028A4657).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jaguar_E-Type_at_the_2025_Shannons_Adelaide_Rally_%28028A4657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Yu Chu Chin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Jaguar E-Type at the 2025 Shannons Adelaide Rally (028A4657).jpg” by Yu Chu Chin, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red E-Type coupe at a rally; sponsor stickers name no model."
+    }
+  },
+  {
+    "id": "jeep-wrangler-jk-05",
+    "vehicleId": "jeep-wrangler-jk",
+    "kind": "full",
+    "image": "photos/jeep-wrangler-jk-05.webp",
+    "imageSmall": "photos/jeep-wrangler-jk-05-sm.webp",
+    "width": 1600,
+    "height": 1253,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 2007,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:'08_Jeep_Wrangler_2-Door_Convertible_(Montreal).jpg",
+      "1969 Dodge ChargerCategory:Jeep_Wrangler_(JK)",
+      "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+    ],
+    "source": {
+      "title": "File:'08 Jeep Wrangler 2-Door Convertible (Montreal).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2708_Jeep_Wrangler_2-Door_Convertible_(Montreal).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/%2708_Jeep_Wrangler_2-Door_Convertible_%28Montreal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'08 Jeep Wrangler 2-Door Convertible (Montreal).jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: yellow JK head-on at an auto show; fender decals out of view."
+    }
+  },
+  {
+    "id": "jeep-wrangler-jk-06",
+    "vehicleId": "jeep-wrangler-jk",
+    "kind": "full",
+    "image": "photos/jeep-wrangler-jk-06.webp",
+    "imageSmall": "photos/jeep-wrangler-jk-06-sm.webp",
+    "width": 1600,
+    "height": 1283,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 2007,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 2007–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:'16_Jeep_Wrangler_Unlimited_(Carrefour_Angrignon).jpg",
+      "1969 Dodge ChargerCategory:Jeep_Wrangler_Unlimited_(JK)",
+      "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+    ],
+    "source": {
+      "title": "File:'16 Jeep Wrangler Unlimited (Carrefour Angrignon).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2716_Jeep_Wrangler_Unlimited_(Carrefour_Angrignon).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%2716_Jeep_Wrangler_Unlimited_%28Carrefour_Angrignon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'16 Jeep Wrangler Unlimited (Carrefour Angrignon).jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white JK Unlimited head-on at a mall show."
     }
   },
   {
@@ -810,6 +1125,51 @@
     }
   },
   {
+    "id": "lamborghini-aventador-02",
+    "vehicleId": "lamborghini-aventador",
+    "kind": "full",
+    "image": "photos/lamborghini-aventador-02.webp",
+    "imageSmall": "photos/lamborghini-aventador-02-sm.webp",
+    "width": 1600,
+    "height": 992,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2016,
+      "basis": "Pre-\"S\" front bumper and lamp styling (LP 700-4 and LP 720-4 cars, built 2011–2016); the Aventador S, introduced for 2017, has a visibly different front bumper."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": true,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:2014_Lamborghini_Aventador.jpg",
+      "1969 Dodge ChargerCategory:Lamborghini_Aventador",
+      "https://en.wikipedia.org/wiki/Lamborghini_Aventador"
+    ],
+    "source": {
+      "title": "File:2014 Lamborghini Aventador.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2014_Lamborghini_Aventador.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/2014_Lamborghini_Aventador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2014 Lamborghini Aventador.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: Aventador at a show."
+    }
+  },
+  {
     "id": "lamborghini-countach-01",
     "vehicleId": "lamborghini-countach",
     "kind": "full",
@@ -855,19 +1215,19 @@
     }
   },
   {
-    "id": "land-rover-defender-01",
-    "vehicleId": "land-rover-defender",
+    "id": "lamborghini-countach-03",
+    "vehicleId": "lamborghini-countach",
     "kind": "full",
-    "image": "photos/land-rover-defender-01.webp",
-    "imageSmall": "photos/land-rover-defender-01-sm.webp",
+    "image": "photos/lamborghini-countach-03.webp",
+    "imageSmall": "photos/lamborghini-countach-03-sm.webp",
     "width": 1600,
-    "height": 1067,
-    "setting": "street",
+    "height": 1058,
+    "setting": "other",
     "angle": "front-quarter",
     "modelYear": {
-      "from": 1983,
-      "to": 2016,
-      "basis": "No feature visible in the photo separates years within the 1983–2016 production run, so the full documented range is used."
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
     },
     "supports": {
       "make": true,
@@ -877,26 +1237,26 @@
       "trim": false
     },
     "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:15-365_Defender_(50838622467).jpg",
-      "https://commons.wikimedia.org/wiki/Category:Land_Rover_Defender_90_(L316)",
-      "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+      "1969 Dodge ChargerFile:1988_Lamborghini_Countach_25th_Anniversario.jpg",
+      "1969 Dodge ChargerCategory:Lamborghini_Countach",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
     ],
     "source": {
-      "title": "File:15-365 Defender (50838622467).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:15-365_Defender_(50838622467).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/15-365_Defender_%2850838622467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "JOHN DICKINSON from Chorley, Lancashire, United Kingdom",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "credit": "“15-365 Defender (50838622467).jpg” by JOHN DICKINSON from Chorley, Lancashire, United Kingdom, Public domain, via Wikimedia Commons (15-365 Defender)",
-      "attributionRequired": false,
+      "title": "File:1988 Lamborghini Countach 25th Anniversario.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1988_Lamborghini_Countach_25th_Anniversario.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/1988_Lamborghini_Countach_25th_Anniversario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“1988 Lamborghini Countach 25th Anniversario.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
       "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
     },
     "review": {
       "status": "approved",
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
-      "notes": "Viewed: grey Defender 90 on a residential road."
+      "notes": "Viewed: 25th Anniversary Countach at Salon Privé."
     }
   },
   {
@@ -1215,19 +1575,19 @@
     }
   },
   {
-    "id": "mx5-na-02",
-    "vehicleId": "mazda-mx5-na",
+    "id": "nissan-skyline-r34-01",
+    "vehicleId": "nissan-skyline-r34",
     "kind": "full",
-    "image": "photos/mx5-na-02.webp",
-    "imageSmall": "photos/mx5-na-02-sm.webp",
+    "image": "photos/nissan-skyline-r34-01.webp",
+    "imageSmall": "photos/nissan-skyline-r34-01-sm.webp",
     "width": 1600,
-    "height": 1098,
+    "height": 1200,
     "setting": "street",
-    "angle": "rear-quarter",
+    "angle": "front-quarter",
     "modelYear": {
-      "from": 1989,
-      "to": 1997,
-      "basis": "No feature visible in the photo separates years within the 1989–1997 production run, so the full documented range is used."
+      "from": 1998,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
     },
     "supports": {
       "make": true,
@@ -1237,18 +1597,18 @@
       "trim": false
     },
     "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_1.6i.jpg",
-      "https://commons.wikimedia.org/wiki/Category:Mazda_MX-5_(NA)",
-      "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+      "1969 Dodge ChargerFile:HK_Yuen_Long_元朗_Yuen_Lung_Street_元龍街_Sunday_red_motor_car.jpg",
+      "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
     ],
     "source": {
-      "title": "File:1990 Mazda MX-5 1.6i.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1990_Mazda_MX-5_1.6i.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1990_Mazda_MX-5_1.6i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Rutger van der Maar",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“1990 Mazda MX-5 1.6i.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/15031175157/)",
+      "title": "File:HK Yuen Long 元朗 Yuen Lung Street 元龍街 Sunday red motor car.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:HK_Yuen_Long_%E5%85%83%E6%9C%97_Yuen_Lung_Street_%E5%85%83%E9%BE%8D%E8%A1%97_Sunday_red_motor_car.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/HK_Yuen_Long_%E5%85%83%E6%9C%97_Yuen_Lung_Street_%E5%85%83%E9%BE%8D%E8%A1%97_Sunday_red_motor_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bladezcafo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“HK Yuen Long 元朗 Yuen Lung Street 元龍街 Sunday red motor car.jpg” by Bladezcafo, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
       "attributionRequired": true,
       "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
     },
@@ -1256,7 +1616,322 @@
       "status": "approved",
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
-      "notes": "Viewed: NA rear with round tail lamps and soft top; category Mazda MX-5 (NA)."
+      "notes": "Viewed: red R34 coupe parked on a Hong Kong street."
+    }
+  },
+  {
+    "id": "nissan-skyline-r34-02",
+    "vehicleId": "nissan-skyline-r34",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r34-02.webp",
+    "imageSmall": "photos/nissan-skyline-r34-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1998,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:Nissan_Skyline_(39048774032).jpg",
+      "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+    ],
+    "source": {
+      "title": "File:Nissan Skyline (39048774032).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nissan_Skyline_(39048774032).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nissan_Skyline_%2839048774032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "FotoSleuth",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Nissan Skyline (39048774032).jpg” by FotoSleuth, CC BY 2.0, via Wikimedia Commons (Nissan Skyline)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black R34 GT-T on a show field."
+    }
+  },
+  {
+    "id": "nissan-skyline-r34-03",
+    "vehicleId": "nissan-skyline-r34",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r34-03.webp",
+    "imageSmall": "photos/nissan-skyline-r34-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1998,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:Nissan_Skyline_(45436909041).jpg",
+      "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+    ],
+    "source": {
+      "title": "File:Nissan Skyline (45436909041).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nissan_Skyline_(45436909041).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nissan_Skyline_%2845436909041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "FotoSleuth",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Nissan Skyline (45436909041).jpg” by FotoSleuth, CC BY 2.0, via Wikimedia Commons (Nissan Skyline)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black R34 GT-T on gravel."
+    }
+  },
+  {
+    "id": "nissan-skyline-r34-04",
+    "vehicleId": "nissan-skyline-r34",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r34-04.webp",
+    "imageSmall": "photos/nissan-skyline-r34-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1998,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:Nissan_Skyline_GT-T_(29964127088).jpg",
+      "1969 Dodge ChargerCategory:Nissan_Skyline_(R34)_coupes",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+    ],
+    "source": {
+      "title": "File:Nissan Skyline GT-T (29964127088).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nissan_Skyline_GT-T_(29964127088).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nissan_Skyline_GT-T_%2829964127088%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "FotoSleuth",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Nissan Skyline GT-T (29964127088).jpg” by FotoSleuth, CC BY 2.0, via Wikimedia Commons (Nissan Skyline GT-T)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black R34 GT-T, different car, front-quarter."
+    }
+  },
+  {
+    "id": "nissan-skyline-r34-05",
+    "vehicleId": "nissan-skyline-r34",
+    "kind": "full",
+    "image": "photos/nissan-skyline-r34-05.webp",
+    "imageSmall": "photos/nissan-skyline-r34-05-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1998,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1998–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:R34_-_SKYLINE._(4142712845).jpg",
+      "1969 Dodge ChargerCategory:Nissan_Skyline_(R34,_facelift)",
+      "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+    ],
+    "source": {
+      "title": "File:R34 - SKYLINE. (4142712845).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:R34_-_SKYLINE._(4142712845).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/R34_-_SKYLINE._%284142712845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“R34 - SKYLINE. (4142712845).jpg” by MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN, CC BY 2.0, via Wikimedia Commons (R34 - SKYLINE.)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver R34 nose-on in a car park (black-and-white photo)."
+    }
+  },
+  {
+    "id": "porsche-911-993-01",
+    "vehicleId": "porsche-911-993",
+    "kind": "full",
+    "image": "photos/porsche-911-993-01.webp",
+    "imageSmall": "photos/porsche-911-993-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1994,
+      "to": 1998,
+      "basis": "No feature visible in the photo separates years within the 1994–1998 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_4_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_4_(993)",
+      "https://en.wikipedia.org/wiki/Porsche_993"
+    ],
+    "source": {
+      "title": "File:Porsche Carrera 4 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_4_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Porsche_Carrera_4_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Andrew Bone",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Porsche Carrera 4 1.jpg” by Andrew Bone, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/andreboeni/50195216993/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver 993 nose-on in a car park; only the Porsche crest is visible."
+    }
+  },
+  {
+    "id": "porsche-911-993-02",
+    "vehicleId": "porsche-911-993",
+    "kind": "full",
+    "image": "photos/porsche-911-993-02.webp",
+    "imageSmall": "photos/porsche-911-993-02-sm.webp",
+    "width": 1600,
+    "height": 1008,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1998,
+      "basis": "No feature visible in the photo separates years within the 1994–1998 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1996_Porsche_911_Carrera_4.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_4_(993)",
+      "https://en.wikipedia.org/wiki/Porsche_993"
+    ],
+    "source": {
+      "title": "File:1996 Porsche 911 Carrera 4.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1996_Porsche_911_Carrera_4.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/1996_Porsche_911_Carrera_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1996 Porsche 911 Carrera 4.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver 993 at Goodwood FoS; no script visible from the front."
+    }
+  },
+  {
+    "id": "porsche-911-993-03",
+    "vehicleId": "porsche-911-993",
+    "kind": "full",
+    "image": "photos/porsche-911-993-03.webp",
+    "imageSmall": "photos/porsche-911-993-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1994,
+      "to": 1998,
+      "basis": "No feature visible in the photo separates years within the 1994–1998 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Porsche_911_(993)_Carrera_4_(6857614399).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_911_Carrera_4_(993)",
+      "https://en.wikipedia.org/wiki/Porsche_993"
+    ],
+    "source": {
+      "title": "File:Porsche 911 (993) Carrera 4 (6857614399).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_(993)_Carrera_4_(6857614399).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Porsche_911_%28993%29_Carrera_4_%286857614399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "nakhon100",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Porsche 911 (993) Carrera 4 (6857614399).jpg” by nakhon100, CC BY 2.0, via Wikimedia Commons (Porsche 911 (993) Carrera 4)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black 993 in a showroom."
     }
   },
   {
@@ -1305,19 +1980,19 @@
     }
   },
   {
-    "id": "supra-a80-02",
-    "vehicleId": "toyota-supra-a80",
+    "id": "suzuki-jimny-jb64-01",
+    "vehicleId": "suzuki-jimny-jb64",
     "kind": "full",
-    "image": "photos/supra-a80-02.webp",
-    "imageSmall": "photos/supra-a80-02-sm.webp",
+    "image": "photos/suzuki-jimny-jb64-01.webp",
+    "imageSmall": "photos/suzuki-jimny-jb64-01-sm.webp",
     "width": 1600,
-    "height": 1045,
-    "setting": "street",
-    "angle": "rear-quarter",
+    "height": 1183,
+    "setting": "other",
+    "angle": "front",
     "modelYear": {
-      "from": 1993,
-      "to": 2002,
-      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
     },
     "supports": {
       "make": true,
@@ -1327,18 +2002,18 @@
       "trim": false
     },
     "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_Sport_Roof_in_Red,_rear_left.jpg",
-      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
-      "https://en.wikipedia.org/wiki/Toyota_Supra"
+      "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCR-J).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Suzuki_Jimny_(JB64)",
+      "https://en.wikipedia.org/wiki/Suzuki_Jimny"
     ],
     "source": {
-      "title": "File:1994 Toyota Supra Sport Roof in Red, rear left.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Toyota_Supra_Sport_Roof_in_Red,_rear_left.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1994_Toyota_Supra_Sport_Roof_in_Red%2C_rear_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Mr.choppers",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "credit": "“1994 Toyota Supra Sport Roof in Red, rear left.jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "title": "File:Suzuki Jimny XC (3BA-JB64W-JXCR-J).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCR-J).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Suzuki_Jimny_XC_%283BA-JB64W-JXCR-J%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Suzuki Jimny XC (3BA-JB64W-JXCR-J).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
       "attributionRequired": true,
       "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
     },
@@ -1346,23 +2021,23 @@
       "status": "approved",
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
-      "notes": "Viewed: A80 rear with wing; no model name legible."
+      "notes": "Viewed: yellow JB64 at a dealer forecourt."
     }
   },
   {
-    "id": "supra-a80-03",
-    "vehicleId": "toyota-supra-a80",
+    "id": "suzuki-jimny-jb64-02",
+    "vehicleId": "suzuki-jimny-jb64",
     "kind": "full",
-    "image": "photos/supra-a80-03.webp",
-    "imageSmall": "photos/supra-a80-03-sm.webp",
+    "image": "photos/suzuki-jimny-jb64-02.webp",
+    "imageSmall": "photos/suzuki-jimny-jb64-02-sm.webp",
     "width": 1600,
-    "height": 900,
+    "height": 1198,
     "setting": "other",
-    "angle": "front-quarter",
+    "angle": "front",
     "modelYear": {
-      "from": 1993,
-      "to": 2002,
-      "basis": "No feature visible in the photo separates years within the 1993–2002 production run, so the full documented range is used."
+      "from": 2018,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2018–2026 production run, so the full documented range is used."
     },
     "supports": {
       "make": true,
@@ -1372,18 +2047,18 @@
       "trim": false
     },
     "identityEvidence": [
-      "https://commons.wikimedia.org/wiki/File:1993_Toyota_Supra_3.0_(52643443655).jpg",
-      "https://commons.wikimedia.org/wiki/Category:Toyota_Supra_(A80,_pre-facelift)",
-      "https://en.wikipedia.org/wiki/Toyota_Supra"
+      "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCU-J).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Suzuki_Jimny_(JB64)",
+      "https://en.wikipedia.org/wiki/Suzuki_Jimny"
     ],
     "source": {
-      "title": "File:1993 Toyota Supra 3.0 (52643443655).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Toyota_Supra_3.0_(52643443655).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1993_Toyota_Supra_3.0_%2852643443655%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "photographer": "Kieran White from Manchester, England",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "credit": "“1993 Toyota Supra 3.0 (52643443655).jpg” by Kieran White from Manchester, England, CC BY 2.0, via Wikimedia Commons (1993 Toyota Supra 3.0)",
+      "title": "File:Suzuki Jimny XC (3BA-JB64W-JXCU-J).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_XC_(3BA-JB64W-JXCU-J).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Suzuki_Jimny_XC_%283BA-JB64W-JXCU-J%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Suzuki Jimny XC (3BA-JB64W-JXCU-J).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
       "attributionRequired": true,
       "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
     },
@@ -1391,7 +2066,7 @@
       "status": "approved",
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
-      "notes": "Viewed: A80 at a classic car show."
+      "notes": "Viewed: black JB64 in a showroom."
     }
   },
   {
@@ -1527,6 +2202,96 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: red Model 3 on a street."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j40-05",
+    "vehicleId": "toyota-land-cruiser-j40",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j40-05.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j40-05-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1960,
+      "to": 1984,
+      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:1980_Toyota_Land_Cruiser_(FJ40)_hardtop_(25975777271).jpg",
+      "1969 Dodge ChargerCategory:Toyota_Land_Cruiser_(J40)",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    ],
+    "source": {
+      "title": "File:1980 Toyota Land Cruiser (FJ40) hardtop (25975777271).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1980_Toyota_Land_Cruiser_(FJ40)_hardtop_(25975777271).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1980_Toyota_Land_Cruiser_%28FJ40%29_hardtop_%2825975777271%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Jeremy from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1980 Toyota Land Cruiser (FJ40) hardtop (25975777271).jpg” by Jeremy from Sydney, Australia, CC BY 2.0, via Wikimedia Commons (Toyota Landcruiser FJ40)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: beige FJ40 head-on at the kerb; grille reads TOYOTA (make only); cowl script out of view."
+    }
+  },
+  {
+    "id": "toyota-land-cruiser-j40-06",
+    "vehicleId": "toyota-land-cruiser-j40",
+    "kind": "full",
+    "image": "photos/toyota-land-cruiser-j40-06.webp",
+    "imageSmall": "photos/toyota-land-cruiser-j40-06-sm.webp",
+    "width": 1600,
+    "height": 1071,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1960,
+      "to": 1984,
+      "basis": "No feature visible in the photo separates years within the 1960–1984 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:1969_Toyota_FJ40_Land_Cruiser_2.jpg",
+      "1969 Dodge ChargerCategory:Toyota_Land_Cruiser_(J40)",
+      "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    ],
+    "source": {
+      "title": "File:1969 Toyota FJ40 Land Cruiser 2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Toyota_FJ40_Land_Cruiser_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/1969_Toyota_FJ40_Land_Cruiser_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "User:Buickid",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1969 Toyota FJ40 Land Cruiser 2.jpg” by User:Buickid, CC0, via Wikimedia Commons",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "pending",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Weathered \"TOYOTA Land Cruiser\" cowl badge: the model script is not clearly legible but the badge shape is recognisable; held for a second look."
     }
   },
   {
@@ -1935,6 +2700,186 @@
     }
   },
   {
+    "id": "vw-golf-mk7-01",
+    "vehicleId": "vw-golf-mk7",
+    "kind": "full",
+    "image": "photos/vw-golf-mk7-01.webp",
+    "imageSmall": "photos/vw-golf-mk7-01-sm.webp",
+    "width": 1600,
+    "height": 1102,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:0_Volkswagen_Golf_VII_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+    ],
+    "source": {
+      "title": "File:0 Volkswagen Golf VII 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:0_Volkswagen_Golf_VII_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/0_Volkswagen_Golf_VII_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Benespit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“0 Volkswagen Golf VII 1.jpg” by Benespit, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white Mk7 in a car park; front shows only the VW roundel."
+    }
+  },
+  {
+    "id": "vw-golf-mk7-02",
+    "vehicleId": "vw-golf-mk7",
+    "kind": "full",
+    "image": "photos/vw-golf-mk7-02.webp",
+    "imageSmall": "photos/vw-golf-mk7-02-sm.webp",
+    "width": 1600,
+    "height": 1022,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:0_Volkswagen_Golf_VII_3.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+    ],
+    "source": {
+      "title": "File:0 Volkswagen Golf VII 3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:0_Volkswagen_Golf_VII_3.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/0_Volkswagen_Golf_VII_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Benespit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“0 Volkswagen Golf VII 3.jpg” by Benespit, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: grey Mk7 in a car park."
+    }
+  },
+  {
+    "id": "vw-golf-mk7-03",
+    "vehicleId": "vw-golf-mk7",
+    "kind": "full",
+    "image": "photos/vw-golf-mk7-03.webp",
+    "imageSmall": "photos/vw-golf-mk7-03-sm.webp",
+    "width": 1600,
+    "height": 902,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G)_110TDI_Highline_hatchback_(2018-10-12)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+    ],
+    "source": {
+      "title": "File:2013 Volkswagen Golf (5G) 110TDI Highline hatchback (2018-10-12) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G)_110TDI_Highline_hatchback_(2018-10-12)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/2013_Volkswagen_Golf_%285G%29_110TDI_Highline_hatchback_%282018-10-12%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "EurovisionNim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2013 Volkswagen Golf (5G) 110TDI Highline hatchback (2018-10-12) 01.jpg” by EurovisionNim, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: grey Mk7 parked on a street."
+    }
+  },
+  {
+    "id": "vw-golf-mk7-04",
+    "vehicleId": "vw-golf-mk7",
+    "kind": "full",
+    "image": "photos/vw-golf-mk7-04.webp",
+    "imageSmall": "photos/vw-golf-mk7-04-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G_MY13)_103TSI_Highline_5-door_hatchback_(2015-07-24)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_VII",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+    ],
+    "source": {
+      "title": "File:2013 Volkswagen Golf (5G MY13) 103TSI Highline 5-door hatchback (2015-07-24) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Golf_(5G_MY13)_103TSI_Highline_5-door_hatchback_(2015-07-24)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2013_Volkswagen_Golf_%285G_MY13%29_103TSI_Highline_5-door_hatchback_%282015-07-24%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "OSX",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“2013 Volkswagen Golf (5G MY13) 103TSI Highline 5-door hatchback (2015-07-24) 01.jpg” by OSX, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white Mk7 at the kerb."
+    }
+  },
+  {
     "id": "vw-type2-t1-01",
     "vehicleId": "vw-type2-t1",
     "kind": "full",
@@ -1977,6 +2922,51 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: split-windscreen T1 bus, front."
+    }
+  },
+  {
+    "id": "vw-type2-t1-02",
+    "vehicleId": "vw-type2-t1",
+    "kind": "full",
+    "image": "photos/vw-type2-t1-02.webp",
+    "imageSmall": "photos/vw-type2-t1-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1950,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1950–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "1969 Dodge ChargerFile:Volkswagen_Type_2_(T1)_panel_van_in_yellow_-_annual_'Busjesdag'_vintage_VAG_gathering_at_the_Rijtuigenloods,_Amersfoort,_Netherlands.jpg",
+      "1969 Dodge ChargerCategory:Volkswagen_Type_2_(T1)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    ],
+    "source": {
+      "title": "File:Volkswagen Type 2 (T1) panel van in yellow - annual 'Busjesdag' vintage VAG gathering at the Rijtuigenloods, Amersfoort, Netherlands.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Type_2_(T1)_panel_van_in_yellow_-_annual_%27Busjesdag%27_vintage_VAG_gathering_at_the_Rijtuigenloods,_Amersfoort,_Netherlands.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Volkswagen_Type_2_%28T1%29_panel_van_in_yellow_-_annual_%27Busjesdag%27_vintage_VAG_gathering_at_the_Rijtuigenloods%2C_Amersfoort%2C_Netherlands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Volkswagen Type 2 (T1) panel van in yellow - annual 'Busjesdag' vintage VAG gathering at the Rijtuigenloods, Amersfoort, Netherlands.jpg” by Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: yellow T1 panel van with split windscreen."
     }
   }
 ]
