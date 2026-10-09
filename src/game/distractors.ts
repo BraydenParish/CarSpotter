@@ -109,8 +109,13 @@ export function buildChoices(
     scored.push({ c, s: plausibility(c, answer) + rng() * 2.5 });
   }
   scored.sort((x, y) => y.s - x.s);
+  // A van should be offered vans, a pickup utility vehicles, and so on: when the
+  // pool has enough cars of the answer's body family, draw only from those.
+  const family = BODY_FAMILY[answer.bodyStyle];
+  const sameFamily = scored.filter(({ c }) => BODY_FAMILY[c.bodyStyle] === family);
+  const ranked = sameFamily.length >= (count - 1) * 2 ? sameFamily : scored;
   // Sample from the most plausible band so options vary between plays.
-  const band = scored.slice(0, Math.max(count + 3, 8));
+  const band = ranked.slice(0, Math.max(count + 3, 8));
   const picked: Candidate[] = [];
   const makesUsed = new Map<string, number>();
   // Two options naming the same car under different badges (Acura/Honda Integra) would let a
