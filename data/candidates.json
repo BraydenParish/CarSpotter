@@ -20737,10 +20737,10 @@
         "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (charger3 #9); Commons category: 1968 Dodge Charger R/T. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+        "notes": "Full-size review: \"Charger R/T\" script on the tail panel is legible at full size."
       }
     },
     {
@@ -20767,10 +20767,10 @@
         "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (charger3 #10); Commons category: 1968 Dodge Charger R/T. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+        "notes": "Full-size review: \"Charger R/T\" script on the tail panel is legible at full size."
       }
     },
     {
@@ -20887,10 +20887,10 @@
         "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (chevelle70 #5); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+        "notes": "Full-size review: \"CHEVELLE\" lettering on the grille is legible at full size."
       }
     },
     {
@@ -21037,10 +21037,10 @@
         "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (chevelle70 #14); Commons category: 1970 Chevrolet Chevelle SS. CC BY-SA 4.0 by MercurySable99."
+        "notes": "Full-size review: \"CHEVELLE\" lettering on the grille is legible at full size. A \"70 Chevelle\" plate is on the bumper."
       }
     },
     {
@@ -21157,10 +21157,10 @@
         "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (giuliagt #8); Commons category: Alfa Romeo Giulia Sprint GT Veloce. CC0 by Calreyn88."
+        "notes": "Full-size review: \"Giulia sprint GT\" script on the bootlid is legible."
       }
     },
     {
@@ -22657,10 +22657,10 @@
         "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (i3 #3); Commons category: BMW i3s. CC BY-SA 4.0 by Matti Blume."
+        "notes": "Full-size review: Show plate on the front reads \"BMW i3s\"."
       }
     },
     {
@@ -22746,10 +22746,10 @@
         "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (i3 #12); Commons category: BMW i3s. CC BY-SA 4.0 by Alexander Migl."
+        "notes": "Full-size review: Show plate on the front reads \"BMW i3s\"."
       }
     }
   ]

@@ -1,5 +1,185 @@
 [
   {
+    "id": "alfa-romeo-giulia-sprint-gt-01",
+    "vehicleId": "alfa-romeo-giulia-sprint-gt",
+    "kind": "full",
+    "image": "photos/alfa-romeo-giulia-sprint-gt-01.webp",
+    "imageSmall": "photos/alfa-romeo-giulia-sprint-gt-01-sm.webp",
+    "width": 1600,
+    "height": 1105,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1977,
+      "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+      "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+    ],
+    "source": {
+      "title": "File:1965 Alfa Romeo Giulia Sprint GT 1600 NL 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1965 Alfa Romeo Giulia Sprint GT 1600 NL 01.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/48086210082/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (giuliagt #0); Commons category: Alfa Romeo Giulia Sprint GT. CC BY 2.0 by Rutger van der Maar."
+    }
+  },
+  {
+    "id": "alfa-romeo-giulia-sprint-gt-02",
+    "vehicleId": "alfa-romeo-giulia-sprint-gt",
+    "kind": "full",
+    "image": "photos/alfa-romeo-giulia-sprint-gt-02.webp",
+    "imageSmall": "photos/alfa-romeo-giulia-sprint-gt-02-sm.webp",
+    "width": 1600,
+    "height": 1000,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1977,
+      "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1964_Alfa_Romeo_Giulia_Sprint_GT.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+      "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+    ],
+    "source": {
+      "title": "File:1964 Alfa Romeo Giulia Sprint GT.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1964_Alfa_Romeo_Giulia_Sprint_GT.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/1964_Alfa_Romeo_Giulia_Sprint_GT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1964 Alfa Romeo Giulia Sprint GT.jpg” by Calreyn88, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (giuliagt #3); Commons category: Alfa Romeo Giulia Sprint GT. CC0 by Calreyn88."
+    }
+  },
+  {
+    "id": "alfa-romeo-giulia-sprint-gt-03",
+    "vehicleId": "alfa-romeo-giulia-sprint-gt",
+    "kind": "full",
+    "image": "photos/alfa-romeo-giulia-sprint-gt-03.webp",
+    "imageSmall": "photos/alfa-romeo-giulia-sprint-gt-03-sm.webp",
+    "width": 1600,
+    "height": 1098,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1977,
+      "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_03.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+      "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+    ],
+    "source": {
+      "title": "File:1965 Alfa Romeo Giulia Sprint GT 1600 NL 03.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_03.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rutger van der Maar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1965 Alfa Romeo Giulia Sprint GT 1600 NL 03.jpg” by Rutger van der Maar, CC BY 2.0, via Wikimedia Commons (https://www.flickr.com/photos/rutgervandermaar/48086154388/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (giuliagt #5); Commons category: Alfa Romeo Giulia Sprint GT. CC BY 2.0 by Rutger van der Maar."
+    }
+  },
+  {
+    "id": "alfa-romeo-giulia-sprint-gt-05",
+    "vehicleId": "alfa-romeo-giulia-sprint-gt",
+    "kind": "full",
+    "image": "photos/alfa-romeo-giulia-sprint-gt-05.webp",
+    "imageSmall": "photos/alfa-romeo-giulia-sprint-gt-05-sm.webp",
+    "width": 1600,
+    "height": 985,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1977,
+      "basis": "No feature visible in the photo separates years within the 1963–1977 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Alfa_Romeo_Giulia_105_115_(green).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Alfa_Romeo_Giulia_Sprint_GT",
+      "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+    ],
+    "source": {
+      "title": "File:1970 Alfa Romeo Giulia 105 115 (green).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Alfa_Romeo_Giulia_105_115_(green).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/1970_Alfa_Romeo_Giulia_105_115_%28green%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“1970 Alfa Romeo Giulia 105 115 (green).jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (giuliagt #9); Commons category: Alfa Romeo Giulia Sprint GT. CC BY 4.0 by Calreyn88."
+    }
+  },
+  {
     "id": "aston-martin-db5-01",
     "vehicleId": "aston-martin-db5",
     "kind": "full",
@@ -1710,6 +1890,95 @@
     }
   },
   {
+    "id": "bmw-i3-02",
+    "vehicleId": "bmw-i3",
+    "kind": "full",
+    "image": "photos/bmw-i3-02.webp",
+    "imageSmall": "photos/bmw-i3-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2013,
+      "to": 2022,
+      "basis": "No feature visible in the photo separates years within the 2013–2022 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:BMW_I01_i3_eDrive_Capparis_White_(10).jpg",
+      "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+    ],
+    "source": {
+      "title": "File:BMW I01 i3 eDrive Capparis White (10).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:BMW_I01_i3_eDrive_Capparis_White_(10).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/BMW_I01_i3_eDrive_Capparis_White_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“BMW I01 i3 eDrive Capparis White (10).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (i3 #6); Commons category: None. CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "bmw-i3-03",
+    "vehicleId": "bmw-i3",
+    "kind": "full",
+    "image": "photos/bmw-i3-03.webp",
+    "imageSmall": "photos/bmw-i3-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2013,
+      "to": 2022,
+      "basis": "No feature visible in the photo separates years within the 2013–2022 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:BMW_I01_i3_eDrive_Capparis_White_(12).jpg",
+      "https://commons.wikimedia.org/wiki/Category:BMW_i3_(2013–2017)",
+      "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+    ],
+    "source": {
+      "title": "File:BMW I01 i3 eDrive Capparis White (12).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:BMW_I01_i3_eDrive_Capparis_White_(12).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/BMW_I01_i3_eDrive_Capparis_White_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“BMW I01 i3 eDrive Capparis White (12).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (i3 #8); Commons category: BMW i3 (2013–2017). CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
     "id": "bmw-isetta-07",
     "vehicleId": "bmw-isetta",
     "kind": "full",
@@ -3192,6 +3461,321 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (camaro6 #5); Commons category: Chevrolet Camaro (2016–2024). CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-01",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-01.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-01-sm.webp",
+    "width": 1600,
+    "height": 806,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS_396_Sport_Coupe_in_Cranberry_Red,_Front_Right_(Hilton_Beach_2023).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:1970 Chevrolet Chevelle SS 396 Sport Coupe in Cranberry Red, Front Right (Hilton Beach 2023).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS_396_Sport_Coupe_in_Cranberry_Red,_Front_Right_(Hilton_Beach_2023).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/1970_Chevrolet_Chevelle_SS_396_Sport_Coupe_in_Cranberry_Red%2C_Front_Right_%28Hilton_Beach_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Elise240SX",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1970 Chevrolet Chevelle SS 396 Sport Coupe in Cranberry Red, Front Right (Hilton Beach 2023).jpg” by Elise240SX, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #0); Commons category: 1970 Chevrolet Chevelle SS. CC BY-SA 4.0 by Elise240SX."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-02",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-02.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-02-sm.webp",
+    "width": 1600,
+    "height": 827,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Chevrolet_Chevelle_SS_454_1970_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:Chevrolet Chevelle SS 454 1970 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Chevelle_SS_454_1970_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Chevrolet_Chevelle_SS_454_1970_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "RL GNZLZ",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Chevrolet Chevelle SS 454 1970 01.jpg” by RL GNZLZ, CC BY-SA 2.0, via Wikimedia Commons (https://www.flickr.com/photos/juanelo242a/53554919679/)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #1); Commons category: 1970 Chevrolet Chevelle SS. CC BY-SA 2.0 by RL GNZLZ."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-03",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-03.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-03-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_(15748244098)_(cropped).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:1970 Chevrolet Chevelle SS454 (15748244098) (cropped).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_(15748244098)_(cropped).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1970_Chevrolet_Chevelle_SS454_%2815748244098%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Chevrolet Chevelle SS454 (15748244098) (cropped).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1970 Chevrolet Chevelle SS454)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #4); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-05",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-05.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe_(8343895415).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:1970 Chevrolet Chevelle SS454 Sports Coupe (8343895415).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe_(8343895415).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/1970_Chevrolet_Chevelle_SS454_Sports_Coupe_%288343895415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Chevrolet Chevelle SS454 Sports Coupe (8343895415).jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1970 Chevrolet Chevelle SS454 Sports Coupe)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #6); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-06",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-06.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe.jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle_SS",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:1970 Chevrolet Chevelle SS454 Sports Coupe.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Chevelle_SS454_Sports_Coupe.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1970_Chevrolet_Chevelle_SS454_Sports_Coupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Sicnag",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Chevrolet Chevelle SS454 Sports Coupe.jpg” by Sicnag, CC BY 2.0, via Wikimedia Commons (1970 Chevrolet Chevelle SS454 Sports Coupe)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #7); Commons category: 1970 Chevrolet Chevelle SS. CC BY 2.0 by Sicnag."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-07",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-07.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-07-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Malibu_(6126270736).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:1970 Chevrolet Malibu (6126270736).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1970_Chevrolet_Malibu_(6126270736).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1970_Chevrolet_Malibu_%286126270736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1970 Chevrolet Malibu (6126270736).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1970 Chevrolet Malibu)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #8); Commons category: 1970 Chevrolet Chevelle. CC BY 2.0 by dave_7 from Lethbridge, Canada."
+    }
+  },
+  {
+    "id": "chevrolet-chevelle-1970-08",
+    "vehicleId": "chevrolet-chevelle-1970",
+    "kind": "full",
+    "image": "photos/chevrolet-chevelle-1970-08.webp",
+    "imageSmall": "photos/chevrolet-chevelle-1970-08-sm.webp",
+    "width": 1600,
+    "height": 1003,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1968,
+      "to": 1972,
+      "basis": "No feature visible in the photo separates years within the 1968–1972 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'70_Chevrolet_Chevelle_Coupe_(Chauds_vendredis_'10).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1970_Chevrolet_Chevelle",
+      "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+    ],
+    "source": {
+      "title": "File:'70 Chevrolet Chevelle Coupe (Chauds vendredis '10).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2770_Chevrolet_Chevelle_Coupe_(Chauds_vendredis_%2710).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%2770_Chevrolet_Chevelle_Coupe_%28Chauds_vendredis_%2710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'70 Chevrolet Chevelle Coupe (Chauds vendredis '10).jpg” by Bull-Doser, Public domain, via Wikimedia Commons (Own work.)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (chevelle70 #12); Commons category: 1970 Chevrolet Chevelle. Public domain by Bull-Doser."
     }
   },
   {
@@ -7224,6 +7808,321 @@
     }
   },
   {
+    "id": "fiat-124-spider-01",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-01.webp",
+    "imageSmall": "photos/fiat-124-spider-01-sm.webp",
+    "width": 1600,
+    "height": 782,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Fiat_124_Sport_Spider_AS,_Berlin_(front_right)_(cropped).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_(AS)",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:Fiat 124 Sport Spider AS, Berlin (front right) (cropped).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fiat_124_Sport_Spider_AS,_Berlin_(front_right)_(cropped).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Fiat_124_Sport_Spider_AS%2C_Berlin_%28front_right%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Fiat 124 Sport Spider AS, Berlin (front right) (cropped).jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #1); Commons category: Fiat 124 Sport Spider (AS). CC BY-SA 3.0 by Mr.choppers."
+    }
+  },
+  {
+    "id": "fiat-124-spider-02",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-02.webp",
+    "imageSmall": "photos/fiat-124-spider-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1976_Fiat_(29596661675).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_(CS)",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:1976 Fiat (29596661675).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1976_Fiat_(29596661675).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/1976_Fiat_%2829596661675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1976 Fiat (29596661675).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (1976 Fiat)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #2); Commons category: Fiat 124 Sport Spider (CS). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "fiat-124-spider-03",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-03.webp",
+    "imageSmall": "photos/fiat-124-spider-03-sm.webp",
+    "width": 1600,
+    "height": 868,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1976_Fiat_124_Sport.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:1976 Fiat 124 Sport.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1976_Fiat_124_Sport.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/1976_Fiat_124_Sport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1976 Fiat 124 Sport.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #4); Commons category: Fiat 124 Sport Spider. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "fiat-124-spider-04",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-04.webp",
+    "imageSmall": "photos/fiat-124-spider-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1980_Fiat_Spider_(848499865).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_2000",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:1980 Fiat Spider (848499865).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1980_Fiat_Spider_(848499865).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/1980_Fiat_Spider_%28848499865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“1980 Fiat Spider (848499865).jpg” by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, via Wikimedia Commons (1980 Fiat Spider)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #6); Commons category: Fiat 124 Sport Spider 2000. CC BY-SA 2.0 by dave_7 from Lethbridge, Canada."
+    }
+  },
+  {
+    "id": "fiat-124-spider-05",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-05.webp",
+    "imageSmall": "photos/fiat-124-spider-05-sm.webp",
+    "width": 1600,
+    "height": 1065,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:81_Fiat_Spider_1600_(8111428687).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_2000",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:81 Fiat Spider 1600 (8111428687).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:81_Fiat_Spider_1600_(8111428687).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/81_Fiat_Spider_1600_%288111428687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“81 Fiat Spider 1600 (8111428687).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (81 Fiat Spider 1600)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #8); Commons category: Fiat 124 Sport Spider 2000. CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
+    "id": "fiat-124-spider-06",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-06.webp",
+    "imageSmall": "photos/fiat-124-spider-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Fiat_124_Spider_1958_Oldtimertreffen_Ebern_2019_6200214.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:Fiat 124 Spider 1958 Oldtimertreffen Ebern 2019 6200214.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fiat_124_Spider_1958_Oldtimertreffen_Ebern_2019_6200214.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Fiat_124_Spider_1958_Oldtimertreffen_Ebern_2019_6200214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Fiat 124 Spider 1958 Oldtimertreffen Ebern 2019 6200214.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #11); Commons category: Fiat 124 Sport Spider. CC BY-SA 4.0 by Ermell."
+    }
+  },
+  {
+    "id": "fiat-124-spider-07",
+    "vehicleId": "fiat-124-spider",
+    "kind": "full",
+    "image": "photos/fiat-124-spider-07.webp",
+    "imageSmall": "photos/fiat-124-spider-07-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1966–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:72_Fiat_124_Sport_(6045841069).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fiat_124_Sport_Spider_(BS)",
+      "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    ],
+    "source": {
+      "title": "File:72 Fiat 124 Sport (6045841069).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:72_Fiat_124_Sport_(6045841069).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/72_Fiat_124_Sport_%286045841069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Greg Gjerdingen from Willmar, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“72 Fiat 124 Sport (6045841069).jpg” by Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons (72 Fiat 124 Sport)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (fiat124 #13); Commons category: Fiat 124 Sport Spider (BS). CC BY 2.0 by Greg Gjerdingen from Willmar, USA."
+    }
+  },
+  {
     "id": "fiat-500-nuova-01",
     "vehicleId": "fiat-500-nuova",
     "kind": "full",
@@ -9471,6 +10370,141 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (h1 #14); Commons category: Hummer H1. CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "hyundai-ioniq-5-01",
+    "vehicleId": "hyundai-ioniq-5",
+    "kind": "full",
+    "image": "photos/hyundai-ioniq-5-01.webp",
+    "imageSmall": "photos/hyundai-ioniq-5-01-sm.webp",
+    "width": 1600,
+    "height": 738,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2021,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2021–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_IAA_2021_1X7A0237.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Hyundai_Ioniq_5",
+      "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+    ],
+    "source": {
+      "title": "File:Hyundai Ioniq 5 IAA 2021 1X7A0237.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_IAA_2021_1X7A0237.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hyundai_Ioniq_5_IAA_2021_1X7A0237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Hyundai Ioniq 5 IAA 2021 1X7A0237.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ioniq5 #2); Commons category: Hyundai Ioniq 5. CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "hyundai-ioniq-5-02",
+    "vehicleId": "hyundai-ioniq-5",
+    "kind": "full",
+    "image": "photos/hyundai-ioniq-5-02.webp",
+    "imageSmall": "photos/hyundai-ioniq-5-02-sm.webp",
+    "width": 1600,
+    "height": 993,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2021,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2021–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Ioniq_5_1.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Hyundai_Ioniq_5",
+      "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+    ],
+    "source": {
+      "title": "File:2021 Hyundai Ioniq 5 1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Ioniq_5_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/2021_Hyundai_Ioniq_5_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Benespit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2021 Hyundai Ioniq 5 1.jpg” by Benespit, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ioniq5 #11); Commons category: Hyundai Ioniq 5. CC BY-SA 4.0 by Benespit."
+    }
+  },
+  {
+    "id": "hyundai-ioniq-5-03",
+    "vehicleId": "hyundai-ioniq-5",
+    "kind": "full",
+    "image": "photos/hyundai-ioniq-5-03.webp",
+    "imageSmall": "photos/hyundai-ioniq-5-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2021,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2021–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Ioniq_5_Signature,_West_Surabaya.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Hyundai_Ioniq_5",
+      "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+    ],
+    "source": {
+      "title": "File:2022 Hyundai Ioniq 5 Signature, West Surabaya.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Ioniq_5_Signature,_West_Surabaya.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/2022_Hyundai_Ioniq_5_Signature%2C_West_Surabaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alex Neman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2022 Hyundai Ioniq 5 Signature, West Surabaya.jpg” by Alex Neman, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ioniq5 #12); Commons category: Hyundai Ioniq 5. CC BY-SA 4.0 by Alex Neman."
     }
   },
   {
@@ -19091,6 +20125,411 @@
     }
   },
   {
+    "id": "renault-5-01",
+    "vehicleId": "renault-5",
+    "kind": "full",
+    "image": "photos/renault-5-01.webp",
+    "imageSmall": "photos/renault-5-01-sm.webp",
+    "width": 1600,
+    "height": 1070,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1972,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1979_Renault_5_Alpine_(8962451404).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_5_Alpine",
+      "https://en.wikipedia.org/wiki/Renault_5"
+    ],
+    "source": {
+      "title": "File:1979 Renault 5 Alpine (8962451404).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1979_Renault_5_Alpine_(8962451404).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/1979_Renault_5_Alpine_%288962451404%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Niels de Wit from Lunteren, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1979 Renault 5 Alpine (8962451404).jpg” by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0, via Wikimedia Commons (1979 Renault 5 Alpine)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r5 #2); Commons category: Renault 5 Alpine. CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+    }
+  },
+  {
+    "id": "renault-5-02",
+    "vehicleId": "renault-5",
+    "kind": "full",
+    "image": "photos/renault-5-02.webp",
+    "imageSmall": "photos/renault-5-02-sm.webp",
+    "width": 1600,
+    "height": 995,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1972,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1982_Renault_5_Automatic_(14930127929).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_5_(first_generation)",
+      "https://en.wikipedia.org/wiki/Renault_5"
+    ],
+    "source": {
+      "title": "File:1982 Renault 5 Automatic (14930127929).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1982_Renault_5_Automatic_(14930127929).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/1982_Renault_5_Automatic_%2814930127929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Niels de Wit from Lunteren, The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1982 Renault 5 Automatic (14930127929).jpg” by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0, via Wikimedia Commons (1982 Renault 5 Automatic)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r5 #4); Commons category: Renault 5 (first generation). CC BY 2.0 by Niels de Wit from Lunteren, The Netherlands."
+    }
+  },
+  {
+    "id": "renault-5-03",
+    "vehicleId": "renault-5",
+    "kind": "full",
+    "image": "photos/renault-5-03.webp",
+    "imageSmall": "photos/renault-5-03-sm.webp",
+    "width": 1600,
+    "height": 1104,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1972,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1983_Renault_5_Alpine_Turbo.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_5_Alpine",
+      "https://en.wikipedia.org/wiki/Renault_5"
+    ],
+    "source": {
+      "title": "File:1983 Renault 5 Alpine Turbo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1983_Renault_5_Alpine_Turbo.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/1983_Renault_5_Alpine_Turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1983 Renault 5 Alpine Turbo.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r5 #5); Commons category: Renault 5 Alpine. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "renault-5-04",
+    "vehicleId": "renault-5",
+    "kind": "full",
+    "image": "photos/renault-5-04.webp",
+    "imageSmall": "photos/renault-5-04-sm.webp",
+    "width": 1600,
+    "height": 977,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1972,
+      "to": 1985,
+      "basis": "No feature visible in the photo separates years within the 1972–1985 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1983_Renault_5_Gordini_Turbo_BS_J26.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_5_Turbo",
+      "https://en.wikipedia.org/wiki/Renault_5"
+    ],
+    "source": {
+      "title": "File:1983 Renault 5 Gordini Turbo BS J26.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1983_Renault_5_Gordini_Turbo_BS_J26.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/1983_Renault_5_Gordini_Turbo_BS_J26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1983 Renault 5 Gordini Turbo BS J26.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (r5 #6); Commons category: Renault 5 Turbo. CC BY-SA 4.0 by MrWalkr."
+    }
+  },
+  {
+    "id": "renault-zoe-01",
+    "vehicleId": "renault-zoe",
+    "kind": "full",
+    "image": "photos/renault-zoe-01.webp",
+    "imageSmall": "photos/renault-zoe-01-sm.webp",
+    "width": 1600,
+    "height": 941,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Renault_ZOE.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+      "https://en.wikipedia.org/wiki/Renault_Zoe"
+    ],
+    "source": {
+      "title": "File:2018 Renault ZOE.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Renault_ZOE.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/2018_Renault_ZOE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Renault ZOE.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (zoe #0); Commons category: Renault Zoe (2012). CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "renault-zoe-02",
+    "vehicleId": "renault-zoe",
+    "kind": "full",
+    "image": "photos/renault-zoe-02.webp",
+    "imageSmall": "photos/renault-zoe-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Renault_Zoe,_Paris_Motor_Show_2018,_IMG_0201.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+      "https://en.wikipedia.org/wiki/Renault_Zoe"
+    ],
+    "source": {
+      "title": "File:Renault Zoe, Paris Motor Show 2018, IMG 0201.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Renault_Zoe,_Paris_Motor_Show_2018,_IMG_0201.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Renault_Zoe%2C_Paris_Motor_Show_2018%2C_IMG_0201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Renault Zoe, Paris Motor Show 2018, IMG 0201.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (zoe #2); Commons category: Renault Zoe (2012). CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "renault-zoe-03",
+    "vehicleId": "renault-zoe",
+    "kind": "full",
+    "image": "photos/renault-zoe-03.webp",
+    "imageSmall": "photos/renault-zoe-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Auto_di_E-vai,_servizio_di_car_sharing_del_gruppo_FNM_in_ricarica_davanti_alla_stazione_di_Rogoredo_a_Milabo_(ottobre_2022).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2019)",
+      "https://en.wikipedia.org/wiki/Renault_Zoe"
+    ],
+    "source": {
+      "title": "File:Auto di E-vai, servizio di car sharing del gruppo FNM in ricarica davanti alla stazione di Rogoredo a Milabo (ottobre 2022).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Auto_di_E-vai,_servizio_di_car_sharing_del_gruppo_FNM_in_ricarica_davanti_alla_stazione_di_Rogoredo_a_Milabo_(ottobre_2022).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Auto_di_E-vai%2C_servizio_di_car_sharing_del_gruppo_FNM_in_ricarica_davanti_alla_stazione_di_Rogoredo_a_Milabo_%28ottobre_2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Marcuscalabresus",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Auto di E-vai, servizio di car sharing del gruppo FNM in ricarica davanti alla stazione di Rogoredo a Milabo (ottobre 2022).jpg” by Marcuscalabresus, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (zoe #4); Commons category: Renault Zoe (2019). CC BY-SA 4.0 by Marcuscalabresus."
+    }
+  },
+  {
+    "id": "renault-zoe-04",
+    "vehicleId": "renault-zoe",
+    "kind": "full",
+    "image": "photos/renault-zoe-04.webp",
+    "imageSmall": "photos/renault-zoe-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:White_Renault_Zoe_(front).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+      "https://en.wikipedia.org/wiki/Renault_Zoe"
+    ],
+    "source": {
+      "title": "File:White Renault Zoe (front).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Renault_Zoe_(front).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/White_Renault_Zoe_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Fiver, der Hellseher",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“White Renault Zoe (front).jpg” by Fiver, der Hellseher, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (zoe #10); Commons category: Renault Zoe (2012). CC BY-SA 4.0 by Fiver, der Hellseher."
+    }
+  },
+  {
+    "id": "renault-zoe-05",
+    "vehicleId": "renault-zoe",
+    "kind": "full",
+    "image": "photos/renault-zoe-05.webp",
+    "imageSmall": "photos/renault-zoe-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2012–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_3396.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Renault_Zoe_(2012)",
+      "https://en.wikipedia.org/wiki/Renault_Zoe"
+    ],
+    "source": {
+      "title": "File:2015-03-03 Geneva Motor Show 3396.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_3396.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/2015-03-03_Geneva_Motor_Show_3396.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Norbert Aepli, Switzerland (User:Noebu)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“2015-03-03 Geneva Motor Show 3396.JPG” by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (zoe #14); Commons category: Renault Zoe (2012). CC BY 4.0 by Norbert Aepli, Switzerland (User:Noebu)."
+    }
+  },
+  {
     "id": "saab-900-classic-01",
     "vehicleId": "saab-900-classic",
     "kind": "full",
@@ -19403,6 +20842,231 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (saab900 #13); Commons category: Saab 900 (first generation) three-door hatchback. CC BY 2.0 by Kieran White from Manchester, England."
+    }
+  },
+  {
+    "id": "skoda-octavia-3-01",
+    "vehicleId": "skoda-octavia-3",
+    "kind": "full",
+    "image": "photos/skoda-octavia-3-01.webp",
+    "imageSmall": "photos/skoda-octavia-3-01-sm.webp",
+    "width": 1600,
+    "height": 758,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_1.8_TSI_Green_tec_Elegance_(III)_–_Frontansicht,_14._April_2013,_Düsseldorf.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III",
+      "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+    ],
+    "source": {
+      "title": "File:Skoda Octavia 1.8 TSI Green tec Elegance (III) – Frontansicht, 14. April 2013, Düsseldorf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_1.8_TSI_Green_tec_Elegance_(III)_%E2%80%93_Frontansicht,_14._April_2013,_D%C3%BCsseldorf.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Skoda_Octavia_1.8_TSI_Green_tec_Elegance_%28III%29_%E2%80%93_Frontansicht%2C_14._April_2013%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "credit": "“Skoda Octavia 1.8 TSI Green tec Elegance (III) – Frontansicht, 14. April 2013, Düsseldorf.jpg” by M 93, CC BY-SA 3.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (octavia3 #0); Commons category: Škoda Octavia III. CC BY-SA 3.0 de by M 93."
+    }
+  },
+  {
+    "id": "skoda-octavia-3-02",
+    "vehicleId": "skoda-octavia-3",
+    "kind": "full",
+    "image": "photos/skoda-octavia-3-02.webp",
+    "imageSmall": "photos/skoda-octavia-3-02-sm.webp",
+    "width": 1600,
+    "height": 1195,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Skoda_Octavia_VRS.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III_Facelift",
+      "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+    ],
+    "source": {
+      "title": "File:2018 Skoda Octavia VRS.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Skoda_Octavia_VRS.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2018_Skoda_Octavia_VRS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Skoda Octavia VRS.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (octavia3 #2); Commons category: Škoda Octavia III Facelift. CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "skoda-octavia-3-03",
+    "vehicleId": "skoda-octavia-3",
+    "kind": "full",
+    "image": "photos/skoda-octavia-3-03.webp",
+    "imageSmall": "photos/skoda-octavia-3-03-sm.webp",
+    "width": 1600,
+    "height": 960,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_1.6_TDi_Elegance_2015_(45756164244).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III",
+      "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+    ],
+    "source": {
+      "title": "File:Skoda Octavia 1.6 TDi Elegance 2015 (45756164244).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_1.6_TDi_Elegance_2015_(45756164244).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Skoda_Octavia_1.6_TDi_Elegance_2015_%2845756164244%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "RL GNZLZ from Chile",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Skoda Octavia 1.6 TDi Elegance 2015 (45756164244).jpg” by RL GNZLZ from Chile, CC BY-SA 2.0, via Wikimedia Commons (Skoda Octavia 1.6 TDi Elegance 2015)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (octavia3 #5); Commons category: Škoda Octavia III. CC BY-SA 2.0 by RL GNZLZ from Chile."
+    }
+  },
+  {
+    "id": "skoda-octavia-3-04",
+    "vehicleId": "skoda-octavia-3",
+    "kind": "full",
+    "image": "photos/skoda-octavia-3-04.webp",
+    "imageSmall": "photos/skoda-octavia-3-04-sm.webp",
+    "width": 1600,
+    "height": 973,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2014_Skoda_Octavia_(5E_MY14)_vRS_162TSI_station_wagon_(2018-10-01)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III_Combi",
+      "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+    ],
+    "source": {
+      "title": "File:2014 Skoda Octavia (5E MY14) vRS 162TSI station wagon (2018-10-01) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2014_Skoda_Octavia_(5E_MY14)_vRS_162TSI_station_wagon_(2018-10-01)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/2014_Skoda_Octavia_%285E_MY14%29_vRS_162TSI_station_wagon_%282018-10-01%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "EurovisionNim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2014 Skoda Octavia (5E MY14) vRS 162TSI station wagon (2018-10-01) 01.jpg” by EurovisionNim, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (octavia3 #8); Commons category: Škoda Octavia III Combi. CC BY-SA 4.0 by EurovisionNim."
+    }
+  },
+  {
+    "id": "skoda-octavia-3-05",
+    "vehicleId": "skoda-octavia-3",
+    "kind": "full",
+    "image": "photos/skoda-octavia-3-05.webp",
+    "imageSmall": "photos/skoda-octavia-3-05-sm.webp",
+    "width": 1600,
+    "height": 816,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2012,
+      "to": 2020,
+      "basis": "No feature visible in the photo separates years within the 2012–2020 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:ŠKODA_OCTAVIA_(5E)_China.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Škoda_Octavia_III_Facelift",
+      "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+    ],
+    "source": {
+      "title": "File:ŠKODA OCTAVIA (5E) China.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%C5%A0KODA_OCTAVIA_(5E)_China.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%C5%A0KODA_OCTAVIA_%285E%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“ŠKODA OCTAVIA (5E) China.jpg” by Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (octavia3 #11); Commons category: Škoda Octavia III Facelift. CC BY-SA 4.0 by Dinkun Chen."
     }
   },
   {
@@ -20732,6 +22396,681 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (modelx #14); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Benespit."
+    }
+  },
+  {
+    "id": "tesla-model-y-01",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-01.webp",
+    "imageSmall": "photos/tesla-model-y-01-sm.webp",
+    "width": 1600,
+    "height": 1057,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_DSC_8297.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:Tesla Model Y (2025) DSC 8297.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_DSC_8297.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tesla_Model_Y_%282025%29_DSC_8297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Tesla Model Y (2025) DSC 8297.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #2); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "tesla-model-y-02",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-02.webp",
+    "imageSmall": "photos/tesla-model-y-02-sm.webp",
+    "width": 1600,
+    "height": 1069,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_MYLE_Festival_2025_DSC_9564.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:Tesla Model Y (2025) MYLE Festival 2025 DSC 9564.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_MYLE_Festival_2025_DSC_9564.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tesla_Model_Y_%282025%29_MYLE_Festival_2025_DSC_9564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Tesla Model Y (2025) MYLE Festival 2025 DSC 9564.jpg” by Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #3); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Alexander Migl."
+    }
+  },
+  {
+    "id": "tesla-model-y-03",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-03.webp",
+    "imageSmall": "photos/tesla-model-y-03-sm.webp",
+    "width": 1600,
+    "height": 703,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_RWD_front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:2025 Tesla Model Y RWD front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_RWD_front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/2025_Tesla_Model_Y_RWD_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "LuvsMG481",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2025 Tesla Model Y RWD front.jpg” by LuvsMG481, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #6); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by LuvsMG481."
+    }
+  },
+  {
+    "id": "tesla-model-y-04",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-04.webp",
+    "imageSmall": "photos/tesla-model-y-04-sm.webp",
+    "width": 1600,
+    "height": 1198,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_2025_at_Santana_Row_dllu_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:Tesla Model Y 2025 at Santana Row dllu 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_2025_at_Santana_Row_dllu_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tesla_Model_Y_2025_at_Santana_Row_dllu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Tesla Model Y 2025 at Santana Row dllu 01.jpg” by Dllu, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #7); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Dllu."
+    }
+  },
+  {
+    "id": "tesla-model-y-05",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-05.webp",
+    "imageSmall": "photos/tesla-model-y-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Dual_Motor_First_Edition_Juniper_Quicksilver_(9).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:Tesla Model Y Dual Motor First Edition Juniper Quicksilver (9).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Dual_Motor_First_Edition_Juniper_Quicksilver_(9).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Tesla_Model_Y_Dual_Motor_First_Edition_Juniper_Quicksilver_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Tesla Model Y Dual Motor First Edition Juniper Quicksilver (9).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #9); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "tesla-model-y-06",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-06.webp",
+    "imageSmall": "photos/tesla-model-y-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Dual_Motor_Juniper_Pearl_White_Multi-Coat_(2).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:Tesla Model Y Dual Motor Juniper Pearl White Multi-Coat (2).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Dual_Motor_Juniper_Pearl_White_Multi-Coat_(2).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tesla_Model_Y_Dual_Motor_Juniper_Pearl_White_Multi-Coat_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Tesla Model Y Dual Motor Juniper Pearl White Multi-Coat (2).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #10); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Damian B Oh."
+    }
+  },
+  {
+    "id": "tesla-model-y-07",
+    "vehicleId": "tesla-model-y",
+    "kind": "full",
+    "image": "photos/tesla-model-y-07.webp",
+    "imageSmall": "photos/tesla-model-y-07-sm.webp",
+    "width": 1600,
+    "height": 1190,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2020,
+      "to": 2026,
+      "basis": "No feature visible in the photo separates years within the 2020–2026 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Standard_front_view_dllu.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Tesla_Model_Y_(2025)",
+      "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    ],
+    "source": {
+      "title": "File:Tesla Model Y Standard front view dllu.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Standard_front_view_dllu.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Model_Y_Standard_front_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Tesla Model Y Standard front view dllu.jpg” by Dllu, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (modely #14); Commons category: Tesla Model Y (2025). CC BY-SA 4.0 by Dllu."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-01",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-01.webp",
+    "imageSmall": "photos/toyota-camry-xv70-01-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Toyota_Camry_Hybrid,_Ribnitz-Damgarten_(LRM_20200504_165212).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_Hybrid_(XV70,_Europe,_2018)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:Toyota Camry Hybrid, Ribnitz-Damgarten (LRM 20200504 165212).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Camry_Hybrid,_Ribnitz-Damgarten_(LRM_20200504_165212).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Toyota_Camry_Hybrid%2C_Ribnitz-Damgarten_%28LRM_20200504_165212%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Toyota Camry Hybrid, Ribnitz-Damgarten (LRM 20200504 165212).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #0); Commons category: Toyota Camry Hybrid (XV70, Europe, 2018). CC BY-SA 4.0 by Matti Blume."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-02",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-02.webp",
+    "imageSmall": "photos/toyota-camry-xv70-02-sm.webp",
+    "width": 1600,
+    "height": 814,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2017_Toyota_Camry_(ASV70R)_SX_sedan_(2018-11-02)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_Australia,_2018)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:2017 Toyota Camry (ASV70R) SX sedan (2018-11-02) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2017_Toyota_Camry_(ASV70R)_SX_sedan_(2018-11-02)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/2017_Toyota_Camry_%28ASV70R%29_SX_sedan_%282018-11-02%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "EurovisionNim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2017 Toyota Camry (ASV70R) SX sedan (2018-11-02) 01.jpg” by EurovisionNim, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #2); Commons category: Toyota Camry (XV70, Australia, 2018). CC BY-SA 4.0 by EurovisionNim."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-03",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-03.webp",
+    "imageSmall": "photos/toyota-camry-xv70-03-sm.webp",
+    "width": 1600,
+    "height": 839,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_(AXHV71R)_Ascent_Sport_Hybrid_sedan_(2018-08-13)_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_Hybrid_(XV70,_Australia,_2018)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:2018 Toyota Camry (AXHV71R) Ascent Sport Hybrid sedan (2018-08-13) 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_(AXHV71R)_Ascent_Sport_Hybrid_sedan_(2018-08-13)_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2018_Toyota_Camry_%28AXHV71R%29_Ascent_Sport_Hybrid_sedan_%282018-08-13%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "EurovisionNim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Toyota Camry (AXHV71R) Ascent Sport Hybrid sedan (2018-08-13) 01.jpg” by EurovisionNim, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #3); Commons category: Toyota Camry Hybrid (XV70, Australia, 2018). CC BY-SA 4.0 by EurovisionNim."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-04",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-04.webp",
+    "imageSmall": "photos/toyota-camry-xv70-04-sm.webp",
+    "width": 1600,
+    "height": 744,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_SE_front_(2)_3.16.18.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_North_America,_2018)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:2018 Toyota Camry SE front (2) 3.16.18.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_SE_front_(2)_3.16.18.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/2018_Toyota_Camry_SE_front_%282%29_3.16.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Kevauto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Toyota Camry SE front (2) 3.16.18.jpg” by Kevauto, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #4); Commons category: Toyota Camry (XV70, North America, 2018). CC BY-SA 4.0 by Kevauto."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-05",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-05.webp",
+    "imageSmall": "photos/toyota-camry-xv70-05-sm.webp",
+    "width": 1600,
+    "height": 1008,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Moscow,_Toyota_Camry_(XV70),_Aug_2025_01.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_Europe)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:Moscow, Toyota Camry (XV70), Aug 2025 01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_Toyota_Camry_(XV70),_Aug_2025_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Moscow%2C_Toyota_Camry_%28XV70%29%2C_Aug_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Retired electrician",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Moscow, Toyota Camry (XV70), Aug 2025 01.jpg” by Retired electrician, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #7); Commons category: Toyota Camry (XV70, Europe). CC0 by Retired electrician."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-06",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-06.webp",
+    "imageSmall": "photos/toyota-camry-xv70-06-sm.webp",
+    "width": 1600,
+    "height": 813,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(117).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_China,_2021)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:TOYOTA CAMRY (XV70) China (117).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(117).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/TOYOTA_CAMRY_%28XV70%29_China_%28117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“TOYOTA CAMRY (XV70) China (117).jpg” by Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #8); Commons category: Toyota Camry (XV70, China, 2021). CC BY-SA 4.0 by Dinkun Chen."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-07",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-07.webp",
+    "imageSmall": "photos/toyota-camry-xv70-07-sm.webp",
+    "width": 1600,
+    "height": 913,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(28)_(cropped).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_China,_2021)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:TOYOTA CAMRY (XV70) China (28) (cropped).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(28)_(cropped).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/TOYOTA_CAMRY_%28XV70%29_China_%2828%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“TOYOTA CAMRY (XV70) China (28) (cropped).jpg” by Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #10); Commons category: Toyota Camry (XV70, China, 2021). CC BY-SA 4.0 by Dinkun Chen."
+    }
+  },
+  {
+    "id": "toyota-camry-xv70-08",
+    "vehicleId": "toyota-camry-xv70",
+    "kind": "full",
+    "image": "photos/toyota-camry-xv70-08.webp",
+    "imageSmall": "photos/toyota-camry-xv70-08-sm.webp",
+    "width": 1600,
+    "height": 851,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2017,
+      "to": 2024,
+      "basis": "No feature visible in the photo separates years within the 2017–2024 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(41).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Toyota_Camry_(XV70,_China,_2018)",
+      "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+    ],
+    "source": {
+      "title": "File:TOYOTA CAMRY (XV70) China (41).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV70)_China_(41).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TOYOTA_CAMRY_%28XV70%29_China_%2841%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“TOYOTA CAMRY (XV70) China (41).jpg” by Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (camry70 #11); Commons category: Toyota Camry (XV70, China, 2018). CC BY-SA 4.0 by Dinkun Chen."
     }
   },
   {
@@ -24949,6 +27288,411 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-09",
       "notes": "Viewed on review sheet (t2 #13); Commons category: Volkswagen T2 pickup. CC BY-SA 3.0 by Robotriot."
+    }
+  },
+  {
+    "id": "vw-up-01",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-01.webp",
+    "imageSmall": "photos/vw-up-01-sm.webp",
+    "width": 1600,
+    "height": 948,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Move_UP_1.0_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:2013 Volkswagen Move UP 1.0 Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Move_UP_1.0_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/2013_Volkswagen_Move_UP_1.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2013 Volkswagen Move UP 1.0 Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #0); Commons category: Volkswagen up! (2011–2016). CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "vw-up-02",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-02.webp",
+    "imageSmall": "photos/vw-up-02-sm.webp",
+    "width": 1600,
+    "height": 1059,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2018_Volkswagen_up!_GTi_1.0_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_GTI",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:2018 Volkswagen up! GTi 1.0 Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2018_Volkswagen_up!_GTi_1.0_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/2018_Volkswagen_up%21_GTi_1.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2018 Volkswagen up! GTi 1.0 Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #1); Commons category: Volkswagen up! GTI. CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "vw-up-03",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-03.webp",
+    "imageSmall": "photos/vw-up-03-sm.webp",
+    "width": 1600,
+    "height": 903,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_up!_GTi_1.0_Front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_GTI",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:2019 Volkswagen up! GTi 1.0 Front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_up!_GTi_1.0_Front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/2019_Volkswagen_up%21_GTi_1.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Volkswagen up! GTi 1.0 Front.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #2); Commons category: Volkswagen up! GTI. CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "vw-up-04",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-04.webp",
+    "imageSmall": "photos/vw-up-04-sm.webp",
+    "width": 1600,
+    "height": 953,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:VW_cup_up!_1.0_BlueMotion_Technology_–_Frontansicht,_19._Juni_2014,_Düsseldorf.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:VW cup up! 1.0 BlueMotion Technology – Frontansicht, 19. Juni 2014, Düsseldorf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VW_cup_up!_1.0_BlueMotion_Technology_%E2%80%93_Frontansicht,_19._Juni_2014,_D%C3%BCsseldorf.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/VW_cup_up%21_1.0_BlueMotion_Technology_%E2%80%93_Frontansicht%2C_19._Juni_2014%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "credit": "“VW cup up! 1.0 BlueMotion Technology – Frontansicht, 19. Juni 2014, Düsseldorf.jpg” by M 93, CC BY-SA 3.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #3); Commons category: Volkswagen up! (2011–2016). CC BY-SA 3.0 de by M 93."
+    }
+  },
+  {
+    "id": "vw-up-05",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-05.webp",
+    "imageSmall": "photos/vw-up-05-sm.webp",
+    "width": 1600,
+    "height": 961,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:VW_high_up!_1.0_–_Frontansicht_(1),_17._März_2012,_Düsseldorf.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:VW high up! 1.0 – Frontansicht (1), 17. März 2012, Düsseldorf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VW_high_up!_1.0_%E2%80%93_Frontansicht_(1),_17._M%C3%A4rz_2012,_D%C3%BCsseldorf.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/VW_high_up%21_1.0_%E2%80%93_Frontansicht_%281%29%2C_17._M%C3%A4rz_2012%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "credit": "“VW high up! 1.0 – Frontansicht (1), 17. März 2012, Düsseldorf.jpg” by M 93, CC BY-SA 3.0 de, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #4); Commons category: Volkswagen up! (2011–2016). CC BY-SA 3.0 de by M 93."
+    }
+  },
+  {
+    "id": "vw-up-06",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-06.webp",
+    "imageSmall": "photos/vw-up-06-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_up!_GTI_(ABA-AADKR)_front.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_GTI",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:Volkswagen up! GTI (ABA-AADKR) front.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_up!_GTI_(ABA-AADKR)_front.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Volkswagen_up%21_GTI_%28ABA-AADKR%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“Volkswagen up! GTI (ABA-AADKR) front.jpg” by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #6); Commons category: Volkswagen up! GTI. CC0 by Tokumeigakarinoaoshima."
+    }
+  },
+  {
+    "id": "vw-up-07",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-07.webp",
+    "imageSmall": "photos/vw-up-07-sm.webp",
+    "width": 1600,
+    "height": 1011,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Take_UP!_1.0.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_up!_(2011–2016)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:2013 Volkswagen Take UP! 1.0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Take_UP!_1.0.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2013_Volkswagen_Take_UP%21_1.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2013 Volkswagen Take UP! 1.0.jpg” by Vauxford, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #8); Commons category: Volkswagen up! (2011–2016). CC BY-SA 4.0 by Vauxford."
+    }
+  },
+  {
+    "id": "vw-up-08",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-08.webp",
+    "imageSmall": "photos/vw-up-08-sm.webp",
+    "width": 1600,
+    "height": 1050,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_Up!_GTi.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Up!",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:2019 Volkswagen Up! GTi.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_Up!_GTi.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/2019_Volkswagen_Up%21_GTi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“2019 Volkswagen Up! GTi.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #9); Commons category: Volkswagen Up!. CC BY-SA 4.0 by Calreyn88."
+    }
+  },
+  {
+    "id": "vw-up-09",
+    "vehicleId": "vw-up",
+    "kind": "full",
+    "image": "photos/vw-up-09.webp",
+    "imageSmall": "photos/vw-up-09-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 2011,
+      "to": 2023,
+      "basis": "No feature visible in the photo separates years within the 2011–2023 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_Up_GTI,_IAA_2017,_Frankfurt_am_Main_(1Y7A2905).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Fotoprojekt_IAA_2017_(supported_by_Wikimedia_Deutschland)",
+      "https://en.wikipedia.org/wiki/Volkswagen_Up"
+    ],
+    "source": {
+      "title": "File:Volkswagen Up GTI, IAA 2017, Frankfurt am Main (1Y7A2905).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Up_GTI,_IAA_2017,_Frankfurt_am_Main_(1Y7A2905).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Volkswagen_Up_GTI%2C_IAA_2017%2C_Frankfurt_am_Main_%281Y7A2905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "credit": "“Volkswagen Up GTI, IAA 2017, Frankfurt am Main (1Y7A2905).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (up #13); Commons category: Fotoprojekt IAA 2017 (supported by Wikimedia Deutschland). CC BY-SA 4.0 by Matti Blume."
     }
   }
 ]
