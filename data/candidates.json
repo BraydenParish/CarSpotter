@@ -20587,10 +20587,10 @@
         "https://en.wikipedia.org/wiki/Tesla_Model_X"
       ],
       "review": {
-        "status": "approved",
+        "status": "rejected",
         "reviewedBy": "claude-session",
         "date": "2026-10-09",
-        "notes": "Viewed on review sheet (modelx #8); Commons category: Tesla Model X (2016). CC BY-SA 4.0 by Damian B Oh."
+        "notes": "Full-size review: \"MODEL X\" lettering on the tailgate is legible."
       }
     },
     {
