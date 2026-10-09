@@ -209,7 +209,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: unmistakable Countach wedge; category Lamborghini Countach."
-      }
+      },
+      "crops": [
+        {
+          "id": "lamborghini-countach-01-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 2125,
+            "top": 1632,
+            "width": 1148,
+            "height": 587
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "lamborghini-aventador-01",
@@ -449,7 +467,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: parked on a Dublin street."
-      }
+      },
+      "crops": [
+        {
+          "id": "citroen-ds-01-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 1791,
+            "top": 1724,
+            "width": 1148,
+            "height": 690
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "citroen-ds-02",
@@ -599,7 +635,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: grey Trabant, front-quarter."
-      }
+      },
+      "crops": [
+        {
+          "id": "trabant-601-03-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 365,
+            "top": 1149,
+            "width": 511,
+            "height": 547
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "mini-classic-01",
@@ -689,7 +743,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: red 2CV on grass."
-      }
+      },
+      "crops": [
+        {
+          "id": "citroen-2cv-01-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 1400,
+            "top": 583,
+            "width": 272,
+            "height": 233
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "citroen-2cv-02",
@@ -1169,7 +1241,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: white air-cooled Beetle parked on a street."
-      }
+      },
+      "crops": [
+        {
+          "id": "vw-beetle-01-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 600,
+            "top": 1512,
+            "width": 729,
+            "height": 708
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "vw-beetle-02",
@@ -3329,7 +3419,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: beige Mk1 Golf Diesel parked in a street."
-      }
+      },
+      "crops": [
+        {
+          "id": "vw-golf-mk1-03-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 4281,
+            "top": 1612,
+            "width": 655,
+            "height": 672
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "mercedes-g-class-w463-01",
@@ -3629,7 +3737,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: red Testarossa on grass."
-      }
+      },
+      "crops": [
+        {
+          "id": "ferrari-testarossa-02-bodywork",
+          "part": "bodywork",
+          "crop": {
+            "left": 2565,
+            "top": 824,
+            "width": 733,
+            "height": 660
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: bodywork only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "ferrari-testarossa-03",
@@ -3749,7 +3875,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: yellow Miura at Techno-Classica."
-      }
+      },
+      "crops": [
+        {
+          "id": "lamborghini-miura-01-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 1684,
+            "top": 1280,
+            "width": 1083,
+            "height": 1200
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "lamborghini-miura-02",
@@ -4409,7 +4553,25 @@
         "reviewedBy": "claude-session",
         "date": "2026-10-04",
         "notes": "Viewed: dark-blue W123 parked nose-on in a garage."
-      }
+      },
+      "crops": [
+        {
+          "id": "mercedes-w123-03-headlight",
+          "part": "headlight",
+          "crop": {
+            "left": 225,
+            "top": 1590,
+            "width": 1127,
+            "height": 676
+          },
+          "review": {
+            "status": "approved",
+            "reviewedBy": "claude-session",
+            "date": "2026-10-09",
+            "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+          }
+        }
+      ]
     },
     {
       "id": "mercedes-w123-04",

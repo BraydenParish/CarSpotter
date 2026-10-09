@@ -270,6 +270,59 @@
     }
   },
   {
+    "id": "citroen-2cv-01-headlight",
+    "vehicleId": "citroen-2cv",
+    "kind": "detail",
+    "image": "photos/citroen-2cv-01-headlight.webp",
+    "imageSmall": "photos/citroen-2cv-01-headlight.webp",
+    "width": 269,
+    "height": 230,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1948,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1948–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Citroën_2CV6_Spécial_S6_1990.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Citroën_2CV_6_Spécial",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+    ],
+    "source": {
+      "title": "File:Citroën 2CV6 Spécial S6 1990.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2CV6_Sp%C3%A9cial_S6_1990.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Citro%C3%ABn_2CV6_Sp%C3%A9cial_S6_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Oliver Wagemann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Citroën 2CV6 Spécial S6 1990.jpg” by Oliver Wagemann, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "citroen-2cv-01",
+    "crop": {
+      "left": 1400,
+      "top": 583,
+      "width": 272,
+      "height": 233
+    }
+  },
+  {
     "id": "citroen-2cv-02",
     "vehicleId": "citroen-2cv",
     "kind": "full",
@@ -402,6 +455,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: parked on a Dublin street."
+    }
+  },
+  {
+    "id": "citroen-ds-01-headlight",
+    "vehicleId": "citroen-ds",
+    "kind": "detail",
+    "image": "photos/citroen-ds-01-headlight.webp",
+    "imageSmall": "photos/citroen-ds-01-headlight.webp",
+    "width": 480,
+    "height": 289,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1968,
+      "to": 1975,
+      "basis": "Four headlamps under a smooth glass canopy: the Series 3 nose introduced in late 1967 for the 1968 model year; earlier cars have uncovered headlamps."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Rathmines,_Co._Dublin_-_Ireland_(9265908624).jpg",
+      "https://commons.wikimedia.org/wiki/Category:1972_Citroën_automobiles",
+      "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    ],
+    "source": {
+      "title": "File:Rathmines, Co. Dublin - Ireland (9265908624).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rathmines,_Co._Dublin_-_Ireland_(9265908624).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rathmines%2C_Co._Dublin_-_Ireland_%289265908624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mic from Reading - Berkshire, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Rathmines, Co. Dublin - Ireland (9265908624).jpg” by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, via Wikimedia Commons (Rathmines, Co. Dublin - Ireland)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "citroen-ds-01",
+    "crop": {
+      "left": 1791,
+      "top": 1724,
+      "width": 1148,
+      "height": 690
     }
   },
   {
@@ -897,6 +1003,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: red Testarossa on grass."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-02-bodywork",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "detail",
+    "image": "photos/ferrari-testarossa-02-bodywork.webp",
+    "imageSmall": "photos/ferrari-testarossa-02-bodywork.webp",
+    "width": 384,
+    "height": 346,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_(5986771872).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1987 Ferrari Testarossa (5986771872).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_(5986771872).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/1987_Ferrari_Testarossa_%285986771872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1987 Ferrari Testarossa (5986771872).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1987 Ferrari Testarossa)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the bodywork area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: bodywork only, no badge, script or plate in frame."
+    },
+    "detailPart": "bodywork",
+    "derivedFrom": "ferrari-testarossa-02",
+    "crop": {
+      "left": 2565,
+      "top": 824,
+      "width": 733,
+      "height": 660
     }
   },
   {
@@ -1710,6 +1869,59 @@
     }
   },
   {
+    "id": "lamborghini-countach-01-headlight",
+    "vehicleId": "lamborghini-countach",
+    "kind": "detail",
+    "image": "photos/lamborghini-countach-01-headlight.webp",
+    "imageSmall": "photos/lamborghini-countach-01-headlight.webp",
+    "width": 384,
+    "height": 196,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1974,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1974–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1984_Lamborghini_Countach_LP5000S.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Countach",
+      "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    ],
+    "source": {
+      "title": "File:1984 Lamborghini Countach LP5000S.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1984_Lamborghini_Countach_LP5000S.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/1984_Lamborghini_Countach_LP5000S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1984 Lamborghini Countach LP5000S.jpg” by MrWalkr, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "lamborghini-countach-01",
+    "crop": {
+      "left": 2125,
+      "top": 1632,
+      "width": 1148,
+      "height": 587
+    }
+  },
+  {
     "id": "lamborghini-countach-03",
     "vehicleId": "lamborghini-countach",
     "kind": "full",
@@ -1797,6 +2009,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: yellow Miura at Techno-Classica."
+    }
+  },
+  {
+    "id": "lamborghini-miura-01-headlight",
+    "vehicleId": "lamborghini-miura",
+    "kind": "detail",
+    "image": "photos/lamborghini-miura-01-headlight.webp",
+    "imageSmall": "photos/lamborghini-miura-01-headlight.webp",
+    "width": 346,
+    "height": 383,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1966,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Miura_(27205021868).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+      "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    ],
+    "source": {
+      "title": "File:Lamborghini Miura (27205021868).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Miura_(27205021868).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lamborghini_Miura_%2827205021868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Thomas Vogt from Paderborn, Deutschland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Lamborghini Miura (27205021868).jpg” by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0, via Wikimedia Commons (Lamborghini Miura)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "lamborghini-miura-01",
+    "crop": {
+      "left": 1684,
+      "top": 1280,
+      "width": 1083,
+      "height": 1200
     }
   },
   {
@@ -2385,6 +2650,51 @@
     }
   },
   {
+    "id": "mazda-rx7-fd-03",
+    "vehicleId": "mazda-rx7-fd",
+    "kind": "full",
+    "image": "photos/mazda-rx7-fd-03.webp",
+    "imageSmall": "photos/mazda-rx7-fd-03-sm.webp",
+    "width": 1600,
+    "height": 1084,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1991,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1997_Mazda_RX-7.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    ],
+    "source": {
+      "title": "File:1997 Mazda RX-7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1997_Mazda_RX-7.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/1997_Mazda_RX-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1997 Mazda RX-7.jpg” by Calreyn88, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white FD on a show lawn."
+    }
+  },
+  {
     "id": "mazda-rx7-fd-04",
     "vehicleId": "mazda-rx7-fd",
     "kind": "full",
@@ -2832,6 +3142,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: dark-blue W123 parked nose-on in a garage."
+    }
+  },
+  {
+    "id": "mercedes-w123-03-headlight",
+    "vehicleId": "mercedes-w123",
+    "kind": "detail",
+    "image": "photos/mercedes-w123-03-headlight.webp",
+    "imageSmall": "photos/mercedes-w123-03-headlight.webp",
+    "width": 480,
+    "height": 288,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1975,
+      "to": 1986,
+      "basis": "No feature visible in the photo separates years within the 1975–1986 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Azores-Day4-18_(33766682044).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W123",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+    ],
+    "source": {
+      "title": "File:Azores-Day4-18 (33766682044).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Azores-Day4-18_(33766682044).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Azores-Day4-18_%2833766682044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ajay Suresh from New York, NY, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Azores-Day4-18 (33766682044).jpg” by Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons (Azores-Day4-18)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "mercedes-w123-03",
+    "crop": {
+      "left": 225,
+      "top": 1590,
+      "width": 1127,
+      "height": 676
     }
   },
   {
@@ -3878,6 +4241,51 @@
     }
   },
   {
+    "id": "porsche-356-02",
+    "vehicleId": "porsche-356",
+    "kind": "full",
+    "image": "photos/porsche-356-02.webp",
+    "imageSmall": "photos/porsche-356-02-sm.webp",
+    "width": 1600,
+    "height": 900,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1948,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:SAM_3647_(29749952786).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+      "https://en.wikipedia.org/wiki/Porsche_356"
+    ],
+    "source": {
+      "title": "File:SAM 3647 (29749952786).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:SAM_3647_(29749952786).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/SAM_3647_%2829749952786%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tino Rossini from Toronto, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“SAM 3647 (29749952786).jpg” by Tino Rossini from Toronto, Canada, CC BY 2.0, via Wikimedia Commons (SAM_3647)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green 356 Speedster driving at a concours."
+    }
+  },
+  {
     "id": "porsche-356-03",
     "vehicleId": "porsche-356",
     "kind": "full",
@@ -4190,6 +4598,51 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: yellow R4 at a show."
+    }
+  },
+  {
+    "id": "renault-4-04",
+    "vehicleId": "renault-4",
+    "kind": "full",
+    "image": "photos/renault-4-04.webp",
+    "imageSmall": "photos/renault-4-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1994,
+      "basis": "No feature visible in the photo separates years within the 1961–1994 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Renault_4_(4612925350).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Renault_4",
+      "https://en.wikipedia.org/wiki/Renault_4"
+    ],
+    "source": {
+      "title": "File:Renault 4 (4612925350).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Renault_4_(4612925350).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Renault_4_%284612925350%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "nakhon100",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Renault 4 (4612925350).jpg” by nakhon100, CC BY 2.0, via Wikimedia Commons (Renault 4)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green R4 in a car park."
     }
   },
   {
@@ -5207,6 +5660,59 @@
     }
   },
   {
+    "id": "trabant-601-03-headlight",
+    "vehicleId": "trabant-601",
+    "kind": "detail",
+    "image": "photos/trabant-601-03-headlight.webp",
+    "imageSmall": "photos/trabant-601-03-headlight.webp",
+    "width": 269,
+    "height": 288,
+    "setting": "other",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1964,
+      "to": 1990,
+      "basis": "No feature visible in the photo separates years within the 1964–1990 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1969_Trabant_P601.JPG",
+      "https://commons.wikimedia.org/wiki/Category:Trabant_601",
+      "https://en.wikipedia.org/wiki/Trabant"
+    ],
+    "source": {
+      "title": "File:1969 Trabant P601.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1969_Trabant_P601.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/1969_Trabant_P601.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "AlfvanBeem",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "“1969 Trabant P601.JPG” by AlfvanBeem, CC0, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "trabant-601-03",
+    "crop": {
+      "left": 365,
+      "top": 1149,
+      "width": 511,
+      "height": 547
+    }
+  },
+  {
     "id": "vw-beetle-01",
     "vehicleId": "vw-beetle",
     "kind": "full",
@@ -5249,6 +5755,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: white air-cooled Beetle parked on a street."
+    }
+  },
+  {
+    "id": "vw-beetle-01-headlight",
+    "vehicleId": "vw-beetle",
+    "kind": "detail",
+    "image": "photos/vw-beetle-01-headlight.webp",
+    "imageSmall": "photos/vw-beetle-01-headlight.webp",
+    "width": 326,
+    "height": 317,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1938,
+      "to": 2003,
+      "basis": "No feature visible in the photo separates years within the 1938–2003 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Volkswagen_Beetle_(18495040664).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Type_1",
+      "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
+    ],
+    "source": {
+      "title": "File:Volkswagen Beetle (18495040664).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Beetle_(18495040664).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Volkswagen_Beetle_%2818495040664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Dennis Elzinga",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Volkswagen Beetle (18495040664).jpg” by Dennis Elzinga, CC BY 2.0, via Wikimedia Commons (Volkswagen Beetle)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "vw-beetle-01",
+    "crop": {
+      "left": 600,
+      "top": 1512,
+      "width": 729,
+      "height": 708
     }
   },
   {
@@ -5474,6 +6033,59 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: beige Mk1 Golf Diesel parked in a street."
+    }
+  },
+  {
+    "id": "vw-golf-mk1-03-headlight",
+    "vehicleId": "vw-golf-mk1",
+    "kind": "detail",
+    "image": "photos/vw-golf-mk1-03-headlight.webp",
+    "imageSmall": "photos/vw-golf-mk1-03-headlight.webp",
+    "width": 250,
+    "height": 256,
+    "setting": "street",
+    "angle": "detail",
+    "modelYear": {
+      "from": 1974,
+      "to": 1983,
+      "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Halle_77_28.05.2022_JM_(28).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+    ],
+    "source": {
+      "title": "File:Halle 77 28.05.2022 JM (28).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Halle_77_28.05.2022_JM_(28).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Halle_77_28.05.2022_JM_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Johannes Maximilian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Halle 77 28.05.2022 JM (28).jpg” by Johannes Maximilian, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Cropped to the headlight area, resized to 1200 px wide and re-encoded as WebP by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed the crop: headlight only, no badge, script or plate in frame."
+    },
+    "detailPart": "headlight",
+    "derivedFrom": "vw-golf-mk1-03",
+    "crop": {
+      "left": 4281,
+      "top": 1612,
+      "width": 655,
+      "height": 672
     }
   },
   {
