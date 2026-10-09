@@ -65,7 +65,7 @@ Requires Node 20+.
 **Offline and installable.** The game has a web-app manifest, icons and a service worker:
 - Pages are network-first. Hashed assets and photos are cache-first.
 - Chromium browsers get an **Install app** button.
-- Settings → *Offline play* saves every verified photo for offline use (about 35 MB), with progress, stop and remove.
+- Settings → *Offline play* saves every verified photo for offline use (about 37 MB), with progress, stop and remove.
 - The service worker is registered only in production builds.
 
 Also: garage (cars you identified), 25 achievements (each hidden until the photo set can actually support it), XP/levels, stats, personal bests, daily streak, first-play intro, settings (sound, haptics, hints, auto-advance, motion), progress export/import/reset.
