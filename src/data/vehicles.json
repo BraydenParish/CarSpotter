@@ -409,5 +409,271 @@
     "categories": ["offroad", "jdm", "everyday"],
     "tip": "Boxy mini 4×4 with upright A-pillars, a flat clamshell bonnet, side windows that dip at the front, roof drip rails and a simple black grille with round headlamps.",
     "referenceUrl": "https://en.wikipedia.org/wiki/Suzuki_Jimny"
+  },
+  {
+    "id": "vw-golf-mk1",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "modelAliases": [
+      "Rabbit",
+      "Caribe",
+      "Golf I"
+    ],
+    "extraWords": [
+      "GTI",
+      "Diesel",
+      "GLS",
+      "LS",
+      "C"
+    ],
+    "generation": {
+      "name": "Mk1",
+      "aliases": [
+        "Mk 1",
+        "Mk I",
+        "Golf 1",
+        "Golf I",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Type 17",
+        "A1"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1974,
+      1983
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Giugiaro's sharp-edged 'folded paper' two-box hatchback with a steep tailgate and round headlamps (rectangular on later US cars).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+  },
+{
+    "id": "mercedes-g-class-w463",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "modelAliases": [
+      "G-Wagen",
+      "G Wagen",
+      "G-Wagon",
+      "G Wagon",
+      "Geländewagen",
+      "Gelandewagen",
+      "G",
+      "G 500",
+      "G500",
+      "G 550",
+      "G550",
+      "G 63",
+      "G63"
+    ],
+    "extraWords": [
+      "G 500",
+      "G500",
+      "G 550",
+      "G550",
+      "G 350",
+      "G350",
+      "G 63",
+      "G63",
+      "AMG"
+    ],
+    "generation": {
+      "name": "W463",
+      "aliases": [
+        "W 463",
+        "first-generation W463"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "Germany",
+    "years": [
+      1990,
+      2018
+    ],
+    "categories": [
+      "offroad",
+      "european"
+    ],
+    "tip": "Boxy, upright body-on-frame 4×4 with flat panels, round headlamps and a spare wheel on the side-hinged rear door; the W463 brought luxury trim to the G in 1990.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+  },
+{
+    "id": "mazda-rx7-fd",
+    "make": "Mazda",
+    "model": "RX-7",
+    "modelAliases": [
+      "RX7",
+      "Efini RX-7",
+      "ɛ̃fini RX-7"
+    ],
+    "makeAliases": [
+      "Efini"
+    ],
+    "extraWords": [
+      "R2",
+      "Type R",
+      "Spirit R",
+      "Turbo"
+    ],
+    "generation": {
+      "name": "FD",
+      "aliases": [
+        "FD3S",
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "FD RX-7"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      1991,
+      2002
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Smooth, curvy two-seat coupé with pop-up headlamps; the last RX-7, with a sequential twin-turbo rotary engine.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_RX-7"
+  },
+{
+    "id": "ferrari-testarossa",
+    "make": "Ferrari",
+    "model": "Testarossa",
+    "modelAliases": [
+      "Testa Rossa",
+      "F110"
+    ],
+    "extraWords": [
+      "Monospecchio",
+      "Monodado"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1984,
+      1991
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "classic"
+    ],
+    "tip": "Wide, flat Pininfarina wedge with long horizontal 'cheese-grater' strakes running from the doors into the rear wings.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+  },
+{
+    "id": "lamborghini-miura",
+    "make": "Lamborghini",
+    "model": "Miura",
+    "modelAliases": [],
+    "extraWords": [
+      "P400",
+      "S",
+      "SV",
+      "P400 S",
+      "P400 SV"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1966,
+      1973
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "classic"
+    ],
+    "tip": "Low, curvaceous Gandini body with the engine behind the cabin; pre-SV cars have black 'eyelashes' around the headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+  },
+{
+    "id": "porsche-356",
+    "make": "Porsche",
+    "model": "356",
+    "modelAliases": [
+      "356A",
+      "356B",
+      "356C",
+      "Speedster"
+    ],
+    "extraWords": [
+      "A",
+      "B",
+      "C",
+      "Speedster",
+      "Cabriolet",
+      "Coupe",
+      "Super",
+      "Carrera",
+      "1600"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1948,
+      1965
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Porsche's first production car: a small, rounded rear-engined coupé or convertible whose shape stayed largely unchanged from 1948 to 1965.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_356"
+  },
+{
+    "id": "chevrolet-corvette-c2",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "modelAliases": [
+      "Corvette Sting Ray",
+      "Sting Ray",
+      "Stingray",
+      "Vette"
+    ],
+    "extraWords": [
+      "Sting Ray",
+      "Stingray",
+      "Grand Sport",
+      "327",
+      "427"
+    ],
+    "generation": {
+      "name": "C2",
+      "aliases": [
+        "second generation",
+        "2nd generation",
+        "2nd gen",
+        "Sting Ray",
+        "Stingray"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1963,
+      1967
+    ],
+    "categories": [
+      "american",
+      "sports",
+      "classic"
+    ],
+    "tip": "Sharp-edged Sting Ray body with hidden headlamps in rotating housings; the 1963 coupé alone has the split rear window.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
   }
 ]

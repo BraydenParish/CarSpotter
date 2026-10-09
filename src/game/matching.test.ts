@@ -216,3 +216,19 @@ describe('answers found while playtesting with real photos', () => {
     expect(model('Samurai', 'suzuki-jimny-jb64').correct).toBe(false);
   });
 });
+
+describe('answers for the second photo batch', () => {
+  it('accepts common names and rejects sibling models', () => {
+    expect(model('G-Wagon', 'mercedes-g-class-w463').correct).toBe(true);
+    expect(model('G63', 'mercedes-g-class-w463').correct).toBe(true);
+    expect(model('GL-Class', 'mercedes-g-class-w463').correct).toBe(false);
+    expect(model('Rabbit', 'vw-golf-mk1').correct).toBe(true);
+    expect(model('Scirocco', 'vw-golf-mk1').correct).toBe(false);
+    expect(model('RX-8', 'mazda-rx7-fd').correct).toBe(false);
+    expect(model('512 TR', 'ferrari-testarossa').correct).toBe(false);
+    expect(model('Testarosa', 'ferrari-testarossa').correct).toBe(true);
+    expect(model('912', 'porsche-356').correct).toBe(false);
+    expect(model('Sting Ray', 'chevrolet-corvette-c2').correct).toBe(true);
+    expect(model('Corvair', 'chevrolet-corvette-c2').correct).toBe(false);
+  });
+});

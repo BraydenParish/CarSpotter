@@ -45,6 +45,186 @@
     }
   },
   {
+    "id": "chevrolet-corvette-c2-01",
+    "vehicleId": "chevrolet-corvette-c2",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c2-01.webp",
+    "imageSmall": "photos/chevrolet-corvette-c2-01-sm.webp",
+    "width": 1600,
+    "height": 1138,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1963,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "Chevrolet Corvette C2File:'vette_-_Flickr_-_exfordy.jpg",
+      "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+    ],
+    "source": {
+      "title": "File:'vette - Flickr - exfordy.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%27vette_-_Flickr_-_exfordy.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/%27vette_-_Flickr_-_exfordy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Brian Snelson from Hockley, Essex, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“'vette - Flickr - exfordy.jpg” by Brian Snelson from Hockley, Essex, England, CC BY 2.0, via Wikimedia Commons ('vette)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black C2 Sting Ray nose-on at a track day; hidden headlamps closed."
+    }
+  },
+  {
+    "id": "chevrolet-corvette-c2-02",
+    "vehicleId": "chevrolet-corvette-c2",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c2-02.webp",
+    "imageSmall": "photos/chevrolet-corvette-c2-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "Chevrolet Corvette C2File:Chevrolet_Corvette_C2_P5200894.jpg",
+      "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+    ],
+    "source": {
+      "title": "File:Chevrolet Corvette C2 P5200894.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C2_P5200894.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chevrolet_Corvette_C2_P5200894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Chevrolet Corvette C2 P5200894.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white C2 coupé on a country road during a rally."
+    }
+  },
+  {
+    "id": "chevrolet-corvette-c2-04",
+    "vehicleId": "chevrolet-corvette-c2",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c2-04.webp",
+    "imageSmall": "photos/chevrolet-corvette-c2-04-sm.webp",
+    "width": 1600,
+    "height": 1068,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "Chevrolet Corvette C2File:Chevrolet_Corvette_(43092783524).jpg",
+      "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+    ],
+    "source": {
+      "title": "File:Chevrolet Corvette (43092783524).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_(43092783524).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chevrolet_Corvette_%2843092783524%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Thomas Vogt from Paderborn, Deutschland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Chevrolet Corvette (43092783524).jpg” by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0, via Wikimedia Commons (Chevrolet Corvette)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-red C2 at a car show."
+    }
+  },
+  {
+    "id": "chevrolet-corvette-c2-05",
+    "vehicleId": "chevrolet-corvette-c2",
+    "kind": "full",
+    "image": "photos/chevrolet-corvette-c2-05.webp",
+    "imageSmall": "photos/chevrolet-corvette-c2-05-sm.webp",
+    "width": 1600,
+    "height": 988,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1963,
+      "to": 1967,
+      "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "Chevrolet Corvette C2File:Chevrolet_Corvette_5.jpg",
+      "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+      "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+    ],
+    "source": {
+      "title": "File:Chevrolet Corvette 5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_5.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Chevrolet_Corvette_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Calreyn88",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "“Chevrolet Corvette 5.jpg” by Calreyn88, CC BY 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: grey C2 at Goodwood Revival."
+    }
+  },
+  {
     "id": "citroen-2cv-01",
     "vehicleId": "citroen-2cv",
     "kind": "full",
@@ -627,6 +807,186 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: blue repaint, F40 body; plate not visible."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-01",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-01.webp",
+    "imageSmall": "photos/ferrari-testarossa-01-sm.webp",
+    "width": 1600,
+    "height": 958,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:061_-_Ferrari_Testarossa_-_Flickr_-_Price-Photography.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:061 - Ferrari Testarossa - Flickr - Price-Photography.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:061_-_Ferrari_Testarossa_-_Flickr_-_Price-Photography.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/061_-_Ferrari_Testarossa_-_Flickr_-_Price-Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Michael Price from Houston, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“061 - Ferrari Testarossa - Flickr - Price-Photography.jpg” by Michael Price from Houston, USA, CC BY 2.0, via Wikimedia Commons (Ferrari Testarossa)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red Testarossa at a coffee-and-cars meet."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-02",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-02.webp",
+    "imageSmall": "photos/ferrari-testarossa-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_(5986771872).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1987 Ferrari Testarossa (5986771872).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_(5986771872).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/1987_Ferrari_Testarossa_%285986771872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1987 Ferrari Testarossa (5986771872).jpg” by dave_7 from Lethbridge, Canada, CC BY 2.0, via Wikimedia Commons (1987 Ferrari Testarossa)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red Testarossa on grass."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-03",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-03.webp",
+    "imageSmall": "photos/ferrari-testarossa-03-sm.webp",
+    "width": 1600,
+    "height": 1208,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1986_Ferrari_Testarossa_(3733011954).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1986 Ferrari Testarossa (3733011954).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1986_Ferrari_Testarossa_(3733011954).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/1986_Ferrari_Testarossa_%283733011954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Spanish Coches",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“1986 Ferrari Testarossa (3733011954).jpg” by Spanish Coches, CC BY 2.0, via Wikimedia Commons (1986 Ferrari Testarossa)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red Testarossa parked on a street."
+    }
+  },
+  {
+    "id": "ferrari-testarossa-05",
+    "vehicleId": "ferrari-testarossa",
+    "kind": "full",
+    "image": "photos/ferrari-testarossa-05.webp",
+    "imageSmall": "photos/ferrari-testarossa-05-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1984,
+      "to": 1991,
+      "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+      "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    ],
+    "source": {
+      "title": "File:1987 Ferrari Testarossa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1987_Ferrari_Testarossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "xYoshii_",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1987 Ferrari Testarossa.jpg” by xYoshii_, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red Testarossa at a street car show."
     }
   },
   {
@@ -1350,6 +1710,231 @@
     }
   },
   {
+    "id": "lamborghini-miura-01",
+    "vehicleId": "lamborghini-miura",
+    "kind": "full",
+    "image": "photos/lamborghini-miura-01.webp",
+    "imageSmall": "photos/lamborghini-miura-01-sm.webp",
+    "width": 1600,
+    "height": 1064,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_Miura_(27205021868).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+      "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    ],
+    "source": {
+      "title": "File:Lamborghini Miura (27205021868).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Miura_(27205021868).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lamborghini_Miura_%2827205021868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Thomas Vogt from Paderborn, Deutschland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "“Lamborghini Miura (27205021868).jpg” by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0, via Wikimedia Commons (Lamborghini Miura)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: yellow Miura at Techno-Classica."
+    }
+  },
+  {
+    "id": "lamborghini-miura-02",
+    "vehicleId": "lamborghini-miura",
+    "kind": "full",
+    "image": "photos/lamborghini-miura-02.webp",
+    "imageSmall": "photos/lamborghini-miura-02-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:DSC03424-Lamborghini_Miura-Artcurial-Le_Mans_Classic.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+      "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    ],
+    "source": {
+      "title": "File:DSC03424-Lamborghini Miura-Artcurial-Le Mans Classic.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:DSC03424-Lamborghini_Miura-Artcurial-Le_Mans_Classic.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/DSC03424-Lamborghini_Miura-Artcurial-Le_Mans_Classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Y.Leclercq",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“DSC03424-Lamborghini Miura-Artcurial-Le Mans Classic.jpg” by Y.Leclercq, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: yellow Miura at an auction display."
+    }
+  },
+  {
+    "id": "lamborghini-miura-03",
+    "vehicleId": "lamborghini-miura",
+    "kind": "full",
+    "image": "photos/lamborghini-miura-03.webp",
+    "imageSmall": "photos/lamborghini-miura-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front",
+    "modelYear": {
+      "from": 1966,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Lamborghini_miura_(4676818019).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+      "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    ],
+    "source": {
+      "title": "File:Lamborghini miura (4676818019).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_miura_(4676818019).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lamborghini_miura_%284676818019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "zombieite",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Lamborghini miura (4676818019).jpg” by zombieite, CC BY 2.0, via Wikimedia Commons (lamborghini miura)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red Miura on a concours lawn."
+    }
+  },
+  {
+    "id": "lamborghini-miura-04",
+    "vehicleId": "lamborghini-miura",
+    "kind": "full",
+    "image": "photos/lamborghini-miura-04.webp",
+    "imageSmall": "photos/lamborghini-miura-04-sm.webp",
+    "width": 1600,
+    "height": 1195,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1972_Lamborghini_Miura_(LUC_38K).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+      "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    ],
+    "source": {
+      "title": "File:1972 Lamborghini Miura (LUC 38K).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1972_Lamborghini_Miura_(LUC_38K).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/1972_Lamborghini_Miura_%28LUC_38K%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Carfanatic2019",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1972 Lamborghini Miura (LUC 38K).jpg” by Carfanatic2019, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: yellow Miura on grass."
+    }
+  },
+  {
+    "id": "lamborghini-miura-05",
+    "vehicleId": "lamborghini-miura",
+    "kind": "full",
+    "image": "photos/lamborghini-miura-05.webp",
+    "imageSmall": "photos/lamborghini-miura-05-sm.webp",
+    "width": 1600,
+    "height": 1063,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1966,
+      "to": 1973,
+      "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:DSC_7735_(18057720459).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+      "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    ],
+    "source": {
+      "title": "File:DSC 7735 (18057720459).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:DSC_7735_(18057720459).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/DSC_7735_%2818057720459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Rahil Rupawala",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“DSC 7735 (18057720459).jpg” by Rahil Rupawala, CC BY 2.0, via Wikimedia Commons (DSC_7735)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white Miura at Goodwood."
+    }
+  },
+  {
     "id": "land-rover-defender-02",
     "vehicleId": "land-rover-defender",
     "kind": "full",
@@ -1440,6 +2025,186 @@
     }
   },
   {
+    "id": "mazda-rx7-fd-01",
+    "vehicleId": "mazda-rx7-fd",
+    "kind": "full",
+    "image": "photos/mazda-rx7-fd-01.webp",
+    "imageSmall": "photos/mazda-rx7-fd-01-sm.webp",
+    "width": 1600,
+    "height": 1075,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1991,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:'93-'95_Mazda_RX-7_(Orange_Julep).JPG",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    ],
+    "source": {
+      "title": "File:'93-'95 Mazda RX-7 (Orange Julep).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%2793-%2795_Mazda_RX-7_(Orange_Julep).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%2793-%2795_Mazda_RX-7_%28Orange_Julep%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Bull-Doser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“'93-'95 Mazda RX-7 (Orange Julep).JPG” by Bull-Doser, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver FD at a cruise night."
+    }
+  },
+  {
+    "id": "mazda-rx7-fd-02",
+    "vehicleId": "mazda-rx7-fd",
+    "kind": "full",
+    "image": "photos/mazda-rx7-fd-02.webp",
+    "imageSmall": "photos/mazda-rx7-fd-02-sm.webp",
+    "width": 1600,
+    "height": 1026,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1991,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_R2_in_Vintage_Red,_front_left_(Lime_Rock).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    ],
+    "source": {
+      "title": "File:1994 Mazda RX-7 R2 in Vintage Red, front left (Lime Rock).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_R2_in_Vintage_Red,_front_left_(Lime_Rock).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“1994 Mazda RX-7 R2 in Vintage Red, front left (Lime Rock).jpg” by Mr.choppers, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red FD at a concours."
+    }
+  },
+  {
+    "id": "mazda-rx7-fd-04",
+    "vehicleId": "mazda-rx7-fd",
+    "kind": "full",
+    "image": "photos/mazda-rx7-fd-04.webp",
+    "imageSmall": "photos/mazda-rx7-fd-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1991,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_FD_White_(1).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    ],
+    "source": {
+      "title": "File:1994 Mazda RX-7 FD White (1).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_FD_White_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/1994_Mazda_RX-7_FD_White_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1994 Mazda RX-7 FD White (1).jpg” by Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white FD in a museum."
+    }
+  },
+  {
+    "id": "mazda-rx7-fd-05",
+    "vehicleId": "mazda-rx7-fd",
+    "kind": "full",
+    "image": "photos/mazda-rx7-fd-05.webp",
+    "imageSmall": "photos/mazda-rx7-fd-05-sm.webp",
+    "width": 1600,
+    "height": 892,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1991,
+      "to": 2002,
+      "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:1993_Mazda_RX-7.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+      "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    ],
+    "source": {
+      "title": "File:1993 Mazda RX-7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1993_Mazda_RX-7.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1993_Mazda_RX-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "DestinationFearFan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“1993 Mazda RX-7.jpg” by DestinationFearFan, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: red FD parked by a wall."
+    }
+  },
+  {
     "id": "mercedes-300sl-01",
     "vehicleId": "mercedes-300sl",
     "kind": "full",
@@ -1527,6 +2292,96 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: gullwing doors raised."
+    }
+  },
+  {
+    "id": "mercedes-g-class-w463-01",
+    "vehicleId": "mercedes-g-class-w463",
+    "kind": "full",
+    "image": "photos/mercedes-g-class-w463-01.webp",
+    "imageSmall": "photos/mercedes-g-class-w463-01-sm.webp",
+    "width": 1600,
+    "height": 1154,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1990,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 1990–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G500.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W_463_(1990–2018)",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+    ],
+    "source": {
+      "title": "File:Mercedes-Benz G500.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G500.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mercedes-Benz_G500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "IFCAR",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "credit": "“Mercedes-Benz G500.jpg” by IFCAR, Public domain, via Wikimedia Commons (Own work)",
+      "attributionRequired": false,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: black G 500 parked on a street. A \"V8\" badge is visible on the door; it names the engine, not the model."
+    }
+  },
+  {
+    "id": "mercedes-g-class-w463-02",
+    "vehicleId": "mercedes-g-class-w463",
+    "kind": "full",
+    "image": "photos/mercedes-g-class-w463-02.webp",
+    "imageSmall": "photos/mercedes-g-class-w463-02-sm.webp",
+    "width": 1600,
+    "height": 1203,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1990,
+      "to": 2018,
+      "basis": "No feature visible in the photo separates years within the 1990–2018 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G550_(1).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W_463_(1990–2018)",
+      "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+    ],
+    "source": {
+      "title": "File:Mercedes-Benz G550 (1).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G550_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mercedes-Benz_G550_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Alekc2m",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Mercedes-Benz G550 (1).jpg” by Alekc2m, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: dark-blue G 550 with nudge bar, parked."
     }
   },
   {
@@ -2120,6 +2975,141 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: silver R34 nose-on in a car park (black-and-white photo)."
+    }
+  },
+  {
+    "id": "porsche-356-01",
+    "vehicleId": "porsche-356",
+    "kind": "full",
+    "image": "photos/porsche-356-01.webp",
+    "imageSmall": "photos/porsche-356-01-sm.webp",
+    "width": 1600,
+    "height": 1115,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1948,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Porsche_356_(52176357016).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+      "https://en.wikipedia.org/wiki/Porsche_356"
+    ],
+    "source": {
+      "title": "File:Porsche 356 (52176357016).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porsche_356_(52176357016).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Porsche_356_%2852176357016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Clemens Vasters from Viersen, Germany, Germany",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "“Porsche 356 (52176357016).jpg” by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0, via Wikimedia Commons (Porsche 356)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: silver 356 cabriolet in a classic-car hall."
+    }
+  },
+  {
+    "id": "porsche-356-03",
+    "vehicleId": "porsche-356",
+    "kind": "full",
+    "image": "photos/porsche-356-03.webp",
+    "imageSmall": "photos/porsche-356-03-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1948,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Porsche_356_(8).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+      "https://en.wikipedia.org/wiki/Porsche_356"
+    ],
+    "source": {
+      "title": "File:Porsche 356 (8).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porsche_356_(8).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Porsche_356_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Porsche 356 (8).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white 356 coupé at a meet in Kobe."
+    }
+  },
+  {
+    "id": "porsche-356-04",
+    "vehicleId": "porsche-356",
+    "kind": "full",
+    "image": "photos/porsche-356-04.webp",
+    "imageSmall": "photos/porsche-356-04-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1948,
+      "to": 1965,
+      "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Porsche_356_(11).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+      "https://en.wikipedia.org/wiki/Porsche_356"
+    ],
+    "source": {
+      "title": "File:Porsche 356 (11).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porsche_356_(11).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Porsche_356_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Porsche 356 (11).jpg” by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: green 356 convertible at a meet in Kobe."
     }
   },
   {
@@ -3314,6 +4304,141 @@
       "reviewedBy": "claude-session",
       "date": "2026-10-04",
       "notes": "Viewed: dark-blue Beetle in a car park."
+    }
+  },
+  {
+    "id": "vw-golf-mk1-01",
+    "vehicleId": "vw-golf-mk1",
+    "kind": "full",
+    "image": "photos/vw-golf-mk1-01.webp",
+    "imageSmall": "photos/vw-golf-mk1-01-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1983,
+      "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Drift_race_Čačak_septembar_2013_11.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+    ],
+    "source": {
+      "title": "File:Drift race Čačak septembar 2013 11.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Drift_race_%C4%8Ca%C4%8Dak_septembar_2013_11.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Drift_race_%C4%8Ca%C4%8Dak_septembar_2013_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Михаило Јовановић",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "“Drift race Čačak septembar 2013 11.jpg” by Михаило Јовановић, CC BY-SA 3.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: blue Mk1 Golf at a drift event car park; only the VW roundel on the grille."
+    }
+  },
+  {
+    "id": "vw-golf-mk1-02",
+    "vehicleId": "vw-golf-mk1",
+    "kind": "full",
+    "image": "photos/vw-golf-mk1-02.webp",
+    "imageSmall": "photos/vw-golf-mk1-02-sm.webp",
+    "width": 1600,
+    "height": 1200,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1974,
+      "to": 1983,
+      "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Golf_I_hvid.jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+    ],
+    "source": {
+      "title": "File:Golf I hvid.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Golf_I_hvid.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Golf_I_hvid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Christian Giersing",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Golf I hvid.jpg” by Christian Giersing, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: white Mk1 Golf in a car park."
+    }
+  },
+  {
+    "id": "vw-golf-mk1-03",
+    "vehicleId": "vw-golf-mk1",
+    "kind": "full",
+    "image": "photos/vw-golf-mk1-03.webp",
+    "imageSmall": "photos/vw-golf-mk1-03-sm.webp",
+    "width": 1600,
+    "height": 1067,
+    "setting": "street",
+    "angle": "front",
+    "modelYear": {
+      "from": 1974,
+      "to": 1983,
+      "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": true,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Halle_77_28.05.2022_JM_(28).jpg",
+      "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+      "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+    ],
+    "source": {
+      "title": "File:Halle 77 28.05.2022 JM (28).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Halle_77_28.05.2022_JM_(28).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Halle_77_28.05.2022_JM_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "photographer": "Johannes Maximilian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "“Halle 77 28.05.2022 JM (28).jpg” by Johannes Maximilian, CC BY-SA 4.0, via Wikimedia Commons (Own work)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-04",
+      "notes": "Viewed: beige Mk1 Golf Diesel parked in a street."
     }
   },
   {

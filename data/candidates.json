@@ -3240,6 +3240,906 @@
         "date": "2026-10-04",
         "notes": "Viewed: silver 240Z at a show field."
       }
+    },
+    {
+      "id": "vw-golf-mk1-01",
+      "file": "File:Drift race Čačak septembar 2013 11.jpg",
+      "vehicleId": "vw-golf-mk1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Drift_race_Čačak_septembar_2013_11.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: blue Mk1 Golf at a drift event car park; only the VW roundel on the grille."
+      }
+    },
+    {
+      "id": "vw-golf-mk1-02",
+      "file": "File:Golf I hvid.jpg",
+      "vehicleId": "vw-golf-mk1",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1974,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Golf_I_hvid.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white Mk1 Golf in a car park."
+      }
+    },
+    {
+      "id": "vw-golf-mk1-03",
+      "file": "File:Halle 77 28.05.2022 JM (28).jpg",
+      "vehicleId": "vw-golf-mk1",
+      "setting": "street",
+      "angle": "front",
+      "modelYear": {
+        "from": 1974,
+        "to": 1983,
+        "basis": "No feature visible in the photo separates years within the 1974–1983 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Halle_77_28.05.2022_JM_(28).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Volkswagen_Golf_I",
+        "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: beige Mk1 Golf Diesel parked in a street."
+      }
+    },
+    {
+      "id": "mercedes-g-class-w463-01",
+      "file": "File:Mercedes-Benz G500.jpg",
+      "vehicleId": "mercedes-g-class-w463",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1990,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 1990–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G500.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W_463_(1990–2018)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black G 500 parked on a street. A \"V8\" badge is visible on the door; it names the engine, not the model."
+      }
+    },
+    {
+      "id": "mercedes-g-class-w463-02",
+      "file": "File:Mercedes-Benz G550 (1).jpg",
+      "vehicleId": "mercedes-g-class-w463",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1990,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 1990–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G550_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W_463_(1990–2018)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: dark-blue G 550 with nudge bar, parked."
+      }
+    },
+    {
+      "id": "mercedes-g-class-w463-03",
+      "file": "File:Mercedes-Benz Geländewagen (12803659694).jpg",
+      "vehicleId": "mercedes-g-class-w463",
+      "setting": "street",
+      "angle": "side",
+      "modelYear": {
+        "from": 1990,
+        "to": 2018,
+        "basis": "No feature visible in the photo separates years within the 1990–2018 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Geländewagen_(12803659694).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_W_463_(1990–2018)",
+        "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black long-wheelbase G in a car park, side view."
+      }
+    },
+    {
+      "id": "mazda-rx7-fd-01",
+      "file": "File:'93-'95 Mazda RX-7 (Orange Julep).JPG",
+      "vehicleId": "mazda-rx7-fd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1991,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:'93-'95_Mazda_RX-7_(Orange_Julep).JPG",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+        "https://en.wikipedia.org/wiki/Mazda_RX-7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: silver FD at a cruise night."
+      }
+    },
+    {
+      "id": "mazda-rx7-fd-02",
+      "file": "File:1994 Mazda RX-7 R2 in Vintage Red, front left (Lime Rock).jpg",
+      "vehicleId": "mazda-rx7-fd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1991,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_R2_in_Vintage_Red,_front_left_(Lime_Rock).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+        "https://en.wikipedia.org/wiki/Mazda_RX-7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red FD at a concours."
+      }
+    },
+    {
+      "id": "mazda-rx7-fd-03",
+      "file": "File:1997 Mazda RX-7.jpg",
+      "vehicleId": "mazda-rx7-fd",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1991,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1997_Mazda_RX-7.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+        "https://en.wikipedia.org/wiki/Mazda_RX-7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white FD on a show lawn."
+      }
+    },
+    {
+      "id": "mazda-rx7-fd-04",
+      "file": "File:1994 Mazda RX-7 FD White (1).jpg",
+      "vehicleId": "mazda-rx7-fd",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1991,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_FD_White_(1).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+        "https://en.wikipedia.org/wiki/Mazda_RX-7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white FD in a museum."
+      }
+    },
+    {
+      "id": "mazda-rx7-fd-05",
+      "file": "File:1993 Mazda RX-7.jpg",
+      "vehicleId": "mazda-rx7-fd",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1991,
+        "to": 2002,
+        "basis": "No feature visible in the photo separates years within the 1991–2002 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1993_Mazda_RX-7.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Mazda_RX-7_(FD)",
+        "https://en.wikipedia.org/wiki/Mazda_RX-7"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red FD parked by a wall."
+      }
+    },
+    {
+      "id": "ferrari-testarossa-01",
+      "file": "File:061 - Ferrari Testarossa - Flickr - Price-Photography.jpg",
+      "vehicleId": "ferrari-testarossa",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:061_-_Ferrari_Testarossa_-_Flickr_-_Price-Photography.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+        "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red Testarossa at a coffee-and-cars meet."
+      }
+    },
+    {
+      "id": "ferrari-testarossa-02",
+      "file": "File:1987 Ferrari Testarossa (5986771872).jpg",
+      "vehicleId": "ferrari-testarossa",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa_(5986771872).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+        "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red Testarossa on grass."
+      }
+    },
+    {
+      "id": "ferrari-testarossa-03",
+      "file": "File:1986 Ferrari Testarossa (3733011954).jpg",
+      "vehicleId": "ferrari-testarossa",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1986_Ferrari_Testarossa_(3733011954).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+        "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red Testarossa parked on a street."
+      }
+    },
+    {
+      "id": "ferrari-testarossa-04",
+      "file": "File:1988 Ferrari Testarossa (30567369747).jpg",
+      "vehicleId": "ferrari-testarossa",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1988_Ferrari_Testarossa_(30567369747).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+        "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Number plate reads \"…ROSSA\", which gives the model away."
+      }
+    },
+    {
+      "id": "ferrari-testarossa-05",
+      "file": "File:1987 Ferrari Testarossa.jpg",
+      "vehicleId": "ferrari-testarossa",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1984,
+        "to": 1991,
+        "basis": "No feature visible in the photo separates years within the 1984–1991 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1987_Ferrari_Testarossa.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Ferrari_Testarossa",
+        "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red Testarossa at a street car show."
+      }
+    },
+    {
+      "id": "lamborghini-miura-01",
+      "file": "File:Lamborghini Miura (27205021868).jpg",
+      "vehicleId": "lamborghini-miura",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lamborghini_Miura_(27205021868).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+        "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow Miura at Techno-Classica."
+      }
+    },
+    {
+      "id": "lamborghini-miura-02",
+      "file": "File:DSC03424-Lamborghini Miura-Artcurial-Le Mans Classic.jpg",
+      "vehicleId": "lamborghini-miura",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DSC03424-Lamborghini_Miura-Artcurial-Le_Mans_Classic.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+        "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow Miura at an auction display."
+      }
+    },
+    {
+      "id": "lamborghini-miura-03",
+      "file": "File:Lamborghini miura (4676818019).jpg",
+      "vehicleId": "lamborghini-miura",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1966,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Lamborghini_miura_(4676818019).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+        "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: red Miura on a concours lawn."
+      }
+    },
+    {
+      "id": "lamborghini-miura-04",
+      "file": "File:1972 Lamborghini Miura (LUC 38K).jpg",
+      "vehicleId": "lamborghini-miura",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:1972_Lamborghini_Miura_(LUC_38K).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+        "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: yellow Miura on grass."
+      }
+    },
+    {
+      "id": "lamborghini-miura-05",
+      "file": "File:DSC 7735 (18057720459).jpg",
+      "vehicleId": "lamborghini-miura",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1966,
+        "to": 1973,
+        "basis": "No feature visible in the photo separates years within the 1966–1973 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:DSC_7735_(18057720459).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Lamborghini_Miura",
+        "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white Miura at Goodwood."
+      }
+    },
+    {
+      "id": "porsche-356-01",
+      "file": "File:Porsche 356 (52176357016).jpg",
+      "vehicleId": "porsche-356",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1965,
+        "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_356_(52176357016).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+        "https://en.wikipedia.org/wiki/Porsche_356"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: silver 356 cabriolet in a classic-car hall."
+      }
+    },
+    {
+      "id": "porsche-356-02",
+      "file": "File:SAM 3647 (29749952786).jpg",
+      "vehicleId": "porsche-356",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1948,
+        "to": 1965,
+        "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:SAM_3647_(29749952786).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+        "https://en.wikipedia.org/wiki/Porsche_356"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: green 356 Speedster driving at a concours."
+      }
+    },
+    {
+      "id": "porsche-356-03",
+      "file": "File:Porsche 356 (8).jpg",
+      "vehicleId": "porsche-356",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1965,
+        "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_356_(8).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+        "https://en.wikipedia.org/wiki/Porsche_356"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white 356 coupé at a meet in Kobe."
+      }
+    },
+    {
+      "id": "porsche-356-04",
+      "file": "File:Porsche 356 (11).jpg",
+      "vehicleId": "porsche-356",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1948,
+        "to": 1965,
+        "basis": "No feature visible in the photo separates years within the 1948–1965 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Porsche_356_(11).jpg",
+        "https://commons.wikimedia.org/wiki/Category:Porsche_356",
+        "https://en.wikipedia.org/wiki/Porsche_356"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: green 356 convertible at a meet in Kobe."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c2-01",
+      "file": "File:'vette - Flickr - exfordy.jpg",
+      "vehicleId": "chevrolet-corvette-c2",
+      "setting": "other",
+      "angle": "front",
+      "modelYear": {
+        "from": 1963,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "Chevrolet Corvette C2File:'vette_-_Flickr_-_exfordy.jpg",
+        "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: black C2 Sting Ray nose-on at a track day; hidden headlamps closed."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c2-02",
+      "file": "File:Chevrolet Corvette C2 P5200894.jpg",
+      "vehicleId": "chevrolet-corvette-c2",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "Chevrolet Corvette C2File:Chevrolet_Corvette_C2_P5200894.jpg",
+        "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: white C2 coupé on a country road during a rally."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c2-03",
+      "file": "File:Chevrolet Corvette C2 Stingray, Classic Days 2019, Berlin (CDB90137).jpg",
+      "vehicleId": "chevrolet-corvette-c2",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "Chevrolet Corvette C2File:Chevrolet_Corvette_C2_Stingray,_Classic_Days_2019,_Berlin_(CDB90137).jpg",
+        "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: \"Stingray\" script on the bonnet is legible."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c2-04",
+      "file": "File:Chevrolet Corvette (43092783524).jpg",
+      "vehicleId": "chevrolet-corvette-c2",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "Chevrolet Corvette C2File:Chevrolet_Corvette_(43092783524).jpg",
+        "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: dark-red C2 at a car show."
+      }
+    },
+    {
+      "id": "chevrolet-corvette-c2-05",
+      "file": "File:Chevrolet Corvette 5.jpg",
+      "vehicleId": "chevrolet-corvette-c2",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1963,
+        "to": 1967,
+        "basis": "No feature visible in the photo separates years within the 1963–1967 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": true,
+        "trim": false
+      },
+      "identityEvidence": [
+        "Chevrolet Corvette C2File:Chevrolet_Corvette_5.jpg",
+        "Chevrolet Corvette C2Category:Chevrolet_Corvette_C2",
+        "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-04",
+        "notes": "Viewed: grey C2 at Goodwood Revival."
+      }
     }
   ]
 }

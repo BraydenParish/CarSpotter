@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState, type FormEvent } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState, type FormEvent } from 'react';
 import type { Achievement } from '../game/achievements';
 import {
   next as nextRound,
@@ -23,7 +23,7 @@ import { expertRequirement } from '../game/expert';
 import { hintsFor } from '../game/hints';
 import { formatYearRange } from '../game/matching';
 import { MODES, SURVIVAL, THEMES, type RunConfig } from '../game/modes';
-import { applyRound, applyRunEnd, type RunOutcome } from '../game/progress';
+import { applyRound, applyRunEnd, confusedWith, type RunOutcome } from '../game/progress';
 import { availablePoints, MAX_HINTS } from '../game/scoring';
 import { buzz, play } from '../lib/sound';
 import { Icon, Modal } from './components';
@@ -561,10 +561,17 @@ function TypedForm({ s, disabled, onSubmit }: { s: RunState; disabled: boolean; 
 
 function Reveal({ s, last, autoMs, onNext, onChoice }: { s: RunState; last: RoundResult; autoMs: number; onNext: () => void; onChoice: Choice[] | null }) {
   const q = s.question!;
+  const { ctx } = useStore();
   const nextRef = useRef<HTMLButtonElement>(null);
   useEffect(() => {
     nextRef.current?.focus({ preventScroll: false });
   }, [last.n]);
+  // If the wrong answer named another car in the collection, show its tip too so the two can be compared.
+  const mistaken = useMemo(() => {
+    if (last.outcome === 'correct' || last.outcome === 'skipped') return null;
+    const name = confusedWith(ctx, q.vehicle, last);
+    return name ? (ctx.ds.vehicles.find((v) => `${v.make} ${v.model}` === name && v.tip) ?? null) : null;
+  }, [ctx, q.vehicle, last]);
 
   const heading =
     last.outcome === 'correct'
@@ -650,6 +657,14 @@ function Reveal({ s, last, autoMs, onNext, onChoice }: { s: RunState; last: Roun
           <div className="mt-4 rounded-2xl bg-raised p-3.5">
             <div className="label !text-accent">Spotting tip</div>
             <p className="mt-1 text-soft">{q.vehicle.tip}</p>
+          </div>
+        )}
+        {mistaken && (
+          <div className="mt-2 rounded-2xl border border-line p-3.5">
+            <div className="label">
+              Your answer, the {mistaken.make} {mistaken.model}, looks like this
+            </div>
+            <p className="mt-1 text-sm text-soft">{mistaken.tip}</p>
           </div>
         )}
         <details className="mt-3 text-sm text-muted">

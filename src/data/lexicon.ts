@@ -374,5 +374,5 @@ export const EXTRA_MODEL_NAMES: string[] = [
   '240Z', '260Z', '280Z', '280ZX', 'Z', '370Z', '510', '1600', 'Bluebird',
   'Lancer Evolution', 'Evo', 'Evolution', 'Lancer Evolution VI', 'Lancer Evolution X',
   'Model 3', 'Hilux', 'Land Cruiser', 'FJ Cruiser', 'Prado',
-  'Prius c', 'Prius v', 'Prius Prime', 'Jimny Wide', 'Samurai', 'Land Cruiser Prado', 'Bandeirante', 'Aqua', '300 SLR', 'Golf Plus', 'Golf Sportsvan',
+  'Prius c', 'Prius v', 'Prius Prime', 'GL-Class', 'GLS', 'GLE', 'GLC', 'GLA', 'GLB', 'ML', 'M-Class', 'RX-8', 'RX-3', '512 TR', 'F512 M', 'Espada', 'Jarama', 'Urraco', '550 Spyder', '912', 'Corvair', 'Scirocco', 'Jimny Wide', 'Samurai', 'Land Cruiser Prado', 'Bandeirante', 'Aqua', '300 SLR', 'Golf Plus', 'Golf Sportsvan',
 ];
