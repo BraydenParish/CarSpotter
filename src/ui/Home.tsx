@@ -9,6 +9,7 @@ import { BASE_POINTS, type Difficulty } from '../game/scoring';
 import { shareMarks } from '../game/share';
 import { EmptyState, Icon, LevelBadge, Logo, Modal, Segmented, pct } from './components';
 import type { Route } from './router';
+import { timelineAvailable } from '../game/timeline';
 import { useStore } from './store';
 import { copyOrShare } from './share-util';
 
@@ -257,6 +258,24 @@ export function Home({ go, onStart }: { go: (r: Route) => void; onStart: (c: Run
                   </button>
                 );
               })}
+              <button
+                type="button"
+                disabled={!timelineAvailable(ctx)}
+                onClick={() => go('timeline')}
+                className="card group flex min-h-28 items-start gap-4 p-4 text-left transition-colors hover:border-accent/50 disabled:cursor-not-allowed disabled:opacity-55"
+              >
+                <span className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-raised text-accent group-disabled:text-muted">
+                  <Icon name="hourglass" size={24} />
+                </span>
+                <span className="min-w-0">
+                  <span className="flex items-center gap-2 font-display text-lg font-bold">
+                    Which came first?
+                    <span className="rounded-full bg-accent/20 px-2 py-0.5 text-xs font-bold text-accent">New</span>
+                  </span>
+                  <span className="block text-sm text-soft">Two cars, one tap: which model came out first? Three lives.</span>
+                  {profile.timeline.best > 0 && <span className="mt-1 block text-xs text-muted">Best: {profile.timeline.best}</span>}
+                </span>
+              </button>
             </div>
           </section>
         </>

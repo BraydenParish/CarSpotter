@@ -131,8 +131,15 @@ export function plain(html: string | undefined): string {
 export async function download(url: string): Promise<Buffer> {
   for (let attempt = 0; attempt < 5; attempt++) {
     await sleep(400);
-    const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-    if (res.ok) return Buffer.from(await res.arrayBuffer());
+    let res: Response;
+    try {
+      // A stalled connection must not hang a whole batch.
+      res = await fetch(url, { headers: { 'User-Agent': USER_AGENT }, signal: AbortSignal.timeout(45_000) });
+      if (res.ok) return Buffer.from(await res.arrayBuffer());
+    } catch {
+      await new Promise((r) => setTimeout(r, 2000 * (attempt + 1)));
+      continue;
+    }
     if (res.status === 429 || res.status >= 500) {
       await new Promise((r) => setTimeout(r, 2000 * (attempt + 1)));
       continue;

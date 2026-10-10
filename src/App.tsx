@@ -10,6 +10,7 @@ import { Awards, Credits, HowToPlay, IntroModal, SettingsPage } from './ui/Pages
 import { Play } from './ui/Play';
 import { useRoute } from './ui/router';
 import { Stats } from './ui/Stats';
+import { Timeline } from './ui/Timeline';
 import { StoreProvider, useStore } from './ui/store';
 
 export function App({ ctx, fixtures }: { ctx: GameContext; fixtures: boolean }) {
@@ -78,6 +79,8 @@ function Shell() {
           <SettingsPage go={go} />
         ) : route === 'how' ? (
           <HowToPlay go={go} />
+        ) : route === 'timeline' ? (
+          <Timeline go={go} />
         ) : (
           <Home go={go} onStart={start} />
         )}

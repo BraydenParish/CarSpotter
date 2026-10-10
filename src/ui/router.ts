@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 
-export type Route = 'home' | 'play' | 'stats' | 'garage' | 'awards' | 'credits' | 'settings' | 'how';
-const ROUTES: Route[] = ['home', 'play', 'stats', 'garage', 'awards', 'credits', 'settings', 'how'];
+export type Route = 'home' | 'play' | 'stats' | 'garage' | 'awards' | 'credits' | 'settings' | 'how' | 'timeline';
+const ROUTES: Route[] = ['home', 'play', 'stats', 'garage', 'awards', 'credits', 'settings', 'how', 'timeline'];
 
 function parse(): Route {
   const r = window.location.hash.replace(/^#\/?/, '') as Route;

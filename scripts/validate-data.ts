@@ -89,7 +89,7 @@ for (const p of photos) {
   const src = p.source;
   if (!src) err(w, 'source is required');
   else {
-    if (!/^https:\/\/commons\.wikimedia\.org\//.test(src.pageUrl ?? '')) warn(w, 'source.pageUrl is not a Wikimedia Commons page; make sure reuse rights are documented');
+    if (!/^https:\/\/(commons\.wikimedia\.org|www\.flickr\.com)\//.test(src.pageUrl ?? '')) warn(w, 'source.pageUrl is not a Wikimedia Commons or Flickr page; make sure reuse rights are documented');
     if (!licenseAllowed(src.license ?? '')) err(w, `license "${src.license}" is not on the allowed list`);
     if (/^cc[ -]by/i.test(src.license ?? '') && !src.licenseUrl) err(w, 'CC licenses need licenseUrl');
     if (!src.photographer?.trim()) err(w, 'photographer is required');

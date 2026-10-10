@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import type { Vehicle } from '../data/types';
 import { formatYearRange } from '../game/matching';
-import { practiceList, topConfusions } from '../game/progress';
+import { collections, inCollection, practiceList, topConfusions } from '../game/progress';
 import { EmptyState, Icon, Modal, PageHeader } from './components';
 import { PhotoCredit } from './Credit';
 import { CATEGORY_LABEL, DIFF_LABEL } from './Home';
@@ -11,11 +11,14 @@ import { useStore } from './store';
 export function Garage({ go }: { go: (r: Route) => void }) {
   const { ctx, profile } = useStore();
   const [open, setOpen] = useState<Vehicle | null>(null);
+  const [filter, setFilter] = useState<string | null>(null);
   const vehicles = useMemo(() => {
     const withPhotos = new Set(ctx.ds.photos.filter((p) => p.kind === 'full').map((p) => p.vehicleId));
     return ctx.ds.vehicles.filter((v) => withPhotos.has(v.id)).sort((a, b) => `${a.make} ${a.model}`.localeCompare(`${b.make} ${b.model}`));
   }, [ctx]);
   const owned = vehicles.filter((v) => profile.garage[v.id]);
+  const groups = useMemo(() => collections(vehicles, profile.garage), [vehicles, profile.garage]);
+  const shown = filter ? vehicles.filter((v) => inCollection(v, filter)) : vehicles;
   const toPractice = new Set(practiceList(profile, ctx));
 
   return (
@@ -31,8 +34,37 @@ export function Garage({ go }: { go: (r: Route) => void }) {
             <div className="h-full rounded-full bg-accent" style={{ width: `${(owned.length / vehicles.length) * 100}%` }} />
           </div>
           {owned.length === 0 && <p className="mb-4 text-soft">Identify a car with a fully correct answer to add it. Locked cards stay mysterious until you do.</p>}
+          <section aria-labelledby="collections-h" className="mb-5">
+            <h2 id="collections-h" className="label mb-2">
+              Collections
+            </h2>
+            <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 sm:mx-0 sm:flex-wrap sm:px-0" role="group" aria-label="Filter the garage by collection">
+              <button type="button" className={`chip shrink-0 ${filter === null ? '!border-accent text-accent' : ''}`} aria-pressed={filter === null} onClick={() => setFilter(null)}>
+                All {owned.length}/{vehicles.length}
+              </button>
+              {groups.map((g) => {
+                const done = g.have === g.total;
+                return (
+                  <button
+                    key={g.key}
+                    type="button"
+                    aria-pressed={filter === g.key}
+                    onClick={() => setFilter(filter === g.key ? null : g.key)}
+                    className={`chip shrink-0 ${filter === g.key ? '!border-accent text-accent' : ''}`}
+                    title={`${g.have} of ${g.total} identified`}
+                  >
+                    {done && <Icon name="star" size={14} className="text-accent" />}
+                    {g.kind === 'category' ? CATEGORY_LABEL[g.name] ?? g.name : g.name}{' '}
+                    <span className="tabular text-muted">
+                      {g.have}/{g.total}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
+          </section>
           <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
-            {vehicles.map((v) => {
+            {shown.map((v) => {
               const g = profile.garage[v.id];
               const photo = g ? ctx.ds.photos.find((p) => p.id === g.photos[0]) : null;
               return (

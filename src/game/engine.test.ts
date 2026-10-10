@@ -18,7 +18,7 @@ import {
   type RunState,
 } from './engine';
 import { DEFAULT_FILTERS, type RunConfig } from './modes';
-import { applyRound, applyRunEnd, hydrateProfile, newProfile, practiceList, toughestCars, topConfusions } from './progress';
+import { applyRound, applyRunEnd, collections, hydrateProfile, inCollection, newProfile, practiceList, toughestCars, topConfusions } from './progress';
 import { mulberry32 } from './rng';
 import { shareText } from './share';
 
@@ -419,5 +419,20 @@ describe('focus mode', () => {
     s = photoLoaded(s, 20_000);
     s = submitChoice(s, correctKey(s), 60_000);
     expect(s.results.at(-1)!.breakdown!.focusMultiplier).toBeCloseTo(0.3, 5);
+  });
+});
+
+describe('garage collections', () => {
+  it('counts identified cars per category and per country', () => {
+    const vs = VEHICLES.slice(0, 12);
+    const garage = Object.fromEntries(vs.slice(0, 3).map((v) => [v.id, { count: 1, best: 'normal' as const, photos: [], firstAt: '' }])) as never;
+    const groups = collections(vs, garage);
+    for (const g of groups) {
+      const members = vs.filter((v) => inCollection(v, g.key));
+      expect(g.total).toBe(members.length);
+      expect(g.have).toBe(members.filter((v) => vs.slice(0, 3).includes(v)).length);
+    }
+    expect(groups.filter((g) => g.kind === 'country').reduce((n, g) => n + g.total, 0)).toBe(vs.length);
+    expect(groups[0].kind).toBe('category');
   });
 });

@@ -22751,6 +22751,296 @@
         "date": "2026-10-09",
         "notes": "Full-size review: Show plate on the front reads \"BMW i3s\"."
       }
+    },
+    {
+      "id": "jaguar-etype-03",
+      "file": "Openverse:e6fe1366-7da9-443e-b77c-00350f30a283",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/21612624@N00/14033018036",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #0); Flickr title \"1962 Jaguar E-Type front\", tags: 1962, british, car, classic, etype, jaguar, xke; shape checked against the reference article. CC BY 2.0 by dave_7."
+      }
+    },
+    {
+      "id": "jaguar-etype-04",
+      "file": "Openverse:3ffef7ad-434d-4797-845a-9a8912df19be",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/58907675@N00/432498480",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #2); Flickr title \"Jaguar E-Type S1, 1964\", tags: autosalonsingen, cars, etype, jaguar, motors; shape checked against the reference article. CC BY-SA 2.0 by stephenhanafin."
+      }
+    },
+    {
+      "id": "jaguar-etype-05",
+      "file": "Openverse:4627d68d-15dc-4a10-9492-4f224239117c",
+      "vehicleId": "jaguar-etype",
+      "setting": "street",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/58433307@N08/51479605645",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #3); Flickr title \"1969 Jaguar E-Type\", tags: 1969jaguaretype; shape checked against the reference article. CC BY-SA 2.0 by hugh llewelyn."
+      }
+    },
+    {
+      "id": "jaguar-etype-06",
+      "file": "Openverse:467fd1b8-b4e4-4d5f-ab16-94a2d8b80fac",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/21612624@N00/7410689908",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #4); Flickr title \"1964 Jaguar E-Type Bouillot Helsel\", tags: 1964, autocollection, bouillot, british, car, classic, etype; shape checked against the reference article. CC BY 2.0 by dave_7."
+      }
+    },
+    {
+      "id": "jaguar-etype-07",
+      "file": "Openverse:4c92f90e-32fd-42cc-9af7-b312d31c90db",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/37691369@N08/15467294704",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: Show card on the windscreen reads \"Jaguar E-Type 1969\"."
+      }
+    },
+    {
+      "id": "jaguar-etype-08",
+      "file": "Openverse:5fa969ab-233d-4d7c-8c6a-6ad76e0497a5",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/58907675@N00/432522503",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "rejected",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Full-size review: A Jaguar XK roadster (also in the game) stands at the left edge."
+      }
+    },
+    {
+      "id": "jaguar-etype-09",
+      "file": "Openverse:d710b550-908a-4e71-b0ca-9aea67868d7a",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/37691369@N08/15296787857",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #10); Flickr title \"Jaguar E-Type XKE 1963\", tags: coupe, etype, jaguar, jaguarxke, patrimoniosobreruedas, typee; shape checked against the reference article. CC BY-SA 2.0 by RL GNZLZ."
+      }
+    },
+    {
+      "id": "jaguar-etype-10",
+      "file": "Openverse:e95c6bb7-fb18-434e-b0cf-ca8f35e6f87e",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/37691369@N08/4899407605",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #12); Flickr title \"Jaguar E-Type XKE 1963\", tags: 1963, 38, car, chile, english, etype, jaguar; shape checked against the reference article. CC BY-SA 2.0 by RL GNZLZ."
+      }
+    },
+    {
+      "id": "jaguar-etype-11",
+      "file": "Openverse:107060ab-f625-464b-bf3b-26fa9c5b80b0",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/84012662@N00/2749554465",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #13); Flickr title \"Jaguar E Type\", tags: autoshow, carshow, classiccar, classiccarshow, duxford, etype, jaguar; shape checked against the reference article. CC BY 2.0 by pyntofmyld."
+      }
+    },
+    {
+      "id": "jaguar-etype-12",
+      "file": "Openverse:3035a3d2-ff0d-48c3-bdcb-8ec70a5b5f05",
+      "vehicleId": "jaguar-etype",
+      "setting": "other",
+      "angle": "front-quarter",
+      "modelYear": {
+        "from": 1961,
+        "to": 1975,
+        "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+      },
+      "supports": {
+        "make": true,
+        "model": true,
+        "year": false,
+        "generation": false,
+        "trim": false
+      },
+      "identityEvidence": [
+        "https://www.flickr.com/photos/93592003@N04/8681796540",
+        "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewedBy": "claude-session",
+        "date": "2026-10-09",
+        "notes": "Viewed on review sheet (ov-etype #14); Flickr title \"Jaguar E-Type 4.2 '67\", tags: 42, 65, british, cars, etype, iamthespeedhunter, jaguar; shape checked against the reference article. CC BY-SA 2.0 by Falcon_33."
+      }
     }
   ]
 }

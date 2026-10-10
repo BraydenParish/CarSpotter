@@ -2,6 +2,13 @@ import type { Photo } from '../data/types';
 
 const isHttp = (u: string | null | undefined): u is string => !!u && /^https:\/\//.test(u);
 
+/** Where the photo is published: Wikimedia Commons, or Flickr for photos found through Openverse. */
+export function sourceSite(pageUrl: string): string | null {
+  if (/^https:\/\/commons\.wikimedia\.org\//.test(pageUrl)) return 'Wikimedia Commons';
+  if (/^https:\/\/(www\.)?flickr\.com\//.test(pageUrl)) return 'Flickr';
+  return null;
+}
+
 /** Full attribution: title, author, license (linked), source page and modification notice. */
 export function PhotoCredit({ photo, className = '' }: { photo: Photo; className?: string }) {
   const s = photo.source;
@@ -23,7 +30,7 @@ export function PhotoCredit({ photo, className = '' }: { photo: Photo; className
       ) : (
         s.license
       )}
-      {isHttp(s.pageUrl) ? ', via Wikimedia Commons' : ''}. {s.modifications}
+      {sourceSite(s.pageUrl) ? `, via ${sourceSite(s.pageUrl)}` : ''}. {s.modifications}
     </p>
   );
 }

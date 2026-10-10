@@ -44,6 +44,7 @@ const PATHS: Record<string, string> = {
   plus: 'M12 5v14M5 12h14',
   eye: 'M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8zM12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6z',
   star: 'M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z',
+  hourglass: 'M6 2h12M6 22h12M7 2c0 5 5 7 5 10s-5 5-5 10M17 2c0 5-5 7-5 10s5 5 5 10',
 };
 
 export function Icon({ name, size = 20, className = '', label }: { name: keyof typeof PATHS | string; size?: number; className?: string; label?: string }) {

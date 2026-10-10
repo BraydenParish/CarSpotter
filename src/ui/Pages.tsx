@@ -65,8 +65,8 @@ export function Credits({ go }: { go: (r: Route) => void }) {
       <PageHeader title="Photo credits" subtitle="Every photograph, its author and its license." onBack={() => go('home')} />
       <div className="card p-4 text-sm text-soft">
         <p>
-          CarSpotter uses only photographs from Wikimedia Commons that carry a free license allowing reuse and modification (CC BY, CC BY-SA, CC0 or public domain). Each photo was checked by hand
-          against its Commons file page and a second reference before it was approved. Non-commercial and no-derivatives licenses are never used. Images are resized and re-encoded; detail
+          CarSpotter uses only photographs that carry a free license allowing reuse and modification (CC BY, CC BY-SA, CC0 or public domain): most come from Wikimedia Commons, and some from
+          Flickr, found through the Openverse search engine. Each photo was checked by hand against its source page and a reference article before it was approved. Non-commercial and no-derivatives licenses are never used. Images are resized and re-encoded; detail
           challenges use crops, noted on each credit. Licenses: <a className="underline" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>,{' '}
           <a className="underline" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>,{' '}
           <a className="underline" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">CC0</a>.

@@ -8,7 +8,9 @@
  *
  * For each candidate it:
  *   1. fetches the file URL and licensing metadata through the MediaWiki
- *      imageinfo API (https://www.mediawiki.org/wiki/API:Imageinfo);
+ *      imageinfo API (https://www.mediawiki.org/wiki/API:Imageinfo), or for
+ *      "Openverse:<id>" candidates through the Openverse API (cached, with the
+ *      licence as fetched, in data/openverse.json);
  *   2. rejects anything whose license is not on the allow-list;
  *   3. downloads the image, resizes it (1600 px + 640 px WebP, metadata
  *      stripped) and produces any requested detail crops;
@@ -20,7 +22,8 @@ import sharp from 'sharp';
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { Angle, DetailPart, Photo, PhotoReview, PhotoSupports, Setting, Vehicle, YearEvidence } from '../src/data/types';
-import { download, imageInfo, plain } from './lib/commons';
+import { download, imageInfo, plain, type ImageInfo } from './lib/commons';
+import { imageRecord, isOpenverse, licenseName, loadCache, openverseId, saveCache } from './lib/openverse';
 import { licenseAllowed } from './lib/rules';
 
 // Prefer CDN-cached renditions: upload.wikimedia.org rate-limits original downloads far more aggressively than thumbnails.
@@ -48,7 +51,7 @@ interface CropSpec {
 
 export interface Candidate {
   id: string;
-  /** Commons file title, e.g. "File:Example.jpg". */
+  /** Commons file title, e.g. "File:Example.jpg", or "Openverse:<image id>". */
   file: string;
   vehicleId: string;
   setting: Setting;
@@ -66,6 +69,8 @@ const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
 const force = args.includes('--force');
 const only = args.includes('--only') ? args[args.indexOf('--only') + 1] : null;
+// Re-check Openverse licences instead of using the cached record.
+const refresh = args.includes('--refresh-openverse');
 
 const vehicles = JSON.parse(readFileSync(join(root, 'src/data/vehicles.json'), 'utf8')) as Vehicle[];
 const manifestPath = join(root, 'src/data/photos.json');
@@ -90,8 +95,70 @@ if (!todo.length) {
   process.exit(0);
 }
 
-const infos = await imageInfo(todo.map((c) => c.file), 1920);
-const infoByTitle = new Map(infos.map((i) => [i.title.replace(/_/g, ' '), i]));
+/** Licensing and file details, whichever source a candidate comes from. */
+interface SourceInfo {
+  title: string;
+  pageUrl: string;
+  url: string;
+  downloadUrl: string;
+  width: number;
+  height: number;
+  license: string;
+  licenseUrl: string | null;
+  artist: string;
+  /** Extra credit text the source asks for, if any. */
+  credit: string;
+  attributionRequired: boolean;
+  restrictions: string;
+  via: string;
+}
+
+function fromCommons(info: ImageInfo): SourceInfo {
+  const m = info.extmetadata;
+  return {
+    title: info.title,
+    pageUrl: info.pageUrl,
+    url: info.url,
+    downloadUrl: renditionUrl(info),
+    width: info.width,
+    height: info.height,
+    license: plain(m.LicenseShortName?.value) || plain(m.License?.value),
+    licenseUrl: plain(m.LicenseUrl?.value) || null,
+    artist: shortArtist(plain(m.Artist?.value)) || 'Unknown author',
+    credit: plain(m.Credit?.value),
+    attributionRequired: plain(m.AttributionRequired?.value) !== 'false',
+    restrictions: plain(m.Restrictions?.value),
+    via: 'Wikimedia Commons',
+  };
+}
+
+const commonsInfos = await imageInfo(todo.filter((c) => !isOpenverse(c.file)).map((c) => c.file), 1920);
+const infoByTitle = new Map(commonsInfos.map((i) => [i.title.replace(/_/g, ' '), fromCommons(i)]));
+const ovCache = loadCache();
+for (const c of todo.filter((x) => isOpenverse(x.file))) {
+  try {
+    const r = await imageRecord(openverseId(c.file), ovCache, refresh);
+    const provider = r.source === 'flickr' || r.provider === 'flickr' ? 'Flickr' : r.source;
+    infoByTitle.set(c.file, {
+      title: r.title?.trim() || 'Untitled',
+      pageUrl: r.foreign_landing_url,
+      url: r.url,
+      downloadUrl: r.url,
+      width: r.width ?? 1024,
+      height: r.height ?? 683,
+      license: licenseName(r),
+      licenseUrl: r.license_url,
+      artist: shortArtist(r.creator?.trim() ?? '') || 'Unknown author',
+      credit: '',
+      attributionRequired: r.license !== 'cc0' && r.license !== 'pdm',
+      restrictions: '',
+      via: `${provider} (found through Openverse)`,
+    });
+  } catch (e) {
+    console.error(`[${c.id}] Openverse lookup failed (${(e as Error).message.slice(0, 60)}) — skipped, re-run to retry`);
+  }
+}
+saveCache(ovCache);
 let imported = 0;
 let rejected = 0;
 let failed = 0;
@@ -103,18 +170,12 @@ for (const c of todo) {
     console.error(`${tag} unknown vehicleId ${c.vehicleId} — skipped`);
     continue;
   }
-  const info = infoByTitle.get(c.file.replace(/_/g, ' '));
+  const info = infoByTitle.get(isOpenverse(c.file) ? c.file : c.file.replace(/_/g, ' '));
   if (!info) {
-    console.error(`${tag} ${c.file} not found on Commons — skipped`);
+    console.error(`${tag} ${c.file} not found — skipped`);
     continue;
   }
-  const m = info.extmetadata;
-  const license = plain(m.LicenseShortName?.value) || plain(m.License?.value);
-  const licenseUrl = plain(m.LicenseUrl?.value) || null;
-  const artist = shortArtist(plain(m.Artist?.value)) || 'Unknown author';
-  const credit = plain(m.Credit?.value);
-  const attributionRequired = plain(m.AttributionRequired?.value) !== 'false';
-  const restrictions = plain(m.Restrictions?.value);
+  const { license, licenseUrl, artist, credit, attributionRequired, restrictions } = info;
   const allowed = licenseAllowed(license);
   console.log(`${tag} ${info.width}×${info.height} · ${license || 'no license'} · ${artist}${restrictions ? ` · restrictions: ${restrictions}` : ''}`);
 
@@ -140,8 +201,8 @@ for (const c of todo) {
   if (allowed) {
     if (force || !existsSync(join(root, 'public', image))) {
       try {
-        // A 1920 px rendition (a standard CDN-cached size) is plenty for the 1600 px output and far lighter than multi-megabyte originals.
-        original = await download(renditionUrl(info));
+        // Commons: a 1920 px rendition (a standard CDN-cached size) is plenty for the 1600 px output and far lighter than multi-megabyte originals.
+        original = await download(info.downloadUrl);
       } catch (e) {
         console.error(`${tag} download failed (${(e as Error).message.slice(0, 60)}) — skipped, re-run to retry`);
         failed++;
@@ -167,9 +228,9 @@ for (const c of todo) {
     photographer: artist,
     license: license || 'unknown',
     licenseUrl,
-    credit: `“${titleNoPrefix}” by ${artist}${license ? `, ${license}` : ''}, via Wikimedia Commons${credit && credit !== artist ? ` (${credit})` : ''}`,
+    credit: `“${titleNoPrefix}” by ${artist}${license ? `, ${license}` : ''}, via ${info.via}${credit && credit !== artist ? ` (${credit})` : ''}`,
     attributionRequired,
-    modifications: `Resized to ${FULL_WIDTH} px and ${SMALL_WIDTH} px wide and re-encoded as WebP (metadata removed) by CarSpotter.`,
+    modifications: `Resized to ${width} px and ${SMALL_WIDTH} px wide and re-encoded as WebP (metadata removed) by CarSpotter.`,
   };
   const record: Photo = {
     id: c.id,
@@ -195,7 +256,7 @@ for (const c of todo) {
     if (!allowed) break;
     const crop = `photos/${k.id}.webp`;
     if (force || !existsSync(join(root, 'public', crop))) {
-      original ??= await download(renditionUrl(info));
+      original ??= await download(info.downloadUrl);
       // Crop rectangles are in original-file pixels; scale them to the rendition actually downloaded.
       const got = (await sharp(original).rotate().metadata()).width ?? info.width;
       const f = got / info.width;

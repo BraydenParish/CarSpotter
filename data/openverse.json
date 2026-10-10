@@ -1,0 +1,1703 @@
+{
+  "0e029f68-c982-4b92-aaf7-d8b4b74d4c57": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "0e029f68-c982-4b92-aaf7-d8b4b74d4c57",
+      "title": "1991 Land Rover Range Rover Classic Wagon",
+      "indexed_on": "2025-07-05T00:32:00.259458Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=169209975",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/1991_Land_Rover_Range_Rover_Classic_Wagon.jpg",
+      "creator": "Coolalabright",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Coolalabright",
+      "license": "by",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 15954485,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1991 Land Rover Range Rover Classic Wagon\" by Coolalabright is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 4016,
+      "width": 6016,
+      "thumbnail": "https://api.openverse.org/v1/images/0e029f68-c982-4b92-aaf7-d8b4b74d4c57/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/0e029f68-c982-4b92-aaf7-d8b4b74d4c57/",
+      "related_url": "https://api.openverse.org/v1/images/0e029f68-c982-4b92-aaf7-d8b4b74d4c57/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "107060ab-f625-464b-bf3b-26fa9c5b80b0": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "107060ab-f625-464b-bf3b-26fa9c5b80b0",
+      "title": "Jaguar E Type",
+      "indexed_on": "2020-04-28T16:44:34.601347Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/84012662@N00/2749554465",
+      "url": "https://live.staticflickr.com/3038/2749554465_e52b6e1473_b.jpg",
+      "creator": "pyntofmyld",
+      "creator_url": "https://www.flickr.com/photos/84012662@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "autoshow",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "carshow",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "classiccar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "classiccarshow",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "duxford",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E Type\" by pyntofmyld is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 721,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/107060ab-f625-464b-bf3b-26fa9c5b80b0/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/107060ab-f625-464b-bf3b-26fa9c5b80b0/",
+      "related_url": "https://api.openverse.org/v1/images/107060ab-f625-464b-bf3b-26fa9c5b80b0/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "3035a3d2-ff0d-48c3-bdcb-8ec70a5b5f05": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "3035a3d2-ff0d-48c3-bdcb-8ec70a5b5f05",
+      "title": "Jaguar E-Type 4.2 '67",
+      "indexed_on": "2018-11-09T02:22:56.756031Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/93592003@N04/8681796540",
+      "url": "https://live.staticflickr.com/8399/8681796540_db6dae950f_b.jpg",
+      "creator": "Falcon_33",
+      "creator_url": "https://www.flickr.com/photos/93592003@N04",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "42",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "65",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "british",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "cars",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "iamthespeedhunter",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "rhd",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "sportcar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "supercar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "uk",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "voitures",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type 4.2 '67\" by Falcon_33 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/3035a3d2-ff0d-48c3-bdcb-8ec70a5b5f05/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/3035a3d2-ff0d-48c3-bdcb-8ec70a5b5f05/",
+      "related_url": "https://api.openverse.org/v1/images/3035a3d2-ff0d-48c3-bdcb-8ec70a5b5f05/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "3b61b6f4-f908-4c7c-882d-279086c5ce4a": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "3b61b6f4-f908-4c7c-882d-279086c5ce4a",
+      "title": "Jaguar E-Type 1971",
+      "indexed_on": "2020-07-27T17:44:31.596110Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1510952",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jaguar_E-Type_1971.jpg",
+      "creator": "Lars-Göran Lindgren Sweden",
+      "creator_url": null,
+      "license": "by-sa",
+      "license_version": "3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 19538,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Jaguar E-Type 1971\" by Lars-Göran Lindgren Sweden is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 409,
+      "width": 800,
+      "thumbnail": "https://api.openverse.org/v1/images/3b61b6f4-f908-4c7c-882d-279086c5ce4a/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/3b61b6f4-f908-4c7c-882d-279086c5ce4a/",
+      "related_url": "https://api.openverse.org/v1/images/3b61b6f4-f908-4c7c-882d-279086c5ce4a/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "3ffef7ad-434d-4797-845a-9a8912df19be": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "3ffef7ad-434d-4797-845a-9a8912df19be",
+      "title": "Jaguar E-Type S1, 1964",
+      "indexed_on": "2020-05-02T11:58:27.043596Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/58907675@N00/432498480",
+      "url": "https://live.staticflickr.com/162/432498480_d125f956ef_b.jpg",
+      "creator": "stephenhanafin",
+      "creator_url": "https://www.flickr.com/photos/58907675@N00",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "autosalonsingen",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "cars",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "motors",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type S1, 1964\" by stephenhanafin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 681,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/3ffef7ad-434d-4797-845a-9a8912df19be/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/3ffef7ad-434d-4797-845a-9a8912df19be/",
+      "related_url": "https://api.openverse.org/v1/images/3ffef7ad-434d-4797-845a-9a8912df19be/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "4627d68d-15dc-4a10-9492-4f224239117c": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "4627d68d-15dc-4a10-9492-4f224239117c",
+      "title": "1969 Jaguar E-Type",
+      "indexed_on": "2023-03-10T08:52:54.638565Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/58433307@N08/51479605645",
+      "url": "https://live.staticflickr.com/65535/51479605645_0940ec8748_b.jpg",
+      "creator": "hugh llewelyn",
+      "creator_url": "https://www.flickr.com/photos/58433307@N08",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": "photograph",
+      "filesize": null,
+      "filetype": "jpg",
+      "tags": [
+        {
+          "name": "1969jaguaretype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"1969 Jaguar E-Type\" by hugh llewelyn is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 683,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/4627d68d-15dc-4a10-9492-4f224239117c/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/4627d68d-15dc-4a10-9492-4f224239117c/",
+      "related_url": "https://api.openverse.org/v1/images/4627d68d-15dc-4a10-9492-4f224239117c/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "467fd1b8-b4e4-4d5f-ab16-94a2d8b80fac": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "467fd1b8-b4e4-4d5f-ab16-94a2d8b80fac",
+      "title": "1964 Jaguar E-Type Bouillot Helsel",
+      "indexed_on": "2016-11-16T20:36:36.600489Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/21612624@N00/7410689908",
+      "url": "https://live.staticflickr.com/7108/7410689908_46fe445b13_b.jpg",
+      "creator": "dave_7",
+      "creator_url": "https://www.flickr.com/photos/21612624@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": 2275300,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1964",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "autocollection",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "bouillot",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "british",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "car",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "classic",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "helsel",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "imperialpalace",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "lasvegas",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "museum",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "xke",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "car",
+          "accuracy": 0.99805,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "chrome",
+          "accuracy": 0.91351,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "classic",
+          "accuracy": 0.90513,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "convertible",
+          "accuracy": 0.94637,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "luxury",
+          "accuracy": 0.95601,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "transportation system",
+          "accuracy": 0.98302,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "vehicle",
+          "accuracy": 0.99729,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"1964 Jaguar E-Type Bouillot Helsel\" by dave_7 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/467fd1b8-b4e4-4d5f-ab16-94a2d8b80fac/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/467fd1b8-b4e4-4d5f-ab16-94a2d8b80fac/",
+      "related_url": "https://api.openverse.org/v1/images/467fd1b8-b4e4-4d5f-ab16-94a2d8b80fac/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "4c92f90e-32fd-42cc-9af7-b312d31c90db": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "4c92f90e-32fd-42cc-9af7-b312d31c90db",
+      "title": "Jaguar E-Type XKE 4.2 Roadster 1969",
+      "indexed_on": "2020-04-06T09:17:26.932823Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/37691369@N08/15467294704",
+      "url": "https://live.staticflickr.com/7581/15467294704_b766b8b396_b.jpg",
+      "creator": "RL GNZLZ",
+      "creator_url": "https://www.flickr.com/photos/37691369@N08",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1969",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "42",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "anglocars",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "concoursvitacura",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype42",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etyperoadster",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etypexke",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "roadster",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "xke",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type XKE 4.2 Roadster 1969\" by RL GNZLZ is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/4c92f90e-32fd-42cc-9af7-b312d31c90db/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/4c92f90e-32fd-42cc-9af7-b312d31c90db/",
+      "related_url": "https://api.openverse.org/v1/images/4c92f90e-32fd-42cc-9af7-b312d31c90db/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "5fa969ab-233d-4d7c-8c6a-6ad76e0497a5": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "5fa969ab-233d-4d7c-8c6a-6ad76e0497a5",
+      "title": "Jaguar E-Type, 1972",
+      "indexed_on": "2020-05-02T11:58:27.043596Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/58907675@N00/432522503",
+      "url": "https://live.staticflickr.com/185/432522503_1eb848a884_b.jpg",
+      "creator": "stephenhanafin",
+      "creator_url": "https://www.flickr.com/photos/58907675@N00",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1972",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "autosalonsingen",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "cars",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "motors",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type, 1972\" by stephenhanafin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 681,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/5fa969ab-233d-4d7c-8c6a-6ad76e0497a5/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/5fa969ab-233d-4d7c-8c6a-6ad76e0497a5/",
+      "related_url": "https://api.openverse.org/v1/images/5fa969ab-233d-4d7c-8c6a-6ad76e0497a5/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "6c757ac8-7ee6-4fb2-bf7a-362502f1d1fe": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "6c757ac8-7ee6-4fb2-bf7a-362502f1d1fe",
+      "title": "1993 Range Rover Classic Vogue",
+      "indexed_on": "2019-07-13T08:18:54.299394Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/117096107@N03/27092274557",
+      "url": "https://live.staticflickr.com/971/27092274557_95a1cdb701_b.jpg",
+      "creator": "kieranwhite599",
+      "creator_url": "https://www.flickr.com/photos/117096107@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [],
+      "attribution": "\"1993 Range Rover Classic Vogue\" by kieranwhite599 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/6c757ac8-7ee6-4fb2-bf7a-362502f1d1fe/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/6c757ac8-7ee6-4fb2-bf7a-362502f1d1fe/",
+      "related_url": "https://api.openverse.org/v1/images/6c757ac8-7ee6-4fb2-bf7a-362502f1d1fe/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "6cef12fd-5da2-4c04-9d66-6af65f354b06": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "6cef12fd-5da2-4c04-9d66-6af65f354b06",
+      "title": "1994 Range Rover Classic County LWB V8, front left, 06-02-2024",
+      "indexed_on": "2024-06-03T00:22:51.352738Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148975404",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1994_Range_Rover_Classic_County_LWB_V8%2C_front_left%2C_06-02-2024.jpg",
+      "creator": "Ethan Llamas",
+      "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Ethan_Llamas&action=edit&redlink=1",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 7905053,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1994 Range Rover Classic County LWB V8, front left, 06-02-2024\" by Ethan Llamas is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 4815,
+      "width": 6421,
+      "thumbnail": "https://api.openverse.org/v1/images/6cef12fd-5da2-4c04-9d66-6af65f354b06/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/6cef12fd-5da2-4c04-9d66-6af65f354b06/",
+      "related_url": "https://api.openverse.org/v1/images/6cef12fd-5da2-4c04-9d66-6af65f354b06/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "78c26926-6a6a-4458-a842-ef965a125b10": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "78c26926-6a6a-4458-a842-ef965a125b10",
+      "title": "Jaguar E Type, 1965",
+      "indexed_on": "2018-11-08T17:31:32.467511Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/8868801@N03/6788708176",
+      "url": "https://live.staticflickr.com/7186/6788708176_feaa44c229_b.jpg",
+      "creator": "kemeko1971",
+      "creator_url": "https://www.flickr.com/photos/8868801@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E Type, 1965\" by kemeko1971 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/78c26926-6a6a-4458-a842-ef965a125b10/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/78c26926-6a6a-4458-a842-ef965a125b10/",
+      "related_url": "https://api.openverse.org/v1/images/78c26926-6a6a-4458-a842-ef965a125b10/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "801d825a-bbc5-4bb2-b81e-5f8795e809f6": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "801d825a-bbc5-4bb2-b81e-5f8795e809f6",
+      "title": "1986 Range Rover Classic 3.5 V8 (40154381300)",
+      "indexed_on": "2023-04-10T00:07:33.396140Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=130565604",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1986_Range_Rover_Classic_3.5_V8_%2840154381300%29.jpg",
+      "creator": "Kieran White from Manchester, England",
+      "creator_url": "https://www.flickr.com/people/117096107@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 2005292,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1986 Range Rover Classic 3.5 V8 (40154381300)\" by Kieran White from Manchester, England is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2988,
+      "width": 5312,
+      "thumbnail": "https://api.openverse.org/v1/images/801d825a-bbc5-4bb2-b81e-5f8795e809f6/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/801d825a-bbc5-4bb2-b81e-5f8795e809f6/",
+      "related_url": "https://api.openverse.org/v1/images/801d825a-bbc5-4bb2-b81e-5f8795e809f6/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "90a97ae1-f763-4265-9531-ac1f8e529e5b": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "90a97ae1-f763-4265-9531-ac1f8e529e5b",
+      "title": "1986 Range Rover Classic 3.5 V8",
+      "indexed_on": "2019-07-13T08:18:54.299394Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/117096107@N03/40154381300",
+      "url": "https://live.staticflickr.com/949/40154381300_0f511f8875_b.jpg",
+      "creator": "kieranwhite599",
+      "creator_url": "https://www.flickr.com/photos/117096107@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [],
+      "attribution": "\"1986 Range Rover Classic 3.5 V8\" by kieranwhite599 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/90a97ae1-f763-4265-9531-ac1f8e529e5b/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/90a97ae1-f763-4265-9531-ac1f8e529e5b/",
+      "related_url": "https://api.openverse.org/v1/images/90a97ae1-f763-4265-9531-ac1f8e529e5b/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "92be91aa-c8cb-4a09-920e-f353355436eb": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "92be91aa-c8cb-4a09-920e-f353355436eb",
+      "title": "1996 Range Rover Classic Vogue SEa 25th Anniversary (28110688498)",
+      "indexed_on": "2023-04-10T00:07:33.396140Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=130565608",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/1996_Range_Rover_Classic_Vogue_SEa_25th_Anniversary_%2828110688498%29.jpg",
+      "creator": "Kieran White from Manchester, England",
+      "creator_url": "https://www.flickr.com/people/117096107@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 3958242,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1996 Range Rover Classic Vogue SEa 25th Anniversary (28110688498)\" by Kieran White from Manchester, England is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2988,
+      "width": 5312,
+      "thumbnail": "https://api.openverse.org/v1/images/92be91aa-c8cb-4a09-920e-f353355436eb/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/92be91aa-c8cb-4a09-920e-f353355436eb/",
+      "related_url": "https://api.openverse.org/v1/images/92be91aa-c8cb-4a09-920e-f353355436eb/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "9c4daa07-141f-4a6a-b029-3f452185a53f": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "9c4daa07-141f-4a6a-b029-3f452185a53f",
+      "title": "1993 Range Rover Classic Vogue (27092274557)",
+      "indexed_on": "2023-04-10T00:07:33.396140Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=130565605",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1993_Range_Rover_Classic_Vogue_%2827092274557%29.jpg",
+      "creator": "Kieran White from Manchester, England",
+      "creator_url": "https://www.flickr.com/people/117096107@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 3967531,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1993 Range Rover Classic Vogue (27092274557)\" by Kieran White from Manchester, England is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2988,
+      "width": 5312,
+      "thumbnail": "https://api.openverse.org/v1/images/9c4daa07-141f-4a6a-b029-3f452185a53f/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/9c4daa07-141f-4a6a-b029-3f452185a53f/",
+      "related_url": "https://api.openverse.org/v1/images/9c4daa07-141f-4a6a-b029-3f452185a53f/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "a13a1574-773c-41fb-a37e-b02a61e26c30": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "a13a1574-773c-41fb-a37e-b02a61e26c30",
+      "title": "1969 Jaguar E-Type 2+2",
+      "indexed_on": "2018-11-09T02:22:56.756031Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/39302751@N06/8706106610",
+      "url": "https://live.staticflickr.com/8275/8706106610_e27d36df86_b.jpg",
+      "creator": "Spanish Coches",
+      "creator_url": "https://www.flickr.com/photos/39302751@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1969",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "22",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"1969 Jaguar E-Type 2+2\" by Spanish Coches is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 579,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/a13a1574-773c-41fb-a37e-b02a61e26c30/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a13a1574-773c-41fb-a37e-b02a61e26c30/",
+      "related_url": "https://api.openverse.org/v1/images/a13a1574-773c-41fb-a37e-b02a61e26c30/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "a451b1f7-a30a-4e17-a661-460076c80da2": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "a451b1f7-a30a-4e17-a661-460076c80da2",
+      "title": "1990 Range Rover Classic 4X4 Wagon",
+      "indexed_on": "2020-03-24T09:21:52.468873Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/42220226@N07/26168738340",
+      "url": "https://live.staticflickr.com/1486/26168738340_e81dc092c3_b.jpg",
+      "creator": "Sicnag",
+      "creator_url": "https://www.flickr.com/photos/42220226@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [],
+      "attribution": "\"1990 Range Rover Classic 4X4 Wagon\" by Sicnag is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 683,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/a451b1f7-a30a-4e17-a661-460076c80da2/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a451b1f7-a30a-4e17-a661-460076c80da2/",
+      "related_url": "https://api.openverse.org/v1/images/a451b1f7-a30a-4e17-a661-460076c80da2/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "a9074dd7-edff-45e5-b686-9777374e0bf0": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "a9074dd7-edff-45e5-b686-9777374e0bf0",
+      "title": "Range-Rover Classic TDi (1994)",
+      "indexed_on": "2020-10-24T00:19:13.822693Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/65344061@N06/50520486986",
+      "url": "https://live.staticflickr.com/65535/50520486986_f76bc87b4a_b.jpg",
+      "creator": "andreboeni",
+      "creator_url": "https://www.flickr.com/photos/65344061@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1994",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "4wd",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "4x4",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "auto",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "automobile",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "automobiles",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "automobili",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "autos",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "car",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "cars",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "classic",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "fourwheeldrive",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "landrover",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "offroader",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "rangerover",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "tdi",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "voiture",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "voitures",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Range-Rover Classic TDi (1994)\" by andreboeni is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/a9074dd7-edff-45e5-b686-9777374e0bf0/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a9074dd7-edff-45e5-b686-9777374e0bf0/",
+      "related_url": "https://api.openverse.org/v1/images/a9074dd7-edff-45e5-b686-9777374e0bf0/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "a927f1ae-c5c7-4197-aba9-51622eb1fe12": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "a927f1ae-c5c7-4197-aba9-51622eb1fe12",
+      "title": "Jaguar E-Type V12, 1972",
+      "indexed_on": "2020-05-02T11:58:27.043596Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/58907675@N00/432537499",
+      "url": "https://live.staticflickr.com/164/432537499_476eb3023c_b.jpg",
+      "creator": "stephenhanafin",
+      "creator_url": "https://www.flickr.com/photos/58907675@N00",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1972",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "autosalonsingen",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "cars",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "motors",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "v12",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type V12, 1972\" by stephenhanafin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 681,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/a927f1ae-c5c7-4197-aba9-51622eb1fe12/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a927f1ae-c5c7-4197-aba9-51622eb1fe12/",
+      "related_url": "https://api.openverse.org/v1/images/a927f1ae-c5c7-4197-aba9-51622eb1fe12/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "b277be8d-9911-440c-b893-3efdb25ba987": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "b277be8d-9911-440c-b893-3efdb25ba987",
+      "title": "1996 Range Rover Classic Vogue SEa 25th Anniversary",
+      "indexed_on": "2019-07-13T08:18:54.299394Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/117096107@N03/28110688498",
+      "url": "https://live.staticflickr.com/909/28110688498_9cd2362001_b.jpg",
+      "creator": "kieranwhite599",
+      "creator_url": "https://www.flickr.com/photos/117096107@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [],
+      "attribution": "\"1996 Range Rover Classic Vogue SEa 25th Anniversary\" by kieranwhite599 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/b277be8d-9911-440c-b893-3efdb25ba987/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/b277be8d-9911-440c-b893-3efdb25ba987/",
+      "related_url": "https://api.openverse.org/v1/images/b277be8d-9911-440c-b893-3efdb25ba987/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "ba105a17-3907-41dc-8e25-281b6a87391a": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "ba105a17-3907-41dc-8e25-281b6a87391a",
+      "title": "1974 Range Rover Classic 4X4 Wagon (47201968852)",
+      "indexed_on": "2020-02-16T20:00:12.644670Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=81848757",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1974_Range_Rover_Classic_4X4_Wagon_%2847201968852%29.jpg",
+      "creator": "Sicnag",
+      "creator_url": "https://www.flickr.com/people/42220226@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 4921715,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1974 Range Rover Classic 4X4 Wagon (47201968852)\" by Sicnag is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 3456,
+      "width": 5184,
+      "thumbnail": "https://api.openverse.org/v1/images/ba105a17-3907-41dc-8e25-281b6a87391a/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/ba105a17-3907-41dc-8e25-281b6a87391a/",
+      "related_url": "https://api.openverse.org/v1/images/ba105a17-3907-41dc-8e25-281b6a87391a/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "bfadd77d-4699-4cec-b6c6-ae833487f270": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "bfadd77d-4699-4cec-b6c6-ae833487f270",
+      "title": "Range Rover Classic (1970) Classic-Gala 2022 1X7A0286",
+      "indexed_on": "2022-10-03T00:20:17.899495Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=123656166",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Range_Rover_Classic_%281970%29_Classic-Gala_2022_1X7A0286.jpg",
+      "creator": "Alexander Migl",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Alexander-93",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 18726357,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Range Rover Classic (1970) Classic-Gala 2022 1X7A0286\" by Alexander Migl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 4078,
+      "width": 6111,
+      "thumbnail": "https://api.openverse.org/v1/images/bfadd77d-4699-4cec-b6c6-ae833487f270/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/bfadd77d-4699-4cec-b6c6-ae833487f270/",
+      "related_url": "https://api.openverse.org/v1/images/bfadd77d-4699-4cec-b6c6-ae833487f270/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "c2267a50-cf7a-4b6c-a14f-bef04e38a71d": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "c2267a50-cf7a-4b6c-a14f-bef04e38a71d",
+      "title": "1992 Land Rover Range Rover Classic Wagon",
+      "indexed_on": "2025-07-05T00:32:00.259458Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=169209995",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1992_Land_Rover_Range_Rover_Classic_Wagon.jpg",
+      "creator": "Coolalabright",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Coolalabright",
+      "license": "by",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 14824857,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1992 Land Rover Range Rover Classic Wagon\" by Coolalabright is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 4016,
+      "width": 6016,
+      "thumbnail": "https://api.openverse.org/v1/images/c2267a50-cf7a-4b6c-a14f-bef04e38a71d/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/c2267a50-cf7a-4b6c-a14f-bef04e38a71d/",
+      "related_url": "https://api.openverse.org/v1/images/c2267a50-cf7a-4b6c-a14f-bef04e38a71d/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "c7dba633-0feb-4ef4-a340-bff6c77fad01": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "c7dba633-0feb-4ef4-a340-bff6c77fad01",
+      "title": "MIAS 2024 - Bob the Range Rover Classic",
+      "indexed_on": "2024-04-09T02:54:09.658103Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=147181001",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/MIAS_2024_-_Bob_the_Range_Rover_Classic.jpg",
+      "creator": "Ethan Llamas",
+      "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Ethan_Llamas&action=edit&redlink=1",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 6530452,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"MIAS 2024 - Bob the Range Rover Classic\" by Ethan Llamas is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2796,
+      "width": 3728,
+      "thumbnail": "https://api.openverse.org/v1/images/c7dba633-0feb-4ef4-a340-bff6c77fad01/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/c7dba633-0feb-4ef4-a340-bff6c77fad01/",
+      "related_url": "https://api.openverse.org/v1/images/c7dba633-0feb-4ef4-a340-bff6c77fad01/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "d421def5-f725-4b20-85ad-6a921beaf6ec": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "d421def5-f725-4b20-85ad-6a921beaf6ec",
+      "title": "Range Rover Classic 2-door in Astral Silver, front left",
+      "indexed_on": "2026-01-06T00:06:09.633562Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181311777",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Range_Rover_Classic_2-door_in_Astral_Silver%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Mr.choppers",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Mr.choppers",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 9191641,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Range Rover Classic 2-door in Astral Silver, front left\" by Mr.choppers is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 3267,
+      "width": 5297,
+      "thumbnail": "https://api.openverse.org/v1/images/d421def5-f725-4b20-85ad-6a921beaf6ec/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/d421def5-f725-4b20-85ad-6a921beaf6ec/",
+      "related_url": "https://api.openverse.org/v1/images/d421def5-f725-4b20-85ad-6a921beaf6ec/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "d5d10ece-68a0-4eaa-b4e6-dae341c3ce59": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "d5d10ece-68a0-4eaa-b4e6-dae341c3ce59",
+      "title": "Range Rover Classic 2-Door at Legendy 2018 in Prague",
+      "indexed_on": "2020-03-03T13:58:39.700627Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=71144808",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Range_Rover_Classic_2-Door_at_Legendy_2018_in_Prague.jpg",
+      "creator": "Jiří Sedláček",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Frettie",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 5119001,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Range Rover Classic 2-Door at Legendy 2018 in Prague\" by Jiří Sedláček is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2592,
+      "width": 3888,
+      "thumbnail": "https://api.openverse.org/v1/images/d5d10ece-68a0-4eaa-b4e6-dae341c3ce59/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/d5d10ece-68a0-4eaa-b4e6-dae341c3ce59/",
+      "related_url": "https://api.openverse.org/v1/images/d5d10ece-68a0-4eaa-b4e6-dae341c3ce59/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "d710b550-908a-4e71-b0ca-9aea67868d7a": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "d710b550-908a-4e71-b0ca-9aea67868d7a",
+      "title": "Jaguar E-Type XKE 1963",
+      "indexed_on": "2020-04-05T13:25:19.102942Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/37691369@N08/15296787857",
+      "url": "https://live.staticflickr.com/2947/15296787857_40c6a62c52_b.jpg",
+      "creator": "RL GNZLZ",
+      "creator_url": "https://www.flickr.com/photos/37691369@N08",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "coupe",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguarxke",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "patrimoniosobreruedas",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "typee",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type XKE 1963\" by RL GNZLZ is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/d710b550-908a-4e71-b0ca-9aea67868d7a/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/d710b550-908a-4e71-b0ca-9aea67868d7a/",
+      "related_url": "https://api.openverse.org/v1/images/d710b550-908a-4e71-b0ca-9aea67868d7a/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "d86fde97-828a-474d-9fd8-09bff3d36a6b": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "d86fde97-828a-474d-9fd8-09bff3d36a6b",
+      "title": "Range Rover Classic (1970) Classic-Gala 2022 1X7A0287",
+      "indexed_on": "2022-10-03T00:20:17.899495Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=123656177",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Range_Rover_Classic_%281970%29_Classic-Gala_2022_1X7A0287.jpg",
+      "creator": "Alexander Migl",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Alexander-93",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 18044627,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Range Rover Classic (1970) Classic-Gala 2022 1X7A0287\" by Alexander Migl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 3826,
+      "width": 5735,
+      "thumbnail": "https://api.openverse.org/v1/images/d86fde97-828a-474d-9fd8-09bff3d36a6b/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/d86fde97-828a-474d-9fd8-09bff3d36a6b/",
+      "related_url": "https://api.openverse.org/v1/images/d86fde97-828a-474d-9fd8-09bff3d36a6b/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "dd909be5-b939-4625-b304-d1f44a39eb23": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "dd909be5-b939-4625-b304-d1f44a39eb23",
+      "title": "Jaguar E Type, 1965",
+      "indexed_on": "2018-11-08T17:31:32.467511Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/8868801@N03/6934820841",
+      "url": "https://live.staticflickr.com/7061/6934820841_3484f9681e_b.jpg",
+      "creator": "kemeko1971",
+      "creator_url": "https://www.flickr.com/photos/8868801@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E Type, 1965\" by kemeko1971 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/dd909be5-b939-4625-b304-d1f44a39eb23/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/dd909be5-b939-4625-b304-d1f44a39eb23/",
+      "related_url": "https://api.openverse.org/v1/images/dd909be5-b939-4625-b304-d1f44a39eb23/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "e6fe1366-7da9-443e-b77c-00350f30a283": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "e6fe1366-7da9-443e-b77c-00350f30a283",
+      "title": "1962 Jaguar E-Type front",
+      "indexed_on": "2020-04-03T15:10:22.999782Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/21612624@N00/14033018036",
+      "url": "https://live.staticflickr.com/5543/14033018036_d65a1919b0_b.jpg",
+      "creator": "dave_7",
+      "creator_url": "https://www.flickr.com/photos/21612624@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1962",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "british",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "car",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "classic",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "xke",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"1962 Jaguar E-Type front\" by dave_7 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 682,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/e6fe1366-7da9-443e-b77c-00350f30a283/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/e6fe1366-7da9-443e-b77c-00350f30a283/",
+      "related_url": "https://api.openverse.org/v1/images/e6fe1366-7da9-443e-b77c-00350f30a283/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "e95c6bb7-fb18-434e-b0cf-ca8f35e6f87e": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "e95c6bb7-fb18-434e-b0cf-ca8f35e6f87e",
+      "title": "Jaguar E-Type XKE 1963",
+      "indexed_on": "2020-04-22T08:55:34.866808Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/37691369@N08/4899407605",
+      "url": "https://live.staticflickr.com/4134/4899407605_30aa90ea67_b.jpg",
+      "creator": "RL GNZLZ",
+      "creator_url": "https://www.flickr.com/photos/37691369@N08",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1963",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "38",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "car",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "chile",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "english",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "etype",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "jaguar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "litre",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "santiago",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "vivitar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "xke",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Jaguar E-Type XKE 1963\" by RL GNZLZ is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/e95c6bb7-fb18-434e-b0cf-ca8f35e6f87e/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/e95c6bb7-fb18-434e-b0cf-ca8f35e6f87e/",
+      "related_url": "https://api.openverse.org/v1/images/e95c6bb7-fb18-434e-b0cf-ca8f35e6f87e/related/",
+      "unstable__sensitivity": []
+    }
+  },
+  "f17e9911-83bb-4cd6-8559-71395ec4399e": {
+    "fetched": "2026-10-10",
+    "record": {
+      "id": "f17e9911-83bb-4cd6-8559-71395ec4399e",
+      "title": "1986 Land Rover Range Rover Classic Automatic 3.5",
+      "indexed_on": "2020-03-10T14:30:55.166541Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=64092024",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/1986_Land_Rover_Range_Rover_Classic_Automatic_3.5.jpg",
+      "creator": "Vauxford",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Vauxford",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 6885860,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"1986 Land Rover Range Rover Classic Automatic 3.5\" by Vauxford is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2780,
+      "width": 4339,
+      "thumbnail": "https://api.openverse.org/v1/images/f17e9911-83bb-4cd6-8559-71395ec4399e/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/f17e9911-83bb-4cd6-8559-71395ec4399e/",
+      "related_url": "https://api.openverse.org/v1/images/f17e9911-83bb-4cd6-8559-71395ec4399e/related/",
+      "unstable__sensitivity": []
+    }
+  }
+}

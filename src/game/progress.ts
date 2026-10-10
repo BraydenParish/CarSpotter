@@ -115,6 +115,8 @@ export interface Profile {
   carStats: Record<string, { answered: number; correct: number }>;
   /** What a car was mistaken for: vehicle id → other car's "Make Model" → times. */
   confusions: Record<string, Record<string, number>>;
+  /** "Which came first?" mini-game. */
+  timeline: { best: number; played: number };
 }
 
 const emptyTally = (): Tally => ({ answered: 0, correct: 0, skipped: 0, points: 0 });
@@ -149,6 +151,7 @@ export function newProfile(now: Date = new Date()): Profile {
     history: [],
     carStats: {},
     confusions: {},
+    timeline: { best: 0, played: 0 },
   };
 }
 
@@ -173,6 +176,7 @@ export function hydrateProfile(raw: unknown): Profile {
     dailyStreak: { ...base.dailyStreak, ...(r.dailyStreak ?? {}) },
     carStats: { ...(r.carStats ?? {}) },
     confusions: { ...(r.confusions ?? {}) },
+    timeline: { ...base.timeline, ...(r.timeline ?? {}) },
   };
 }
 
@@ -444,4 +448,47 @@ export function topConfusions(p: Profile, ctx: GameContext, vehicleId?: string, 
     for (const [other, times] of Object.entries(others)) out.push({ vehicle, other, times });
   }
   return out.sort((a, b) => b.times - a.times || a.other.localeCompare(b.other)).slice(0, limit);
+}
+
+/** XP per correct "Which came first?" answer. */
+export const TIMELINE_XP = 20;
+
+/** Records a finished "Which came first?" game; returns the new profile and whether it set a best. */
+export function applyTimelineEnd(p: Profile, correct: number): { profile: Profile; newBest: boolean } {
+  const newBest = correct > p.timeline.best;
+  return {
+    profile: { ...p, xp: p.xp + correct * TIMELINE_XP, timeline: { best: Math.max(p.timeline.best, correct), played: p.timeline.played + 1 } },
+    newBest,
+  };
+}
+
+export interface Collection {
+  /** "category:jdm" or "country:Italy". */
+  key: string;
+  kind: 'category' | 'country';
+  name: string;
+  have: number;
+  total: number;
+}
+
+/** Garage completion grouped by category and by country of origin (largest groups first). */
+export function collections(vehicles: Vehicle[], garage: Profile['garage']): Collection[] {
+  const groups = new Map<string, Collection>();
+  const add = (key: string, kind: Collection['kind'], name: string, owned: boolean) => {
+    const g = groups.get(key) ?? { key, kind, name, have: 0, total: 0 };
+    g.total++;
+    if (owned) g.have++;
+    groups.set(key, g);
+  };
+  for (const v of vehicles) {
+    const owned = !!garage[v.id];
+    for (const c of v.categories) add(`category:${c}`, 'category', c, owned);
+    add(`country:${v.country}`, 'country', v.country, owned);
+  }
+  return [...groups.values()].sort((a, b) => (a.kind === b.kind ? b.total - a.total || a.name.localeCompare(b.name) : a.kind === 'category' ? -1 : 1));
+}
+
+export function inCollection(v: Vehicle, key: string): boolean {
+  const [kind, name] = key.split(/:(.*)/s);
+  return kind === 'category' ? v.categories.includes(name as Category) : v.country === name;
 }

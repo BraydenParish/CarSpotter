@@ -10553,6 +10553,358 @@
     }
   },
   {
+    "id": "jaguar-etype-03",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-03.webp",
+    "imageSmall": "photos/jaguar-etype-03-sm.webp",
+    "width": 1024,
+    "height": 682,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/21612624@N00/14033018036",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "1962 Jaguar E-Type front",
+      "pageUrl": "https://www.flickr.com/photos/21612624@N00/14033018036",
+      "originalUrl": "https://live.staticflickr.com/5543/14033018036_d65a1919b0_b.jpg",
+      "photographer": "dave_7",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "credit": "“1962 Jaguar E-Type front” by dave_7, CC BY 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #0); Flickr title \"1962 Jaguar E-Type front\", tags: 1962, british, car, classic, etype, jaguar, xke; shape checked against the reference article. CC BY 2.0 by dave_7."
+    }
+  },
+  {
+    "id": "jaguar-etype-04",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-04.webp",
+    "imageSmall": "photos/jaguar-etype-04-sm.webp",
+    "width": 1024,
+    "height": 681,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/58907675@N00/432498480",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "Jaguar E-Type S1, 1964",
+      "pageUrl": "https://www.flickr.com/photos/58907675@N00/432498480",
+      "originalUrl": "https://live.staticflickr.com/162/432498480_d125f956ef_b.jpg",
+      "photographer": "stephenhanafin",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "“Jaguar E-Type S1, 1964” by stephenhanafin, CC BY-SA 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #2); Flickr title \"Jaguar E-Type S1, 1964\", tags: autosalonsingen, cars, etype, jaguar, motors; shape checked against the reference article. CC BY-SA 2.0 by stephenhanafin."
+    }
+  },
+  {
+    "id": "jaguar-etype-05",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-05.webp",
+    "imageSmall": "photos/jaguar-etype-05-sm.webp",
+    "width": 1024,
+    "height": 683,
+    "setting": "street",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/58433307@N08/51479605645",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "1969 Jaguar E-Type",
+      "pageUrl": "https://www.flickr.com/photos/58433307@N08/51479605645",
+      "originalUrl": "https://live.staticflickr.com/65535/51479605645_0940ec8748_b.jpg",
+      "photographer": "hugh llewelyn",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "“1969 Jaguar E-Type” by hugh llewelyn, CC BY-SA 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #3); Flickr title \"1969 Jaguar E-Type\", tags: 1969jaguaretype; shape checked against the reference article. CC BY-SA 2.0 by hugh llewelyn."
+    }
+  },
+  {
+    "id": "jaguar-etype-06",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-06.webp",
+    "imageSmall": "photos/jaguar-etype-06-sm.webp",
+    "width": 1024,
+    "height": 768,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/21612624@N00/7410689908",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "1964 Jaguar E-Type Bouillot Helsel",
+      "pageUrl": "https://www.flickr.com/photos/21612624@N00/7410689908",
+      "originalUrl": "https://live.staticflickr.com/7108/7410689908_46fe445b13_b.jpg",
+      "photographer": "dave_7",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "credit": "“1964 Jaguar E-Type Bouillot Helsel” by dave_7, CC BY 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #4); Flickr title \"1964 Jaguar E-Type Bouillot Helsel\", tags: 1964, autocollection, bouillot, british, car, classic, etype; shape checked against the reference article. CC BY 2.0 by dave_7."
+    }
+  },
+  {
+    "id": "jaguar-etype-09",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-09.webp",
+    "imageSmall": "photos/jaguar-etype-09-sm.webp",
+    "width": 1024,
+    "height": 768,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/37691369@N08/15296787857",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "Jaguar E-Type XKE 1963",
+      "pageUrl": "https://www.flickr.com/photos/37691369@N08/15296787857",
+      "originalUrl": "https://live.staticflickr.com/2947/15296787857_40c6a62c52_b.jpg",
+      "photographer": "RL GNZLZ",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "“Jaguar E-Type XKE 1963” by RL GNZLZ, CC BY-SA 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #10); Flickr title \"Jaguar E-Type XKE 1963\", tags: coupe, etype, jaguar, jaguarxke, patrimoniosobreruedas, typee; shape checked against the reference article. CC BY-SA 2.0 by RL GNZLZ."
+    }
+  },
+  {
+    "id": "jaguar-etype-10",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-10.webp",
+    "imageSmall": "photos/jaguar-etype-10-sm.webp",
+    "width": 1024,
+    "height": 768,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/37691369@N08/4899407605",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "Jaguar E-Type XKE 1963",
+      "pageUrl": "https://www.flickr.com/photos/37691369@N08/4899407605",
+      "originalUrl": "https://live.staticflickr.com/4134/4899407605_30aa90ea67_b.jpg",
+      "photographer": "RL GNZLZ",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "“Jaguar E-Type XKE 1963” by RL GNZLZ, CC BY-SA 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #12); Flickr title \"Jaguar E-Type XKE 1963\", tags: 1963, 38, car, chile, english, etype, jaguar; shape checked against the reference article. CC BY-SA 2.0 by RL GNZLZ."
+    }
+  },
+  {
+    "id": "jaguar-etype-11",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-11.webp",
+    "imageSmall": "photos/jaguar-etype-11-sm.webp",
+    "width": 1024,
+    "height": 721,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/84012662@N00/2749554465",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "Jaguar E Type",
+      "pageUrl": "https://www.flickr.com/photos/84012662@N00/2749554465",
+      "originalUrl": "https://live.staticflickr.com/3038/2749554465_e52b6e1473_b.jpg",
+      "photographer": "pyntofmyld",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "credit": "“Jaguar E Type” by pyntofmyld, CC BY 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #13); Flickr title \"Jaguar E Type\", tags: autoshow, carshow, classiccar, classiccarshow, duxford, etype, jaguar; shape checked against the reference article. CC BY 2.0 by pyntofmyld."
+    }
+  },
+  {
+    "id": "jaguar-etype-12",
+    "vehicleId": "jaguar-etype",
+    "kind": "full",
+    "image": "photos/jaguar-etype-12.webp",
+    "imageSmall": "photos/jaguar-etype-12-sm.webp",
+    "width": 1024,
+    "height": 768,
+    "setting": "other",
+    "angle": "front-quarter",
+    "modelYear": {
+      "from": 1961,
+      "to": 1975,
+      "basis": "No feature visible in the photo separates years within the 1961–1975 production run, so the full documented range is used."
+    },
+    "supports": {
+      "make": true,
+      "model": true,
+      "year": false,
+      "generation": false,
+      "trim": false
+    },
+    "identityEvidence": [
+      "https://www.flickr.com/photos/93592003@N04/8681796540",
+      "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    ],
+    "source": {
+      "title": "Jaguar E-Type 4.2 '67",
+      "pageUrl": "https://www.flickr.com/photos/93592003@N04/8681796540",
+      "originalUrl": "https://live.staticflickr.com/8399/8681796540_db6dae950f_b.jpg",
+      "photographer": "Falcon_33",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "“Jaguar E-Type 4.2 '67” by Falcon_33, CC BY-SA 2.0, via Flickr (found through Openverse)",
+      "attributionRequired": true,
+      "modifications": "Resized to 1600 px and 640 px wide and re-encoded as WebP (metadata removed) by CarSpotter."
+    },
+    "review": {
+      "status": "approved",
+      "reviewedBy": "claude-session",
+      "date": "2026-10-09",
+      "notes": "Viewed on review sheet (ov-etype #14); Flickr title \"Jaguar E-Type 4.2 '67\", tags: 42, 65, british, cars, etype, iamthespeedhunter, jaguar; shape checked against the reference article. CC BY-SA 2.0 by Falcon_33."
+    }
+  },
+  {
     "id": "jaguar-xk120-01",
     "vehicleId": "jaguar-xk120",
     "kind": "full",
