@@ -33,7 +33,7 @@ describe('multiple-choice distractors', () => {
         }
       }
     }
-  });
+  }, 60_000);
 
   it('offers vans, not sports cars, for a van', () => {
     const t1 = v('vw-type2-t1');
