@@ -4,27 +4,27 @@ A car-identification game built on **real photographs**. A photo appears, you na
 
 ## Current status
 
-**599 verified photographs of 111 distinct cars**, plus **14 badge-free detail crops**. Every photo comes from Wikimedia Commons under CC0, public domain, CC BY or CC BY-SA, and each was viewed at full size before approval. Every mode is playable. The game can be installed and played offline.
+**830 verified photographs of 135 distinct cars**, plus **14 badge-free detail crops**. Every photo comes from Wikimedia Commons under CC0, public domain, CC BY or CC BY-SA, and each was viewed at full size before approval. Every mode is playable. The game can be installed and played offline.
 
 | | Target | Actual |
 | --- | --- | --- |
-| Verified photographs (approved, full) | ≥ 30 | **599** |
-| Distinct cars | ≥ 20 | **111** (of 112 vehicle records) |
-| Setting | any | **286 street**, 313 other (car shows, museums, meets, dealer forecourts), 0 studio |
+| Verified photographs (approved, full) | ≥ 30 | **830** (788 from Wikimedia Commons, 42 from Flickr via Openverse) |
+| Distinct cars | ≥ 20 | **135** (of 136 vehicle records) |
+| Setting | any | **371 street**, 459 other (car shows, museums, meets, dealer forecourts), 0 studio |
 | Expert-eligible photos | — | **320** photos of 65 cars (16 ask for a model year, the rest for the generation) |
 | Detail-challenge crops | ≥ 3 cars to unlock | **14** (MX-5, Supra, Jimny, Model 3, Golf Mk7, Miura, Testarossa, DS, Beetle, 2CV, Golf Mk1, Countach, W123, Trabant) |
 
 **How the set was built**
-- 750 candidates were picked from Commons contact sheets (15 ranked thumbnails per model category; see *Where good photo collections are on Commons* below).
+- 1,015 candidates were picked from Commons and Openverse contact sheets (15 ranked thumbnails per model category; see *Where good photo collections are on Commons* below).
 - Each was checked against its Commons file page: license, category and description. Every vehicle record's years and spotting tip were checked against its Wikipedia article.
 - Every imported photo was then viewed at full size, with zoomed crops around badges, scripts and plates.
-- **151 candidates were rejected**. Almost all showed a legible model name: grille or boot script, fender badge, door decal, snorkel lettering, etched glass ("quattro"), a show placard or stand plate, or a number plate reading the name ("ROADSTER", "MF 3000"). A few were near-duplicates or had another car from the game prominent beside them.
+- **185 candidates were rejected**. Almost all showed a legible model name: grille or boot script, fender badge, door decal, snorkel lettering, etched glass ("quattro"), a show placard or stand plate, or a number plate reading the name ("ROADSTER", "MF 3000"). A few were near-duplicates or had another car from the game prominent beside them.
 - Rejected candidates stay in `data/candidates.json` with the reason, but they are never imported or shipped. None are pending.
 
 **Photos per car**
-- 8–12 each (21 cars): F40 (12); Z3, Traction Avant, Testarossa, Hummer H1, Countach, Urus, Skyline R32 GT-R and Amazon (10); 300 SL, Karmann Ghia, VW T1, VW T2 and up! (9); R8, Model T, XK120, RX-8, Model X, Camry and P1800 (8).
-- 3–7 each: 81 cars.
-- 1–2 each (9 cars): Mini, Aventador, Defender, Wrangler JK, Jimny and i3 (2); E-Type, Range Rover Classic and TR6 (1). Nearly every Commons photo of these shows the model name.
+- 10 or more each (18 cars): Mini (15), F40 (12), Gallardo (12), 360 (11), 599 GTB Fiorano (11), LaFerrari (11), Aventador (11), Z3 (10), Traction Avant (10), Testarossa (10), H1 (10), Countach (10), Urus (10), SLR McLaren (10), Skyline (10), Cybertruck (10), Amazon (10), New Beetle (10).
+- 3–9 each: 113 cars.
+- 1–2 each (4 cars): i3 (2), 918 Spyder (1), Range Rover (1), Jimny (2). Most photos of these show the model name, a race livery or a show placard.
 - None: Dodge Charger (1968–70). Every candidate shows "Charger" in the grille or on the tail, so the record stays unused.
 
 **Themes** (each needs at least 4 cars): Everyday (31), Classics (52), JDM (18), Muscle (8), Supercars (15), European (66) and Off-Road (13), plus Electric (7) and American (21) as tags. All seven themed challenges are available.
@@ -66,7 +66,7 @@ Requires Node 20+.
 **Offline and installable.** The game has a web-app manifest, icons and a service worker:
 - Pages are network-first. Hashed assets and photos are cache-first.
 - Chromium browsers get an **Install app** button.
-- Settings → *Offline play* saves every verified photo for offline use (about 170 MB), with progress, stop and remove.
+- Settings → *Offline play* saves every verified photo for offline use (about 230 MB), with progress, stop and remove.
 - The service worker is registered only in production builds.
 
 Also: garage (cars you identified, with **collections** by theme and country of origin that show completion and filter the garage), 25 achievements (each hidden until the photo set can actually support it), XP/levels, stats, personal bests, daily streak, first-play intro, settings (sound, haptics, hints, auto-advance, motion), progress export/import/reset.
@@ -106,7 +106,7 @@ Also: garage (cars you identified, with **collections** by theme and country of 
 
 ### Data model
 
-`src/data/types.ts` (schema), `src/data/vehicles.json` (**112 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (613 approved records: 599 photos plus 14 detail crops). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
+`src/data/types.ts` (schema), `src/data/vehicles.json` (**136 vehicle records**: make, model, aliases, generation, body style, country, years, categories, verified tip, reference URL) and `src/data/photos.json` (844 approved records: 830 photos plus 14 detail crops). A photo record holds: id, vehicle id, image paths, street/studio/other, visible angle, verified model-year range with written basis, optional trim, identity evidence URLs, source page, photographer, license name + URL, credit line, modification notice, review status, and **which answer fields it fairly supports** (make, model, year, generation, trim). Vehicle records and photo records are separate.
 
 ### Where good photo collections are on Commons
 
@@ -176,7 +176,7 @@ Dark theme with high-contrast text, 44 px+ touch targets (48 px on primary butto
   - Progress, garage and practice; mix-up and per-car tracking (and loading profiles saved before it existed).
   - Party games never touching the owner's profile.
   - Achievements, spoiler-free sharing, license rules and UI smoke tests.
-- **Answer-checker probes.** About 500 real-world inputs across all 111 cars: right names, misspellings, nicknames and *different real models* (`RX-8` is not an RX-7, `GL-Class` not a G-Class, `512 TR` not a Testarossa, `912` not a 356, `W124` not a W123, `Challenger` not a Barracuda, `Series II` not a Series III). Plus 30 generation inputs. All behave correctly.
+- **Answer-checker probes.** About 600 real-world inputs across all 135 cars: right names, misspellings, nicknames and *different real models* (`RX-8` is not an RX-7, `GL-Class` not a G-Class, `512 TR` not a Testarossa, `912` not a 356, `W124` not a W123, `Challenger` not a Barracuda, `Series II` not a Series III). Plus 30 generation inputs. All behave correctly.
 - **Playtested with the real photos** in Chromium (Playwright driving `npm run dev`) at 390×780 (phone) and 1280×800 (desktop). Modes played:
   - 10-Round Session (Normal/Hard/Expert), Focus (Normal/Hard), Free Play (Normal/Hard/Expert), Time Attack (Normal/Hard), Survival (Normal/Hard/Expert).
   - Daily (Normal/Hard/Expert).
