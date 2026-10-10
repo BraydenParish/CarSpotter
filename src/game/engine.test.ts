@@ -436,3 +436,25 @@ describe('garage collections', () => {
     expect(groups[0].kind).toBe('category');
   });
 });
+
+describe('importing a damaged progress file', () => {
+  it('replaces wrongly typed collections with empty ones instead of keeping them', () => {
+    const p = hydrateProfile({ version: 1, garage: null, mistakes: 5, daily: [], history: 'x', xp: 'lots', stats: { countries: null }, timeline: { best: 'a' } });
+    expect(p.garage).toEqual({});
+    expect(p.mistakes).toEqual({});
+    expect(p.daily).toEqual({});
+    expect(p.history).toEqual([]);
+    expect(p.xp).toBe(0);
+    expect(p.stats.countries).toEqual([]);
+    expect(p.stats.decades).toEqual([]);
+    expect(p.timeline.best).toBe(0);
+    expect(() => Object.keys(p.garage)).not.toThrow();
+  });
+
+  it('keeps well-formed data', () => {
+    const base = newProfile();
+    const p = hydrateProfile({ ...base, xp: 450, garage: { a: { count: 2 } } });
+    expect(p.xp).toBe(450);
+    expect(Object.keys(p.garage)).toEqual(['a']);
+  });
+});

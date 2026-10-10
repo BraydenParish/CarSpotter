@@ -218,6 +218,21 @@ export function Play({
     }
   }, [s, update, updateAndCheck, pushToast, settings.sound, settings.haptics]);
 
+  /* --- Leaving mid-run (Back button, link) ---------------------------- */
+  // Leaving through the browser's Back button unmounts this screen without the End run button.
+  // Settled rounds have already paid out, so close the run the same way "End run" would; otherwise a
+  // Daily Challenge could be abandoned and retried to dodge its one-attempt rule.
+  const closeRef = useRef<(() => void) | null>(null);
+  closeRef.current = () => {
+    const cur = sRef.current;
+    if (finalized.current || cur.phase === 'finished' || cur.results.length === 0) return;
+    finalized.current = true;
+    const ended = quitRun(cur, Date.now());
+    if (cur.config.mode === 'party') update((p) => applyRunEnd(p, ended).profile);
+    else updateAndCheck((p) => applyRunEnd(p, ended).profile, ended);
+  };
+  useEffect(() => () => closeRef.current?.(), []);
+
   /* --- Keyboard shortcuts ------------------------------------------ */
   useEffect(() => {
     const on = (e: KeyboardEvent) => {

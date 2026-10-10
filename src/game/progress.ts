@@ -160,7 +160,7 @@ export function hydrateProfile(raw: unknown): Profile {
   const base = newProfile();
   if (!raw || typeof raw !== 'object') return base;
   const r = raw as Partial<Profile>;
-  return {
+  const merged: Profile = {
     ...base,
     ...r,
     version: 1,
@@ -178,6 +178,28 @@ export function hydrateProfile(raw: unknown): Profile {
     confusions: { ...(r.confusions ?? {}) },
     timeline: { ...base.timeline, ...(r.timeline ?? {}) },
   };
+  return normalizeShape(merged, base);
+}
+
+const isObject = (v: unknown): v is Record<string, unknown> => !!v && typeof v === 'object' && !Array.isArray(v);
+
+/**
+ * An imported file can hold anything under version 1. Put every collection and number back to its
+ * default when it has the wrong type, so a bad file can't leave the app crashing on every load.
+ */
+function normalizeShape(p: Profile, base: Profile): Profile {
+  const out: Profile = { ...p };
+  for (const k of ['garage', 'mistakes', 'achievements', 'daily', 'bests', 'carStats', 'confusions'] as const) {
+    if (!isObject(out[k])) (out as unknown as Record<string, unknown>)[k] = {};
+  }
+  if (!Array.isArray(out.history)) out.history = [];
+  if (typeof out.xp !== 'number' || !Number.isFinite(out.xp) || out.xp < 0) out.xp = 0;
+  if (typeof out.introSeen !== 'boolean') out.introSeen = false;
+  if (!isObject(out.stats) || !Array.isArray(out.stats.countries) || !Array.isArray(out.stats.decades)) {
+    out.stats = { ...base.stats, ...(isObject(out.stats) ? out.stats : {}), countries: Array.isArray(out.stats?.countries) ? out.stats.countries : [], decades: Array.isArray(out.stats?.decades) ? out.stats.decades : [] };
+  }
+  for (const k of ['best', 'played'] as const) if (typeof out.timeline[k] !== 'number') out.timeline = { ...base.timeline, ...out.timeline, [k]: 0 };
+  return out;
 }
 
 const DIFF_RANK: Record<Difficulty, number> = { normal: 0, hard: 1, expert: 2 };
