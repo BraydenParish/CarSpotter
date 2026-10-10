@@ -24,6 +24,10 @@ const infos = (await imageInfo(titles, 360))
   .filter((i) => i.width >= 1600 && i.width > i.height)
   .slice(0, max);
 
+if (!infos.length) {
+  console.log('no landscape >=1600px files found for', category);
+  process.exit(0);
+}
 const lines: string[] = [];
 const tiles: Buffer[] = [];
 for (const [n, info] of infos.entries()) {

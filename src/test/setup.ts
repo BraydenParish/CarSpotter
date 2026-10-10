@@ -1,5 +1,6 @@
-// Vitest setup: give tests a clean localStorage each run.
-import { beforeEach } from 'vitest';
+// Vitest setup: clean DOM and a clean localStorage for each test.
+import { cleanup } from '@testing-library/react';
+import { afterEach, beforeEach } from 'vitest';
 
 beforeEach(() => {
   try {
@@ -7,4 +8,8 @@ beforeEach(() => {
   } catch {
     /* ignore */
   }
+});
+
+afterEach(() => {
+  cleanup();
 });

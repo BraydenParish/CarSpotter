@@ -1,0 +1,4687 @@
+[
+  {
+    "id": "mazda-mx5-na",
+    "make": "Mazda",
+    "model": "MX-5",
+    "modelAliases": ["Miata", "MX-5 Miata", "Eunos Roadster", "Roadster"],
+    "makeAliases": ["Eunos"],
+    "generation": { "name": "NA", "aliases": ["NA6", "NA8", "first generation", "1st generation", "1st gen", "first gen", "Mk1", "Mk 1"] },
+    "bodyStyle": "roadster",
+    "country": "Japan",
+    "years": [1989, 1997],
+    "categories": ["jdm", "sports"],
+    "tip": "Pop-up headlights and a small oval mouth: the NA is the only MX-5 generation with pop-ups.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+  },
+  {
+    "id": "toyota-supra-a80",
+    "make": "Toyota",
+    "model": "Supra",
+    "modelAliases": [],
+    "generation": { "name": "A80", "aliases": ["Mk4", "Mk IV", "Mark IV", "fourth generation", "4th generation", "4th gen", "JZA80"] },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [1993, 2002],
+    "categories": ["jdm", "sports"],
+    "tip": "Smooth, rounded long-nose body with round tail-light clusters; many carry the tall hoop rear wing.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Supra"
+  },
+  {
+    "id": "nissan-skyline-r34",
+    "make": "Nissan",
+    "model": "Skyline",
+    "modelAliases": ["Skyline GT-R", "Skyline GTR"],
+    "extraWords": ["GT-R", "GTR", "GT-T", "25GT", "V-Spec"],
+    "generation": { "name": "R34", "aliases": ["BNR34", "ER34", "HR34", "tenth generation", "10th generation", "10th gen"] },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [1998, 2002],
+    "categories": ["jdm", "sports"],
+    "tip": "Squared-off, wedge-like body with four round tail lights, a Skyline hallmark.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_Skyline_(R34)"
+  },
+  {
+    "id": "honda-nsx-na",
+    "make": "Honda",
+    "model": "NSX",
+    "modelAliases": [],
+    "extraWords": ["R", "Type R", "Type S", "NSX-R"],
+    "makeAliases": ["Acura"],
+    "generation": { "name": "NA1/NA2", "aliases": ["NA1", "NA2", "NA", "first generation", "1st generation", "1st gen", "first gen", "Mk1"] },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [1990, 2005],
+    "categories": ["jdm", "sports", "supercar"],
+    "tip": "Low mid-engined coupé with a cab-forward glasshouse and a full-width rear light bar; pop-up headlights until the 2002 facelift.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+  },
+  {
+    "id": "datsun-240z",
+    "make": "Datsun",
+    "model": "240Z",
+    "modelAliases": ["Fairlady Z", "Fairlady", "S30", "Z"],
+    "makeAliases": ["Nissan"],
+    "generation": { "name": "S30", "aliases": ["first generation", "1st generation", "1st gen", "first gen"] },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [1969, 1973],
+    "categories": ["jdm", "sports", "classic"],
+    "twins": ["Nissan Fairlady Z"],
+    "tip": "Long-nose, short-tail fastback with headlights recessed into the front wings.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_S30"
+  },
+  {
+    "id": "vw-beetle",
+    "make": "Volkswagen",
+    "model": "Beetle",
+    "modelAliases": ["Type 1", "Käfer", "Kafer", "Bug", "Fusca", "Bubble"],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [1938, 2003],
+    "categories": ["classic", "european", "everyday"],
+    "tip": "Rounded 'bug' shape with no front grille: the air-cooled engine sits at the rear.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
+  },
+  {
+    "id": "citroen-2cv",
+    "make": "Citroën",
+    "model": "2CV",
+    "modelAliases": ["2 CV", "Deux Chevaux", "2CV6", "2CV4", "Ugly Duckling"],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "France",
+    "years": [1948, 1990],
+    "categories": ["classic", "european", "everyday"],
+    "tip": "Full-width canvas roll-back roof ('an umbrella on wheels'); the bonnet is finely corrugated on cars built before 1960 and has five ribs after.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+  },
+  {
+    "id": "citroen-ds",
+    "make": "Citroën",
+    "model": "DS",
+    "modelAliases": ["DS19", "DS 19", "DS20", "DS21", "DS 21", "DS23", "DS 23", "ID19", "ID", "Déesse", "Goddess"],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "France",
+    "years": [1955, 1975],
+    "categories": ["classic", "european"],
+    "twins": ["Citroën ID"],
+    "tip": "Streamlined 'spaceship' body riding on hydropneumatic suspension; from late 1967 (1968 model year) four headlamps sit under a smooth glass canopy, the inner pair turning with the steering.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+  },
+  {
+    "id": "trabant-601",
+    "make": "Trabant",
+    "model": "601",
+    "modelAliases": ["P601", "P 601", "601S"],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "East Germany",
+    "years": [1964, 1990],
+    "categories": ["classic", "european", "everyday"],
+    "tip": "Boxy little two-door with a Duroplast (resin and cotton-fibre) body and a smoky two-stroke engine.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Trabant"
+  },
+  {
+    "id": "mini-classic",
+    "make": "Austin",
+    "model": "Mini",
+    "modelAliases": ["Mini Cooper", "Cooper", "Mini-Minor", "Mini Minor", "Seven", "Se7en", "Classic Mini", "Cooper S"],
+    "makeAliases": ["Morris", "Mini", "Rover", "BMC", "Leyland", "British Leyland", "Innocenti"],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "United Kingdom",
+    "years": [1959, 2000],
+    "categories": ["classic", "european", "everyday"],
+    "tip": "Tiny two-box shape with wheels pushed to the corners and visible external seams down the A-pillars and along the sills. Sold under several badges (Austin, Morris, Rover).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mini"
+  },
+  {
+    "id": "fiat-500-nuova",
+    "make": "Fiat",
+    "model": "500",
+    "modelAliases": ["Nuova 500", "500 Nuova", "Cinquecento", "Bambino"],
+    "extraWords": ["L", "F", "R", "D", "N"],
+    "generation": { "name": "Nuova 500", "aliases": ["Nuova", "original", "first generation", "1st generation", "1957"] },
+    "bodyStyle": "sedan",
+    "country": "Italy",
+    "years": [1957, 1975],
+    "categories": ["classic", "european", "everyday"],
+    "tip": "Rear-engined bubble with a fabric sunroof and small round headlamps in a grille-less nose; doors are rear-hinged on 1957–65 cars.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Fiat_500_(1957)"
+  },
+  {
+    "id": "vw-type2-t1",
+    "make": "Volkswagen",
+    "model": "Type 2",
+    "modelAliases": ["Transporter", "Kombi", "Microbus", "Bus", "Bulli", "Samba", "Splitty", "Split-screen"],
+    "generation": { "name": "T1", "aliases": ["T 1", "split window", "split-window", "splitscreen", "split screen", "first generation", "1st generation"] },
+    "bodyStyle": "van",
+    "country": "Germany",
+    "years": [1950, 1967],
+    "categories": ["classic", "european"],
+    "tip": "Two-piece split windscreen and a big V-shaped swage line on the nose carrying the VW roundel.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+  },
+  {
+    "id": "mercedes-300sl",
+    "make": "Mercedes-Benz",
+    "model": "300 SL",
+    "modelAliases": ["300SL", "Gullwing", "300 SL Gullwing", "W198"],
+    "generation": { "name": "W198", "aliases": ["W 198", "Gullwing"] },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [1954, 1957],
+    "categories": ["classic", "european", "supercar", "sports"],
+    "tip": "Upward-opening gullwing doors and 'eyebrow' bulges over the wheel arches.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+  },
+  {
+    "id": "jaguar-etype",
+    "make": "Jaguar",
+    "model": "E-Type",
+    "modelAliases": ["E Type", "XK-E", "XKE", "E-Type Jaguar"],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [1961, 1975],
+    "categories": ["classic", "european", "sports"],
+    "tip": "Very long bonnet over a small oval air intake; Series 1 cars (1961–1967) have glass-covered headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+  },
+  {
+    "id": "porsche-911-993",
+    "make": "Porsche",
+    "model": "911",
+    "modelAliases": ["Carrera", "993"],
+    "extraWords": ["Carrera", "Carrera 4", "4S", "Turbo"],
+    "generation": { "name": "993", "aliases": ["type 993"] },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [1994, 1998],
+    "categories": ["european", "sports"],
+    "tip": "The last air-cooled 911: much more flared wheel arches, smoother front and rear bumpers and teardrop-shaped mirrors compared with earlier 911s.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_993"
+  },
+  {
+    "id": "lamborghini-countach",
+    "make": "Lamborghini",
+    "model": "Countach",
+    "modelAliases": [],
+    "extraWords": ["LP400", "LP500", "LP500S", "LP5000", "QV", "Quattrovalvole", "25th"],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [1974, 1990],
+    "categories": ["supercar", "european", "classic"],
+    "tip": "Extreme flat wedge with scissor doors and NACA ducts cut into the flanks.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+  },
+  {
+    "id": "lamborghini-aventador",
+    "make": "Lamborghini",
+    "model": "Aventador",
+    "modelAliases": [],
+    "extraWords": ["LP700-4", "LP700", "LP740-4", "LP750-4", "LP770-4", "S", "SV", "SVJ", "Ultimae"],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [2011, 2022],
+    "categories": ["supercar", "european"],
+    "tip": "Low, sharply faceted V12 wedge that replaced the Murciélago in 2011; the 2017-on Aventador S has a reworked front bumper.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Aventador"
+  },
+  {
+    "id": "ferrari-f40",
+    "make": "Ferrari",
+    "model": "F40",
+    "modelAliases": [],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [1987, 1993],
+    "categories": ["supercar", "european"],
+    "tip": "Spartan Pininfarina wedge with Kevlar, carbon-fibre and aluminium panels and plastic windows (the first fifty had sliding Lexan side windows); every F40 left the factory in Rosso Corsa red.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_F40"
+  },
+  {
+    "id": "ford-mustang-1g",
+    "make": "Ford",
+    "model": "Mustang",
+    "modelAliases": [],
+    "extraWords": ["Mach 1", "Boss", "GT350", "GT500", "Fastback", "Shelby"],
+    "generation": { "name": "First generation", "aliases": ["1st generation", "first gen", "1st gen", "first-gen", "1st", "first"] },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [1964, 1973],
+    "categories": ["muscle", "american", "classic"],
+    "tip": "Long bonnet, short deck, a galloping-horse emblem in the grille and triple vertical tail-light bars on each side.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+  },
+  {
+    "id": "dodge-charger-2g",
+    "make": "Dodge",
+    "model": "Charger",
+    "modelAliases": [],
+    "extraWords": ["R/T", "RT", "500", "SE", "440", "Hemi"],
+    "generation": { "name": "Second generation", "aliases": ["2nd generation", "second gen", "2nd gen", "second", "2nd"] },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [1968, 1970],
+    "categories": ["muscle", "american", "classic"],
+    "tip": "Full-width grille with hidden headlights and a 'coke-bottle' waist. 1968 has an undivided grille, 1969 a centre divider, 1970 a chrome bumper looping around the grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+  },
+  {
+    "id": "chevrolet-camaro-1g",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "modelAliases": ["Camaro Z28", "Camaro Z/28"],
+    "extraWords": ["SS", "RS", "Z/28", "Z28", "RS/SS"],
+    "generation": { "name": "First generation", "aliases": ["1st generation", "first gen", "1st gen", "first-gen", "first", "1st"] },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [1967, 1969],
+    "categories": ["muscle", "american", "classic"],
+    "tip": "Long bonnet and short deck; the 1969 car is more squared-off, with a heavy crease over the wheel arches and dummy vents ahead of the rear wheels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+  },
+  {
+    "id": "dodge-challenger-1g",
+    "make": "Dodge",
+    "model": "Challenger",
+    "modelAliases": [],
+    "extraWords": ["R/T", "RT", "T/A", "TA", "SE", "Hemi", "440"],
+    "generation": { "name": "First generation", "aliases": ["1st generation", "first gen", "1st gen", "first", "1st"] },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [1970, 1974],
+    "categories": ["muscle", "american", "classic"],
+    "tip": "Wide, recessed full-width grille framing quad round headlights; low, broad E-body proportions.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Dodge_Challenger"
+  },
+  {
+    "id": "land-rover-defender",
+    "make": "Land Rover",
+    "model": "Defender",
+    "modelAliases": ["90", "110", "130", "Ninety", "One Ten", "Defender 90", "Defender 110"],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [1983, 2016],
+    "categories": ["offroad", "european"],
+    "tip": "Flat aluminium panels, exposed door hinges and an upright windscreen: a direct descendant of the Series Land Rovers.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+  },
+  {
+    "id": "jeep-wrangler-jk",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "modelAliases": ["Wrangler Unlimited"],
+    "extraWords": ["Unlimited", "Rubicon", "Sahara", "Sport"],
+    "generation": { "name": "JK", "aliases": ["third generation", "3rd generation", "3rd gen"] },
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [2007, 2018],
+    "categories": ["offroad", "american", "everyday"],
+    "tip": "Seven-slot grille with round headlamps and exposed hinges; the JK was the first Wrangler offered with four doors (Unlimited).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JK)"
+  },
+  {
+    "id": "vw-golf-mk7",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "modelAliases": [],
+    "extraWords": ["R", "GTE", "e-Golf", "Variant", "Alltrack"],
+    "generation": { "name": "Mk7", "aliases": ["Mk 7", "Mk VII", "Golf 7", "Golf VII", "seventh generation", "7th generation", "7th gen"] },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [2012, 2020],
+    "categories": ["everyday", "european"],
+    "tip": "Sharp horizontal crease along the flanks at door-handle height and the thick C-pillar every Golf is known for.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7"
+  },
+  {
+    "id": "toyota-prius-xw30",
+    "make": "Toyota",
+    "model": "Prius",
+    "modelAliases": [],
+    "extraWords": ["Plug-in", "PHV"],
+    "generation": { "name": "XW30", "aliases": ["third generation", "3rd generation", "3rd gen", "Gen 3", "Mk3"] },
+    "bodyStyle": "hatchback",
+    "country": "Japan",
+    "years": [2009, 2015],
+    "categories": ["everyday"],
+    "tip": "Wedge-shaped Kammback profile with a split rear window: a horizontal bar crosses the hatch glass.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Prius"
+  },
+  {
+    "id": "tesla-model-3",
+    "make": "Tesla",
+    "model": "Model 3",
+    "modelAliases": ["M3"],
+    "extraWords": ["Long Range", "Performance", "Standard", "Plus"],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "United States",
+    "years": [2017, 2023],
+    "categories": ["everyday", "electric", "american"],
+    "tip": "No grille at all, slim headlamps in a smooth nose and one continuous sweep of glass roof.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Model_3"
+  },
+  {
+    "id": "ford-f150-13g",
+    "make": "Ford",
+    "model": "F-150",
+    "modelAliases": ["F150", "F series", "F-Series"],
+    "extraWords": ["XL", "XLT", "Lariat", "King Ranch", "Platinum", "Raptor", "SuperCrew", "SuperCab", "Limited"],
+    "generation": { "name": "Thirteenth generation", "aliases": ["13th generation", "13th gen", "P552"] },
+    "bodyStyle": "pickup",
+    "country": "United States",
+    "years": [2015, 2020],
+    "categories": ["everyday", "american"],
+    "tip": "Aluminium-bodied full-size pickup; many trims have C-clamp-shaped LED running lights in the headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_F-Series_(thirteenth_generation)"
+  },
+  {
+    "id": "toyota-land-cruiser-j40",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "modelAliases": ["Landcruiser", "FJ40", "BJ40", "FJ 40"],
+    "generation": { "name": "J40", "aliases": ["40 series", "40-series", "FJ40", "BJ40", "J 40", "40"] },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [1960, 1984],
+    "categories": ["offroad", "jdm", "classic"],
+    "tip": "Short, upright two-door body-on-frame 4×4, a little larger than a Jeep CJ, with round headlamps in a flat grille panel; replaced by the 70 Series in most markets in 1984.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+  },
+  {
+    "id": "suzuki-jimny-jb64",
+    "make": "Suzuki",
+    "model": "Jimny",
+    "modelAliases": ["Jimny Sierra"],
+    "generation": { "name": "JB64", "aliases": ["JB74", "fourth generation", "4th generation", "4th gen", "Gen 4"] },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [2018, 2026],
+    "categories": ["offroad", "jdm", "everyday"],
+    "tip": "Boxy mini 4×4 with upright A-pillars, a flat clamshell bonnet, side windows that dip at the front, roof drip rails and a simple black grille with round headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Suzuki_Jimny"
+  },
+  {
+    "id": "vw-golf-mk1",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "modelAliases": [
+      "Rabbit",
+      "Caribe",
+      "Golf I"
+    ],
+    "extraWords": [
+      "GTI",
+      "Diesel",
+      "GLS",
+      "LS",
+      "C"
+    ],
+    "generation": {
+      "name": "Mk1",
+      "aliases": [
+        "Mk 1",
+        "Mk I",
+        "Golf 1",
+        "Golf I",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Type 17",
+        "A1"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1974,
+      1983
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Giugiaro's sharp-edged 'folded paper' two-box hatchback with a steep tailgate and round headlamps (rectangular on later US cars).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+  },
+{
+    "id": "mercedes-g-class-w463",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "modelAliases": [
+      "G-Wagen",
+      "G Wagen",
+      "G-Wagon",
+      "G Wagon",
+      "Geländewagen",
+      "Gelandewagen",
+      "G",
+      "G 500",
+      "G500",
+      "G 550",
+      "G550",
+      "G 63",
+      "G63"
+    ],
+    "extraWords": [
+      "G 500",
+      "G500",
+      "G 550",
+      "G550",
+      "G 350",
+      "G350",
+      "G 63",
+      "G63",
+      "AMG"
+    ],
+    "generation": {
+      "name": "W463",
+      "aliases": [
+        "W 463",
+        "first-generation W463"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "Germany",
+    "years": [
+      1990,
+      2018
+    ],
+    "categories": [
+      "offroad",
+      "european"
+    ],
+    "tip": "Boxy, upright body-on-frame 4×4 with flat panels, round headlamps and a spare wheel on the side-hinged rear door; the W463 brought luxury trim to the G in 1990.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+  },
+{
+    "id": "mazda-rx7-fd",
+    "make": "Mazda",
+    "model": "RX-7",
+    "modelAliases": [
+      "RX7",
+      "Efini RX-7",
+      "ɛ̃fini RX-7"
+    ],
+    "makeAliases": [
+      "Efini"
+    ],
+    "extraWords": [
+      "R2",
+      "Type R",
+      "Spirit R",
+      "Turbo"
+    ],
+    "generation": {
+      "name": "FD",
+      "aliases": [
+        "FD3S",
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "FD RX-7"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      1991,
+      2002
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Smooth, curvy two-seat coupé with pop-up headlamps; the last RX-7, with a sequential twin-turbo rotary engine.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_RX-7"
+  },
+{
+    "id": "ferrari-testarossa",
+    "make": "Ferrari",
+    "model": "Testarossa",
+    "modelAliases": [
+      "Testa Rossa",
+      "F110"
+    ],
+    "extraWords": [
+      "Monospecchio",
+      "Monodado"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1984,
+      1991
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "classic"
+    ],
+    "tip": "Wide, flat Pininfarina wedge with long horizontal 'cheese-grater' strakes running from the doors into the rear wings.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+  },
+{
+    "id": "lamborghini-miura",
+    "make": "Lamborghini",
+    "model": "Miura",
+    "modelAliases": [],
+    "extraWords": [
+      "P400",
+      "S",
+      "SV",
+      "P400 S",
+      "P400 SV"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1966,
+      1973
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "classic"
+    ],
+    "tip": "Low, curvaceous Gandini body with the engine behind the cabin; pre-SV cars have black 'eyelashes' around the headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+  },
+{
+    "id": "porsche-356",
+    "make": "Porsche",
+    "model": "356",
+    "modelAliases": [
+      "356A",
+      "356B",
+      "356C",
+      "Speedster"
+    ],
+    "extraWords": [
+      "A",
+      "B",
+      "C",
+      "Speedster",
+      "Cabriolet",
+      "Coupe",
+      "Super",
+      "Carrera",
+      "1600"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1948,
+      1965
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Porsche's first production car: a small, rounded rear-engined coupé or convertible whose shape stayed largely unchanged from 1948 to 1965.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_356"
+  },
+{
+    "id": "chevrolet-corvette-c2",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "modelAliases": [
+      "Corvette Sting Ray",
+      "Sting Ray",
+      "Stingray",
+      "Vette"
+    ],
+    "extraWords": [
+      "Sting Ray",
+      "Stingray",
+      "Grand Sport",
+      "327",
+      "427"
+    ],
+    "generation": {
+      "name": "C2",
+      "aliases": [
+        "second generation",
+        "2nd generation",
+        "2nd gen",
+        "Sting Ray",
+        "Stingray"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1963,
+      1967
+    ],
+    "categories": [
+      "american",
+      "sports",
+      "classic"
+    ],
+    "tip": "Sharp-edged Sting Ray body with hidden headlamps in rotating housings; the 1963 coupé alone has the split rear window.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+  },
+  {
+    "id": "renault-4",
+    "make": "Renault",
+    "model": "4",
+    "modelAliases": [
+      "R4",
+      "4L",
+      "Quatrelle",
+      "Renault 4L",
+      "4 L"
+    ],
+    "extraWords": [
+      "L",
+      "TL",
+      "GTL",
+      "Parisienne",
+      "Super"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      1961,
+      1994
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Upright, boxy little car with a top-hinged one-piece tailgate (often called the first mass-produced hatchback) and a full-width body roomier than the 2CV's.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Renault_4"
+  },
+{
+    "id": "mercedes-w123",
+    "make": "Mercedes-Benz",
+    "model": "W123",
+    "modelAliases": [
+      "123",
+      "W 123",
+      "200",
+      "230",
+      "230E",
+      "240D",
+      "240 D",
+      "250",
+      "280E",
+      "300D",
+      "300 D",
+      "200D",
+      "220D"
+    ],
+    "extraWords": [
+      "D",
+      "E",
+      "TD",
+      "CE"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [
+      1975,
+      1986
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Upright, square-cut saloon with horizontal headlamps, wide ribbed tail-lights and indicators on the outer edges of the front; round-lamp fronts on lower models until 1983 (and in North America), rectangular lamps otherwise.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_W123"
+  },
+  {
+    "id": "plymouth-barracuda-3g",
+    "make": "Plymouth",
+    "model": "Barracuda",
+    "modelAliases": [
+      "'Cuda",
+      "Cuda",
+      "Hemi Cuda",
+      "Hemi 'Cuda",
+      "AAR Cuda",
+      "AAR 'Cuda"
+    ],
+    "extraWords": [
+      "Hemi",
+      "440",
+      "340",
+      "383",
+      "Gran Coupe",
+      "AAR"
+    ],
+    "generation": {
+      "name": "Third generation",
+      "aliases": [
+        "3rd generation",
+        "third gen",
+        "3rd gen",
+        "E-body",
+        "third",
+        "3rd"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1970,
+      1974
+    ],
+    "categories": [
+      "muscle",
+      "american",
+      "classic"
+    ],
+    "tip": "Short, wide E-body pony car that shares its platform but no sheet metal with the Dodge Challenger: two headlamps instead of the Challenger's four (only the 1971 Barracuda had four).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+  },
+  {
+    "id": "land-rover-series-3",
+    "make": "Land Rover",
+    "model": "Series III",
+    "modelAliases": [
+      "Series 3",
+      "SIII",
+      "Series",
+      "88",
+      "109",
+      "Land Rover 88",
+      "Land Rover 109"
+    ],
+    "makeAliases": [
+      "Land-Rover"
+    ],
+    "extraWords": [
+      "88",
+      "109",
+      "Station Wagon",
+      "Pick-Up",
+      "Hardtop"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [
+      1971,
+      1985
+    ],
+    "categories": [
+      "offroad",
+      "european",
+      "classic"
+    ],
+    "tip": "Flat-panelled utility 4×4 with headlamps in the front wings and a plastic grille (earlier Series cars had a metal one); the most common Series Land Rover, built 1971–1985 before the coil-sprung 90/110 (later Defender).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Land_Rover_Series"
+  },
+  {
+    "id": "toyota-corolla-e210",
+    "make": "Toyota",
+    "model": "Corolla",
+    "modelAliases": [
+      "Corolla Sport",
+      "Corolla Hatchback",
+      "Corolla Touring Sports",
+      "Corolla Hybrid",
+      "Auris"
+    ],
+    "extraWords": [
+      "Hybrid",
+      "Touring",
+      "Sports",
+      "Sport",
+      "Trek",
+      "GR",
+      "Levin"
+    ],
+    "generation": {
+      "name": "E210",
+      "aliases": [
+        "E 210",
+        "twelfth generation",
+        "12th generation",
+        "12th gen",
+        "Corolla 12"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Japan",
+    "years": [
+      2018,
+      2026
+    ],
+    "categories": [
+      "everyday"
+    ],
+    "tip": "Twelfth-generation Corolla (2018 on), sold as a hatchback (Corolla Sport, or Auris in some early markets), saloon and Touring Sports estate; some markets get a different 'Prestige' saloon front borrowed from the Camry.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+  },
+{
+    "id": "ford-focus-mk3",
+    "make": "Ford",
+    "model": "Focus",
+    "modelAliases": [],
+    "extraWords": [
+      "ST",
+      "RS",
+      "Titanium",
+      "Zetec",
+      "Estate",
+      "Wagon",
+      "Turnier",
+      "Sedan",
+      "Electric"
+    ],
+    "generation": {
+      "name": "Mk3",
+      "aliases": [
+        "Mk 3",
+        "Mk III",
+        "Focus 3",
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "C346",
+        "Mk3.5",
+        "Mk 3.5"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "United States",
+    "years": [
+      2010,
+      2018
+    ],
+    "categories": [
+      "everyday",
+      "american",
+      "european"
+    ],
+    "tip": "Kinetic-design Focus with a trapezoidal grille; the 2014 facelift (Mk 3.5) brought thinner, sharper headlamps and the wide Aston-style grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)"
+  },
+{
+    "id": "vw-polo-mk5",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "modelAliases": [
+      "Polo Sedan",
+      "Vento",
+      "Polo Vivo"
+    ],
+    "extraWords": [
+      "GTI",
+      "R",
+      "WRC",
+      "BlueGT",
+      "TSI",
+      "TDI",
+      "Cross"
+    ],
+    "generation": {
+      "name": "Mk5",
+      "aliases": [
+        "Mk 5",
+        "Mk V",
+        "Polo 5",
+        "Polo V",
+        "fifth generation",
+        "5th generation",
+        "5th gen",
+        "6R",
+        "6C"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      2009,
+      2017
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Fifth-generation Polo (2009–2017 in Europe; still built in South Africa as the Polo Vivo); a long-wheelbase saloon was sold in emerging markets as the Vento or Polo Sedan.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Polo_Mk5"
+  },
+{
+    "id": "mini-hatch-f56",
+    "make": "Mini",
+    "model": "Hatch",
+    "modelAliases": [
+      "Cooper",
+      "Mini Cooper",
+      "Hardtop",
+      "Mini Hatch",
+      "Cooper S",
+      "One",
+      "John Cooper Works",
+      "JCW",
+      "Cooper SE",
+      "Mini Electric"
+    ],
+    "makeAliases": [
+      "MINI",
+      "BMW Mini"
+    ],
+    "extraWords": [
+      "S",
+      "SE",
+      "D",
+      "JCW",
+      "Works",
+      "3-door",
+      "5-door"
+    ],
+    "generation": {
+      "name": "F56",
+      "aliases": [
+        "F 56",
+        "F55",
+        "third generation",
+        "3rd generation",
+        "3rd gen"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "United Kingdom",
+    "years": [
+      2014,
+      2024
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "BMW-era Mini Hatch, third generation (2014–2024, built at Oxford), with big oval headlamps and a hexagonal grille; renamed Mini Cooper for the 2024 fourth generation.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mini_Hatch"
+  },
+  {
+    "id": "nissan-leaf-ze0",
+    "make": "Nissan",
+    "model": "Leaf",
+    "modelAliases": [
+      "LEAF"
+    ],
+    "extraWords": [
+      "SV",
+      "SL",
+      "S",
+      "Acenta",
+      "Tekna",
+      "Visia",
+      "e+"
+    ],
+    "generation": {
+      "name": "ZE0",
+      "aliases": [
+        "ZE 0",
+        "AZE0",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Japan",
+    "years": [
+      2010,
+      2017
+    ],
+    "categories": [
+      "everyday",
+      "electric"
+    ],
+    "tip": "First-generation Leaf (2010–2017), the world's first series-produced battery-electric car: rounded hatchback with tall, swept-back headlamps and the charging port under a flap in the nose.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_Leaf"
+  },
+{
+    "id": "toyota-rav4-xa50",
+    "make": "Toyota",
+    "model": "RAV4",
+    "modelAliases": [
+      "RAV 4",
+      "Rav-4",
+      "Wildlander",
+      "RAV4 Hybrid",
+      "RAV4 Prime"
+    ],
+    "extraWords": [
+      "Hybrid",
+      "Prime",
+      "Plug-in",
+      "Adventure",
+      "TRD",
+      "XLE",
+      "Limited",
+      "Off-Road"
+    ],
+    "generation": {
+      "name": "XA50",
+      "aliases": [
+        "XA 50",
+        "fifth generation",
+        "5th generation",
+        "5th gen",
+        "Mk5",
+        "RAV4 5"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [
+      2018,
+      2025
+    ],
+    "categories": [
+      "everyday",
+      "offroad"
+    ],
+    "tip": "Fifth-generation RAV4 (unveiled 2018), styled after the FT-AC concept: angular, truck-like front with an octagonal grille, on the TNGA-K platform shared with the Camry.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4"
+  },
+{
+    "id": "range-rover-evoque-l538",
+    "make": "Land Rover",
+    "model": "Evoque",
+    "modelAliases": [
+      "Range Rover Evoque",
+      "Evoque Convertible",
+      "Range Rover Evoque Convertible"
+    ],
+    "makeAliases": [
+      "Range Rover",
+      "Land-Rover"
+    ],
+    "extraWords": [
+      "Convertible",
+      "Coupe",
+      "Pure",
+      "Prestige",
+      "Dynamic",
+      "HSE"
+    ],
+    "generation": {
+      "name": "L538",
+      "aliases": [
+        "L 538",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [
+      2011,
+      2018
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "offroad"
+    ],
+    "tip": "First-generation Evoque (L538, 2011–2018), developed from the LRX concept, sold as three- and five-door SUVs and later a convertible; China's Landwind X7 copied its design so closely that a court banned it in 2019.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+  },
+  {
+    "id": "mitsubishi-lancer-evo-x",
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "modelAliases": [
+      "Evo",
+      "Evolution",
+      "Lancer Evo",
+      "Evo X",
+      "Evo 10",
+      "Lancer Evolution X",
+      "Evolution X"
+    ],
+    "extraWords": [
+      "X",
+      "10",
+      "GSR",
+      "MR",
+      "FQ-300",
+      "FQ-330",
+      "FQ-360",
+      "FQ-400",
+      "Final Edition"
+    ],
+    "generation": {
+      "name": "Evolution X",
+      "aliases": [
+        "X",
+        "Evo X",
+        "Evo 10",
+        "Evolution 10",
+        "tenth generation",
+        "10th generation",
+        "10th gen",
+        "CZ4A"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Japan",
+    "years": [
+      2007,
+      2016
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Tenth and final Lancer Evolution (2007–2016): a four-door saloon with a big trapezoidal 'jet fighter' grille mouth, bonnet vents and four-wheel drive with a 2-litre turbo.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+  },
+{
+    "id": "peugeot-205",
+    "make": "Peugeot",
+    "model": "205",
+    "modelAliases": [
+      "205 GTI",
+      "205 GT"
+    ],
+    "extraWords": [
+      "GTI",
+      "GT",
+      "GR",
+      "GL",
+      "GLD",
+      "XS",
+      "SR",
+      "Junior",
+      "CTI",
+      "Rallye",
+      "Lacoste",
+      "Roland Garros",
+      "1.6",
+      "1.9"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      1983,
+      1998
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Crisp, small hatchback launched in 1983 to replace the 104 and Talbot Samba; CAR magazine named it 'car of the decade' in 1990. The front has a slatted grille between square headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Peugeot_205"
+  },
+{
+    "id": "bmw-3-series-e30",
+    "make": "BMW",
+    "model": "3 Series",
+    "modelAliases": [
+      "E30",
+      "3er",
+      "316i",
+      "318i",
+      "320i",
+      "323i",
+      "325i",
+      "325e",
+      "324d",
+      "Touring",
+      "M3"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "316",
+      "318",
+      "320",
+      "323",
+      "325",
+      "i",
+      "is",
+      "iX",
+      "e",
+      "d",
+      "Touring",
+      "Cabrio",
+      "Convertible",
+      "Baur",
+      "Alpina"
+    ],
+    "generation": {
+      "name": "E30",
+      "aliases": [
+        "E 30",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [
+      1982,
+      1994
+    ],
+    "categories": [
+      "european",
+      "classic",
+      "sports"
+    ],
+    "tip": "Second-generation 3 Series (1982–1994), very like the twin-headlight E21 it replaced; the first 3 Series offered as a four-door and an estate (Touring).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_3_Series_(E30)"
+  },
+{
+    "id": "mercedes-w124",
+    "make": "Mercedes-Benz",
+    "model": "W124",
+    "modelAliases": [
+      "124",
+      "W 124",
+      "E-Class",
+      "E Class",
+      "200",
+      "230E",
+      "260E",
+      "300E",
+      "300D",
+      "250D",
+      "E220",
+      "E280",
+      "E320",
+      "500E",
+      "E500",
+      "300 E",
+      "230 E"
+    ],
+    "extraWords": [
+      "E",
+      "D",
+      "TE",
+      "CE",
+      "Diesel",
+      "Turbodiesel"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Germany",
+    "years": [
+      1984,
+      1997
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "Upright executive saloon (also estate, coupé and cabriolet) built 1984–1997, marketed as the E-Class from 1993; it followed the W123 and was replaced by the W210.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_W124"
+  },
+{
+    "id": "audi-tt-8n",
+    "make": "Audi",
+    "model": "TT",
+    "modelAliases": [
+      "TT Coupe",
+      "TT Roadster",
+      "TTS"
+    ],
+    "extraWords": [
+      "Coupe",
+      "Coupé",
+      "Roadster",
+      "quattro",
+      "3.2",
+      "1.8T",
+      "225",
+      "180",
+      "V6"
+    ],
+    "generation": {
+      "name": "8N",
+      "aliases": [
+        "Type 8N",
+        "Mk1",
+        "Mk 1",
+        "first generation",
+        "1st generation",
+        "1st gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1998,
+      2006
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "First-generation TT (Type 8N, 1998–2006): a rounded, arch-on-arch coupé or roadster designed by J Mays and Freeman Thomas, built on the Golf Mk4 platform.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Audi_TT"
+  },
+  {
+    "id": "honda-s2000",
+    "make": "Honda",
+    "model": "S2000",
+    "modelAliases": [
+      "S 2000",
+      "S2K"
+    ],
+    "extraWords": [
+      "CR",
+      "Type S",
+      "AP1",
+      "AP2"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "Japan",
+    "years": [
+      1999,
+      2009
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Front-mid-engined two-seat roadster launched in 1999 for Honda's 50th anniversary: long bonnet, short tail and swept-back headlamps; the facelifted AP2 looks almost the same as the AP1.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Honda_S2000"
+  },
+{
+    "id": "nissan-300zx-z32",
+    "make": "Nissan",
+    "model": "300ZX",
+    "modelAliases": [
+      "300 ZX",
+      "Fairlady Z",
+      "Z32",
+      "300ZX Twin Turbo"
+    ],
+    "makeAliases": [
+      "Datsun"
+    ],
+    "extraWords": [
+      "Twin Turbo",
+      "TT",
+      "Turbo",
+      "2+2",
+      "Convertible"
+    ],
+    "generation": {
+      "name": "Z32",
+      "aliases": [
+        "Z 32",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      1989,
+      2000
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Second-generation 300ZX (Z32), driven up-market from the Z31: wide, low wedge with steeply raked, fixed headlamps and a full-width tail-light bar; sold in the US until 1996 and as the Fairlady Z in Japan.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_300ZX"
+  },
+{
+    "id": "lamborghini-huracan",
+    "make": "Lamborghini",
+    "model": "Huracán",
+    "modelAliases": [
+      "Huracan",
+      "Huracán EVO",
+      "Huracan EVO"
+    ],
+    "extraWords": [
+      "EVO",
+      "Spyder",
+      "Performante",
+      "STO",
+      "Tecnica",
+      "Sterrato",
+      "LP 610-4",
+      "LP 580-2"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2014,
+      2024
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "V10 successor to the Gallardo (2014–2024): a low, faceted wedge with hexagonal themes and Y-shaped daytime lamps, smaller and lower than the V12 Aventador.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n"
+  },
+{
+    "id": "ferrari-458",
+    "make": "Ferrari",
+    "model": "458",
+    "modelAliases": [
+      "458 Italia",
+      "458 Spider",
+      "458 Speciale"
+    ],
+    "extraWords": [
+      "Italia",
+      "Spider",
+      "Speciale",
+      "Aperta"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2009,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Mid-engined V8 Ferrari (2009–2015) that replaced the F430: long, swept headlamps reaching back along the wings and a wide mouth with small winglets; succeeded by the 488.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_458"
+  },
+{
+    "id": "bugatti-veyron",
+    "make": "Bugatti",
+    "model": "Veyron",
+    "modelAliases": [
+      "Veyron 16.4",
+      "Veyron Grand Sport",
+      "Veyron Super Sport"
+    ],
+    "extraWords": [
+      "16.4",
+      "Grand Sport",
+      "Super Sport",
+      "Vitesse"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "France",
+    "years": [
+      2005,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Volkswagen-era Bugatti hypercar (2005–2015): rounded body, often two-tone, with the horseshoe grille and a big air scoop behind the cabin.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Bugatti_Veyron"
+  },
+{
+    "id": "dodge-viper-sr2",
+    "make": "Dodge",
+    "model": "Viper",
+    "modelAliases": [
+      "Viper GTS",
+      "Viper RT/10",
+      "Viper R/T 10"
+    ],
+    "makeAliases": [
+      "Chrysler"
+    ],
+    "extraWords": [
+      "GTS",
+      "RT/10",
+      "ACR"
+    ],
+    "generation": {
+      "name": "SR II",
+      "aliases": [
+        "SRII",
+        "SR2",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1996,
+      2002
+    ],
+    "categories": [
+      "american",
+      "sports",
+      "supercar"
+    ],
+    "tip": "Second-generation Viper (SR II, 1996–2002): long, curvy V10 sports car, sold as the double-bubble GTS coupé and the RT/10 roadster, often with twin stripes over the top.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Dodge_Viper"
+  },
+{
+    "id": "chevrolet-corvette-c3",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "modelAliases": [
+      "Corvette Stingray",
+      "Stingray",
+      "Vette"
+    ],
+    "extraWords": [
+      "Stingray",
+      "L82",
+      "L88",
+      "T-Top",
+      "Pace Car"
+    ],
+    "generation": {
+      "name": "C3",
+      "aliases": [
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "Shark"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1968,
+      1982
+    ],
+    "categories": [
+      "american",
+      "sports",
+      "classic"
+    ],
+    "tip": "Third-generation Corvette (1968–1982), patterned on the Mako Shark II concept: long, pinched 'coke-bottle' waist, pop-up headlamps and high, curved front wings.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C3)"
+  },
+{
+    "id": "ford-mustang-s550",
+    "make": "Ford",
+    "model": "Mustang",
+    "modelAliases": [
+      "Mustang GT",
+      "Mustang EcoBoost"
+    ],
+    "extraWords": [
+      "GT",
+      "EcoBoost",
+      "Bullitt",
+      "Mach 1",
+      "GT350",
+      "GT500",
+      "Convertible",
+      "Fastback",
+      "5.0"
+    ],
+    "generation": {
+      "name": "Sixth generation",
+      "aliases": [
+        "S550",
+        "6th generation",
+        "6th gen",
+        "sixth gen",
+        "Mk6",
+        "S-550"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      2015,
+      2023
+    ],
+    "categories": [
+      "muscle",
+      "american"
+    ],
+    "tip": "Sixth-generation Mustang (S550, 2015–2023), the first sold globally: a wide trapezoidal grille with the running-horse badge, slim swept headlamps and three-bar tail lamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+  },
+{
+    "id": "chevrolet-camaro-6g",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "modelAliases": [
+      "Camaro SS",
+      "Camaro ZL1"
+    ],
+    "extraWords": [
+      "SS",
+      "ZL1",
+      "LT",
+      "RS",
+      "1LE",
+      "50th"
+    ],
+    "generation": {
+      "name": "Sixth generation",
+      "aliases": [
+        "6th generation",
+        "6th gen",
+        "sixth gen",
+        "Mk6",
+        "Alpha"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      2016,
+      2024
+    ],
+    "categories": [
+      "muscle",
+      "american"
+    ],
+    "tip": "Sixth-generation Camaro (2016 model year until production ended in December 2023), on GM's Alpha platform: low, slit-like glasshouse and a thin upper grille over a big lower intake.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(sixth_generation)"
+  },
+{
+    "id": "dodge-challenger-lc",
+    "make": "Dodge",
+    "model": "Challenger",
+    "modelAliases": [
+      "Challenger SRT",
+      "Challenger Hellcat",
+      "Hellcat"
+    ],
+    "extraWords": [
+      "SRT",
+      "SRT8",
+      "Hellcat",
+      "Scat Pack",
+      "R/T",
+      "SXT",
+      "Demon",
+      "Widebody",
+      "392"
+    ],
+    "generation": {
+      "name": "Third generation",
+      "aliases": [
+        "LC",
+        "LA",
+        "3rd generation",
+        "3rd gen",
+        "third gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      2008,
+      2023
+    ],
+    "categories": [
+      "muscle",
+      "american"
+    ],
+    "tip": "Retro full-size muscle car (2008–2023) styled after the 1970 Challenger R/T: quad round headlamps set in a wide, recessed grille, built on a shortened LX platform.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Dodge_Challenger"
+  },
+  {
+    "id": "chevrolet-bel-air-1957",
+    "make": "Chevrolet",
+    "model": "Bel Air",
+    "modelAliases": [
+      "Belair",
+      "Bel-Air",
+      "57 Chevy",
+      "'57 Chevy",
+      "Tri-Five",
+      "Chevy Bel Air"
+    ],
+    "extraWords": [
+      "Sport Coupe",
+      "Sport Sedan",
+      "Convertible",
+      "Nomad",
+      "Hardtop",
+      "4-Door"
+    ],
+    "generation": {
+      "name": "Second generation",
+      "aliases": [
+        "Tri-Five",
+        "Tri Five",
+        "2nd generation",
+        "2nd gen",
+        "second gen"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "United States",
+    "years": [
+      1955,
+      1957
+    ],
+    "categories": [
+      "american",
+      "classic"
+    ],
+    "tip": "Tri-Five Chevrolet (1955–1957) in top Bel Air trim, here the 1957: restrained tail fins, lots of chrome and a wide, full-width front bumper and grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+  },
+{
+    "id": "ford-model-t",
+    "make": "Ford",
+    "model": "Model T",
+    "modelAliases": [
+      "T",
+      "Tin Lizzie",
+      "Model-T",
+      "T-Ford",
+      "Flivver"
+    ],
+    "extraWords": [
+      "Touring",
+      "Runabout",
+      "Roadster",
+      "Tudor",
+      "Fordor",
+      "Speedster"
+    ],
+    "generation": null,
+    "bodyStyle": "convertible",
+    "country": "United States",
+    "years": [
+      1908,
+      1927
+    ],
+    "categories": [
+      "american",
+      "classic"
+    ],
+    "tip": "The first mass-affordable car (1908–1927), the 'Tin Lizzie': tall, upright and spindly, with thin wooden-spoked wheels, a flat upright radiator and separate mudguards; named most influential car of the 20th century.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ford_Model_T"
+  },
+{
+    "id": "saab-900-classic",
+    "make": "Saab",
+    "model": "900",
+    "modelAliases": [
+      "900 Turbo",
+      "900i",
+      "900 S",
+      "Saab 900"
+    ],
+    "extraWords": [
+      "Turbo",
+      "S",
+      "i",
+      "GLi",
+      "Aero",
+      "SPG",
+      "Convertible",
+      "Cabriolet",
+      "16"
+    ],
+    "generation": {
+      "name": "Classic",
+      "aliases": [
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Classic 900",
+        "original"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Sweden",
+    "years": [
+      1978,
+      1993
+    ],
+    "categories": [
+      "european",
+      "classic"
+    ],
+    "tip": "Original 'Classic' Saab 900 (1978–1993), based on the Saab 99 but with a longer nose: a sharply wrapped, almost vertical windscreen and a long, rounded body sold as a hatchback, saloon and convertible.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Saab_900"
+  },
+{
+    "id": "lancia-delta",
+    "make": "Lancia",
+    "model": "Delta",
+    "modelAliases": [
+      "Delta Integrale",
+      "Delta HF",
+      "Integrale",
+      "Delta HF Integrale"
+    ],
+    "extraWords": [
+      "HF",
+      "Integrale",
+      "Evoluzione",
+      "Evo",
+      "4WD",
+      "16v",
+      "8v"
+    ],
+    "generation": {
+      "name": "First generation",
+      "aliases": [
+        "Tipo 831",
+        "1st generation",
+        "1st gen",
+        "first gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Italy",
+    "years": [
+      1979,
+      1994
+    ],
+    "categories": [
+      "european",
+      "classic",
+      "sports"
+    ],
+    "tip": "First-generation Delta (1979–1994); the rally-bred HF Integrale shown here has bulged wheel arches, a louvred bonnet and quad round headlamps. It won six consecutive World Rally Constructors' titles (1987–1992).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lancia_Delta"
+  },
+  {
+    "id": "aston-martin-db5",
+    "make": "Aston Martin",
+    "model": "DB5",
+    "modelAliases": [
+      "DB 5",
+      "DB5 Vantage",
+      "DB5 Convertible",
+      "DB5 Shooting Brake"
+    ],
+    "makeAliases": [
+      "Aston"
+    ],
+    "extraWords": [
+      "Vantage",
+      "Convertible",
+      "Shooting Brake",
+      "Volante"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      1963,
+      1965
+    ],
+    "categories": [
+      "european",
+      "classic",
+      "sports"
+    ],
+    "tip": "Touring Superleggera-designed grand tourer (1963–1965), an evolution of the last DB4: the classic Aston grille shape and faired-in headlamps; best known as James Bond's car.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+  },
+  {
+    "id": "range-rover-classic",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "modelAliases": [
+      "Range Rover Classic",
+      "Rangie",
+      "Range Rover V8",
+      "Range Rover 3.5"
+    ],
+    "makeAliases": [
+      
+      "Land-Rover",
+      "Leyland"
+    ],
+    "extraWords": [
+      "Classic",
+      "Vogue",
+      "V8",
+      "3.5",
+      "3.9",
+      "4.2",
+      "LSE",
+      "CSK",
+      "2-door",
+      "4-door"
+    ],
+    "generation": {
+      "name": "Classic",
+      "aliases": [
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1",
+        "Mk 1",
+        "original",
+        "Range Rover Classic"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "United Kingdom",
+    "years": [
+      1970,
+      1996
+    ],
+    "categories": [
+      "offroad",
+      "european",
+      "classic"
+    ],
+    "tip": "The first Range Rover (1970–1996): a tall, flat-sided box with a clamshell bonnet, a thin 'floating' roof over big glass and round headlamps; two-door only until a four-door joined in 1981, and from 1986 the grille gained horizontal plastic slats.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+  },
+{
+    "id": "toyota-land-cruiser-j70",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "modelAliases": [
+      "Landcruiser",
+      "Land Cruiser 70",
+      "Land Cruiser 76",
+      "Land Cruiser 78",
+      "Land Cruiser 79",
+      "Troop Carrier",
+      "Troopy",
+      "LC70",
+      "LC79",
+      "LC76",
+      "LC78"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Troop Carrier",
+      "Troopy",
+      "Pickup",
+      "Pick-up",
+      "Wagon",
+      "Van",
+      "Hardtop",
+      "GXL",
+      "LX",
+      "ZX",
+      "AX",
+      "Workmate"
+    ],
+    "generation": {
+      "name": "J70",
+      "aliases": [
+        "70 series",
+        "70-series",
+        "J 70",
+        "70",
+        "LC70",
+        "76",
+        "78",
+        "79",
+        "76 series",
+        "78 series",
+        "79 series"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "Japan",
+    "years": [
+      1984,
+      2026
+    ],
+    "categories": [
+      "offroad",
+      "jdm"
+    ],
+    "tip": "Toyota's workhorse Land Cruiser since 1984, replacing the 40 Series: a more angular, slab-sided body with a flat bonnet and upright windscreen, sold as short and long wheelbase wagons, the Troop Carrier and the 79 pickup.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J70)"
+  },
+{
+    "id": "smart-fortwo-w450",
+    "make": "Smart",
+    "model": "Fortwo",
+    "modelAliases": [
+      "ForTwo",
+      "For Two",
+      "City Coupe",
+      "City Coupé",
+      "City-Coupé",
+      "City Cabrio",
+      "Fortwo Cabrio",
+      "Fortwo Coupe",
+      "Smart Car",
+      "MCC Smart"
+    ],
+    "makeAliases": [
+      "MCC",
+      "Smart car"
+    ],
+    "extraWords": [
+      "Coupe",
+      "Coupé",
+      "Cabrio",
+      "Pulse",
+      "Passion",
+      "Pure",
+      "Brabus",
+      "cdi"
+    ],
+    "generation": {
+      "name": "W450",
+      "aliases": [
+        "W 450",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1",
+        "Mk 1",
+        "450"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1998,
+      2007
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "First-generation Smart (W450, 1998–2007), a two-seat, rear-engined one-box city car built at Hambach: a tiny tall body with the steel Tridion safety cell exposed in a contrasting colour and bolt-on plastic panels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Smart_Fortwo"
+  },
+{
+    "id": "bmw-isetta",
+    "make": "BMW",
+    "model": "Isetta",
+    "modelAliases": [
+      "Isetta 250",
+      "Isetta 300",
+      "Isetta Motocoupe",
+      "Isetta Moto Coupe",
+      "Bubble car"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "250",
+      "300",
+      "Motocoupe",
+      "Moto Coupé",
+      "Export",
+      "Standard",
+      "Cabrio",
+      "bubble"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1955,
+      1962
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "The egg-shaped bubble car: one door that is the whole front of the car (the steering wheel swings out with it), a single bench seat and a one-cylinder BMW motorcycle engine; BMW built it under licence from Iso from April 1955 to May 1962.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_Isetta"
+  },
+{
+    "id": "jeep-cherokee-xj",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "modelAliases": [
+      "Cherokee XJ",
+      "Cherokee Sport",
+      "Cherokee Limited",
+      "Cherokee Classic",
+      "Cherokee Laredo",
+      "Cherokee Pioneer",
+      "Cherokee Country",
+      "Cherokee Chief"
+    ],
+    "makeAliases": [
+      "AMC",
+      "Jeep Cherokee"
+    ],
+    "extraWords": [
+      "Sport",
+      "Limited",
+      "Classic",
+      "Laredo",
+      "Pioneer",
+      "Country",
+      "Chief",
+      "SE",
+      "Briarwood",
+      "Sportwagon",
+      "2-door",
+      "4-door"
+    ],
+    "generation": {
+      "name": "XJ",
+      "aliases": [
+        "X J",
+        "first-generation XJ",
+        "XJ Cherokee",
+        "1984 Cherokee",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      1984,
+      2001
+    ],
+    "categories": [
+      "offroad",
+      "american"
+    ],
+    "tip": "AMC-designed compact Jeep (1984–2001 in the US): a squared-off, flat-roof box that was the first unibody American off-roader, with a vertical-slot grille between rectangular headlamps and black lower cladding.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+  },
+  {
+    "id": "hummer-h1",
+    "make": "Hummer",
+    "model": "H1",
+    "modelAliases": [
+      "Hummer H1",
+      "H1 Alpha",
+      "H-1"
+    ],
+    "makeAliases": [
+      "AM General",
+      "GM"
+    ],
+    "extraWords": [
+      "Alpha",
+      "Wagon",
+      "Open Top",
+      "Soft Top",
+      "Hard Top",
+      "Pickup",
+      "Slantback",
+      "SUT"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      1992,
+      2006
+    ],
+    "categories": [
+      "offroad",
+      "american"
+    ],
+    "tip": "Civilian version of AM General's M998 Humvee, sold 1992–2006: enormously wide (86.5 in, to run in tank tracks), flat-sided and slab-bonneted, with a vertical-slot grille between round headlamps and a tall ground clearance; later renamed H1 when the H2 arrived.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Hummer_H1"
+  },
+{
+    "id": "delorean-dmc-12",
+    "make": "DeLorean",
+    "model": "DMC-12",
+    "modelAliases": [
+      "DMC 12",
+      "DMC12",
+      "DeLorean"
+    ],
+    "makeAliases": [
+      "DMC",
+      "DeLorean Motor Company",
+      "De Lorean",
+      "Delorean"
+    ],
+    "extraWords": [
+      "Time Machine"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      1981,
+      1983
+    ],
+    "categories": [
+      "classic",
+      "sports"
+    ],
+    "tip": "Giugiaro-designed wedge with gull-wing doors and unpainted brushed stainless-steel panels, built at Dunmurry in Northern Ireland from 1981 to 1983; louvred rear window, PRV V6 in the back, and the Back to the Future time machine.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/DeLorean_DMC-12"
+  },
+{
+    "id": "mazda-mx5-nd",
+    "make": "Mazda",
+    "model": "MX-5",
+    "modelAliases": [
+      "Miata",
+      "MX-5 Miata",
+      "Roadster",
+      "MX-5 RF",
+      "Miata RF",
+      "MX5"
+    ],
+    "makeAliases": [
+    ],
+    "extraWords": [
+      "RF",
+      "Club",
+      "Sport",
+      "GT",
+      "Grand Touring",
+      "Launch Edition",
+      "Anniversary",
+      "Soft Top",
+      "Skyactiv"
+    ],
+    "generation": {
+      "name": "ND",
+      "aliases": [
+        "ND5RC",
+        "NDERC",
+        "fourth generation",
+        "4th generation",
+        "4th gen",
+        "Mk4",
+        "Mk 4"
+      ]
+    },
+    "bodyStyle": "roadster",
+    "country": "Japan",
+    "years": [
+      2015,
+      2026
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Fourth-generation MX-5 (ND, built in Hiroshima since 2015): shorter and about 100 kg lighter than the NC, with a low, wide mouth, slit-like LED headlamps and sharply creased wings; the RF has a fastback targa roof.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_MX-5_(ND)"
+  },
+{
+    "id": "porsche-911-991",
+    "make": "Porsche",
+    "model": "911",
+    "modelAliases": [
+      "911 Carrera",
+      "Carrera",
+      "911 Turbo",
+      "911 Targa",
+      "Nine Eleven",
+      "911 GTS"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Carrera",
+      "S",
+      "4",
+      "4S",
+      "GTS",
+      "Turbo",
+      "Turbo S",
+      "Targa",
+      "Cabriolet",
+      "Cabrio",
+      "Exclusive",
+      "T"
+    ],
+    "generation": {
+      "name": "991",
+      "aliases": [
+        "type 991",
+        "991.1",
+        "991.2",
+        "seventh generation",
+        "7th generation",
+        "7th gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      2011,
+      2019
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "Seventh-generation 911 (991, 2011–2019) on an all-new platform: longer wheelbase than the 997, slimmer LED-edged headlamps, a thin full-width rear light strip on later cars and the classic sloping fastback.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_911_(991)"
+  },
+{
+    "id": "porsche-930",
+    "make": "Porsche",
+    "model": "911",
+    "modelAliases": [
+      "911 Turbo",
+      "930",
+      "930 Turbo",
+      "Porsche Turbo",
+      "911 Turbo Carrera",
+      "Turbo Carrera"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Turbo",
+      "3.0",
+      "3.3",
+      "Flatnose",
+      "Slantnose",
+      "Flachbau",
+      "Cabriolet",
+      "Cabrio",
+      "Targa",
+      "SE"
+    ],
+    "generation": {
+      "name": "930",
+      "aliases": [
+        "type 930",
+        "930 Turbo",
+        "911 Turbo",
+        "Turbo"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1975,
+      1989
+    ],
+    "categories": [
+      "european",
+      "sports",
+      "classic"
+    ],
+    "tip": "The first turbocharged 911 (1975–1989), Porsche's top model throughout: impact-bumper G-body with much wider flared rear arches over fat wheels and the big 'whale tail' (later 'tea-tray') rear spoiler.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_930"
+  },
+{
+    "id": "audi-quattro",
+    "make": "Audi",
+    "model": "Quattro",
+    "modelAliases": [
+      "Ur-Quattro",
+      "Ur Quattro",
+      "UrQuattro",
+      "Audi quattro",
+      "Quattro Turbo",
+      "Quattro 20V",
+      "Typ 85"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Turbo",
+      "20V",
+      "10V",
+      "2.2",
+      "WR",
+      "MB",
+      "RR",
+      "Coupe"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1980,
+      1991
+    ],
+    "categories": [
+      "european",
+      "sports",
+      "classic"
+    ],
+    "tip": "Audi's four-wheel-drive turbo coupé (1980–1991) that rewrote rallying: the boxy Audi Coupé shape with Martin Smith's squared-off flared wheel arches, a flat rear spoiler lip and four-ring decals on the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Audi_Quattro"
+  },
+{
+    "id": "citroen-mehari",
+    "make": "Citroën",
+    "model": "Méhari",
+    "modelAliases": [
+      "Mehari"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "4x4",
+      "Azur",
+      "Plein Air"
+    ],
+    "generation": null,
+    "bodyStyle": "convertible",
+    "country": "France",
+    "years": [
+      1968,
+      1988
+    ],
+    "categories": [
+      "european",
+      "classic",
+      "offroad"
+    ],
+    "tip": "2CV-based open utility (1968–1988) with ribbed ABS plastic body panels, a flat bonnet, a square grille, optional doors and a fold-down fabric top; a four-wheel-drive version ran 1980–1983.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_M%C3%A9hari"
+  },
+{
+    "id": "volvo-p1800",
+    "make": "Volvo",
+    "model": "P1800",
+    "modelAliases": [
+      "1800",
+      "P 1800",
+      "1800S",
+      "1800 S",
+      "P1800S",
+      "1800E",
+      "1800 E",
+      "P1800E",
+      "1800ES",
+      "1800 ES",
+      "P1800ES",
+      "P1800 ES"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "S",
+      "E",
+      "ES",
+      "Coupe",
+      "Coupé",
+      "Shooting Brake",
+      "Jensen"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Sweden",
+    "years": [
+      1961,
+      1973
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Pelle Petterson-styled 2+2 (1961–1973), first built by Jensen: a long bonnet, egg-crate grille, a dipped chrome side crease and small rear fins; the glass-tailgate 1800ES shooting brake came in 1972. The Saint drove one.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volvo_P1800"
+  },
+  {
+    "id": "porsche-boxster-986",
+    "make": "Porsche",
+    "model": "Boxster",
+    "modelAliases": [
+      "Boxster S",
+      "Boxster 986",
+      "986 Boxster"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "S",
+      "2.5",
+      "2.7",
+      "3.2",
+      "Spyder",
+      "550",
+      "Special Edition",
+      "Roadster"
+    ],
+    "generation": {
+      "name": "986",
+      "aliases": [
+        "type 986",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1"
+      ]
+    },
+    "bodyStyle": "roadster",
+    "country": "Germany",
+    "years": [
+      1996,
+      2004
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "Porsche's first mid-engined roadster since the 914 (986, late 1996–2004): a short two-seater with a fabric top, the same bonnet, wings and 'fried egg' teardrop headlamps as the 996-generation 911, and air intakes ahead of the rear wheels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_Boxster_(986)"
+  },
+{
+    "id": "bmw-z3",
+    "make": "BMW",
+    "model": "Z3",
+    "modelAliases": [
+      "Z3 Roadster",
+      "Z3 Coupe",
+      "Z3 Coupé",
+      "M Roadster",
+      "M Coupe",
+      "M Coupé",
+      "Z3 M",
+      "Z3M"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "Roadster",
+      "Coupe",
+      "Coupé",
+      "1.8",
+      "1.9",
+      "2.0",
+      "2.2",
+      "2.8",
+      "3.0",
+      "M",
+      "i",
+      "is"
+    ],
+    "generation": {
+      "name": "E36/7",
+      "aliases": [
+        "E36/8",
+        "E36-7",
+        "E36-8",
+        "E367",
+        "E368",
+        "E36 7",
+        "E36 8"
+      ]
+    },
+    "bodyStyle": "roadster",
+    "country": "Germany",
+    "years": [
+      1995,
+      2002
+    ],
+    "categories": [
+      "european",
+      "sports"
+    ],
+    "tip": "BMW's 1995–2002 two-seater on a shortened E36 platform, sold as a roadster (E36/7) and as the 'clown shoe' shooting-brake coupé (E36/8): a long bonnet, kidney grille set low between slanted headlamps, and gill-like side vents behind the front wheels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_Z3"
+  },
+{
+    "id": "jaguar-xk120",
+    "make": "Jaguar",
+    "model": "XK120",
+    "modelAliases": [
+      "XK 120",
+      "XK-120",
+      "XK120 Roadster",
+      "XK120 OTS",
+      "XK120 FHC",
+      "XK120 DHC"
+    ],
+    "makeAliases": [
+      "Jag"
+    ],
+    "extraWords": [
+      "OTS",
+      "FHC",
+      "DHC",
+      "Roadster",
+      "Open Two-Seater",
+      "Fixed Head Coupe",
+      "Drophead",
+      "SE"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "United Kingdom",
+    "years": [
+      1948,
+      1954
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Jaguar's first post-war sports car (1948–1954), once the world's fastest production car: a long, flowing body with a narrow vertical-bar oval grille, separate headlamp pods on the wings, faired-in rear wheels and a split windscreen on the open two-seater.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Jaguar_XK120"
+  },
+{
+    "id": "austin-healey-3000",
+    "make": "Austin-Healey",
+    "model": "3000",
+    "modelAliases": [
+      "Healey 3000",
+      "Big Healey",
+      "3000 Mk I",
+      "3000 Mk II",
+      "3000 Mk III",
+      "BN7",
+      "BT7",
+      "BJ7",
+      "BJ8"
+    ],
+    "makeAliases": [
+      "Austin Healey",
+      "Healey",
+      "BMC"
+    ],
+    "extraWords": [
+      "Mk",
+      "Mark",
+      "I",
+      "II",
+      "III",
+      "1",
+      "2",
+      "3",
+      "BN7",
+      "BT7",
+      "BJ7",
+      "BJ8",
+      "Convertible",
+      "Roadster"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "United Kingdom",
+    "years": [
+      1959,
+      1967
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "The best-known 'Big Healey' (1959–1967), bodied by Jensen and built at Abingdon: a low, long-bonneted roadster with a wide oval grille of vertical bars, a bonnet scoop and a sweeping two-tone side flash.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Austin-Healey_3000"
+  },
+{
+    "id": "triumph-tr6",
+    "make": "Triumph",
+    "model": "TR6",
+    "modelAliases": [
+      "TR 6",
+      "TR-6",
+      "TR6 PI"
+    ],
+    "makeAliases": [
+      "Standard-Triumph",
+      "British Leyland"
+    ],
+    "extraWords": [
+      "PI",
+      "CR",
+      "CC",
+      "CP",
+      "Roadster",
+      "Injection",
+      "Hardtop"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "United Kingdom",
+    "years": [
+      1968,
+      1976
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Karmann-restyled successor to the TR5 (September 1968 – July 1976): a squared-off, flat-decked roadster with a full-width black grille between the round headlamps and a cut-off Kamm tail, on the older TR chassis.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Triumph_TR6"
+  },
+{
+    "id": "volvo-amazon",
+    "make": "Volvo",
+    "model": "Amazon",
+    "modelAliases": [
+      "Amazon 121",
+      "Amazon 122",
+      "121",
+      "122",
+      "122S",
+      "123GT",
+      "221",
+      "222",
+      "P120",
+      "P130",
+      "P220",
+      "Amazon Estate",
+      "Amazon Kombi"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "121",
+      "122",
+      "122S",
+      "123",
+      "123GT",
+      "S",
+      "GT",
+      "Estate",
+      "Kombi",
+      "Wagon",
+      "Sport"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Sweden",
+    "years": [
+      1956,
+      1970
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "everyday"
+    ],
+    "tip": "Volvo's tall-bodied family car of 1956–1970 (sold as the 121/122S): rounded, slightly American-influenced styling with a twin-section grille, a pronounced side crease and small tail fins; two- and four-door saloons and an estate.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volvo_Amazon"
+  },
+{
+    "id": "vw-karmann-ghia",
+    "make": "Volkswagen",
+    "model": "Karmann Ghia",
+    "modelAliases": [
+      "Karmann-Ghia",
+      "Type 14",
+      "Typ 14",
+      "Ghia",
+      "Karmann Ghia Cabriolet",
+      "Karmann Ghia Coupe"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "Coupe",
+      "Coupé",
+      "Cabriolet",
+      "Cabrio",
+      "Convertible",
+      "1200",
+      "1300",
+      "1500",
+      "1600",
+      "Type 14"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1955,
+      1975
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "Beetle-based 2+2 coupé and convertible (Type 14, 1955–1975) styled by Ghia and hand-built by Karmann: a low, rounded body with a sloping nose, small chrome-slatted 'nostril' grilles either side of the badge and no radiator grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Karmann_Ghia"
+  },
+  {
+    "id": "vw-type2-t2",
+    "make": "Volkswagen",
+    "model": "Type 2",
+    "modelAliases": [
+      "Transporter",
+      "Kombi",
+      "Microbus",
+      "Bus",
+      "Bulli",
+      "Bay Window",
+      "Bay"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "Kombi",
+      "Camper",
+      "Westfalia",
+      "Pickup",
+      "Pritsche",
+      "Panel",
+      "Van",
+      "Bus",
+      "Clipper",
+      "Deluxe"
+    ],
+    "generation": {
+      "name": "T2",
+      "aliases": [
+        "T 2",
+        "T2a",
+        "T2b",
+        "bay window",
+        "bay-window",
+        "baywindow",
+        "early bay",
+        "late bay",
+        "second generation",
+        "2nd generation",
+        "2nd gen"
+      ]
+    },
+    "bodyStyle": "van",
+    "country": "Germany",
+    "years": [
+      1967,
+      1979
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "Second-generation VW bus (built in Germany late 1967–1979, much longer in Mexico and Brazil): a one-piece curved 'bay window' windscreen replacing the T1's split screen, a big VW roundel on the flat nose and, on later T2b vans, the indicators moved up beside the fresh-air grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+  },
+{
+    "id": "citroen-traction-avant",
+    "make": "Citroën",
+    "model": "Traction Avant",
+    "modelAliases": [
+      "Traction",
+      "11 CV",
+      "11CV",
+      "11 B",
+      "11B",
+      "11 BL",
+      "11BL",
+      "7 CV",
+      "7CV",
+      "7C",
+      "15 Six",
+      "15-Six",
+      "Onze",
+      "Light Fifteen",
+      "Big Fifteen"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Légère",
+      "Legere",
+      "Normale",
+      "Familiale",
+      "Commerciale",
+      "Berline",
+      "Cabriolet",
+      "Six",
+      "B",
+      "BL",
+      "CV"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "France",
+    "years": [
+      1934,
+      1957
+    ],
+    "categories": [
+      "classic",
+      "european"
+    ],
+    "tip": "The first mass-produced front-wheel-drive, unit-bodied car (Citroën, 1934–1957): long and low for its day with no running boards, separate flowing front wings, free-standing headlamps and a tall grille carrying the double-chevron logo.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+  },
+{
+    "id": "lotus-esprit",
+    "make": "Lotus",
+    "model": "Esprit",
+    "modelAliases": [
+      "Esprit Turbo",
+      "Turbo Esprit",
+      "Esprit S1",
+      "Esprit S2",
+      "Esprit S3",
+      "Esprit SE",
+      "Esprit V8",
+      "Esprit GT3",
+      "Esprit S4"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Turbo",
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S4s",
+      "SE",
+      "HC",
+      "HCI",
+      "V8",
+      "GT3",
+      "Sport 300",
+      "X180"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      1976,
+      2004
+    ],
+    "categories": [
+      "european",
+      "sports",
+      "classic"
+    ],
+    "tip": "Hethel-built mid-engined wedge (1976–2004), one of Giugiaro's 'folded paper' designs: a flat, knife-edged nose, a steeply raked windscreen and a louvred engine cover; Peter Stevens softened the lines for the 1987 X180 cars.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lotus_Esprit"
+  },
+{
+    "id": "ferrari-f355",
+    "make": "Ferrari",
+    "model": "F355",
+    "modelAliases": [
+      "355",
+      "F 355",
+      "F355 Berlinetta",
+      "F355 GTS",
+      "F355 Spider",
+      "F355 Spyder",
+      "355 F1"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Berlinetta",
+      "GTS",
+      "Spider",
+      "Spyder",
+      "F1"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1994,
+      1999
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Heavily revised 348 (May 1994–1999) with Pininfarina's wind-tunnel-shaped body: a wide oval front intake under pop-up headlamps, big side intakes, four round tail lamps under a mesh grille and a flat underbody.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_F355"
+  },
+{
+    "id": "mclaren-720s",
+    "make": "McLaren",
+    "model": "720S",
+    "modelAliases": [
+      "720 S",
+      "720S Spider",
+      "720S Coupe",
+      "720S Coupé"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Spider",
+      "Coupe",
+      "Coupé",
+      "Performance",
+      "Luxury"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      2017,
+      2023
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Replaced the 650S in 2017 on the MonoCage II carbon tub: dihedral doors, a teardrop canopy and hollow 'eye socket' headlamp pods that duct air to the radiators; no side intakes behind the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/McLaren_720S"
+  },
+{
+    "id": "audi-r8-type42",
+    "make": "Audi",
+    "model": "R8",
+    "modelAliases": [
+      "R8 V8",
+      "R8 V10",
+      "R8 Spyder",
+      "R8 GT",
+      "R8 Coupe"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "V8",
+      "V10",
+      "Plus",
+      "Spyder",
+      "Spider",
+      "GT",
+      "Coupe",
+      "quattro",
+      "FSI",
+      "4.2",
+      "5.2"
+    ],
+    "generation": {
+      "name": "Type 42",
+      "aliases": [
+        "42",
+        "Typ 42",
+        "first generation",
+        "1st generation",
+        "1st gen",
+        "Mk1",
+        "Mk 1"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      2006,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Audi's Gallardo-based mid-engined supercar (June 2006 – August 2015): a large single-frame grille, LED-lined headlamps and the contrasting 'sideblade' panel behind the doors (absent on the Spyder).",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Audi_R8_(Type_42)"
+  },
+{
+    "id": "lamborghini-urus",
+    "make": "Lamborghini",
+    "model": "Urus",
+    "modelAliases": [
+      "Urus S",
+      "Urus Performante",
+      "Urus SE"
+    ],
+    "makeAliases": [
+      "Lambo"
+    ],
+    "extraWords": [
+      "S",
+      "SE",
+      "Performante",
+      "PHEV"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "Italy",
+    "years": [
+      2018,
+      2026
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Lamborghini's first SUV under Volkswagen (December 2017, 2018 model year) on the MLB Evo platform: a coupé-like five-door with a sharply sloping roof, hexagonal arches and Y-shaped light signatures.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Urus"
+  },
+  {
+    "id": "nissan-370z",
+    "make": "Nissan",
+    "model": "370Z",
+    "modelAliases": [
+      "370 Z",
+      "Fairlady Z",
+      "370Z Roadster",
+      "370Z Coupe",
+      "370Z Nismo",
+      "Nismo 370Z",
+      "Z34"
+    ],
+    "makeAliases": [
+      "Datsun"
+    ],
+    "extraWords": [
+      "Roadster",
+      "Coupe",
+      "Coupé",
+      "Nismo",
+      "Touring",
+      "Sport",
+      "GT"
+    ],
+    "generation": {
+      "name": "Z34",
+      "aliases": [
+        "Z 34",
+        "sixth generation",
+        "6th generation",
+        "6th gen"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2008,
+      2020
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Sixth-generation Z car (2008–2020, Fairlady Z Z34 in Japan): a short, wide two-seater with boomerang-shaped headlamps and tail lamps, a vertical 'fang' of daytime lights in the bumper and a fastback roof; also a roadster.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_370Z"
+  },
+{
+    "id": "nissan-skyline-r32-gtr",
+    "make": "Nissan",
+    "model": "Skyline",
+    "modelAliases": [
+      "Skyline GT-R",
+      "Skyline GTR",
+      "GT-R",
+      "GTR",
+      "R32 GT-R",
+      "R32 GTR",
+      "BNR32"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "GT-R",
+      "GTR",
+      "V-Spec",
+      "V-Spec II",
+      "Nismo",
+      "N1"
+    ],
+    "generation": {
+      "name": "R32",
+      "aliases": [
+        "BNR32",
+        "HCR32",
+        "eighth generation",
+        "8th generation",
+        "8th gen",
+        "R 32"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      1989,
+      1994
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "The 1989–1994 BNR32 revived the GT-R name and won Group A touring-car titles ('Godzilla'): a compact, boxy two-door with slim horizontal headlamps, a thin slatted grille, a bonnet with a slight bulge and a rear wing.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+  },
+{
+    "id": "mazda-rx8",
+    "make": "Mazda",
+    "model": "RX-8",
+    "modelAliases": [
+      "RX8",
+      "RX 8"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Type E",
+      "Type S",
+      "R3",
+      "Shinka",
+      "Spirit R",
+      "40th Anniversary",
+      "Hydrogen RE"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2003,
+      2012
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Rotary-engined successor to the RX-7 (2003–2012): a four-seat coupé with rear-hinged 'freestyle' back doors and no B-pillar, flared front wings with a vertical side vent, and pentagonal grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mazda_RX-8"
+  },
+  {
+    "id": "subaru-brz",
+    "make": "Subaru",
+    "model": "BRZ",
+    "modelAliases": [
+      "BRZ tS",
+      "BRZ STI"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "tS",
+      "STI",
+      "Sport",
+      "Limited",
+      "Premium",
+      "S",
+      "R",
+      "GT",
+      "Eyesight"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2012,
+      2026
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Subaru's half of the jointly developed Toyota 86 twin, a front-engined 2+2 fastback built at Ōta, Gunma with a low flat-four boxer: a long bonnet with a low hexagonal Subaru grille, swept headlamps and a short tail; the second generation (ZD8) arrived for 2021–22.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_86"
+  },
+{
+    "id": "toyota-supra-a90",
+    "make": "Toyota",
+    "model": "Supra",
+    "modelAliases": [
+      "GR Supra",
+      "Supra GR",
+      "A90 Supra"
+    ],
+    "makeAliases": [
+      "Toyota Gazoo Racing",
+      "GR"
+    ],
+    "extraWords": [
+      "GR",
+      "3.0",
+      "2.0",
+      "Premium",
+      "Pro",
+      "RZ",
+      "SZ",
+      "SZ-R",
+      "A91",
+      "MT"
+    ],
+    "generation": {
+      "name": "A90",
+      "aliases": [
+        "A91",
+        "J29",
+        "J29/DB",
+        "DB",
+        "fifth generation",
+        "5th generation",
+        "5th gen",
+        "Mk5",
+        "Mk V",
+        "Mark V"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "Japan",
+    "years": [
+      2019,
+      2026
+    ],
+    "categories": [
+      "jdm",
+      "sports"
+    ],
+    "tip": "Fifth-generation GR Supra (2019 on), co-developed with BMW alongside the Z4 and built by Magna Steyr in Graz: a short, wide double-bubble-roof coupé with a pointed nose, slim headlamps above deep corner intakes and a ducktail.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Supra_(J29/DB)"
+  },
+{
+    "id": "tesla-model-x",
+    "make": "Tesla",
+    "model": "Model X",
+    "modelAliases": [
+      "ModelX",
+      "Model X Plaid"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "P90D",
+      "P100D",
+      "90D",
+      "100D",
+      "75D",
+      "Long Range",
+      "Plaid",
+      "Dual Motor",
+      "AWD"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      2015,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "american"
+    ],
+    "tip": "Tesla's Model S-based crossover (2015–2026) with falcon-wing rear doors: a smooth, grille-less nose with a small T badge, a huge windscreen sweeping back over the front seats and a rounded, tall fastback rear.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Model_X"
+  },
+  {
+    "id": "chevrolet-chevelle-1970",
+    "make": "Chevrolet",
+    "model": "Chevelle",
+    "modelAliases": [
+      "Chevelle SS",
+      "Chevelle Malibu",
+      "Chevelle SS 396",
+      "Chevelle SS 454"
+    ],
+    "makeAliases": [
+      "Chevy"
+    ],
+    "extraWords": [
+      "SS",
+      "396",
+      "454",
+      "LS6",
+      "Malibu",
+      "Sport Coupe",
+      "Convertible",
+      "Hardtop"
+    ],
+    "generation": {
+      "name": "Second generation",
+      "aliases": [
+        "2nd generation",
+        "2nd gen",
+        "second gen",
+        "1968–1972",
+        "A-body"
+      ]
+    },
+    "bodyStyle": "coupe",
+    "country": "United States",
+    "years": [
+      1968,
+      1972
+    ],
+    "categories": [
+      "muscle",
+      "american",
+      "classic"
+    ],
+    "tip": "Second-generation Chevelle (1968–1972): an all-new sculpted body with tapered front wings, a long-bonnet/short-deck profile and a high rear deck; the 1970 restyle added a coke-bottle waist and quad headlamps set into a full-width grille, often with SS stripes on the bonnet.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Chevrolet_Chevelle"
+  },
+{
+    "id": "alfa-romeo-giulia-sprint-gt",
+    "make": "Alfa Romeo",
+    "model": "Giulia Sprint GT",
+    "modelAliases": [
+      "Giulia GT",
+      "Giulia Sprint",
+      "GT Veloce",
+      "Giulia GTV",
+      "GT Junior",
+      "Giulia GT Junior",
+      "1750 GTV",
+      "2000 GTV",
+      "Bertone Coupe",
+      "Giulia Coupe",
+      "105 Coupe"
+    ],
+    "makeAliases": [
+      "Alfa"
+    ],
+    "extraWords": [
+      "Veloce",
+      "GTA",
+      "1300",
+      "1600",
+      "1750",
+      "2000",
+      "Junior",
+      "Sprint",
+      "GT",
+      "Coupe",
+      "Coupé",
+      "Bertone",
+      "Scalino",
+      "step-nose"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1963,
+      1977
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Giugiaro's Bertone coupé on the 105-series Giulia (first shown 1963): a crisp 2+2 with a shield-shaped Alfa grille between twin round lamps, a slim pillared glasshouse and, on early cars, the 'step-nose' (scalino) lip at the front of the bonnet.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(105)"
+  },
+{
+    "id": "fiat-124-spider",
+    "make": "Fiat",
+    "model": "124 Spider",
+    "modelAliases": [
+      "124 Sport Spider",
+      "124 Spider",
+      "Spider 2000",
+      "Spidereuropa",
+      "124 Spyder",
+      "Pininfarina Spider Europa"
+    ],
+    "makeAliases": [
+      "Pininfarina"
+    ],
+    "extraWords": [
+      "Sport",
+      "2000",
+      "1800",
+      "1600",
+      "1400",
+      "CS",
+      "AS",
+      "BS",
+      "DS",
+      "Europa",
+      "Turbo",
+      "Volumex"
+    ],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "Italy",
+    "years": [
+      1966,
+      1985
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Pininfarina-designed and -built roadster (1966–1985): a clean, low body with twin round headlamps in shallow recesses, a slim horizontal grille, twin bonnet power bulges on later cars and, on US cars, big black impact bumpers.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+  },
+{
+    "id": "renault-5",
+    "make": "Renault",
+    "model": "5",
+    "modelAliases": [
+      "R5",
+      "Renault 5",
+      "Le Car",
+      "Cinq",
+      "5 TL",
+      "5 GTL",
+      "5 TS",
+      "5 LS",
+      "5 Alpine"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "TL",
+      "GTL",
+      "TS",
+      "LS",
+      "Alpine",
+      "Gordini",
+      "Automatic",
+      "Le Car",
+      "Société"
+    ],
+    "generation": {
+      "name": "First generation",
+      "aliases": [
+        "1st generation",
+        "1st gen",
+        "first gen",
+        "R5",
+        "Mk1",
+        "1972"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      1972,
+      1985
+    ],
+    "categories": [
+      "everyday",
+      "european",
+      "classic"
+    ],
+    "tip": "The original Renault 5 (1972–1985, 'Le Car' in the US): a short, upright three-door hatchback with wrap-around plastic bumpers, a flat bonnet with the diamond badge, rectangular headlamps and tall vertical tail lamps beside the hatch.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Renault_5"
+  },
+{
+    "id": "skoda-octavia-3",
+    "make": "Škoda",
+    "model": "Octavia",
+    "modelAliases": [
+      "Octavia RS",
+      "Octavia vRS",
+      "Octavia Combi",
+      "Octavia Estate",
+      "Octavia Scout"
+    ],
+    "makeAliases": [
+      "Skoda"
+    ],
+    "extraWords": [
+      "RS",
+      "vRS",
+      "Combi",
+      "Estate",
+      "Scout",
+      "Liftback",
+      "TDI",
+      "TSI",
+      "Elegance",
+      "Ambition",
+      "SE",
+      "L&K"
+    ],
+    "generation": {
+      "name": "Mk3",
+      "aliases": [
+        "5E",
+        "Typ 5E",
+        "A7",
+        "third generation",
+        "3rd generation",
+        "3rd gen",
+        "Octavia III",
+        "III"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Czech Republic",
+    "years": [
+      2012,
+      2020
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Third-generation Octavia (Typ 5E, revealed December 2012): a crisply creased liftback or Combi estate with a vertical-slat Škoda grille; the 2017 facelift split each headlamp in two, like a pre-facelift Mercedes E-Class.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+  },
+{
+    "id": "hyundai-ioniq-5",
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "modelAliases": [
+      "IONIQ 5",
+      "Ioniq5",
+      "Ioniq 5 N"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "N",
+      "N Line",
+      "Long Range",
+      "AWD",
+      "RWD",
+      "SE",
+      "SEL",
+      "Limited"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "South Korea",
+    "years": [
+      2021,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "everyday"
+    ],
+    "tip": "Hyundai's first E-GMP electric car (2021 on), inspired by the 1975 Pony: a boxy, flat-sided crossover-hatchback with a full-width clamshell bonnet, square 'Parametric Pixel' lamps and a sharp Z-shaped crease in the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5"
+  },
+{
+    "id": "tesla-model-y",
+    "make": "Tesla",
+    "model": "Model Y",
+    "modelAliases": [
+      "ModelY",
+      "Model Y Juniper"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Long Range",
+      "Performance",
+      "Standard",
+      "Dual Motor",
+      "AWD",
+      "RWD",
+      "Juniper",
+      "L"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "United States",
+    "years": [
+      2020,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "american"
+    ],
+    "tip": "Tesla's compact crossover (2020 on), the best-selling EV ever: a tall, rounded Model 3-like fastback with no grille; the January 2025 'Juniper' refresh added a full-width light bar across the nose and tail.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+  },
+{
+    "id": "toyota-camry-xv70",
+    "make": "Toyota",
+    "model": "Camry",
+    "modelAliases": [
+      "Camry Hybrid",
+      "Camry SE",
+      "Camry XSE",
+      "Camry LE",
+      "Camry XLE"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Hybrid",
+      "SE",
+      "XSE",
+      "LE",
+      "XLE",
+      "TRD",
+      "Ascent",
+      "Sport",
+      "SX",
+      "SL"
+    ],
+    "generation": {
+      "name": "XV70",
+      "aliases": [
+        "XV 70",
+        "eighth generation",
+        "8th generation",
+        "8th gen",
+        "Camry 70"
+      ]
+    },
+    "bodyStyle": "sedan",
+    "country": "Japan",
+    "years": [
+      2017,
+      2024
+    ],
+    "categories": [
+      "everyday"
+    ],
+    "tip": "Eighth-generation Camry (XV70, June 2017 – October 2024) on the TNGA platform: lower and wider, with a huge lower grille opening below a thin upper slot and the Toyota badge, slim swept headlamps and, on sportier trims, a black 'fang' bumper.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Toyota_Camry_(XV70)"
+  },
+{
+    "id": "vw-up",
+    "make": "Volkswagen",
+    "model": "Up",
+    "modelAliases": [
+      "up!",
+      "Up!",
+      "e-up!",
+      "e-Up",
+      "up! GTI",
+      "Up GTI",
+      "Move Up",
+      "High Up",
+      "Take Up",
+      "Cross Up"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "GTI",
+      "Move",
+      "High",
+      "Take",
+      "Cross",
+      "Cheer",
+      "Club",
+      "Beats",
+      "e",
+      "BlueMotion",
+      "3-door",
+      "5-door"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      2011,
+      2023
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Volkswagen's 2011–2023 city car (twin of the SEAT Mii and Škoda Citigo): a tiny, upright hatchback with wheels pushed to the corners, a black-glass tailgate and, before the 2016 facelift, a smiley black bumper band across the nose.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_Up"
+  },
+{
+    "id": "renault-zoe",
+    "make": "Renault",
+    "model": "Zoe",
+    "modelAliases": [
+      "ZOE",
+      "Zoé",
+      "Zoe E-Tech",
+      "Zoe Z.E."
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Z.E.",
+      "ZE",
+      "40",
+      "50",
+      "R90",
+      "R110",
+      "R135",
+      "E-Tech",
+      "Intens",
+      "Iconic",
+      "Life",
+      "Zen",
+      "Dynamique",
+      "Expression"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "France",
+    "years": [
+      2012,
+      2024
+    ],
+    "categories": [
+      "everyday",
+      "electric",
+      "european"
+    ],
+    "tip": "Renault's Clio-based electric supermini (December 2012 – March 2024): a rounded five-door with a big diamond badge hiding the charge port, blue-tinted headlamps on early cars and 'boomerang' lamps after the 2019 facelift.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Renault_Zoe"
+  },
+{
+    "id": "bmw-i3",
+    "make": "BMW",
+    "model": "i3",
+    "modelAliases": [
+      "i3s",
+      "i3 REx",
+      "i3 Rex",
+      "i3 94Ah",
+      "i3 120Ah"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "s",
+      "REx",
+      "Rex",
+      "94Ah",
+      "120Ah",
+      "eDrive",
+      "Range Extender"
+    ],
+    "generation": {
+      "name": "I01",
+      "aliases": [
+        "I 01",
+        "first generation",
+        "1st generation",
+        "1st gen"
+      ]
+    },
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      2013,
+      2022
+    ],
+    "categories": [
+      "electric",
+      "european"
+    ],
+    "tip": "BMW's first mass-produced electric car (2013–2022), with a carbon-fibre passenger cell: a tall, short city car with rear-hinged coach doors, a black 'stream-flow' band from bonnet to roof and tailgate, and blue-trimmed closed kidney grille.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_i3_(hatchback)"
+  },
+  {
+    "id": "lamborghini-murcielago",
+    "make": "Lamborghini",
+    "model": "Murciélago",
+    "modelAliases": [
+      "Murcielago",
+      "Murciélago LP640",
+      "LP640",
+      "LP 640",
+      "Murcielago Roadster",
+      "Murciélago Roadster"
+    ],
+    "makeAliases": [
+      "Lambo"
+    ],
+    "extraWords": [
+      "LP640",
+      "LP 640",
+      "LP670-4",
+      "SV",
+      "Roadster",
+      "LP650-4"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2001,
+      2010
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "The Diablo's successor (2001–2010) and Lamborghini's V12 flagship of the decade: scissor doors, a low wedge with angular headlamps, and big air scoops on the rear haunches that open out at speed.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Murci%C3%A9lago"
+  },
+{
+    "id": "lamborghini-gallardo",
+    "make": "Lamborghini",
+    "model": "Gallardo",
+    "modelAliases": [
+      "Gallardo Spyder",
+      "Gallardo LP560-4",
+      "LP560-4",
+      "LP 560-4",
+      "Gallardo Superleggera",
+      "LP570-4"
+    ],
+    "makeAliases": [
+      "Lambo"
+    ],
+    "extraWords": [
+      "LP560-4",
+      "LP570-4",
+      "LP550-2",
+      "Spyder",
+      "Superleggera",
+      "Performante",
+      "SE"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2003,
+      2013
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Lamborghini's V10 'baby' (2003–2013), its best seller at the time under Audi: smaller and more compact than the V12 cars, with conventional doors, slim angular headlamps and side intakes behind the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Gallardo"
+  },
+{
+    "id": "lamborghini-diablo",
+    "make": "Lamborghini",
+    "model": "Diablo",
+    "modelAliases": [
+      "Diablo VT",
+      "Diablo SV",
+      "Diablo GT",
+      "Diablo 6.0",
+      "Diablo Roadster",
+      "Diablo SE30"
+    ],
+    "makeAliases": [
+      "Lambo"
+    ],
+    "extraWords": [
+      "VT",
+      "SV",
+      "GT",
+      "6.0",
+      "Roadster",
+      "SE30",
+      "SE"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1990,
+      2001
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Countach successor (1990–2001) and the first production Lamborghini to exceed 200 mph: a long, smooth wedge with scissor doors, pop-up headlamps on early cars (fixed lamps from 1999) and side air intakes behind the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lamborghini_Diablo"
+  },
+{
+    "id": "ferrari-enzo",
+    "make": "Ferrari",
+    "model": "Enzo",
+    "modelAliases": [
+      "Enzo Ferrari",
+      "Ferrari Enzo",
+      "F60"
+    ],
+    "makeAliases": [],
+    "extraWords": [],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2002,
+      2004
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Named after Ferrari's founder and built with Formula One technology (2002–2004): a carbon-fibre body with an F1-style pointed nose, butterfly doors, big side intakes and a cockpit that tapers to a narrow tail.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Enzo_Ferrari_(automobile)"
+  },
+{
+    "id": "ferrari-laferrari",
+    "make": "Ferrari",
+    "model": "LaFerrari",
+    "modelAliases": [
+      "La Ferrari",
+      "LaFerrari Aperta",
+      "Aperta"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Aperta",
+      "Spider"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2013,
+      2018
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Ferrari's hybrid hypercar (project F150, coupé 2013–2016, Aperta roadster after): a low, swoopy body with a black canopy, a deep central nose 'fin', narrow swept headlamps and hollow side channels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/LaFerrari"
+  },
+{
+    "id": "ferrari-f430",
+    "make": "Ferrari",
+    "model": "F430",
+    "modelAliases": [
+      "430",
+      "F 430",
+      "F430 Spider",
+      "430 Scuderia",
+      "F430 Scuderia",
+      "Scuderia"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Spider",
+      "Scuderia",
+      "Challenge",
+      "16M",
+      "Coupe"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2004,
+      2009
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Update of the 360 (2004–2009): the same mid-engined V8 shape, but with two large oval intakes in the nose (inspired by the 1961 Sharknose racer) and bigger, round twin tail lamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_F430"
+  },
+{
+    "id": "ferrari-360",
+    "make": "Ferrari",
+    "model": "360",
+    "modelAliases": [
+      "360 Modena",
+      "360 Spider",
+      "360 Challenge Stradale",
+      "Challenge Stradale",
+      "Modena"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Modena",
+      "Spider",
+      "Challenge Stradale",
+      "F1"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1999,
+      2004
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Pininfarina-styled V8 (1999–2004) with an aluminium frame: rounded, smooth lines that dropped the 1990s sharp edges and pop-up lamps, teardrop headlamps and two separate intakes in the nose, plus a glass engine cover.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_360"
+  },
+{
+    "id": "ferrari-599",
+    "make": "Ferrari",
+    "model": "599 GTB Fiorano",
+    "modelAliases": [
+      "599",
+      "599 GTB",
+      "599 Fiorano",
+      "599 GTO",
+      "599 GTB Fiorano"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "GTB",
+      "Fiorano",
+      "GTO",
+      "HGTE",
+      "SA Aperta",
+      "Aperta"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      2006,
+      2012
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Front-engined V12 two-seater that replaced the 575M (2006–2012): a long bonnet with a wide, slatted egg-crate grille, tall vertical headlamps, and 'flying buttresses' behind the cabin.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_599"
+  },
+{
+    "id": "bugatti-chiron",
+    "make": "Bugatti",
+    "model": "Chiron",
+    "modelAliases": [
+      "Chiron Sport",
+      "Chiron Pur Sport",
+      "Chiron Super Sport"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Sport",
+      "Pur Sport",
+      "Super Sport",
+      "110 ans"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "France",
+    "years": [
+      2016,
+      2024
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Veyron successor (shown March 2016, production ended May 2024): a horseshoe grille, four-element LED headlamps and a sweeping C-shaped line that curves along each flank around the doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Bugatti_Chiron"
+  },
+{
+    "id": "mercedes-slr-mclaren",
+    "make": "Mercedes-Benz",
+    "model": "SLR McLaren",
+    "modelAliases": [
+      "SLR",
+      "SLR Roadster",
+      "SLR 722",
+      "722 Edition",
+      "McLaren SLR",
+      "Mercedes SLR"
+    ],
+    "makeAliases": [
+      "Mercedes",
+      "Merc",
+      "McLaren"
+    ],
+    "extraWords": [
+      "Roadster",
+      "722",
+      "Edition",
+      "Coupe"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      2003,
+      2010
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Mercedes-Benz/McLaren grand tourer (2003–2010): a very long bonnet with an F1-style pointed nose and twin headlamps, butterfly doors, and exhausts exiting on the sides behind the front wheels because the flat underbody left no room.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLR_McLaren"
+  },
+{
+    "id": "porsche-918-spyder",
+    "make": "Porsche",
+    "model": "918 Spyder",
+    "modelAliases": [
+      "918",
+      "918 Spider"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "Weissach",
+      "Spyder"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      2013,
+      2015
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Limited-production plug-in-hybrid hypercar (September 2013 – June 2015): a low open two-seater with a removable roof, vertically stacked LED headlamps and high-mounted 'top pipe' exhausts behind the seats.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_918_Spyder"
+  },
+{
+    "id": "porsche-carrera-gt",
+    "make": "Porsche",
+    "model": "Carrera GT",
+    "modelAliases": [
+      "CGT",
+      "Carrera-GT"
+    ],
+    "makeAliases": [],
+    "extraWords": [],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "Germany",
+    "years": [
+      2003,
+      2006
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Mid-engined V10 roadster (2003–2006), Sports Car International's top car of the 2000s: long, low, removable roof panels, twin-element headlamps, large intakes behind the doors and a rising rear wing.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_Carrera_GT"
+  },
+{
+    "id": "ferrari-f50",
+    "make": "Ferrari",
+    "model": "F50",
+    "modelAliases": [
+      "F 50"
+    ],
+    "makeAliases": [],
+    "extraWords": [],
+    "generation": null,
+    "bodyStyle": "roadster",
+    "country": "Italy",
+    "years": [
+      1995,
+      1997
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Limited-production targa two-seater (1995–1997) with a V12 developed from Ferrari's 1990 F1 engine: a curvy body with a big fixed rear wing, round headlamps under clear covers and deep nostril-like bonnet vents.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_F50"
+  },
+{
+    "id": "ferrari-288-gto",
+    "make": "Ferrari",
+    "model": "288 GTO",
+    "modelAliases": [
+      "GTO",
+      "288",
+      "Ferrari GTO",
+      "GTO 288"
+    ],
+    "makeAliases": [],
+    "extraWords": [],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Italy",
+    "years": [
+      1984,
+      1987
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "classic"
+    ],
+    "tip": "Homologation version of the 308 GTB (1984–1987): the 308's shape widened with flared wheel arches, a deeper nose with twin driving lamps, longer wheelbase and three slanted vents behind the rear wheels.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Ferrari_288_GTO"
+  },
+{
+    "id": "mclaren-f1",
+    "make": "McLaren",
+    "model": "F1",
+    "modelAliases": [
+      "McLaren F1",
+      "F1 LM",
+      "F1 GT"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "LM",
+      "GT",
+      "GTR"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "United Kingdom",
+    "years": [
+      1992,
+      1998
+    ],
+    "categories": [
+      "supercar",
+      "european"
+    ],
+    "tip": "Gordon Murray's road car (1992–1998, 106 built), the first production car with a carbon-fibre monocoque and a central driving seat: a compact, rounded body with a roof scoop, small round lamps and upward-opening dihedral doors.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/McLaren_F1"
+  },
+{
+    "id": "bmw-m1",
+    "make": "BMW",
+    "model": "M1",
+    "modelAliases": [
+      "M 1",
+      "E26"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "Procar"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1978,
+      1981
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "classic"
+    ],
+    "tip": "BMW's mid-engined homologation special (E26, 1978–1981) with a Giugiaro glass-fibre body: a sharp wedge with pop-up headlamps, twin small kidneys low in the nose and louvres over the rear window.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_M1"
+  },
+  {
+    "id": "fiat-126",
+    "make": "Fiat",
+    "model": "126",
+    "modelAliases": [
+      "126p",
+      "126 Bis",
+      "Fiat 126p",
+      "Maluch",
+      "Polski Fiat 126p"
+    ],
+    "makeAliases": [
+      "Polski Fiat",
+      "FSM"
+    ],
+    "extraWords": [
+      "p",
+      "Bis",
+      "FL",
+      "Elegant",
+      "Happy"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "Italy",
+    "years": [
+      1972,
+      2000
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "everyday"
+    ],
+    "tip": "The Fiat 500's rear-engined successor (October 1972 – 2000, built for decades in Poland as the 126p 'Maluch'): a tiny, boxy four-seater with flat panels, a plain nose with a chrome or plastic strip, and louvres on the rear engine lid.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Fiat_126"
+  },
+{
+    "id": "vaz-2101",
+    "make": "Lada",
+    "model": "2101",
+    "modelAliases": [
+      "VAZ-2101",
+      "VAZ 2101",
+      "Zhiguli",
+      "Kopeyka",
+      "Lada 1200",
+      "Lada 1300",
+      "Lada 2101",
+      "Shiguli"
+    ],
+    "makeAliases": [
+      "VAZ",
+      "AvtoVAZ",
+      "Zhiguli"
+    ],
+    "extraWords": [
+      "1200",
+      "1300",
+      "Sedan"
+    ],
+    "generation": null,
+    "bodyStyle": "sedan",
+    "country": "Soviet Union",
+    "years": [
+      1970,
+      1988
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "everyday"
+    ],
+    "tip": "AvtoVAZ's first car (1970, sold until 1988 at home), a toughened licence-built Fiat 124: a plain, square three-box saloon with single round headlamps in a full-width chrome grille and thin chrome bumpers. The later 2103/2106 have twin headlamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/VAZ-2101"
+  },
+{
+    "id": "lada-niva",
+    "make": "Lada",
+    "model": "Niva",
+    "modelAliases": [
+      "Niva Legend",
+      "Lada 4x4",
+      "Niva 4x4",
+      "VAZ-2121",
+      "VAZ 2121",
+      "2121",
+      "Lada Niva"
+    ],
+    "makeAliases": [
+      "VAZ",
+      "AvtoVAZ"
+    ],
+    "extraWords": [
+      "4x4",
+      "Legend",
+      "Urban",
+      "Bronto",
+      "Taiga",
+      "1600",
+      "1700"
+    ],
+    "generation": null,
+    "bodyStyle": "suv",
+    "country": "Soviet Union",
+    "years": [
+      1977,
+      2026
+    ],
+    "categories": [
+      "offroad",
+      "european"
+    ],
+    "tip": "AvtoVAZ's off-roader built since 1977, the first mass-produced 4×4 with a unibody: a short, square three-door box with round headlamps, a wide flat grille, and tail lamps in the rear corners above a high bumper.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Lada_Niva"
+  },
+{
+    "id": "vw-new-beetle",
+    "make": "Volkswagen",
+    "model": "New Beetle",
+    "modelAliases": [
+      "Beetle A4",
+      "New Beetle Cabriolet",
+      "New Beetle Convertible",
+      "NewBeetle"
+    ],
+    "makeAliases": [
+      "VW"
+    ],
+    "extraWords": [
+      "Cabriolet",
+      "Convertible",
+      "TDI",
+      "GLS",
+      "GL",
+      "Turbo",
+      "S",
+      "RSi",
+      "1.8T"
+    ],
+    "generation": null,
+    "bodyStyle": "hatchback",
+    "country": "Germany",
+    "years": [
+      1997,
+      2011
+    ],
+    "categories": [
+      "everyday",
+      "european"
+    ],
+    "tip": "Retro-styled compact on the Golf IV platform (launched 1997 for 1998, facelifted 2005, built until 2011): a bubble of three arcs — rounded wings, a domed roof and round headlamps — with the engine in the front, unlike the original.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Volkswagen_New_Beetle"
+  },
+  {
+    "id": "bmw-i8",
+    "make": "BMW",
+    "model": "i8",
+    "modelAliases": [
+      "i8 Roadster",
+      "i8 Coupe"
+    ],
+    "makeAliases": [
+      "Bimmer",
+      "Beemer"
+    ],
+    "extraWords": [
+      "Roadster",
+      "Coupe",
+      "Coupé",
+      "eDrive"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      2014,
+      2020
+    ],
+    "categories": [
+      "supercar",
+      "european",
+      "electric"
+    ],
+    "tip": "BMW's plug-in-hybrid sports car (June 2014 – June 2020, roadster from 2018): a very low, layered body with butterfly doors, slim blue-accented kidney grilles, floating 'stream flow' panels over the rear wheels and U-shaped tail lamps.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/BMW_i8"
+  },
+{
+    "id": "tesla-cybertruck",
+    "make": "Tesla",
+    "model": "Cybertruck",
+    "modelAliases": [
+      "Cyber Truck",
+      "Cybertruck AWD",
+      "Cybertruck Cyberbeast",
+      "Cyberbeast"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "AWD",
+      "RWD",
+      "Cyberbeast",
+      "Foundation Series",
+      "Long Range"
+    ],
+    "generation": null,
+    "bodyStyle": "pickup",
+    "country": "United States",
+    "years": [
+      2023,
+      2026
+    ],
+    "categories": [
+      "electric",
+      "american"
+    ],
+    "tip": "Tesla's electric pickup, built since 2023: an angular, 'low-polygon' body of flat unpainted stainless-steel panels, a single full-width light bar across the nose and a steeply sloped roof over the covered bed.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Tesla_Cybertruck"
+  },
+{
+    "id": "porsche-928",
+    "make": "Porsche",
+    "model": "928",
+    "modelAliases": [
+      "928 S",
+      "928 S4",
+      "928 GTS",
+      "928 GT",
+      "928S"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "S",
+      "S2",
+      "S3",
+      "S4",
+      "GT",
+      "GTS",
+      "CS",
+      "Club Sport"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1977,
+      1995
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Porsche's front-engined V8 grand tourer (1977–1995), 1978 European Car of the Year: a smooth, rounded 2+2 hatchback with headlamps that fold flat to face the sky when off, body-colour bumpers and a big glass rear hatch.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_928"
+  },
+{
+    "id": "porsche-944",
+    "make": "Porsche",
+    "model": "944",
+    "modelAliases": [
+      "944 S",
+      "944 S2",
+      "944 Turbo",
+      "944S2"
+    ],
+    "makeAliases": [],
+    "extraWords": [
+      "S",
+      "S2",
+      "Turbo",
+      "Cabriolet",
+      "Cabrio",
+      "Coupe"
+    ],
+    "generation": null,
+    "bodyStyle": "coupe",
+    "country": "Germany",
+    "years": [
+      1982,
+      1991
+    ],
+    "categories": [
+      "classic",
+      "european",
+      "sports"
+    ],
+    "tip": "Front-engined four-cylinder sports car on the 924's platform (1982–1991), over 163,000 built: the 924 shape with pumped-out, flared wheel arches, pop-up headlamps and a large curved glass hatch with a rubber spoiler.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Porsche_944"
+  }
+]

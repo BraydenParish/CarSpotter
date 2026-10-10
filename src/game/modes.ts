@@ -14,7 +14,9 @@ export type ModeId =
   | 'daily'
   | 'theme'
   | 'detail'
-  | 'practice';
+  | 'practice'
+  | 'party'
+  | 'focus';
 
 export interface ModeInfo {
   id: ModeId;
@@ -46,6 +48,7 @@ export const DAILY_ROUNDS = 5;
 export const SESSION_ROUNDS = 10;
 export const DETAIL_ROUNDS = 8;
 export const PRACTICE_ROUNDS = 10;
+export const PARTY = { minPlayers: 2, maxPlayers: 4, roundsEach: 5 };
 
 export const MODES: Record<ModeId, ModeInfo> = {
   classic: {
@@ -120,7 +123,8 @@ export const MODES: Record<ModeId, ModeInfo> = {
     rules: [
       'Five cars, the same for every player on the same day.',
       'Resets at 00:00 UTC.',
-      'One scored attempt per day; share your result without spoilers.',
+      'One scored attempt per difficulty per day. Leaving early still counts as your attempt.',
+      'Share your result without spoilers.',
     ],
     rounds: DAILY_ROUNDS,
     timed: false,
@@ -176,6 +180,39 @@ export const MODES: Record<ModeId, ModeInfo> = {
     usesFilters: false,
     difficulties: ['normal', 'hard', 'expert'],
   },
+  focus: {
+    id: 'focus',
+    name: 'Focus',
+    tagline: 'The photo starts blurred. Answer early for more.',
+    rules: [
+      'Ten cars. Each photo starts heavily blurred and sharpens over 12 seconds.',
+      'Points fall from 100% to 30% as the picture comes into focus.',
+      'No clock pressure: answer whenever you’re sure.',
+    ],
+    rounds: SESSION_ROUNDS,
+    timed: false,
+    lives: null,
+    ranked: true,
+    usesFilters: true,
+    difficulties: ['normal', 'hard'],
+  },
+  party: {
+    id: 'party',
+    name: 'Party (pass & play)',
+    tagline: '2–4 players, one phone. Take turns.',
+    rules: [
+      'Each player gets five cars, taking turns on the same device.',
+      'Every player answers a different car; nobody sees the same photo twice.',
+      'Streak bonuses are per player. Highest score wins.',
+      'Party games don’t change your own stats, garage or bests.',
+    ],
+    rounds: PARTY.roundsEach,
+    timed: false,
+    lives: null,
+    ranked: false,
+    usesFilters: true,
+    difficulties: ['normal', 'hard', 'expert'],
+  },
 };
 
 export interface Theme {
@@ -214,6 +251,8 @@ export interface RunConfig {
   /** Daily date key (YYYY-MM-DD, UTC). */
   dailyKey?: string;
   hintsEnabled: boolean;
+  /** Party mode: player names in turn order (2–4). */
+  players?: string[];
 }
 
 /** Personal-best key: separate per mode, theme, difficulty and assistance. */

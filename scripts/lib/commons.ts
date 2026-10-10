@@ -3,8 +3,9 @@
  * import tooling. See https://www.mediawiki.org/wiki/API:Imageinfo
  */
 export const API = 'https://commons.wikimedia.org/w/api.php';
+// Wikimedia's API etiquette asks for a descriptive User-Agent with a way to reach the operator.
 export const USER_AGENT =
-  'CarSpotter-asset-importer/1.0 (open-source car quiz; local build tooling)';
+  'CarSpotter-asset-importer/1.1 (https://github.com/BraydenParish/CarSpotter; open-source car quiz build tooling)';
 
 export interface ExtMeta {
   [key: string]: { value: string; source?: string } | undefined;
@@ -24,11 +25,11 @@ export interface ImageInfo {
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 let lastCall = 0;
 
-/** Throttled (≥1 request/s), retrying API call — be polite to Wikimedia. */
-async function api(params: Record<string, string>): Promise<any> {
+/** Throttled (≥1.5 s between requests), retrying API call — be polite to Wikimedia. */
+export async function api(params: Record<string, string>): Promise<any> {
   const qs = new URLSearchParams({ format: 'json', formatversion: '2', maxlag: '5', ...params });
-  for (let attempt = 0; attempt < 6; attempt++) {
-    const wait = lastCall + 1000 - Date.now();
+  for (let attempt = 0; attempt < 10; attempt++) {
+    const wait = lastCall + 1500 - Date.now();
     if (wait > 0) await sleep(wait);
     lastCall = Date.now();
     try {
@@ -42,9 +43,10 @@ async function api(params: Record<string, string>): Promise<any> {
       }
       if (res.status !== 429 && res.status < 500 && res.ok) throw new Error(`Unexpected response: ${text.slice(0, 200)}`);
     } catch (e) {
-      if (attempt === 5) throw e;
+      if (attempt === 9) throw e;
     }
-    await sleep(2000 * (attempt + 1));
+    // Wikimedia rate limits are per-minute; back off generously.
+    await sleep(Math.min(4000 * (attempt + 1), 30000));
   }
   throw new Error('Commons API: too many retries');
 }
@@ -129,8 +131,15 @@ export function plain(html: string | undefined): string {
 export async function download(url: string): Promise<Buffer> {
   for (let attempt = 0; attempt < 5; attempt++) {
     await sleep(400);
-    const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-    if (res.ok) return Buffer.from(await res.arrayBuffer());
+    let res: Response;
+    try {
+      // A stalled connection must not hang a whole batch.
+      res = await fetch(url, { headers: { 'User-Agent': USER_AGENT }, signal: AbortSignal.timeout(45_000) });
+      if (res.ok) return Buffer.from(await res.arrayBuffer());
+    } catch {
+      await new Promise((r) => setTimeout(r, 2000 * (attempt + 1)));
+      continue;
+    }
     if (res.status === 429 || res.status >= 500) {
       await new Promise((r) => setTimeout(r, 2000 * (attempt + 1)));
       continue;
