@@ -403,4 +403,7 @@ export const EXTRA_MODEL_NAMES: string[] = [
   '300ZX', '400Z', 'R33', 'R35', 'GT-R R35', 'Skyline R33', 'RX-7', 'MX-30',
   '86', 'GT86', 'GR86', 'FR-S', 'Scion FR-S', 'Toyota 86',
   'Giulia', 'Spider Duetto', 'Duetto', 'Montreal', 'Alfasud', '124 Coupe', 'Super 5', 'Supercinq', '5 Turbo', 'Clio', 'Twingo', 'Superb', 'Fabia', 'Kodiaq', 'Ioniq', 'Ioniq 6', 'Kona', 'Polo', 'Mii', 'Citigo', 'i8', 'i4', 'iX', 'Skylark',
+  'Reventón', 'Reventon', 'Huracán', 'Countach LPI 800-4', 'FXX', 'FXX K', 'Veyron', 'Mistral', 'SLS', 'SLS AMG', 'AMG GT', 'Speedtail', 'Elva', '959', 'M1 Procar', 'Purosangue', 'Diablo GTR',
+  'Beetle (A5)', 'Fiat 500', 'Niva Travel', 'Chevrolet Niva', '2103', '2106', '2107', '2105', '2104', 'Samara', 'Riva',
+  '924', 'i7', 'Semi', 'Model S Plaid',
 ];

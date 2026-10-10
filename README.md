@@ -58,6 +58,7 @@ Requires Node 20+.
 | **Detail Challenge** | Close-up crops (headlight, taillight, interior, grille…) cut from licensed photos; unlocked only when ≥ 3 cars have verified crops. Crops never include badges by selection rule. |
 | **Focus** | Ten cars. Each photo starts heavily blurred and sharpens over 12 s; points fall from 100% to 30% as it comes into focus (a live meter shows the current value). Enlarging the photo is disabled until the reveal. Normal and Hard. |
 | **Party (pass & play)** | 2–4 named players share one device. Each gets five different cars, with a "pass the phone" screen that hides the next photo and answers until that player taps *I'm ready*. Streaks are per player. Ends with a scoreboard (ties share a place) and a rematch button. Party games never change the owner's stats, garage, achievements or bests. |
+| **Which came first?** | Two verified photos side by side: tap the car whose model was introduced first (the start of its documented production years). Three lives; the gap starts at 15+ years and narrows to 3 as your score grows. Best score and XP are saved. |
 | **Practice** | Only cars you missed. Two correct practice answers clear a car. Does not affect bests or main stats. |
 
 **Learning from mistakes.** Each car's record is tracked. When a wrong answer names another real car (the option picked on Normal, or a typed make and model that exactly matches a known car), the mix-up is recorded too. Stats shows *Toughest cars* and *Cars you mix up*; the garage shows your record and past mix-ups for each car. The reveal shows the spotting tip of the car you picked, when it is in the collection, next to the right car's tip.
@@ -68,7 +69,7 @@ Requires Node 20+.
 - Settings → *Offline play* saves every verified photo for offline use (about 170 MB), with progress, stop and remove.
 - The service worker is registered only in production builds.
 
-Also: garage (cars you identified), 25 achievements (each hidden until the photo set can actually support it), XP/levels, stats, personal bests, daily streak, first-play intro, settings (sound, haptics, hints, auto-advance, motion), progress export/import/reset.
+Also: garage (cars you identified, with **collections** by theme and country of origin that show completion and filter the garage), 25 achievements (each hidden until the photo set can actually support it), XP/levels, stats, personal bests, daily streak, first-play intro, settings (sound, haptics, hints, auto-advance, motion), progress export/import/reset.
 
 ## Difficulty and answer rules
 
@@ -96,7 +97,7 @@ Also: garage (cars you identified), 25 achievements (each hidden until the photo
 
 ### Image-source requirements
 
-- Source: **Wikimedia Commons** only, fetched through the MediaWiki API (`prop=imageinfo`, `iiprop=url|size|mime|extmetadata`, see <https://www.mediawiki.org/wiki/API:Imageinfo>), never scraped from Google Images, dealer sites, social media or manufacturer press galleries. No AI-generated cars.
+- Sources: **Wikimedia Commons**, fetched through the MediaWiki API (`prop=imageinfo`, `iiprop=url|size|mime|extmetadata`, see <https://www.mediawiki.org/wiki/API:Imageinfo>), and **Flickr** photos found through the Openverse API (<https://api.openverse.org>); never scraped from Google Images, dealer sites, social media or manufacturer press galleries. No AI-generated cars.
 - Licenses allowed (`scripts/lib/rules.ts`): CC0, public domain, CC BY, CC BY-SA. **Rejected automatically**: any NC, ND, "fair use", "all rights reserved" or unknown license.
 - Studio/press-style photos are included only when their license is confirmed on the Commons file page.
 - Attribution is preserved and **displayed**: author, license (linked), source page and a modification notice appear on the reveal ("Sources & photo credit"), in the Garage, and on the full **Photo credits** page. While a question is open the credit shows author and license; the file title (which often names the car) appears at the reveal. Required attribution is never removed.
@@ -117,7 +118,17 @@ Wikimedia Commons holds millions of car photos, but they're organised unevenly. 
 - **Flickr imports** (CC BY 2.0 / CC BY-SA 2.0) from enthusiasts in New Zealand, Australia and Canada: lots of everyday street parking and classic-car meets.
 - **Avoid**: categories for racing, autocross, tuning and replicas. Race numbers, liveries and body kits hide the car, and replicas aren't the real model.
 
-Finding the right category name is the slow part. `scripts/_catfind.ts`-style category searches (`list=search&srnamespace=14`) turn a free-text name like "Ford F-150 thirteenth generation" into the real category.
+### Finding more cars and more photos (tools)
+
+| Step | Tool | What it does |
+| --- | --- | --- |
+| Which cars to add | `npx tsx scripts/discover-cars.ts [limit] [minSitelinks]` | Queries **Wikidata** for car models that have a Commons category and an English Wikipedia article, ranked by how many Wikipedia languages cover them (a good proxy for "people will recognise it"), skipping cars already in the game. Prints the Commons category to mine and the reference article. |
+| Photos from Commons | `npx tsx scripts/mine-commons.ts <key> "Category:A;Category:B" [max]` | Ranks licence-allowed landscape photos ≥ 1600 px from those categories (and subcategories), spreads picks across photographers and writes a numbered contact sheet to `tmp-explore/mine/<key>.jpg`. |
+| Photos from Flickr | `npx tsx scripts/mine-openverse.ts <key> "Make Model" [pages] [max]` | Searches **Openverse** (an index of openly licensed images, mostly Flickr) for CC BY, CC BY-SA, CC0 and public-domain photos whose title or tags contain every search word. Best for cars whose Commons photos nearly always show the name. |
+
+All three need `NODE_USE_ENV_PROXY=1` behind the proxy. Openverse allows 20 anonymous requests a minute and 200 a day, so the miner keeps the records it picks in `data/openverse.json`; the importer reuses them (and records the licence as fetched) instead of calling the API again. Candidates from Openverse are written `"file": "Openverse:<id>"` and credited "via Flickr (found through Openverse)".
+
+Flickr photos have no curated categories, so identity rests on the photographer's title and tags plus a visual check against the reference article; they get the same full-size review for badges and placards as Commons photos.
 
 **Yield.** Expect 4–8 approved photos per 15-image contact sheet. Most rejections are a legible model name: grille or boot scripts, door decals, model-name plates, snorkel lettering, etched glass ("quattro") or show placards. Others are rejected because a second car from the game is prominent in the frame. Some cars almost always wear their name (a Range Rover's bonnet lettering, the Challenger's grille script), so they end up with few photos.
 
